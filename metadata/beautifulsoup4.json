@@ -1,0 +1,61 @@
+{
+  "name": "beautifulsoup4",
+  "version": "4.14.3",
+  "summary": "Screen-scraping library",
+  "author": null,
+  "author_email": "Leonard Richardson <leonardr@segfault.org>",
+  "license": "MIT License",
+  "requires_python": ">=3.7.0",
+  "requires_dist": [
+    "soupsieve>=1.6.1",
+    "typing-extensions>=4.0.0",
+    "cchardet; extra == \"cchardet\"",
+    "chardet; extra == \"chardet\"",
+    "charset-normalizer; extra == \"charset-normalizer\"",
+    "html5lib; extra == \"html5lib\"",
+    "lxml; extra == \"lxml\""
+  ],
+  "project_urls": {
+    "Download": "https://www.crummy.com/software/BeautifulSoup/bs4/download/",
+    "Homepage": "https://www.crummy.com/software/BeautifulSoup/bs4/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Markup :: HTML",
+    "Topic :: Text Processing :: Markup :: SGML",
+    "Topic :: Text Processing :: Markup :: XML"
+  ],
+  "keywords": "HTML, XML, parse, soup",
+  "home_page": null,
+  "last_fetched": "2025-12-16T04:40:43.899258+00:00",
+  "releases": {
+    "latest": "4.14.3",
+    "all_versions": [
+      "4.3.2",
+      "4.4.0",
+      "4.4.1",
+      "4.5.0",
+      "4.5.1",
+      "4.5.2",
+      "4.5.3",
+      "4.6.0",
+      "4.6.1",
+      "4.6.2",
+      "4.6.3",
+      "4.7.0",
+      "4.7.1",
+      "4.8.0",
+      "4.8.1",
+      "4.8.2",
+      "4.9.0",
+      "4.9.1",
+      "4.9.2",
+      "4.9.3"
+    ]
+  }
+}

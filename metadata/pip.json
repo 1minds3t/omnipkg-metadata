@@ -1,0 +1,60 @@
+{
+  "name": "pip",
+  "version": "25.3",
+  "summary": "The PyPA recommended tool for installing Python packages.",
+  "author": null,
+  "author_email": "The pip developers <distutils-sig@python.org>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://pip.pypa.io/en/stable/news/",
+    "Documentation": "https://pip.pypa.io",
+    "Homepage": "https://pip.pypa.io/",
+    "Source": "https://github.com/pypa/pip"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Build Tools"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-16T04:40:42.035946+00:00",
+  "releases": {
+    "latest": "25.3",
+    "all_versions": [
+      "6.1.0",
+      "6.1.1",
+      "7.0.0",
+      "7.0.1",
+      "7.0.2",
+      "7.0.3",
+      "7.1.0",
+      "7.1.1",
+      "7.1.2",
+      "8.0.0",
+      "8.0.1",
+      "8.0.2",
+      "8.0.3",
+      "8.1.0",
+      "8.1.1",
+      "8.1.2",
+      "9.0.0",
+      "9.0.1",
+      "9.0.2",
+      "9.0.3"
+    ]
+  }
+}

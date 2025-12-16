@@ -1,0 +1,70 @@
+{
+  "name": "Django",
+  "version": "6.0",
+  "summary": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+  "author": null,
+  "author_email": "Django Software Foundation <foundation@djangoproject.com>",
+  "license": null,
+  "requires_python": ">=3.12",
+  "requires_dist": [
+    "asgiref>=3.9.1",
+    "sqlparse>=0.5.0",
+    "tzdata; sys_platform == \"win32\"",
+    "argon2-cffi>=23.1.0; extra == \"argon2\"",
+    "bcrypt>=4.1.1; extra == \"bcrypt\""
+  ],
+  "project_urls": {
+    "Documentation": "https://docs.djangoproject.com/",
+    "Funding": "https://www.djangoproject.com/fundraising/",
+    "Homepage": "https://www.djangoproject.com/",
+    "Release notes": "https://docs.djangoproject.com/en/stable/releases/",
+    "Source": "https://github.com/django/django",
+    "Tracker": "https://code.djangoproject.com/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Framework :: Django",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Internet :: WWW/HTTP :: WSGI",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-16T04:40:38.947976+00:00",
+  "releases": {
+    "latest": "6.0",
+    "all_versions": [
+      "5.1a1",
+      "5.1b1",
+      "5.1rc1",
+      "5.2",
+      "5.2.1",
+      "5.2.2",
+      "5.2.3",
+      "5.2.4",
+      "5.2.5",
+      "5.2.6",
+      "5.2.7",
+      "5.2.8",
+      "5.2.9",
+      "5.2a1",
+      "5.2b1",
+      "5.2rc1",
+      "6.0",
+      "6.0a1",
+      "6.0b1",
+      "6.0rc1"
+    ]
+  }
+}

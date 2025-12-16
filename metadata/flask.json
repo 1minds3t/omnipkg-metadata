@@ -1,0 +1,68 @@
+{
+  "name": "Flask",
+  "version": "3.1.2",
+  "summary": "A simple framework for building complex web applications.",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "blinker>=1.9.0",
+    "click>=8.1.3",
+    "importlib-metadata>=3.6.0; python_version < \"3.10\"",
+    "itsdangerous>=2.2.0",
+    "jinja2>=3.1.2",
+    "markupsafe>=2.1.1",
+    "werkzeug>=3.1.0",
+    "asgiref>=3.2; extra == \"async\"",
+    "python-dotenv; extra == \"dotenv\""
+  ],
+  "project_urls": {
+    "Changes": "https://flask.palletsprojects.com/page/changes/",
+    "Chat": "https://discord.gg/pallets",
+    "Documentation": "https://flask.palletsprojects.com/",
+    "Donate": "https://palletsprojects.com/donate",
+    "Source": "https://github.com/pallets/flask/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Framework :: Flask",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Internet :: WWW/HTTP :: WSGI",
+    "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-16T04:40:39.133037+00:00",
+  "releases": {
+    "latest": "3.1.2",
+    "all_versions": [
+      "2.1.1",
+      "2.1.2",
+      "2.1.3",
+      "2.2.0",
+      "2.2.1",
+      "2.2.2",
+      "2.2.3",
+      "2.2.4",
+      "2.2.5",
+      "2.3.0",
+      "2.3.1",
+      "2.3.2",
+      "2.3.3",
+      "3.0.0",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.1.0",
+      "3.1.1",
+      "3.1.2"
+    ]
+  }
+}

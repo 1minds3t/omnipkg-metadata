@@ -1,0 +1,73 @@
+{
+  "name": "opencv-python",
+  "version": "4.12.0.88",
+  "summary": "Wrapper package for OpenCV python bindings.",
+  "author": null,
+  "author_email": null,
+  "license": "Apache 2.0",
+  "requires_python": ">=3.6",
+  "requires_dist": [
+    "numpy<2.0; python_version < \"3.9\"",
+    "numpy<2.3.0,>=2; python_version >= \"3.9\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/opencv/opencv-python"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Operating System :: Unix",
+    "Programming Language :: C++",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Image Recognition",
+    "Topic :: Software Development"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/opencv/opencv-python",
+  "last_fetched": "2025-12-16T04:40:40.311476+00:00",
+  "releases": {
+    "latest": "4.12.0.88",
+    "all_versions": [
+      "4.3.0.38",
+      "4.4.0.40",
+      "4.4.0.42",
+      "4.4.0.44",
+      "4.4.0.46",
+      "4.5.1.48",
+      "4.5.2.52",
+      "4.5.2.54",
+      "4.5.3.56",
+      "4.5.4.58",
+      "4.5.4.60",
+      "4.5.5.62",
+      "4.5.5.64",
+      "4.6.0.66",
+      "4.7.0.68",
+      "4.7.0.72",
+      "4.8.0.74",
+      "4.8.0.76",
+      "4.8.1.78",
+      "4.9.0.80"
+    ]
+  }
+}

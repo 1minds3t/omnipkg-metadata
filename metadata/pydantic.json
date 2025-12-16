@@ -1,0 +1,73 @@
+{
+  "name": "pydantic",
+  "version": "2.12.5",
+  "summary": "Data validation using Python type hints",
+  "author": null,
+  "author_email": "Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io>, Alex Hall <alex.mojaki@gmail.com>, Victorien Plot <contact@vctrn.dev>, Douwe Maan <hi@douwe.me>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "annotated-types>=0.6.0",
+    "pydantic-core==2.41.5",
+    "typing-extensions>=4.14.1",
+    "typing-inspection>=0.4.2",
+    "email-validator>=2.0.0; extra == \"email\"",
+    "tzdata; (python_version >= \"3.9\" and platform_system == \"Windows\") and extra == \"timezone\""
+  ],
+  "project_urls": {
+    "Changelog": "https://docs.pydantic.dev/latest/changelog/",
+    "Documentation": "https://docs.pydantic.dev",
+    "Funding": "https://github.com/sponsors/samuelcolvin",
+    "Homepage": "https://github.com/pydantic/pydantic",
+    "Source": "https://github.com/pydantic/pydantic"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Hypothesis",
+    "Framework :: Pydantic",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Internet",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-16T04:40:42.800982+00:00",
+  "releases": {
+    "latest": "2.12.5",
+    "all_versions": [
+      "2.6.0b1",
+      "2.6.1",
+      "2.6.2",
+      "2.6.3",
+      "2.6.4",
+      "2.7.0",
+      "2.7.0b1",
+      "2.7.1",
+      "2.7.2",
+      "2.7.3",
+      "2.7.4",
+      "2.8.0",
+      "2.8.0b1",
+      "2.8.1",
+      "2.8.2",
+      "2.9.0",
+      "2.9.0b1",
+      "2.9.0b2",
+      "2.9.1",
+      "2.9.2"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "rich",
+  "version": "14.2.0",
+  "summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+  "author": "Will McGugan",
+  "author_email": "willmcgugan@gmail.com",
+  "license": "MIT",
+  "requires_python": ">=3.8.0",
+  "requires_dist": [
+    "pygments<3.0.0,>=2.13.0",
+    "ipywidgets<9,>=7.5.1; extra == \"jupyter\"",
+    "markdown-it-py>=2.2.0"
+  ],
+  "project_urls": {
+    "Documentation": "https://rich.readthedocs.io/en/latest/",
+    "Homepage": "https://github.com/Textualize/rich"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Framework :: IPython",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/Textualize/rich",
+  "last_fetched": "2025-12-16T04:40:44.736840+00:00",
+  "releases": {
+    "latest": "14.2.0",
+    "all_versions": [
+      "9.11.1",
+      "9.12.0",
+      "9.12.1",
+      "9.12.2",
+      "9.12.3",
+      "9.12.4",
+      "9.13.0",
+      "9.2.0",
+      "9.3.0",
+      "9.4.0",
+      "9.5.0",
+      "9.5.1",
+      "9.6.0",
+      "9.6.1",
+      "9.6.2",
+      "9.7.0",
+      "9.8.0",
+      "9.8.1",
+      "9.8.2",
+      "9.9.0"
+    ]
+  }
+}
