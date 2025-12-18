@@ -1,11 +1,11 @@
 {
   "name": "fastapi",
-  "version": "0.124.4",
+  "version": "0.125.0",
   "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
   "author": null,
   "author_email": "=?utf-8?q?Sebasti=C3=A1n_Ram=C3=ADrez?= <tiangolo@gmail.com>",
   "license": null,
-  "requires_python": ">=3.8",
+  "requires_python": ">=3.9",
   "requires_dist": [
     "starlette<0.51.0,>=0.40.0",
     "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
@@ -63,7 +63,6 @@
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
-    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Topic :: Internet",
     "Topic :: Internet :: WWW/HTTP",
@@ -76,9 +75,9 @@
   ],
   "keywords": null,
   "home_page": null,
-  "last_fetched": "2025-12-17T02:01:13.431443+00:00",
+  "last_fetched": "2025-12-18T02:02:09.335922+00:00",
   "releases": {
-    "latest": "0.124.4",
+    "latest": "0.125.0",
     "all_versions": [
       "0.89.0",
       "0.89.1",
