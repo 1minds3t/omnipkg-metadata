@@ -1,6 +1,6 @@
 {
   "name": "typer",
-  "version": "0.20.0",
+  "version": "0.20.1",
   "summary": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
   "author": null,
   "author_email": "=?utf-8?q?Sebasti=C3=A1n_Ram=C3=ADrez?= <tiangolo@gmail.com>",
@@ -24,7 +24,6 @@
     "Intended Audience :: Developers",
     "Intended Audience :: Information Technology",
     "Intended Audience :: System Administrators",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
@@ -44,14 +43,14 @@
   ],
   "keywords": null,
   "home_page": null,
-  "last_fetched": "2025-12-19T02:04:59.689658+00:00",
+  "last_fetched": "2025-12-20T01:58:20.143666+00:00",
   "releases": {
-    "latest": "0.20.0",
+    "latest": "0.20.1",
     "all_versions": [
-      "0.19.2",
       "0.2.0",
       "0.2.1",
       "0.20.0",
+      "0.20.1",
       "0.3.0",
       "0.3.1",
       "0.3.2",
