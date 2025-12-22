@@ -1,6 +1,6 @@
 {
   "name": "fastapi",
-  "version": "0.126.0",
+  "version": "0.127.0",
   "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
   "author": null,
   "author_email": "=?utf-8?q?Sebasti=C3=A1n_Ram=C3=ADrez?= <tiangolo@gmail.com>",
@@ -78,9 +78,9 @@
   ],
   "keywords": null,
   "home_page": null,
-  "last_fetched": "2025-12-21T02:11:49.225161+00:00",
+  "last_fetched": "2025-12-22T02:11:02.599561+00:00",
   "releases": {
-    "latest": "0.126.0",
+    "latest": "0.127.0",
     "all_versions": [
       "0.89.0",
       "0.89.1",

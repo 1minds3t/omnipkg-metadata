@@ -1,11 +1,11 @@
 {
   "name": "uvicorn",
-  "version": "0.38.0",
+  "version": "0.40.0",
   "summary": "The lightning-fast ASGI server.",
   "author": null,
   "author_email": "Tom Christie <tom@tomchristie.com>",
   "license": null,
-  "requires_python": ">=3.9",
+  "requires_python": ">=3.10",
   "requires_dist": [
     "click>=7.0",
     "h11>=0.8",
@@ -35,16 +35,15 @@
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: Implementation :: CPython",
     "Programming Language :: Python :: Implementation :: PyPy",
     "Topic :: Internet :: WWW/HTTP"
   ],
   "keywords": null,
   "home_page": null,
-  "last_fetched": "2025-12-21T02:11:49.378057+00:00",
+  "last_fetched": "2025-12-22T02:11:02.742668+00:00",
   "releases": {
-    "latest": "0.38.0",
+    "latest": "0.40.0",
     "all_versions": [
       "0.5.0",
       "0.5.1",
