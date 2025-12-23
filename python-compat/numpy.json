@@ -1,0 +1,46 @@
+{
+  "package": "numpy",
+  "last_updated": "2025-12-23T02:03:27.686914+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "1.21.6",
+      "released": "2022-04-12T14:48:15.695596Z",
+      "requires_python": ">=3.7,<3.11"
+    },
+    "3.8": {
+      "version": "1.24.4",
+      "released": "2023-06-26T13:22:33.184535Z",
+      "requires_python": ">=3.8"
+    },
+    "3.9": {
+      "version": "2.0.2",
+      "released": "2024-08-26T20:04:14.625862Z",
+      "requires_python": ">=3.9"
+    },
+    "3.10": {
+      "version": "2.2.6",
+      "released": "2025-05-17T21:27:58.555672Z",
+      "requires_python": ">=3.10"
+    },
+    "3.11": {
+      "version": "2.4.0",
+      "released": "2025-12-20T16:15:43.434135Z",
+      "requires_python": ">=3.11"
+    },
+    "3.12": {
+      "version": "2.4.0",
+      "released": "2025-12-20T16:15:43.434135Z",
+      "requires_python": ">=3.11"
+    },
+    "3.13": {
+      "version": "2.4.0",
+      "released": "2025-12-20T16:15:43.434135Z",
+      "requires_python": ">=3.11"
+    },
+    "3.14": {
+      "version": "2.4.0",
+      "released": "2025-12-20T16:15:43.434135Z",
+      "requires_python": ">=3.11"
+    }
+  }
+}

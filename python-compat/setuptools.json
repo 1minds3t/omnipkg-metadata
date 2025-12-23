@@ -1,0 +1,46 @@
+{
+  "package": "setuptools",
+  "last_updated": "2025-12-23T02:05:13.237497+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "68.0.0",
+      "released": "2023-06-19T15:53:03.089995Z",
+      "requires_python": ">=3.7"
+    },
+    "3.8": {
+      "version": "75.3.2",
+      "released": "2025-03-12T00:02:17.554683Z",
+      "requires_python": ">=3.8"
+    },
+    "3.9": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    },
+    "3.10": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    },
+    "3.11": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    },
+    "3.12": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    },
+    "3.13": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    },
+    "3.14": {
+      "version": "80.9.0",
+      "released": "2025-05-27T00:56:49.664463Z",
+      "requires_python": ">=3.9"
+    }
+  }
+}

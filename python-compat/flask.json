@@ -1,0 +1,46 @@
+{
+  "package": "flask",
+  "last_updated": "2025-12-23T02:03:56.192175+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "2.2.5",
+      "released": "2023-05-02T14:42:34.858087Z",
+      "requires_python": ">=3.7"
+    },
+    "3.8": {
+      "version": "3.0.3",
+      "released": "2024-04-07T19:26:08.569305Z",
+      "requires_python": ">=3.8"
+    },
+    "3.9": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    },
+    "3.10": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    },
+    "3.11": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    },
+    "3.12": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    },
+    "3.13": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    },
+    "3.14": {
+      "version": "3.1.2",
+      "released": "2025-08-19T21:03:19.499263Z",
+      "requires_python": ">=3.9"
+    }
+  }
+}

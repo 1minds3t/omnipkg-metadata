@@ -1,0 +1,46 @@
+{
+  "package": "click",
+  "last_updated": "2025-12-23T02:04:04.955912+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "8.1.8",
+      "released": "2024-12-21T18:38:41.666429Z",
+      "requires_python": ">=3.7"
+    },
+    "3.8": {
+      "version": "8.1.8",
+      "released": "2024-12-21T18:38:41.666429Z",
+      "requires_python": ">=3.7"
+    },
+    "3.9": {
+      "version": "8.1.8",
+      "released": "2024-12-21T18:38:41.666429Z",
+      "requires_python": ">=3.7"
+    },
+    "3.10": {
+      "version": "8.3.1",
+      "released": "2025-11-15T20:45:41.139301Z",
+      "requires_python": ">=3.10"
+    },
+    "3.11": {
+      "version": "8.3.1",
+      "released": "2025-11-15T20:45:41.139301Z",
+      "requires_python": ">=3.10"
+    },
+    "3.12": {
+      "version": "8.3.1",
+      "released": "2025-11-15T20:45:41.139301Z",
+      "requires_python": ">=3.10"
+    },
+    "3.13": {
+      "version": "8.3.1",
+      "released": "2025-11-15T20:45:41.139301Z",
+      "requires_python": ">=3.10"
+    },
+    "3.14": {
+      "version": "8.3.1",
+      "released": "2025-11-15T20:45:41.139301Z",
+      "requires_python": ">=3.10"
+    }
+  }
+}

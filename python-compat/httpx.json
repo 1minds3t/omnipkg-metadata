@@ -1,0 +1,46 @@
+{
+  "package": "httpx",
+  "last_updated": "2025-12-23T02:04:33.179487+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "0.24.1",
+      "released": "2023-05-19T00:50:54.910581Z",
+      "requires_python": ">=3.7"
+    },
+    "3.8": {
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21.509172Z",
+      "requires_python": ">=3.8"
+    },
+    "3.9": {
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21.509172Z",
+      "requires_python": ">=3.8"
+    },
+    "3.10": {
+      "version": "1.0.dev3",
+      "released": "2025-09-15T16:15:10.458000Z",
+      "requires_python": ">=3.10"
+    },
+    "3.11": {
+      "version": "1.0.dev3",
+      "released": "2025-09-15T16:15:10.458000Z",
+      "requires_python": ">=3.10"
+    },
+    "3.12": {
+      "version": "1.0.dev3",
+      "released": "2025-09-15T16:15:10.458000Z",
+      "requires_python": ">=3.10"
+    },
+    "3.13": {
+      "version": "1.0.dev3",
+      "released": "2025-09-15T16:15:10.458000Z",
+      "requires_python": ">=3.10"
+    },
+    "3.14": {
+      "version": "1.0.dev3",
+      "released": "2025-09-15T16:15:10.458000Z",
+      "requires_python": ">=3.10"
+    }
+  }
+}

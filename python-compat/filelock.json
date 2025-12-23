@@ -1,0 +1,46 @@
+{
+  "package": "filelock",
+  "last_updated": "2025-12-23T02:03:15.402224+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "3.12.2",
+      "released": "2023-06-12T22:02:08.030388Z",
+      "requires_python": ">=3.7"
+    },
+    "3.8": {
+      "version": "3.16.1",
+      "released": "2024-09-17T19:02:00.268583Z",
+      "requires_python": ">=3.8"
+    },
+    "3.9": {
+      "version": "3.19.1",
+      "released": "2025-08-14T16:56:01.633373Z",
+      "requires_python": ">=3.9"
+    },
+    "3.10": {
+      "version": "3.20.1",
+      "released": "2025-12-15T23:54:26.874848Z",
+      "requires_python": ">=3.10"
+    },
+    "3.11": {
+      "version": "3.20.1",
+      "released": "2025-12-15T23:54:26.874848Z",
+      "requires_python": ">=3.10"
+    },
+    "3.12": {
+      "version": "3.20.1",
+      "released": "2025-12-15T23:54:26.874848Z",
+      "requires_python": ">=3.10"
+    },
+    "3.13": {
+      "version": "3.20.1",
+      "released": "2025-12-15T23:54:26.874848Z",
+      "requires_python": ">=3.10"
+    },
+    "3.14": {
+      "version": "3.20.1",
+      "released": "2025-12-15T23:54:26.874848Z",
+      "requires_python": ">=3.10"
+    }
+  }
+}

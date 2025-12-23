@@ -1,0 +1,46 @@
+{
+  "package": "aiohttp",
+  "last_updated": "2025-12-23T02:04:32.907160+00:00",
+  "python_compatibility": {
+    "3.7": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.8": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.9": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.10": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.11": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.12": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.13": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    },
+    "3.14": {
+      "version": "4.0.0a1",
+      "released": "2019-10-09T11:29:30.939016Z",
+      "requires_python": ">=3.6"
+    }
+  }
+}
