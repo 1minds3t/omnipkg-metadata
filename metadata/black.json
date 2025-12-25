@@ -44,7 +44,7 @@
   ],
   "keywords": "automation, autopep8, formatter, gofmt, pyfmt, rustfmt, yapf",
   "home_page": null,
-  "last_fetched": "2025-12-24T02:04:38.002948+00:00",
+  "last_fetched": "2025-12-25T02:06:33.353683+00:00",
   "releases": {
     "latest": "25.12.0",
     "all_versions": [
