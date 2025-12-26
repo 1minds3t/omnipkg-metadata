@@ -1,6 +1,6 @@
 {
   "package": "torch",
-  "last_updated": "2025-12-23T02:03:32.016872+00:00",
+  "last_updated": "2025-12-26T05:59:27.893291+00:00",
   "python_compatibility": {
     "3.7": {
       "version": "1.13.1",
