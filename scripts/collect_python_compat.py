@@ -1,170 +1,124 @@
-# scripts/collect_python_compat.py
-"""
-Enhanced PyPI metadata collector with Python version compatibility tracking.
-This powers the omnipatcher system by identifying the last supported version
-for each Python release.
-"""
-
 import json
 import requests
-from datetime import datetime, timezone
-from pathlib import Path
+import sys
 import time
+from pathlib import Path
 from packaging.specifiers import SpecifierSet
 from packaging.version import Version, InvalidVersion
 
-def parse_python_requires(requires_python):
-    """Parse requires_python string to extract min/max Python versions."""
-    if not requires_python:
-        return None, None
-    
-    try:
-        spec = SpecifierSet(requires_python)
-        # Find minimum version
-        min_version = None
-        max_version = None
-        
-        for specifier in spec:
-            version_str = str(specifier.version)
-            if specifier.operator in ('>=', '>', '~='):
-                if not min_version or Version(version_str) < Version(min_version):
-                    min_version = version_str
-            elif specifier.operator in ('<=', '<'):
-                if not max_version or Version(version_str) > Version(max_version):
-                    max_version = version_str
-        
-        return min_version, max_version
-    except:
-        return None, None
+# Configuration
+PYTHON_VERSIONS = ["3.7", "3.8", "3.9", "3.10", "3.11", "3.12", "3.13", "3.14"]
+TOP_N = 500
+MAX_RETRIES = 3
 
-def get_python_compatibility_matrix(package_name):
-    """
-    Build a matrix of: Python version -> Last supported package version
+def get_latest_compatible(pkg_name, releases_data):
+    compat_map = {py: None for py in PYTHON_VERSIONS}
+    sorted_versions = []
     
-    Example return:
-    {
-        "3.7": {"version": "3.12.2", "released": "2023-05-20"},
-        "3.8": {"version": "3.13.1", "released": "2024-01-15"},
-        "3.9": {"version": "3.14.0", "released": "2024-06-10"},
-        ...
-    }
-    """
-    resp = requests.get(f"https://pypi.org/pypi/{package_name}/json", timeout=10)
-    resp.raise_for_status()
-    data = resp.json()
-    
-    # Python versions to track (3.7 through 3.14)
-    python_versions = ["3.7", "3.8", "3.9", "3.10", "3.11", "3.12", "3.13", "3.14"]
-    compat_matrix = {pv: None for pv in python_versions}
-    
-    # Sort releases by version (newest first)
-    try:
-        sorted_releases = sorted(
-            data["releases"].items(),
-            key=lambda x: Version(x[0]),
-            reverse=True
-        )
-    except InvalidVersion:
-        # Some packages have weird version strings, fall back to string sort
-        sorted_releases = sorted(data["releases"].items(), reverse=True)
-    
-    # For each release, check which Python versions it supports
-    for version, release_files in sorted_releases:
-        if not release_files:  # Skip yanked/empty releases
+    for ver_str in releases_data:
+        try:
+            v = Version(ver_str)
+            if not v.is_prerelease:
+                sorted_versions.append(v)
+        except InvalidVersion:
             continue
-        
-        # Get the upload date from first file
-        upload_date = release_files[0].get("upload_time_iso_8601", "")
-        
-        # Try to get requires_python from any wheel/sdist in this release
-        requires_python = None
-        for file_info in release_files:
-            if file_info.get("requires_python"):
-                requires_python = file_info["requires_python"]
+            
+    sorted_versions.sort(reverse=True)
+
+    for py_ver in PYTHON_VERSIONS:
+        found = False
+        for ver in sorted_versions:
+            ver_str = str(ver)
+            release_info = releases_data[ver_str]
+            requires_python = None
+            upload_time = None
+            
+            if isinstance(release_info, list) and release_info:
+                requires_python = release_info[0].get('requires_python')
+                upload_time = release_info[0].get('upload_time')
+
+            if requires_python is None:
+                compat_map[py_ver] = {"version": ver_str, "released": upload_time}
+                found = True
                 break
-        
-        if not requires_python:
-            # If not in file info, try fetching the specific version metadata
+
             try:
-                ver_resp = requests.get(f"https://pypi.org/pypi/{package_name}/{version}/json", timeout=5)
-                ver_data = ver_resp.json()
-                requires_python = ver_data["info"].get("requires_python")
-            except:
-                pass
+                spec = SpecifierSet(requires_python)
+                if spec.contains(f"{py_ver}.0"):
+                    compat_map[py_ver] = {"version": ver_str, "released": upload_time}
+                    found = True
+                    break
+            except Exception:
+                continue
         
-        min_py, max_py = parse_python_requires(requires_python)
-        
-        # Determine which Python versions this release supports
-        for py_ver in python_versions:
-            if compat_matrix[py_ver] is not None:
-                continue  # Already found a newer version for this Python
-            
-            # Check if this release supports this Python version
-            supports = False
-            if not requires_python:
-                # No restriction = supports all (assume 3.7+)
-                supports = True
-            else:
-                try:
-                    spec = SpecifierSet(requires_python)
-                    # Check if py_ver satisfies the spec
-                    supports = Version(py_ver + ".0") in spec
-                except:
-                    supports = False
-            
-            if supports:
-                compat_matrix[py_ver] = {
-                    "version": version,
-                    "released": upload_date,
-                    "requires_python": requires_python
-                }
-    
-    return compat_matrix
+        if not found:
+             compat_map[py_ver] = None
 
-# Main collection
-TOP_PACKAGES = [
-    "filelock", "requests", "numpy", "pandas", "torch", "tensorflow",
-    "django", "flask", "fastapi", "pydantic", "pytest", "click",
-    "cryptography", "sqlalchemy", "aiohttp", "httpx", "pillow",
-    "scipy", "scikit-learn", "matplotlib", "black", "mypy", "setuptools"
-]
+    return compat_map
 
-metadata_dir = Path("metadata")
-compat_dir = Path("python-compat")
-compat_dir.mkdir(exist_ok=True)
+def fetch_pypi_json(pkg_name):
+    for attempt in range(MAX_RETRIES):
+        try:
+            resp = requests.get(f"https://pypi.org/pypi/{pkg_name}/json", timeout=10)
+            if resp.status_code == 200:
+                return resp.json()
+            elif resp.status_code == 404:
+                print(f"  ❌ {pkg_name} not found on PyPI")
+                return None
+        except requests.RequestException as e:
+            print(f"  ⚠️ Attempt {attempt+1}/{MAX_RETRIES} failed for {pkg_name}: {e}")
+            time.sleep(1)
+    return None
 
-for package in TOP_PACKAGES:
+def main():
+    print(f"📥 Fetching Top {TOP_N} PyPI packages...")
     try:
-        print(f"\n{'='*60}")
-        print(f"Processing: {package}")
-        print('='*60)
-        
-        # Get compatibility matrix
-        compat = get_python_compatibility_matrix(package)
-        
-        # Save compatibility data
-        compat_file = compat_dir / f"{package}.json"
-        compat_data = {
-            "package": package,
-            "last_updated": datetime.now(timezone.utc).isoformat(),
-            "python_compatibility": compat
-        }
-        
-        with open(compat_file, "w") as f:
-            json.dump(compat_data, f, indent=2)
-        
-        # Print summary
-        print(f"\nPython Compatibility Summary for {package}:")
-        for py_ver, info in compat.items():
-            if info:
-                print(f"  Python {py_ver}: {info['version']} (released {info['released'][:10]})")
-            else:
-                print(f"  Python {py_ver}: Not supported")
-        
-        time.sleep(0.2)  # Rate limiting
-        
+        r = requests.get("https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.min.json", timeout=30)
+        top_packages = [p["project"] for p in r.json()["rows"][:TOP_N]]
     except Exception as e:
-        print(f"✗ Failed to process {package}: {e}")
-        continue
+        print(f"❌ Failed to fetch top packages list: {e}")
+        sys.exit(1)
 
-print("\n✅ Python compatibility matrix collection complete!")
+    out_dir = Path("python-compat")
+    out_dir.mkdir(exist_ok=True)
+    
+    index = {}
+    success_count = 0
+    
+    print(f"🚀 Analyzing {len(top_packages)} packages...")
+
+    for i, pkg in enumerate(top_packages, 1):
+        try:
+            if i % 10 == 0:
+                print(f"[{i}/{TOP_N}] Processing {pkg}...")
+            
+            data = fetch_pypi_json(pkg)
+            if not data:
+                continue
+                
+            releases = data.get("releases", {})
+            compat_matrix = get_latest_compatible(pkg, releases)
+            
+            result = {
+                "package": pkg,
+                "last_updated": data["info"].get("version"),
+                "python_compatibility": compat_matrix
+            }
+            
+            with open(out_dir / f"{pkg}.json", "w") as f:
+                json.dump(result, f, indent=2)
+            
+            index[pkg] = f"python-compat/{pkg}.json"
+            success_count += 1
+
+        except Exception as e:
+            print(f"  🔥 CRITICAL ERROR skipping {pkg}: {e}")
+            continue
+
+    with open("index.json", "w") as f:
+        json.dump({"updated": "now", "packages": index, "total_processed": success_count}, f, indent=2)
+    
+    print(f"✅ Scan Complete. Processed {success_count}/{TOP_N} packages.")
+
+if __name__ == "__main__":
+    main()
