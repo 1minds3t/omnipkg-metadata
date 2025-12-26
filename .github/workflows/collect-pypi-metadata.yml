@@ -1,269 +1,47 @@
-# .github/workflows/collect-pypi-metadata.yml
-name: Collect PyPI Metadata
+name: Update Compatibility Metadata
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 4 * * *'  # Run daily at 4am
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  collect-metadata:
+  collect:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
-          
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
-      - name: Install dependencies
-        run: |
-          pip install requests packaging
-          
-      - name: Fetch top 500 packages from PyPI
-        run: |
-          python - <<'EOF'
-          import json
-          import requests
-          
-          # Fetch top 500 from hugovk's dataset
-          url = "https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.min.json"
-          resp = requests.get(url, timeout=30)
-          data = resp.json()
-          
-          packages = [row["project"] for row in data["rows"][:500]]
-          
-          with open("top_500.json", "w") as f:
-              json.dump(packages, f, indent=2)
-          
-          print(f"✅ Fetched {len(packages)} packages")
-          EOF
-          
-      - name: Collect basic metadata
-        run: |
-          python - <<'EOF'
-          import json
-          import requests
-          from datetime import datetime, timezone
-          from pathlib import Path
-          import time
-          
-          with open("top_500.json") as f:
-              packages = json.load(f)
-          
-          metadata_dir = Path("metadata")
-          metadata_dir.mkdir(exist_ok=True)
-          
-          index_data = {
-              "last_updated": datetime.now(timezone.utc).isoformat(),
-              "packages": {},
-              "total_packages": 0
-          }
-          
-          for i, package in enumerate(packages, 1):
-              try:
-                  print(f"[{i}/500] Fetching {package}...")
-                  resp = requests.get(f"https://pypi.org/pypi/{package}/json", timeout=10)
-                  resp.raise_for_status()
-                  
-                  data = resp.json()
-                  info = data["info"]
-                  
-                  metadata = {
-                      "name": info["name"],
-                      "version": info["version"],
-                      "summary": info["summary"],
-                      "author": info.get("author"),
-                      "author_email": info.get("author_email"),
-                      "license": info.get("license"),
-                      "requires_python": info.get("requires_python"),
-                      "requires_dist": info.get("requires_dist", []),
-                      "project_urls": info.get("project_urls", {}),
-                      "classifiers": info.get("classifiers", []),
-                      "keywords": info.get("keywords"),
-                      "home_page": info.get("home_page"),
-                      "last_fetched": datetime.now(timezone.utc).isoformat(),
-                      "releases": {
-                          "latest": info["version"],
-                          "all_versions": list(data.get("releases", {}).keys())[-20:]
-                      }
-                  }
-                  
-                  pkg_file = metadata_dir / f"{package}.json"
-                  with open(pkg_file, "w") as f:
-                      json.dump(metadata, f, indent=2)
-                  
-                  index_data["packages"][package] = {
-                      "version": info["version"],
-                      "last_updated": metadata["last_fetched"]
-                  }
-                  index_data["total_packages"] += 1
-                  
-                  time.sleep(0.1)
-                  
-              except Exception as e:
-                  print(f"✗ Failed: {package}: {e}")
-                  continue
-          
-          with open("index.json", "w") as f:
-              json.dump(index_data, f, indent=2)
-          
-          print(f"\n✅ Collected {index_data['total_packages']}/500 packages")
-          EOF
-          
-      - name: Commit metadata
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metadata/ index.json
-          git diff --staged --quiet || git commit -m "Update metadata for top 500 packages - $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
 
-  collect-python-compat:
-    needs: collect-metadata
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          
       - name: Install dependencies
-        run: |
-          pip install requests packaging
-          
-      - name: Run compatibility collection
-        run: |
-          python scripts/collect_python_compat.py
-          
-      - name: Commit compatibility data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add python-compat/
-          git diff --staged --quiet || git commit -m "Update Python compatibility for top 500 - $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+        run: pip install requests packaging
 
-  test-packages:
-    needs: collect-python-compat
-    strategy:
-      matrix:
-        # USE GITHUB RUNNERS NOT SELF-HOSTED
-        os: [ubuntu-latest, macos-latest, windows-latest]
-        python-version: ['3.8', '3.9', '3.10', '3.11', '3.12']
-      fail-fast: false
-      max-parallel: 5  # Limit parallel jobs
-      
-    runs-on: ${{ matrix.os }}
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-          
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
-        with:
-          python-version: ${{ matrix.python-version }}
-          
-      - name: Test critical packages only
-        run: |
-          python - <<'EOF'
-          import json
-          import subprocess
-          import sys
-          import time
-          from datetime import datetime, timezone
-          from pathlib import Path
-          
-          # Test only top 50 most critical packages to avoid timeouts
-          TEST_PACKAGES = [
-              "requests", "urllib3", "certifi", "charset-normalizer", "idna",
-              "setuptools", "pip", "wheel", "packaging", "pyparsing",
-              "numpy", "pandas", "matplotlib", "scipy", "pillow",
-              "cryptography", "pyyaml", "click", "jinja2", "markupsafe",
-              "pytest", "pluggy", "iniconfig", "exceptiongroup", "tomli",
-              "typing-extensions", "six", "python-dateutil", "pytz", "tzdata",
-              "attrs", "jsonschema", "platformdirs", "filelock", "distlib",
-              "more-itertools", "zipp", "importlib-metadata", "pathspec", "virtualenv"
-          ]
-          
-          compat_dir = Path("compat")
-          compat_dir.mkdir(exist_ok=True)
-          
-          platform = "${{ matrix.os }}"
-          python_version = "${{ matrix.python-version }}"
-          
-          for package in TEST_PACKAGES[:20]:  # Test only first 20 to keep it fast
-              print(f"\nTesting: {package}")
-              
-              result = {
-                  "package": package,
-                  "platform": platform,
-                  "python_version": python_version,
-                  "timestamp": datetime.now(timezone.utc).isoformat(),
-                  "install_success": False,
-                  "import_success": False,
-                  "install_time_seconds": None,
-                  "errors": []
-              }
-              
-              try:
-                  start = time.time()
-                  proc = subprocess.run(
-                      [sys.executable, "-m", "pip", "install", package, "--quiet"],
-                      capture_output=True,
-                      text=True,
-                      timeout=120
-                  )
-                  install_time = time.time() - start
-                  
-                  result["install_time_seconds"] = round(install_time, 2)
-                  result["install_success"] = proc.returncode == 0
-                  
-                  if proc.returncode == 0:
-                      print(f"✓ Installed in {install_time:.2f}s")
-                      
-                      # Test import (use package name or common import name)
-                      import_name = package.replace("-", "_")
-                      try:
-                          proc = subprocess.run(
-                              [sys.executable, "-c", f"import {import_name}"],
-                              capture_output=True,
-                              text=True,
-                              timeout=10
-                          )
-                          result["import_success"] = proc.returncode == 0
-                          if proc.returncode == 0:
-                              print(f"✓ Import successful")
-                      except:
-                          pass
-                          
-              except Exception as e:
-                  result["errors"].append(str(e))
-              
-              compat_file = compat_dir / f"{package}.json"
-              if compat_file.exists():
-                  with open(compat_file) as f:
-                      compat_data = json.load(f)
-              else:
-                  compat_data = {"package": package, "test_results": []}
-              
-              compat_data["test_results"].append(result)
-              compat_data["test_results"] = compat_data["test_results"][-50:]
-              
-              with open(compat_file, "w") as f:
-                  json.dump(compat_data, f, indent=2)
-          EOF
-          
-      - name: Commit test results
+      # --- FIXED PATH BELOW ---
+      - name: Run Metadata Collector
+        run: python scripts/collect_python_compat.py
+      # ------------------------
+
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add compat/
-          git diff --staged --quiet || git commit -m "Test results - ${{ matrix.os }} Python ${{ matrix.python-version }}"
-          git push
+          git add .
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "Update compatibility matrix (Top 500)"
+          
+          # Fix conflict by pulling first
+          git pull --rebase origin main
+          git push origin main
