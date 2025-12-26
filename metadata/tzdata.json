@@ -1,0 +1,50 @@
+{
+  "name": "tzdata",
+  "version": "2025.3",
+  "summary": "Provider of IANA time zone data",
+  "author": "Python Software Foundation",
+  "author_email": "datetime-sig@python.org",
+  "license": "Apache-2.0",
+  "requires_python": ">=2",
+  "requires_dist": null,
+  "project_urls": {
+    "Bug Reports": "https://github.com/python/tzdata/issues",
+    "Documentation": "https://tzdata.readthedocs.io",
+    "Homepage": "https://github.com/python/tzdata",
+    "Source": "https://github.com/python/tzdata"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 3"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/python/tzdata",
+  "last_fetched": "2025-12-26T04:46:36.003932+00:00",
+  "releases": {
+    "latest": "2025.3",
+    "all_versions": [
+      "2021.2.post0",
+      "2021.3",
+      "2021.4",
+      "2021.5",
+      "2022.1",
+      "2022.2",
+      "2022.3",
+      "2022.4",
+      "2022.5",
+      "2022.6",
+      "2022.7",
+      "2023.1",
+      "2023.2",
+      "2023.3",
+      "2023.4",
+      "2024.1",
+      "2024.2",
+      "2025.1",
+      "2025.2",
+      "2025.3"
+    ]
+  }
+}

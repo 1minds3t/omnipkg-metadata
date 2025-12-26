@@ -1,0 +1,66 @@
+{
+  "name": "alembic",
+  "version": "1.17.2",
+  "summary": "A database migration tool for SQLAlchemy.",
+  "author": null,
+  "author_email": "Mike Bayer <mike_mp@zzzcomputing.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "SQLAlchemy>=1.4.0",
+    "Mako",
+    "typing-extensions>=4.12",
+    "tomli; python_version < \"3.11\"",
+    "tzdata; extra == \"tz\""
+  ],
+  "project_urls": {
+    "Changelog": "https://alembic.sqlalchemy.org/en/latest/changelog.html",
+    "Documentation": "https://alembic.sqlalchemy.org/en/latest/",
+    "Homepage": "https://alembic.sqlalchemy.org",
+    "Issue Tracker": "https://github.com/sqlalchemy/alembic/issues/",
+    "Source": "https://github.com/sqlalchemy/alembic/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Database :: Front-Ends"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:57.307365+00:00",
+  "releases": {
+    "latest": "1.17.2",
+    "all_versions": [
+      "1.6.1",
+      "1.6.2",
+      "1.6.3",
+      "1.6.4",
+      "1.6.5",
+      "1.7.0",
+      "1.7.1",
+      "1.7.2",
+      "1.7.3",
+      "1.7.4",
+      "1.7.5",
+      "1.7.6",
+      "1.7.7",
+      "1.8.0",
+      "1.8.1",
+      "1.9.0",
+      "1.9.1",
+      "1.9.2",
+      "1.9.3",
+      "1.9.4"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "oauthlib",
+  "version": "3.3.1",
+  "summary": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic",
+  "author": "The OAuthlib Community",
+  "author_email": null,
+  "license": "BSD-3-Clause",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "cryptography>=3.0.0; extra == \"rsa\"",
+    "cryptography>=3.0.0; extra == \"signedtoken\"",
+    "pyjwt<3,>=2.0.0; extra == \"signedtoken\"",
+    "blinker>=1.4.0; extra == \"signals\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/oauthlib/oauthlib"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/oauthlib/oauthlib",
+  "last_fetched": "2025-12-26T04:46:43.878759+00:00",
+  "releases": {
+    "latest": "3.3.1",
+    "all_versions": [
+      "1.1.2",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.1.0",
+      "3.0.0",
+      "3.0.1",
+      "3.0.2",
+      "3.1.0",
+      "3.1.1",
+      "3.2.0",
+      "3.2.1",
+      "3.2.2",
+      "3.3.0",
+      "3.3.1"
+    ]
+  }
+}

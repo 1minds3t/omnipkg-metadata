@@ -1,0 +1,59 @@
+{
+  "name": "certifi",
+  "version": "2025.11.12",
+  "summary": "Python package for providing Mozilla's CA Bundle.",
+  "author": "Kenneth Reitz",
+  "author_email": "me@kennethreitz.com",
+  "license": "MPL-2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/certifi/python-certifi",
+    "Source": "https://github.com/certifi/python-certifi"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/certifi/python-certifi",
+  "last_fetched": "2025-12-26T04:46:29.598288+00:00",
+  "releases": {
+    "latest": "2025.11.12",
+    "all_versions": [
+      "2022.6.15.1",
+      "2022.6.15.2",
+      "2022.9.14",
+      "2022.9.24",
+      "2023.11.17",
+      "2023.5.7",
+      "2023.7.22",
+      "2024.12.14",
+      "2024.2.2",
+      "2024.6.2",
+      "2024.7.4",
+      "2024.8.30",
+      "2025.1.31",
+      "2025.10.5",
+      "2025.11.12",
+      "2025.4.26",
+      "2025.6.15",
+      "2025.7.14",
+      "2025.7.9",
+      "2025.8.3"
+    ]
+  }
+}

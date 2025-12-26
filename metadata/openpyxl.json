@@ -1,0 +1,60 @@
+{
+  "name": "openpyxl",
+  "version": "3.1.5",
+  "summary": "A Python library to read/write Excel 2010 xlsx/xlsm files",
+  "author": "See AUTHORS",
+  "author_email": "charlie.clark@clark-consulting.eu",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "et-xmlfile"
+  ],
+  "project_urls": {
+    "Documentation": "https://openpyxl.readthedocs.io/en/stable/",
+    "Homepage": "https://openpyxl.readthedocs.io",
+    "Source": "https://foss.heptapod.net/openpyxl/openpyxl",
+    "Tracker": "https://foss.heptapod.net/openpyxl/openpyxl/-/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://openpyxl.readthedocs.io",
+  "last_fetched": "2025-12-26T04:46:44.150004+00:00",
+  "releases": {
+    "latest": "3.1.5",
+    "all_versions": [
+      "2.6.2",
+      "2.6.3",
+      "2.6.4",
+      "3.0.0",
+      "3.0.1",
+      "3.0.10",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4",
+      "3.0.5",
+      "3.0.6",
+      "3.0.7",
+      "3.0.9",
+      "3.1.0",
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.1.5",
+      "3.2.0b1"
+    ]
+  }
+}

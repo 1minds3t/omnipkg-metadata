@@ -1,0 +1,69 @@
+{
+  "name": "idna",
+  "version": "3.11",
+  "summary": "Internationalized Domain Names in Applications (IDNA)",
+  "author": null,
+  "author_email": "Kim Davies <kim+pypi@gumleaf.org>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "ruff>=0.6.2; extra == \"all\"",
+    "mypy>=1.11.2; extra == \"all\"",
+    "pytest>=8.3.2; extra == \"all\"",
+    "flake8>=7.1.1; extra == \"all\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/kjd/idna/blob/master/HISTORY.rst",
+    "Issue tracker": "https://github.com/kjd/idna/issues",
+    "Source": "https://github.com/kjd/idna"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Internet :: Name Service (DNS)",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:30.071291+00:00",
+  "releases": {
+    "latest": "3.11",
+    "all_versions": [
+      "2.2",
+      "2.3",
+      "2.4",
+      "2.5",
+      "2.6",
+      "2.7",
+      "2.8",
+      "2.9",
+      "3.0",
+      "3.1",
+      "3.10",
+      "3.11",
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7",
+      "3.8",
+      "3.9"
+    ]
+  }
+}

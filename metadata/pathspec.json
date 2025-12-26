@@ -1,0 +1,60 @@
+{
+  "name": "pathspec",
+  "version": "0.12.1",
+  "summary": "Utility library for gitignore style pattern matching of file paths.",
+  "author": "",
+  "author_email": "\"Caleb P. Burns\" <cpburnz@gmail.com>",
+  "license": "",
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://python-path-specification.readthedocs.io/en/latest/index.html",
+    "Issue Tracker": "https://github.com/cpburnz/python-pathspec/issues",
+    "Source Code": "https://github.com/cpburnz/python-pathspec"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Utilities"
+  ],
+  "keywords": "",
+  "home_page": "",
+  "last_fetched": "2025-12-26T04:46:40.784830+00:00",
+  "releases": {
+    "latest": "0.12.1",
+    "all_versions": [
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7",
+      "0.5.8",
+      "0.5.9",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.9.0"
+    ]
+  }
+}

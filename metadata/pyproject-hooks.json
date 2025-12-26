@@ -1,0 +1,32 @@
+{
+  "name": "pyproject-hooks",
+  "version": "1.2.0",
+  "summary": "Wrappers to call pyproject.toml-based build backend hooks.",
+  "author": null,
+  "author_email": "Thomas Kluyver <thomas@kluyver.me.uk>",
+  "license": null,
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://pyproject-hooks.readthedocs.io/en/latest/changelog.html",
+    "Documentation": "https://pyproject-hooks.readthedocs.io/",
+    "Source": "https://github.com/pypa/pyproject-hooks"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:57.033865+00:00",
+  "releases": {
+    "latest": "1.2.0",
+    "all_versions": [
+      "0.1.0",
+      "1.0.0",
+      "1.1.0",
+      "1.2.0"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "backoff",
+  "version": "2.2.1",
+  "summary": "Function decoration for backoff and retry",
+  "author": "Bob Green",
+  "author_email": "rgreen@aquent.com",
+  "license": "MIT",
+  "requires_python": ">=3.7,<4.0",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/litl/backoff",
+    "Repository": "https://github.com/litl/backoff"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Utilities"
+  ],
+  "keywords": "retry,backoff,decorators",
+  "home_page": "https://github.com/litl/backoff",
+  "last_fetched": "2025-12-26T04:46:56.881417+00:00",
+  "releases": {
+    "latest": "2.2.1",
+    "all_versions": [
+      "1.4.0",
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.5.0",
+      "1.6.0",
+      "1.7.0",
+      "1.7.1",
+      "1.8.0",
+      "1.8.1",
+      "1.9.0",
+      "1.9.1",
+      "1.9.2",
+      "2.0.0",
+      "2.0.1",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "2.2.0",
+      "2.2.1"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "installer",
+  "version": "0.7.0",
+  "summary": "A library for installing Python wheels.",
+  "author": null,
+  "author_email": "Pradyun Gedam <pradyunsg@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "GitHub": "https://github.com/pypa/installer"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:13.640548+00:00",
+  "releases": {
+    "latest": "0.7.0",
+    "all_versions": [
+      "0.1.0",
+      "0.1.1",
+      "0.2.0",
+      "0.2.0.dev0",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.3.0",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.6.0",
+      "0.7.0"
+    ]
+  }
+}

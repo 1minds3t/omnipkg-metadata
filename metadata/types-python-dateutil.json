@@ -1,0 +1,49 @@
+{
+  "name": "types-python-dateutil",
+  "version": "2.9.0.20251115",
+  "summary": "Typing stubs for python-dateutil",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changes": "https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/python-dateutil.md",
+    "Chat": "https://gitter.im/python/typing",
+    "GitHub": "https://github.com/python/typeshed",
+    "Homepage": "https://github.com/python/typeshed",
+    "Issue tracker": "https://github.com/python/typeshed/issues"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:40.272588+00:00",
+  "releases": {
+    "latest": "2.9.0.20251115",
+    "all_versions": [
+      "2.8.3",
+      "2.8.4",
+      "2.8.5",
+      "2.8.6",
+      "2.8.7",
+      "2.8.8",
+      "2.8.9",
+      "2.9.0.20240315",
+      "2.9.0.20240316",
+      "2.9.0.20240821",
+      "2.9.0.20240906",
+      "2.9.0.20241003",
+      "2.9.0.20241206",
+      "2.9.0.20250516",
+      "2.9.0.20250708",
+      "2.9.0.20250809",
+      "2.9.0.20250822",
+      "2.9.0.20251008",
+      "2.9.0.20251108",
+      "2.9.0.20251115"
+    ]
+  }
+}

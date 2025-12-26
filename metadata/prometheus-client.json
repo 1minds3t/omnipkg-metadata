@@ -1,0 +1,60 @@
+{
+  "name": "prometheus-client",
+  "version": "0.23.1",
+  "summary": "Python client for the Prometheus monitoring system.",
+  "author": null,
+  "author_email": "The Prometheus Authors <prometheus-developers@googlegroups.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "twisted; extra == \"twisted\""
+  ],
+  "project_urls": {
+    "Documentation": "https://prometheus.github.io/client_python/",
+    "Homepage": "https://github.com/prometheus/client_python"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: System :: Monitoring"
+  ],
+  "keywords": "prometheus, monitoring, instrumentation, client",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:01.968252+00:00",
+  "releases": {
+    "latest": "0.23.1",
+    "all_versions": [
+      "0.19.0",
+      "0.2.0",
+      "0.20.0",
+      "0.21.0",
+      "0.21.1",
+      "0.22.0",
+      "0.22.1",
+      "0.23.0",
+      "0.23.1",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.7.1",
+      "0.8.0",
+      "0.9.0"
+    ]
+  }
+}

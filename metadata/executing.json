@@ -1,0 +1,61 @@
+{
+  "name": "executing",
+  "version": "2.2.1",
+  "summary": "Get the currently executing AST node of a frame, and other information",
+  "author": "Alex Hall",
+  "author_email": "alex.mojaki@gmail.com",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "asttokens>=2.1.0; extra == \"tests\"",
+    "ipython; extra == \"tests\"",
+    "pytest; extra == \"tests\"",
+    "coverage; extra == \"tests\"",
+    "coverage-enable-subprocess; extra == \"tests\"",
+    "littleutils; extra == \"tests\"",
+    "rich; python_version >= \"3.11\" and extra == \"tests\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/alexmojaki/executing"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/alexmojaki/executing",
+  "last_fetched": "2025-12-26T04:47:06.483036+00:00",
+  "releases": {
+    "latest": "2.2.1",
+    "all_versions": [
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.8.3",
+      "0.9.0",
+      "0.9.1",
+      "1.0.0",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0",
+      "2.0.0",
+      "2.0.1",
+      "2.1.0",
+      "2.2.0",
+      "2.2.1"
+    ]
+  }
+}

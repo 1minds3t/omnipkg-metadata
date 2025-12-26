@@ -1,0 +1,68 @@
+{
+  "name": "google-genai",
+  "version": "1.56.0",
+  "summary": "GenAI Python SDK",
+  "author": null,
+  "author_email": "Google LLC <googleapis-packages@google.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "anyio<5.0.0,>=4.8.0",
+    "google-auth[requests]<3.0.0,>=2.45.0",
+    "httpx<1.0.0,>=0.28.1",
+    "pydantic<3.0.0,>=2.9.0",
+    "requests<3.0.0,>=2.28.1",
+    "tenacity<9.2.0,>=8.2.3",
+    "websockets<15.1.0,>=13.0.0",
+    "typing-extensions<5.0.0,>=4.11.0",
+    "distro<2,>=1.7.0",
+    "sniffio",
+    "aiohttp<3.13.3; extra == \"aiohttp\"",
+    "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+    "protobuf; extra == \"local-tokenizer\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/googleapis/python-genai"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Internet",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:43.433028+00:00",
+  "releases": {
+    "latest": "1.56.0",
+    "all_versions": [
+      "1.43.0",
+      "1.44.0",
+      "1.45.0",
+      "1.46.0",
+      "1.47.0",
+      "1.48.0",
+      "1.49.0",
+      "1.5.0",
+      "1.50.0",
+      "1.50.1",
+      "1.51.0",
+      "1.52.0",
+      "1.53.0",
+      "1.54.0",
+      "1.55.0",
+      "1.56.0",
+      "1.6.0",
+      "1.7.0",
+      "1.8.0",
+      "1.9.0"
+    ]
+  }
+}

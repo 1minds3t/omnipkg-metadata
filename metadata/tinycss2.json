@@ -1,0 +1,67 @@
+{
+  "name": "tinycss2",
+  "version": "1.5.1",
+  "summary": "A tiny CSS parser",
+  "author": null,
+  "author_email": "Simon Sapin <simon.sapin@exyr.org>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "webencodings>=0.4",
+    "sphinx; extra == \"doc\"",
+    "furo; extra == \"doc\"",
+    "pytest; extra == \"test\"",
+    "ruff; extra == \"test\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/Kozea/tinycss2/releases",
+    "Code": "https://github.com/Kozea/tinycss2/",
+    "Documentation": "https://doc.courtbouillon.org/tinycss2/",
+    "Donation": "https://opencollective.com/courtbouillon",
+    "Homepage": "https://www.courtbouillon.org/tinycss2",
+    "Issues": "https://github.com/Kozea/tinycss2/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Text Processing"
+  ],
+  "keywords": "css, parser",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:22.129110+00:00",
+  "releases": {
+    "latest": "1.5.1",
+    "all_versions": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6.0",
+      "0.6.1",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0",
+      "1.2.1",
+      "1.3.0",
+      "1.4.0",
+      "1.5.0",
+      "1.5.1"
+    ]
+  }
+}

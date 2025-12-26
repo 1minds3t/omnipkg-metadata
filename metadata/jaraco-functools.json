@@ -1,0 +1,63 @@
+{
+  "name": "jaraco.functools",
+  "version": "4.4.0",
+  "summary": "Functools like those found in stdlib",
+  "author": null,
+  "author_email": "\"Jason R. Coombs\" <jaraco@jaraco.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "more_itertools",
+    "pytest!=8.1.*,>=6; extra == \"test\"",
+    "jaraco.classes; extra == \"test\"",
+    "sphinx>=3.5; extra == \"doc\"",
+    "jaraco.packaging>=9.3; extra == \"doc\"",
+    "rst.linker>=1.9; extra == \"doc\"",
+    "furo; extra == \"doc\"",
+    "sphinx-lint; extra == \"doc\"",
+    "jaraco.tidelift>=1.4; extra == \"doc\"",
+    "pytest-checkdocs>=2.4; extra == \"check\"",
+    "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+    "pytest-cov; extra == \"cover\"",
+    "pytest-enabler>=3.4; extra == \"enabler\"",
+    "pytest-mypy>=1.0.1; extra == \"type\"",
+    "mypy<1.19; platform_python_implementation == \"PyPy\" and extra == \"type\""
+  ],
+  "project_urls": {
+    "Source": "https://github.com/jaraco/jaraco.functools"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:01.226395+00:00",
+  "releases": {
+    "latest": "4.4.0",
+    "all_versions": [
+      "3.2.0",
+      "3.2.1",
+      "3.3.0",
+      "3.4.0",
+      "3.5.0",
+      "3.5.1",
+      "3.5.2",
+      "3.6.0",
+      "3.7.0",
+      "3.8.0",
+      "3.8.1",
+      "3.9.0",
+      "4.0.0",
+      "4.0.1",
+      "4.0.2",
+      "4.1.0",
+      "4.2.0",
+      "4.2.1",
+      "4.3.0",
+      "4.4.0"
+    ]
+  }
+}

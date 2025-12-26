@@ -1,0 +1,69 @@
+{
+  "name": "urllib3",
+  "version": "2.6.2",
+  "summary": "HTTP library with thread-safe connection pooling, file post, and more.",
+  "author": null,
+  "author_email": "Andrey Petrov <andrey.petrov@shazow.net>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "brotli>=1.2.0; platform_python_implementation == \"CPython\" and extra == \"brotli\"",
+    "brotlicffi>=1.2.0.0; platform_python_implementation != \"CPython\" and extra == \"brotli\"",
+    "h2<5,>=4; extra == \"h2\"",
+    "pysocks!=1.5.7,<2.0,>=1.5.6; extra == \"socks\"",
+    "backports-zstd>=1.0.0; python_version < \"3.14\" and extra == \"zstd\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+    "Code": "https://github.com/urllib3/urllib3",
+    "Documentation": "https://urllib3.readthedocs.io",
+    "Issue tracker": "https://github.com/urllib3/urllib3/issues"
+  },
+  "classifiers": [
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Free Threading :: 2 - Beta",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": "filepost, http, httplib, https, pooling, ssl, threadsafe, urllib",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:29.141608+00:00",
+  "releases": {
+    "latest": "2.6.2",
+    "all_versions": [
+      "2.0.0a3",
+      "2.0.0a4",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.1.0",
+      "2.2.0",
+      "2.2.1",
+      "2.2.2",
+      "2.2.3",
+      "2.3.0",
+      "2.4.0",
+      "2.5.0",
+      "2.6.0",
+      "2.6.1",
+      "2.6.2"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "aenum",
+  "version": "3.1.16",
+  "summary": "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples, and NamedConstants",
+  "author": "Ethan Furman",
+  "author_email": "ethan@stoneleaf.us",
+  "license": "BSD License",
+  "requires_python": null,
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/ethanfurman/aenum"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.3",
+    "Programming Language :: Python :: 3.4",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/ethanfurman/aenum",
+  "last_fetched": "2025-12-26T04:47:30.546641+00:00",
+  "releases": {
+    "latest": "3.1.16",
+    "all_versions": [
+      "2.2.4",
+      "2.2.5",
+      "2.2.6",
+      "3.0.0",
+      "3.1.0",
+      "3.1.1",
+      "3.1.10",
+      "3.1.11",
+      "3.1.12",
+      "3.1.13",
+      "3.1.14",
+      "3.1.15",
+      "3.1.16",
+      "3.1.2",
+      "3.1.3",
+      "3.1.5",
+      "3.1.6",
+      "3.1.7",
+      "3.1.8",
+      "3.1.9"
+    ]
+  }
+}

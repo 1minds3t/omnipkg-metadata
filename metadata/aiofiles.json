@@ -1,0 +1,53 @@
+{
+  "name": "aiofiles",
+  "version": "25.1.0",
+  "summary": "File support for asyncio.",
+  "author": null,
+  "author_email": "Tin Tvrtkovic <tinchester@gmail.com>",
+  "license": "Apache-2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Bug Tracker": "https://github.com/Tinche/aiofiles/issues",
+    "Changelog": "https://github.com/Tinche/aiofiles#history",
+    "Repository": "https://github.com/Tinche/aiofiles"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AsyncIO",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:06.144805+00:00",
+  "releases": {
+    "latest": "25.1.0",
+    "all_versions": [
+      "0.2",
+      "0.2.1",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.4.0",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "22.1.0",
+      "23.1.0",
+      "23.2.0",
+      "23.2.1",
+      "24.1.0",
+      "25.1.0"
+    ]
+  }
+}

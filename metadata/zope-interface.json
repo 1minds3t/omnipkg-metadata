@@ -1,0 +1,68 @@
+{
+  "name": "zope.interface",
+  "version": "8.1.1",
+  "summary": "Interfaces for Python",
+  "author": "Zope Foundation and Contributors",
+  "author_email": "zope-dev@zope.dev",
+  "license": "ZPL-2.1",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "Sphinx; extra == \"docs\"",
+    "repoze.sphinx.autointerface; extra == \"docs\"",
+    "furo; extra == \"docs\"",
+    "coverage[toml]; extra == \"test\"",
+    "zope.event; extra == \"test\"",
+    "zope.testing; extra == \"test\"",
+    "coverage[toml]; extra == \"testing\"",
+    "zope.event; extra == \"testing\"",
+    "zope.testing; extra == \"testing\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/zopefoundation/zope.interface"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Zope :: 3",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Zope Public License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "interface, components, plugins",
+  "home_page": "https://github.com/zopefoundation/zope.interface",
+  "last_fetched": "2025-12-26T04:47:24.753482+00:00",
+  "releases": {
+    "latest": "8.1.1",
+    "all_versions": [
+      "6.1a1",
+      "6.1a2",
+      "6.2",
+      "6.3",
+      "6.4",
+      "6.4.post0",
+      "6.4.post1",
+      "6.4.post2",
+      "7.0",
+      "7.0.1",
+      "7.0.2",
+      "7.0.3",
+      "7.1.0",
+      "7.1.1",
+      "7.2",
+      "8.0",
+      "8.0.1",
+      "8.1",
+      "8.1.1",
+      "8.1.1a1"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "grpc-google-iam-v1",
+  "version": "0.14.3",
+  "summary": "IAM API client library",
+  "author": null,
+  "author_email": "Google LLC <googleapis-packages@google.com>",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "grpcio<2.0.0,>=1.44.0",
+    "googleapis-common-protos[grpc]<2.0.0,>=1.56.0",
+    "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2"
+  ],
+  "project_urls": {
+    "Repository": "https://github.com/googleapis/google-cloud-python"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:07.379364+00:00",
+  "releases": {
+    "latest": "0.14.3",
+    "all_versions": [
+      "0.11.1",
+      "0.11.3",
+      "0.11.4",
+      "0.12.0",
+      "0.12.1",
+      "0.12.2",
+      "0.12.3",
+      "0.12.4",
+      "0.12.4b1",
+      "0.12.6",
+      "0.12.7",
+      "0.13.0",
+      "0.13.0rc1",
+      "0.13.1",
+      "0.13.1rc0",
+      "0.14.0",
+      "0.14.1",
+      "0.14.2",
+      "0.14.3",
+      "0.9.0"
+    ]
+  }
+}

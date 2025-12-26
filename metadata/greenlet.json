@@ -1,0 +1,67 @@
+{
+  "name": "greenlet",
+  "version": "3.3.0",
+  "summary": "Lightweight in-process concurrent programming",
+  "author": "Alexey Borzenkov",
+  "author_email": "snaury@gmail.com",
+  "license": "MIT AND Python-2.0",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "Sphinx; extra == \"docs\"",
+    "furo; extra == \"docs\"",
+    "objgraph; extra == \"test\"",
+    "psutil; extra == \"test\"",
+    "setuptools; extra == \"test\""
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/python-greenlet/greenlet/issues",
+    "Changes": "https://greenlet.readthedocs.io/en/latest/changes.html",
+    "Documentation": "https://greenlet.readthedocs.io/",
+    "Homepage": "https://greenlet.readthedocs.io/",
+    "Source Code": "https://github.com/python-greenlet/greenlet/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: C",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "greenlet coroutine concurrency threads cooperative",
+  "home_page": "https://greenlet.readthedocs.io/",
+  "last_fetched": "2025-12-26T04:46:41.890501+00:00",
+  "releases": {
+    "latest": "3.3.0",
+    "all_versions": [
+      "2.0.0rc4",
+      "2.0.0rc5",
+      "2.0.1",
+      "2.0.2",
+      "3.0.0",
+      "3.0.0a1",
+      "3.0.0rc1",
+      "3.0.0rc2",
+      "3.0.0rc3",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.1.0",
+      "3.1.1",
+      "3.2.0",
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.2.4",
+      "3.3.0"
+    ]
+  }
+}

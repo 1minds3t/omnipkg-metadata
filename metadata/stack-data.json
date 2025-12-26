@@ -1,0 +1,64 @@
+{
+  "name": "stack-data",
+  "version": "0.6.3",
+  "summary": "Extract data from python stack frames and tracebacks for informative displays",
+  "author": "Alex Hall",
+  "author_email": "alex.mojaki@gmail.com",
+  "license": "MIT",
+  "requires_python": "",
+  "requires_dist": [
+    "executing >=1.2.0",
+    "asttokens >=2.1.0",
+    "pure-eval",
+    "pytest ; extra == 'tests'",
+    "typeguard ; extra == 'tests'",
+    "pygments ; extra == 'tests'",
+    "littleutils ; extra == 'tests'",
+    "cython ; extra == 'tests'"
+  ],
+  "project_urls": {
+    "Homepage": "http://github.com/alexmojaki/stack_data"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Debuggers"
+  ],
+  "keywords": "",
+  "home_page": "http://github.com/alexmojaki/stack_data",
+  "last_fetched": "2025-12-26T04:47:09.725545+00:00",
+  "releases": {
+    "latest": "0.6.3",
+    "all_versions": [
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.0.7",
+      "0.1.0",
+      "0.1.1",
+      "0.1.2",
+      "0.1.3",
+      "0.1.4",
+      "0.2.0",
+      "0.3.0",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3"
+    ]
+  }
+}

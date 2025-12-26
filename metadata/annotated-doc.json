@@ -1,0 +1,52 @@
+{
+  "name": "annotated-doc",
+  "version": "0.0.4",
+  "summary": "Document parameters, class attributes, return types, and variables inline, with Annotated.",
+  "author": null,
+  "author_email": "=?utf-8?q?Sebasti=C3=A1n_Ram=C3=ADrez?= <tiangolo@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://github.com/fastapi/annotated-doc/release-notes.md",
+    "Documentation": "https://github.com/fastapi/annotated-doc",
+    "Homepage": "https://github.com/fastapi/annotated-doc",
+    "Issues": "https://github.com/fastapi/annotated-doc/issues",
+    "Repository": "https://github.com/fastapi/annotated-doc"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:52.451142+00:00",
+  "releases": {
+    "latest": "0.0.4",
+    "all_versions": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.3",
+      "0.0.4"
+    ]
+  }
+}

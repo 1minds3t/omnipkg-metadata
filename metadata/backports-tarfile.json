@@ -1,0 +1,44 @@
+{
+  "name": "backports.tarfile",
+  "version": "1.2.0",
+  "summary": "Backport of CPython tarfile module",
+  "author": null,
+  "author_email": "\"Jason R. Coombs\" <jaraco@jaraco.com>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "sphinx>=3.5; extra == \"docs\"",
+    "jaraco.packaging>=9.3; extra == \"docs\"",
+    "rst.linker>=1.9; extra == \"docs\"",
+    "furo; extra == \"docs\"",
+    "sphinx-lint; extra == \"docs\"",
+    "pytest!=8.1.*,>=6; extra == \"testing\"",
+    "pytest-checkdocs>=2.4; extra == \"testing\"",
+    "pytest-cov; extra == \"testing\"",
+    "pytest-enabler>=2.2; extra == \"testing\"",
+    "jaraco.test; extra == \"testing\"",
+    "pytest!=8.0.*; extra == \"testing\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/jaraco/backports.tarfile"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:21.124492+00:00",
+  "releases": {
+    "latest": "1.2.0",
+    "all_versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0"
+    ]
+  }
+}

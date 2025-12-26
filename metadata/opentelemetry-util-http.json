@@ -1,0 +1,54 @@
+{
+  "name": "opentelemetry-util-http",
+  "version": "0.60b1",
+  "summary": "Web util for OpenTelemetry",
+  "author": null,
+  "author_email": "OpenTelemetry Authors <cncf-opentelemetry-contributors@lists.cncf.io>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http",
+    "Repository": "https://github.com/open-telemetry/opentelemetry-python-contrib"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:13.915618+00:00",
+  "releases": {
+    "latest": "0.60b1",
+    "all_versions": [
+      "0.48b0",
+      "0.49b0",
+      "0.49b1",
+      "0.49b2",
+      "0.50b0",
+      "0.51b0",
+      "0.52b0",
+      "0.52b1",
+      "0.53b0",
+      "0.53b1",
+      "0.54b0",
+      "0.54b1",
+      "0.55b0",
+      "0.55b1",
+      "0.56b0",
+      "0.57b0",
+      "0.58b0",
+      "0.59b0",
+      "0.60b0",
+      "0.60b1"
+    ]
+  }
+}

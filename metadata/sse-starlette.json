@@ -1,0 +1,64 @@
+{
+  "name": "sse-starlette",
+  "version": "3.0.4",
+  "summary": "SSE plugin for Starlette",
+  "author": null,
+  "author_email": "sysid <sysid@gmx.de>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "starlette>=0.49.1",
+    "anyio>=4.7.0",
+    "uvicorn>=0.34.0; extra == \"examples\"",
+    "fastapi>=0.115.12; extra == \"examples\"",
+    "sqlalchemy[asyncio]>=2.0.41; extra == \"examples\"",
+    "aiosqlite>=0.21.0; extra == \"examples\"",
+    "uvicorn>=0.34.0; extra == \"uvicorn\"",
+    "granian>=2.3.1; extra == \"granian\"",
+    "daphne>=4.2.0; extra == \"daphne\""
+  ],
+  "project_urls": {
+    "Source": "https://github.com/sysid/sse-starlette"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet :: WWW/HTTP"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:33.136297+00:00",
+  "releases": {
+    "latest": "3.0.4",
+    "all_versions": [
+      "1.8.1",
+      "1.8.2",
+      "2.0.0",
+      "2.1.0",
+      "2.1.2",
+      "2.1.3",
+      "2.2.0",
+      "2.2.1",
+      "2.3.2",
+      "2.3.3",
+      "2.3.4",
+      "2.3.5",
+      "2.3.6",
+      "2.4.0",
+      "2.4.1",
+      "3.0.0",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4"
+    ]
+  }
+}

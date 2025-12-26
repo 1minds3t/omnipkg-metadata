@@ -1,0 +1,59 @@
+{
+  "name": "typeguard",
+  "version": "4.4.4",
+  "summary": "Run-time type checker for Python",
+  "author": null,
+  "author_email": "Alex Gr\u00f6nholm <alex.gronholm@nextday.fi>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "importlib_metadata>=3.6; python_version < \"3.10\"",
+    "typing_extensions>=4.14.0"
+  ],
+  "project_urls": {
+    "Change log": "https://typeguard.readthedocs.io/en/latest/versionhistory.html",
+    "Documentation": "https://typeguard.readthedocs.io/en/latest/",
+    "Issue tracker": "https://github.com/agronholm/typeguard/issues",
+    "Source code": "https://github.com/agronholm/typeguard"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:25.791278+00:00",
+  "releases": {
+    "latest": "4.4.4",
+    "all_versions": [
+      "4.0.0rc2",
+      "4.0.0rc3",
+      "4.0.0rc4",
+      "4.0.0rc5",
+      "4.0.0rc6",
+      "4.0.1",
+      "4.1.0",
+      "4.1.1",
+      "4.1.2",
+      "4.1.3",
+      "4.1.4",
+      "4.1.5",
+      "4.2.0",
+      "4.2.1",
+      "4.3.0",
+      "4.4.0",
+      "4.4.1",
+      "4.4.2",
+      "4.4.3",
+      "4.4.4"
+    ]
+  }
+}

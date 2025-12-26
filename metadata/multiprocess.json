@@ -1,0 +1,64 @@
+{
+  "name": "multiprocess",
+  "version": "0.70.18",
+  "summary": "better multiprocessing and multithreading in Python",
+  "author": "Mike McKerns",
+  "author_email": "mmckerns@uqfoundation.org",
+  "license": "BSD-3-Clause",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "dill>=0.4.0"
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/uqfoundation/multiprocess/issues",
+    "Documentation": "http://multiprocess.rtfd.io",
+    "Download": "https://pypi.org/project/multiprocess/#files",
+    "Homepage": "https://github.com/uqfoundation/multiprocess",
+    "Source Code": "https://github.com/uqfoundation/multiprocess"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Software Development"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/uqfoundation/multiprocess",
+  "last_fetched": "2025-12-26T04:47:17.062077+00:00",
+  "releases": {
+    "latest": "0.70.18",
+    "all_versions": [
+      "0.70.11",
+      "0.70.11.1",
+      "0.70.12",
+      "0.70.12.1",
+      "0.70.12.2",
+      "0.70.13",
+      "0.70.14",
+      "0.70.15",
+      "0.70.16",
+      "0.70.17",
+      "0.70.18",
+      "0.70.2",
+      "0.70.3",
+      "0.70.4",
+      "0.70.5",
+      "0.70.6",
+      "0.70.6.1",
+      "0.70.7",
+      "0.70.8",
+      "0.70.9"
+    ]
+  }
+}

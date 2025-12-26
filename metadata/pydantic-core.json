@@ -1,0 +1,68 @@
+{
+  "name": "pydantic_core",
+  "version": "2.41.5",
+  "summary": "Core functionality for Pydantic validation and serialization",
+  "author": null,
+  "author_email": "Samuel Colvin <s@muelcolvin.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, David Montague <david@pydantic.dev>, David Hewitt <mail@davidhewitt.dev>, Sydney Runkle <sydneymarierunkle@gmail.com>, Victorien Plot <contact@vctrn.dev>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "typing-extensions>=4.14.1"
+  ],
+  "project_urls": {
+    "Funding": "https://github.com/sponsors/samuelcolvin",
+    "Homepage": "https://github.com/pydantic/pydantic-core",
+    "Source": "https://github.com/pydantic/pydantic-core"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Framework :: Pydantic",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: GraalPy",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Programming Language :: Rust",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/pydantic/pydantic-core",
+  "last_fetched": "2025-12-26T04:46:32.974652+00:00",
+  "releases": {
+    "latest": "2.41.5",
+    "all_versions": [
+      "2.37.2",
+      "2.38.0",
+      "2.39.0",
+      "2.4.0",
+      "2.40.0",
+      "2.40.1",
+      "2.41.0",
+      "2.41.1",
+      "2.41.2",
+      "2.41.3",
+      "2.41.4",
+      "2.41.5",
+      "2.5.0",
+      "2.6.0",
+      "2.6.1",
+      "2.6.2",
+      "2.6.3",
+      "2.7.0",
+      "2.8.0",
+      "2.9.0"
+    ]
+  }
+}

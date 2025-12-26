@@ -1,0 +1,66 @@
+{
+  "name": "msal",
+  "version": "1.34.0",
+  "summary": "The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect.",
+  "author": "Microsoft Corporation",
+  "author_email": "nugetaad@microsoft.com",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "requests<3,>=2.0.0",
+    "PyJWT[crypto]<3,>=1.0.0",
+    "cryptography<49,>=2.5",
+    "pymsalruntime<0.19,>=0.14; (python_version >= \"3.6\" and platform_system == \"Windows\") and extra == \"broker\"",
+    "pymsalruntime<0.19,>=0.17; (python_version >= \"3.8\" and platform_system == \"Darwin\") and extra == \"broker\"",
+    "pymsalruntime<0.19,>=0.18; (python_version >= \"3.8\" and platform_system == \"Linux\") and extra == \"broker\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/AzureAD/microsoft-authentication-library-for-python/releases",
+    "Documentation": "https://msal-python.readthedocs.io/",
+    "Feature/Bug Tracker": "https://github.com/AzureAD/microsoft-authentication-library-for-python/issues",
+    "Homepage": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
+    "Questions": "https://stackoverflow.com/questions/tagged/azure-ad-msal+python"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
+  "last_fetched": "2025-12-26T04:46:50.569966+00:00",
+  "releases": {
+    "latest": "1.34.0",
+    "all_versions": [
+      "1.31.1",
+      "1.31.2b1",
+      "1.32.0",
+      "1.32.1",
+      "1.32.2",
+      "1.32.3",
+      "1.33.0",
+      "1.33.0b1",
+      "1.34.0",
+      "1.34.0b1",
+      "1.4.0",
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.5.0",
+      "1.5.1",
+      "1.6.0",
+      "1.7.0",
+      "1.8.0",
+      "1.9.0"
+    ]
+  }
+}

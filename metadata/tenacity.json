@@ -1,0 +1,60 @@
+{
+  "name": "tenacity",
+  "version": "9.1.2",
+  "summary": "Retry code until it succeeds",
+  "author": "Julien Danjou",
+  "author_email": "julien@danjou.info",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "reno; extra == \"doc\"",
+    "sphinx; extra == \"doc\"",
+    "pytest; extra == \"test\"",
+    "tornado>=4.5; extra == \"test\"",
+    "typeguard; extra == \"test\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/jd/tenacity"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/jd/tenacity",
+  "last_fetched": "2025-12-26T04:46:48.648764+00:00",
+  "releases": {
+    "latest": "9.1.2",
+    "all_versions": [
+      "6.0.0",
+      "6.1.0",
+      "6.2.0",
+      "6.3.0",
+      "6.3.1",
+      "7.0.0",
+      "8.0.0",
+      "8.0.1",
+      "8.1.0",
+      "8.2.0",
+      "8.2.1",
+      "8.2.2",
+      "8.2.3",
+      "8.3.0",
+      "8.4.0",
+      "8.4.1",
+      "8.4.2",
+      "8.5.0",
+      "9.0.0",
+      "9.1.2"
+    ]
+  }
+}

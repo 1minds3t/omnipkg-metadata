@@ -1,0 +1,56 @@
+{
+  "name": "widgetsnbextension",
+  "version": "4.0.15",
+  "summary": "Jupyter interactive widgets for Jupyter Notebook",
+  "author": "Jupyter Development Team",
+  "author_email": "jupyter@googlegroups.com",
+  "license": "BSD 3-Clause License",
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "http://jupyter.org"
+  },
+  "classifiers": [
+    "Framework :: Jupyter",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "Interactive, Interpreter, Shell, Web, notebook, widgets, Jupyter",
+  "home_page": "http://jupyter.org",
+  "last_fetched": "2025-12-26T04:47:46.184737+00:00",
+  "releases": {
+    "latest": "4.0.15",
+    "all_versions": [
+      "4.0.0b0",
+      "4.0.0b1",
+      "4.0.0rc0",
+      "4.0.0rc1",
+      "4.0.0rc2",
+      "4.0.1",
+      "4.0.10",
+      "4.0.11",
+      "4.0.12",
+      "4.0.13",
+      "4.0.14",
+      "4.0.15",
+      "4.0.2",
+      "4.0.3",
+      "4.0.4",
+      "4.0.5",
+      "4.0.6",
+      "4.0.7",
+      "4.0.8",
+      "4.0.9"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "httpcore",
+  "version": "1.0.9",
+  "summary": "A minimal low-level HTTP client.",
+  "author": null,
+  "author_email": "Tom Christie <tom@tomchristie.com>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "certifi",
+    "h11>=0.16",
+    "anyio<5.0,>=4.0; extra == \"asyncio\"",
+    "h2<5,>=3; extra == \"http2\"",
+    "socksio==1.*; extra == \"socks\"",
+    "trio<1.0,>=0.22.0; extra == \"trio\""
+  ],
+  "project_urls": {
+    "Documentation": "https://www.encode.io/httpcore",
+    "Homepage": "https://www.encode.io/httpcore/",
+    "Source": "https://github.com/encode/httpcore"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Web Environment",
+    "Framework :: AsyncIO",
+    "Framework :: Trio",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet :: WWW/HTTP"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:36.833718+00:00",
+  "releases": {
+    "latest": "1.0.9",
+    "all_versions": [
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.9.0",
+      "0.9.1",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9"
+    ]
+  }
+}

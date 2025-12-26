@@ -1,0 +1,66 @@
+{
+  "name": "referencing",
+  "version": "0.37.0",
+  "summary": "JSON Referencing + Python",
+  "author": null,
+  "author_email": "Julian Berman <Julian+referencing@GrayVines.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "attrs>=22.2.0",
+    "rpds-py>=0.7.0",
+    "typing-extensions>=4.4.0; python_version < \"3.13\""
+  ],
+  "project_urls": {
+    "Changelog": "https://referencing.readthedocs.io/en/stable/changes/",
+    "Documentation": "https://referencing.readthedocs.io/",
+    "Funding": "https://github.com/sponsors/Julian",
+    "Homepage": "https://github.com/python-jsonschema/referencing",
+    "Issues": "https://github.com/python-jsonschema/referencing/issues/",
+    "Source": "https://github.com/python-jsonschema/referencing",
+    "Tidelift": "https://tidelift.com/subscription/pkg/pypi-referencing?utm_source=pypi-referencing&utm_medium=referral&utm_campaign=pypi-link"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: File Formats :: JSON",
+    "Topic :: File Formats :: JSON :: JSON Schema"
+  ],
+  "keywords": "asyncapi, json, jsonschema, openapi, referencing",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:42.181178+00:00",
+  "releases": {
+    "latest": "0.37.0",
+    "all_versions": [
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.6.0",
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.7.4",
+      "0.8.0",
+      "0.8.10",
+      "0.8.11",
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.8.5",
+      "0.8.6",
+      "0.8.7",
+      "0.8.8",
+      "0.8.9",
+      "0.9.2"
+    ]
+  }
+}

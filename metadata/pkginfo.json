@@ -1,0 +1,60 @@
+{
+  "name": "pkginfo",
+  "version": "1.12.1.2",
+  "summary": "Query metadata from sdists / bdists / installed packages.",
+  "author": "Tres Seaver, Agendaless Consulting",
+  "author_email": "tseaver@agendaless.com",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "pytest; extra == \"testing\"",
+    "pytest-cov; extra == \"testing\"",
+    "wheel; extra == \"testing\""
+  ],
+  "project_urls": {
+    "Homepage": "https://code.launchpad.net/~tseaver/pkginfo/trunk"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: System :: Software Distribution"
+  ],
+  "keywords": "distribution sdist installed metadata",
+  "home_page": "https://code.launchpad.net/~tseaver/pkginfo/trunk",
+  "last_fetched": "2025-12-26T04:47:11.110339+00:00",
+  "releases": {
+    "latest": "1.12.1.2",
+    "all_versions": [
+      "1.4.0",
+      "1.4.1",
+      "1.4.2",
+      "1.5.0",
+      "1.5.0.1",
+      "1.6.0",
+      "1.6.1",
+      "1.7.0",
+      "1.7.1",
+      "1.8.0",
+      "1.8.1",
+      "1.8.2",
+      "1.8.3",
+      "1.9.0",
+      "1.9.1",
+      "1.9.2",
+      "1.9.3",
+      "1.9.4",
+      "1.9.5",
+      "1.9.6"
+    ]
+  }
+}

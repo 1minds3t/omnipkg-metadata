@@ -1,0 +1,49 @@
+{
+  "name": "types-protobuf",
+  "version": "6.32.1.20251210",
+  "summary": "Typing stubs for protobuf",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changes": "https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/protobuf.md",
+    "Chat": "https://gitter.im/python/typing",
+    "GitHub": "https://github.com/python/typeshed",
+    "Homepage": "https://github.com/python/typeshed",
+    "Issue tracker": "https://github.com/python/typeshed/issues"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:37.188064+00:00",
+  "releases": {
+    "latest": "6.32.1.20251210",
+    "all_versions": [
+      "5.27.0.20240920",
+      "5.28.0.20240924",
+      "5.28.3.20241029",
+      "5.28.3.20241030",
+      "5.28.3.20241203",
+      "5.29.1.20241207",
+      "5.29.1.20250208",
+      "5.29.1.20250315",
+      "5.29.1.20250402",
+      "5.29.1.20250403",
+      "6.30.2.20250503",
+      "6.30.2.20250506",
+      "6.30.2.20250516",
+      "6.30.2.20250703",
+      "6.30.2.20250809",
+      "6.30.2.20250822",
+      "6.30.2.20250914",
+      "6.32.1.20250918",
+      "6.32.1.20251105",
+      "6.32.1.20251210"
+    ]
+  }
+}

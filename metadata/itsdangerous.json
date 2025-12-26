@@ -1,0 +1,53 @@
+{
+  "name": "itsdangerous",
+  "version": "2.2.0",
+  "summary": "Safely pass data to untrusted environments and back.",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Changes": "https://itsdangerous.palletsprojects.com/changes/",
+    "Chat": "https://discord.gg/pallets",
+    "Documentation": "https://itsdangerous.palletsprojects.com/",
+    "Donate": "https://palletsprojects.com/donate",
+    "Source": "https://github.com/pallets/itsdangerous/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:53.503525+00:00",
+  "releases": {
+    "latest": "2.2.0",
+    "all_versions": [
+      "0.17",
+      "0.18",
+      "0.19",
+      "0.20",
+      "0.21",
+      "0.22",
+      "0.23",
+      "0.24",
+      "0.9",
+      "0.9.1",
+      "1.1.0",
+      "2.0.0",
+      "2.0.0a1",
+      "2.0.0rc1",
+      "2.0.0rc2",
+      "2.0.1",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "2.2.0"
+    ]
+  }
+}

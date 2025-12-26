@@ -1,0 +1,67 @@
+{
+  "name": "coverage",
+  "version": "7.13.0",
+  "summary": "Code coverage measurement for Python",
+  "author": "Ned Batchelder and 246 others",
+  "author_email": "ned@nedbatchelder.com",
+  "license": "Apache-2.0",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "tomli; python_full_version <= \"3.11.0a6\" and extra == \"toml\""
+  ],
+  "project_urls": {
+    "Documentation": "https://coverage.readthedocs.io/en/7.13.0",
+    "Funding": "https://tidelift.com/subscription/pkg/pypi-coverage?utm_source=pypi-coverage&utm_medium=referral&utm_campaign=pypi",
+    "Homepage": "https://github.com/coveragepy/coveragepy",
+    "Issues": "https://github.com/coveragepy/coveragepy/issues",
+    "Mastodon": "https://hachyderm.io/@coveragepy",
+    "Mastodon (nedbat)": "https://hachyderm.io/@nedbat"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.15",
+    "Programming Language :: Python :: Free Threading :: 3 - Stable",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Software Development :: Testing"
+  ],
+  "keywords": "code coverage testing",
+  "home_page": "https://github.com/coveragepy/coveragepy",
+  "last_fetched": "2025-12-26T04:46:49.599069+00:00",
+  "releases": {
+    "latest": "7.13.0",
+    "all_versions": [
+      "7.6.1",
+      "7.6.10",
+      "7.6.11",
+      "7.6.12",
+      "7.6.2",
+      "7.6.3",
+      "7.6.4",
+      "7.6.5",
+      "7.6.6",
+      "7.6.7",
+      "7.6.8",
+      "7.6.9",
+      "7.7.0",
+      "7.7.1",
+      "7.8.0",
+      "7.8.1",
+      "7.8.2",
+      "7.9.0",
+      "7.9.1",
+      "7.9.2"
+    ]
+  }
+}

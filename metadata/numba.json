@@ -1,0 +1,58 @@
+{
+  "name": "numba",
+  "version": "0.63.1",
+  "summary": "compiling Python code using LLVM",
+  "author": null,
+  "author_email": null,
+  "license": "BSD",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "llvmlite<0.47,>=0.46.0dev0",
+    "numpy<2.4,>=1.22"
+  ],
+  "project_urls": {
+    "Homepage": "https://numba.pydata.org"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Compilers"
+  ],
+  "keywords": null,
+  "home_page": "https://numba.pydata.org",
+  "last_fetched": "2025-12-26T04:47:42.502984+00:00",
+  "releases": {
+    "latest": "0.63.1",
+    "all_versions": [
+      "0.60.0rc1",
+      "0.61.0",
+      "0.61.0rc1",
+      "0.61.0rc2",
+      "0.61.1rc1",
+      "0.61.2",
+      "0.62.0",
+      "0.62.0rc1",
+      "0.62.0rc2",
+      "0.62.1",
+      "0.63.0",
+      "0.63.0b1",
+      "0.63.0rc1",
+      "0.63.1",
+      "0.7.0",
+      "0.7.1",
+      "0.7.2",
+      "0.8.0",
+      "0.8.1",
+      "0.9.0"
+    ]
+  }
+}

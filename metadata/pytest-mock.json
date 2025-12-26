@@ -1,0 +1,66 @@
+{
+  "name": "pytest-mock",
+  "version": "3.15.1",
+  "summary": "Thin-wrapper around the mock package for easier use with pytest",
+  "author": null,
+  "author_email": "Bruno Oliveira <nicoddemus@gmail.com>",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "pytest>=6.2.5",
+    "pre-commit; extra == \"dev\"",
+    "pytest-asyncio; extra == \"dev\"",
+    "tox; extra == \"dev\""
+  ],
+  "project_urls": {
+    "Changelog": "https://pytest-mock.readthedocs.io/en/latest/changelog.html",
+    "Documentation": "https://pytest-mock.readthedocs.io/en/latest/",
+    "Homepage": "https://github.com/pytest-dev/pytest-mock/",
+    "Source": "https://github.com/pytest-dev/pytest-mock/",
+    "Tracker": "https://github.com/pytest-dev/pytest-mock/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Pytest",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Testing"
+  ],
+  "keywords": "pytest, mock",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:21.397714+00:00",
+  "releases": {
+    "latest": "3.15.1",
+    "all_versions": [
+      "3.11.1",
+      "3.12.0",
+      "3.13.0",
+      "3.14.0",
+      "3.14.1",
+      "3.15.0",
+      "3.15.1",
+      "3.2.0",
+      "3.3.0",
+      "3.3.1",
+      "3.4.0",
+      "3.5.0",
+      "3.5.1",
+      "3.6.0",
+      "3.6.1",
+      "3.7.0",
+      "3.8.0",
+      "3.8.1",
+      "3.8.2",
+      "3.9.0"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "pbs-installer",
+  "version": "2025.12.17",
+  "summary": "Installer for Python Build Standalone",
+  "author": null,
+  "author_email": "Frost Ming <me@frostming.com>",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "httpx<1,>=0.27.0; extra == \"download\"",
+    "zstandard>=0.21.0; extra == \"install\"",
+    "pbs-installer[download,install]; extra == \"all\""
+  ],
+  "project_urls": {
+    "Documentation": "http://pbs-installer.readthedocs.io",
+    "Repository": "https://github.com/frostming/pbs-installer"
+  },
+  "classifiers": [],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:36.586556+00:00",
+  "releases": {
+    "latest": "2025.12.17",
+    "all_versions": [
+      "2025.5.17",
+      "2025.5.29",
+      "2025.6.10",
+      "2025.6.12",
+      "2025.6.26",
+      "2025.6.30",
+      "2025.6.4",
+      "2025.6.6",
+      "2025.7.12",
+      "2025.7.2",
+      "2025.7.23",
+      "2025.7.8",
+      "2025.8.14",
+      "2025.8.18",
+      "2025.8.27",
+      "2025.8.28",
+      "2025.8.7",
+      "2025.8.8",
+      "2025.9.18",
+      "2025.9.2"
+    ]
+  }
+}

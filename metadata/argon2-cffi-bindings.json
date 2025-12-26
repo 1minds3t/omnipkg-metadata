@@ -1,0 +1,51 @@
+{
+  "name": "argon2-cffi-bindings",
+  "version": "25.1.0",
+  "summary": "Low-level CFFI bindings for Argon2",
+  "author": null,
+  "author_email": "Hynek Schlawack <hs@ox.cx>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "cffi>=1.0.1; python_version < \"3.14\"",
+    "cffi>=2.0.0b1; python_version >= \"3.14\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/hynek/argon2-cffi-bindings/blob/main/CHANGELOG.md",
+    "Funding": "https://github.com/sponsors/hynek",
+    "GitHub": "https://github.com/hynek/argon2-cffi-bindings",
+    "Tidelift": "https://tidelift.com/?utm_source=lifter&utm_medium=referral&utm_campaign=hynek"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Operating System :: Unix",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Free Threading",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Security",
+    "Topic :: Security :: Cryptography",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "password, hash, hashing, security, bindings, cffi",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:34.254979+00:00",
+  "releases": {
+    "latest": "25.1.0",
+    "all_versions": [
+      "21.1.0",
+      "21.2.0",
+      "25.1.0"
+    ]
+  }
+}

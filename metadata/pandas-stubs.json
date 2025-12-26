@@ -1,0 +1,64 @@
+{
+  "name": "pandas-stubs",
+  "version": "2.3.3.251219",
+  "summary": "Type annotations for pandas",
+  "author": "The Pandas Development Team",
+  "author_email": "pandas-dev@python.org",
+  "license": "BSD-3-Clause",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "numpy<=2.3.5,>=1.23.5",
+    "types-pytz>=2022.1.1"
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/pandas-dev/pandas-stubs/issues",
+    "Documentation": "https://pandas.pydata.org/pandas-docs/stable",
+    "Homepage": "https://pandas.pydata.org",
+    "Repository": "https://github.com/pandas-dev/pandas-stubs"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:31.031904+00:00",
+  "releases": {
+    "latest": "2.3.3.251219",
+    "all_versions": [
+      "2.1.1.230928",
+      "2.1.4.231218",
+      "2.1.4.231227",
+      "2.2.0.240218",
+      "2.2.1.240316",
+      "2.2.2.240514",
+      "2.2.2.240603",
+      "2.2.2.240805",
+      "2.2.2.240807",
+      "2.2.2.240909",
+      "2.2.3.241009",
+      "2.2.3.241126",
+      "2.2.3.250308",
+      "2.2.3.250527",
+      "2.3.0.250702",
+      "2.3.0.250703",
+      "2.3.2.250827",
+      "2.3.2.250926",
+      "2.3.3.251201",
+      "2.3.3.251219"
+    ]
+  }
+}

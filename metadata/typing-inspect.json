@@ -1,0 +1,55 @@
+{
+  "name": "typing-inspect",
+  "version": "0.9.0",
+  "summary": "Runtime inspection utilities for typing module.",
+  "author": "Ivan Levkivskyi",
+  "author_email": "levkivskyi@gmail.com",
+  "license": "MIT",
+  "requires_python": "",
+  "requires_dist": [
+    "mypy-extensions (>=0.3.0)",
+    "typing-extensions (>=3.7.4)",
+    "typing (>=3.7.4) ; python_version < \"3.5\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/ilevkivskyi/typing_inspect"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development"
+  ],
+  "keywords": "typing function annotations type hints hinting checking checker typehints typehinting typechecking inspect reflection introspection",
+  "home_page": "https://github.com/ilevkivskyi/typing_inspect",
+  "last_fetched": "2025-12-26T04:47:11.665247+00:00",
+  "releases": {
+    "latest": "0.9.0",
+    "all_versions": [
+      "0.1.0",
+      "0.1.1",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.7.1",
+      "0.8.0",
+      "0.9.0"
+    ]
+  }
+}

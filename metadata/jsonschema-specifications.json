@@ -1,0 +1,63 @@
+{
+  "name": "jsonschema-specifications",
+  "version": "2025.9.1",
+  "summary": "The JSON Schema meta-schemas and vocabularies, exposed as a Registry",
+  "author": null,
+  "author_email": "Julian Berman <Julian+jsonschema-specifications@GrayVines.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "referencing>=0.31.0"
+  ],
+  "project_urls": {
+    "Documentation": "https://jsonschema-specifications.readthedocs.io/",
+    "Funding": "https://github.com/sponsors/Julian",
+    "Homepage": "https://github.com/python-jsonschema/jsonschema-specifications",
+    "Issues": "https://github.com/python-jsonschema/jsonschema-specifications/issues/",
+    "Source": "https://github.com/python-jsonschema/jsonschema-specifications",
+    "Tidelift": "https://tidelift.com/subscription/pkg/pypi-jsonschema-specifications?utm_source=pypi-jsonschema-specifications&utm_medium=referral&utm_campaign=pypi-link"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: File Formats :: JSON",
+    "Topic :: File Formats :: JSON :: JSON Schema"
+  ],
+  "keywords": "data validation, json, json schema, jsonschema, validation",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:42.528988+00:00",
+  "releases": {
+    "latest": "2025.9.1",
+    "all_versions": [
+      "2022.12.3",
+      "2023.11.1",
+      "2023.11.2",
+      "2023.12.1",
+      "2023.2.1",
+      "2023.2.2",
+      "2023.2.4",
+      "2023.3.1",
+      "2023.3.2",
+      "2023.3.3",
+      "2023.3.4",
+      "2023.3.5",
+      "2023.3.6",
+      "2023.5.1",
+      "2023.5.2",
+      "2023.6.1",
+      "2023.7.1",
+      "2024.10.1",
+      "2025.4.1",
+      "2025.9.1"
+    ]
+  }
+}

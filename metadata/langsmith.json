@@ -1,0 +1,63 @@
+{
+  "name": "langsmith",
+  "version": "0.5.1",
+  "summary": "Client library to connect to the LangSmith Observability and Evaluation Platform.",
+  "author": null,
+  "author_email": "LangChain <support@langchain.dev>",
+  "license": "MIT",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "httpx<1,>=0.23.0",
+    "orjson>=3.9.14; platform_python_implementation != \"PyPy\"",
+    "packaging>=23.2",
+    "pydantic<3,>=1",
+    "requests-toolbelt>=1.0.0",
+    "requests>=2.0.0",
+    "uuid-utils<1.0,>=0.12.0",
+    "zstandard>=0.23.0",
+    "claude-agent-sdk>=0.1.0; python_version >= \"3.10\" and extra == \"claude-agent-sdk\"",
+    "langsmith-pyo3>=0.1.0rc2; extra == \"langsmith-pyo3\"",
+    "openai-agents>=0.0.3; extra == \"openai-agents\"",
+    "opentelemetry-api>=1.30.0; extra == \"otel\"",
+    "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == \"otel\"",
+    "opentelemetry-sdk>=1.30.0; extra == \"otel\"",
+    "pytest>=7.0.0; extra == \"pytest\"",
+    "rich>=13.9.4; extra == \"pytest\"",
+    "vcrpy>=7.0.0; extra == \"pytest\"",
+    "vcrpy>=7.0.0; extra == \"vcr\""
+  ],
+  "project_urls": {
+    "Documentation": "https://docs.smith.langchain.com/",
+    "Homepage": "https://smith.langchain.com/",
+    "Repository": "https://github.com/langchain-ai/langsmith-sdk"
+  },
+  "classifiers": [],
+  "keywords": "evaluation, langchain, langsmith, language, llm, nlp, platform, tracing, translation",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:55.573150+00:00",
+  "releases": {
+    "latest": "0.5.1",
+    "all_versions": [
+      "0.4.49",
+      "0.4.5",
+      "0.4.50",
+      "0.4.51",
+      "0.4.52",
+      "0.4.53",
+      "0.4.54",
+      "0.4.54rc0",
+      "0.4.55",
+      "0.4.56",
+      "0.4.57",
+      "0.4.58",
+      "0.4.59",
+      "0.4.6",
+      "0.4.60",
+      "0.4.7",
+      "0.4.8",
+      "0.4.9",
+      "0.5.0",
+      "0.5.1"
+    ]
+  }
+}

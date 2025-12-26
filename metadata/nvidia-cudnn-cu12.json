@@ -1,0 +1,66 @@
+{
+  "name": "nvidia-cudnn-cu12",
+  "version": "9.17.1.4",
+  "summary": "cuDNN runtime libraries",
+  "author": "Nvidia CUDA Installer Team",
+  "author_email": "compute_installer@nvidia.com",
+  "license": null,
+  "requires_python": ">=3",
+  "requires_dist": [
+    "nvidia-cublas-cu12"
+  ],
+  "project_urls": {
+    "Homepage": "https://developer.nvidia.com/cuda-zone"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: English",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Mathematics",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": "cuda, nvidia, runtime, machine learning, deep learning",
+  "home_page": "https://developer.nvidia.com/cuda-zone",
+  "last_fetched": "2025-12-26T04:47:36.981044+00:00",
+  "releases": {
+    "latest": "9.17.1.4",
+    "all_versions": [
+      "9.12.0.46",
+      "9.13.0.50",
+      "9.13.1.26",
+      "9.14.0.64",
+      "9.15.0.57",
+      "9.15.1.9",
+      "9.16.0.29",
+      "9.17.0.29",
+      "9.17.1.4",
+      "9.2.0.82",
+      "9.2.1.18",
+      "9.3.0.75",
+      "9.4.0.58",
+      "9.5.0.50",
+      "9.5.1.17",
+      "9.6.0.74",
+      "9.7.0.66",
+      "9.7.1.26",
+      "9.8.0.87",
+      "9.9.0.52"
+    ]
+  }
+}

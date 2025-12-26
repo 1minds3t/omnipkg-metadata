@@ -1,0 +1,43 @@
+{
+  "name": "uritemplate",
+  "version": "4.2.0",
+  "summary": "Implementation of RFC 6570 URI Templates",
+  "author": "Ian Stapleton Cordasco",
+  "author_email": "graffatcolmingov@gmail.com",
+  "license": "BSD 3-Clause OR Apache-2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://uritemplate.readthedocs.org",
+    "Source": "https://github.com/python-hyper/uritemplate"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython"
+  ],
+  "keywords": "rfc 6570 uri template",
+  "home_page": "https://uritemplate.readthedocs.org",
+  "last_fetched": "2025-12-26T04:46:59.160161+00:00",
+  "releases": {
+    "latest": "4.2.0",
+    "all_versions": [
+      "0.5",
+      "0.5.1",
+      "0.5.2",
+      "0.6",
+      "2.0.0",
+      "2.0.0rc1",
+      "2.0.0rc2",
+      "3.0.0",
+      "3.0.1",
+      "4.0.0",
+      "4.1.0",
+      "4.1.1",
+      "4.2.0"
+    ]
+  }
+}

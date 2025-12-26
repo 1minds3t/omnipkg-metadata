@@ -1,0 +1,57 @@
+{
+  "name": "toolz",
+  "version": "1.1.0",
+  "summary": "List processing tools and functional utilities",
+  "author": "PyToolz Contributors",
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "changelog": "https://github.com/pytoolz/toolz/releases",
+    "documentation": "https://toolz.readthedocs.io/en/latest/",
+    "homepage": "https://github.com/pytoolz/toolz",
+    "repository": "https://github.com/pytoolz/toolz"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy"
+  ],
+  "keywords": "functional, utility, itertools, functools",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:34.387549+00:00",
+  "releases": {
+    "latest": "1.1.0",
+    "all_versions": [
+      "0.3.0",
+      "0.4.0",
+      "0.4.1",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.6.0",
+      "0.7.0",
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.7.4",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0",
+      "1.0.0",
+      "1.0.1a0",
+      "1.1.0"
+    ]
+  }
+}

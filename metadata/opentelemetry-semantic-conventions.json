@@ -1,0 +1,57 @@
+{
+  "name": "opentelemetry-semantic-conventions",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry Semantic Conventions",
+  "author": null,
+  "author_email": "OpenTelemetry Authors <cncf-opentelemetry-contributors@lists.cncf.io>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "opentelemetry-api==1.39.1",
+    "typing-extensions>=4.5.0"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
+    "Repository": "https://github.com/open-telemetry/opentelemetry-python"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: OpenTelemetry",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:49.411858+00:00",
+  "releases": {
+    "latest": "0.60b1",
+    "all_versions": [
+      "0.48b0",
+      "0.49b0",
+      "0.49b1",
+      "0.49b2",
+      "0.50b0",
+      "0.51b0",
+      "0.52b0",
+      "0.52b1",
+      "0.53b0",
+      "0.53b1",
+      "0.54b0",
+      "0.54b1",
+      "0.55b0",
+      "0.55b1",
+      "0.56b0",
+      "0.57b0",
+      "0.58b0",
+      "0.59b0",
+      "0.60b0",
+      "0.60b1"
+    ]
+  }
+}

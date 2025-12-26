@@ -1,0 +1,44 @@
+{
+  "name": "antlr4-python3-runtime",
+  "version": "4.13.2",
+  "summary": "ANTLR 4.13.2 runtime for Python 3",
+  "author": "Terence Parr, Sam Harwell",
+  "author_email": "Eric Vergnaud <eric.vergnaud@wanadoo.fr>",
+  "license": "BSD",
+  "requires_python": null,
+  "requires_dist": [
+    "typing; python_version < \"3.5\""
+  ],
+  "project_urls": {
+    "Homepage": "http://www.antlr.org"
+  },
+  "classifiers": [],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:46.873860+00:00",
+  "releases": {
+    "latest": "4.13.2",
+    "all_versions": [
+      "4.11.1",
+      "4.12.0",
+      "4.13.0",
+      "4.13.1",
+      "4.13.2",
+      "4.4.0",
+      "4.4.1",
+      "4.5",
+      "4.5.2",
+      "4.5.2.1",
+      "4.5.3",
+      "4.6",
+      "4.7",
+      "4.7.1",
+      "4.7.2",
+      "4.8",
+      "4.9",
+      "4.9.1",
+      "4.9.2",
+      "4.9.3"
+    ]
+  }
+}

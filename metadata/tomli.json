@@ -1,0 +1,52 @@
+{
+  "name": "tomli",
+  "version": "2.3.0",
+  "summary": "A lil' TOML parser",
+  "author": null,
+  "author_email": "Taneli Hukkinen <hukkin@users.noreply.github.com>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://github.com/hukkin/tomli/blob/master/CHANGELOG.md",
+    "Homepage": "https://github.com/hukkin/tomli"
+  },
+  "classifiers": [
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": "toml",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:39.622085+00:00",
+  "releases": {
+    "latest": "2.3.0",
+    "all_versions": [
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.2.9",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.1.0",
+      "1.2.0",
+      "1.2.1",
+      "1.2.2",
+      "1.2.3",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.1.0",
+      "2.2.1",
+      "2.3.0"
+    ]
+  }
+}

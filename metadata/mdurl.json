@@ -1,0 +1,40 @@
+{
+  "name": "mdurl",
+  "version": "0.1.2",
+  "summary": "Markdown URL utilities",
+  "author": "",
+  "author_email": "Taneli Hukkinen <hukkin@users.noreply.github.com>",
+  "license": "",
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/executablebooks/mdurl"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": "markdown,commonmark",
+  "home_page": "",
+  "last_fetched": "2025-12-26T04:46:40.287904+00:00",
+  "releases": {
+    "latest": "0.1.2",
+    "all_versions": [
+      "0.0.1",
+      "0.1.0",
+      "0.1.1",
+      "0.1.2"
+    ]
+  }
+}

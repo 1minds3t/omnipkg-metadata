@@ -1,0 +1,59 @@
+{
+  "name": "flake8",
+  "version": "7.3.0",
+  "summary": "the modular source code checker: pep8 pyflakes and co",
+  "author": "Tarek Ziade",
+  "author_email": "tarek@ziade.org",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "mccabe<0.8.0,>=0.7.0",
+    "pycodestyle<2.15.0,>=2.14.0",
+    "pyflakes<3.5.0,>=3.4.0"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/pycqa/flake8"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Framework :: Flake8",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Quality Assurance"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/pycqa/flake8",
+  "last_fetched": "2025-12-26T04:47:26.060495+00:00",
+  "releases": {
+    "latest": "7.3.0",
+    "all_versions": [
+      "3.8.3",
+      "3.8.4",
+      "3.9.0",
+      "3.9.1",
+      "3.9.2",
+      "4.0.0",
+      "4.0.1",
+      "5.0.0",
+      "5.0.1",
+      "5.0.2",
+      "5.0.3",
+      "5.0.4",
+      "6.0.0",
+      "6.1.0",
+      "7.0.0",
+      "7.1.0",
+      "7.1.1",
+      "7.1.2",
+      "7.2.0",
+      "7.3.0"
+    ]
+  }
+}

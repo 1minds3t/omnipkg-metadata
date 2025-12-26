@@ -1,0 +1,50 @@
+{
+  "name": "typing-inspection",
+  "version": "0.4.2",
+  "summary": "Runtime typing introspection tools",
+  "author": null,
+  "author_email": "Victorien Plot <contact@vctrn.dev>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "typing-extensions>=4.12.0"
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/pydantic/typing-inspection/blob/main/HISTORY.md",
+    "Documentation": "https://pydantic.github.io/typing-inspection/dev/",
+    "Homepage": "https://github.com/pydantic/typing-inspection",
+    "Source": "https://github.com/pydantic/typing-inspection"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:36.270553+00:00",
+  "releases": {
+    "latest": "0.4.2",
+    "all_versions": [
+      "0.0.0",
+      "0.1.0",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2"
+    ]
+  }
+}

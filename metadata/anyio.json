@@ -1,0 +1,64 @@
+{
+  "name": "anyio",
+  "version": "4.12.0",
+  "summary": "High-level concurrency and networking framework on top of asyncio or Trio",
+  "author": null,
+  "author_email": "Alex Gr\u00f6nholm <alex.gronholm@nextday.fi>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+    "idna>=2.8",
+    "typing_extensions>=4.5; python_version < \"3.13\"",
+    "trio>=0.32.0; python_version >= \"3.10\" and extra == \"trio\"",
+    "trio>=0.31.0; python_version < \"3.10\" and extra == \"trio\""
+  ],
+  "project_urls": {
+    "Changelog": "https://anyio.readthedocs.io/en/stable/versionhistory.html",
+    "Documentation": "https://anyio.readthedocs.io/en/latest/",
+    "Issue tracker": "https://github.com/agronholm/anyio/issues",
+    "Source code": "https://github.com/agronholm/anyio"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AnyIO",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:33.701270+00:00",
+  "releases": {
+    "latest": "4.12.0",
+    "all_versions": [
+      "3.7.1",
+      "4.0.0",
+      "4.0.0rc1",
+      "4.1.0",
+      "4.10.0",
+      "4.11.0",
+      "4.12.0",
+      "4.2.0",
+      "4.3.0",
+      "4.4.0",
+      "4.5.0",
+      "4.5.1",
+      "4.5.2",
+      "4.6.0",
+      "4.6.1",
+      "4.6.2",
+      "4.6.2.post1",
+      "4.7.0",
+      "4.8.0",
+      "4.9.0"
+    ]
+  }
+}

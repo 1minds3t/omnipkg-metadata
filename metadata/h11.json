@@ -1,0 +1,51 @@
+{
+  "name": "h11",
+  "version": "0.16.0",
+  "summary": "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1",
+  "author": "Nathaniel J. Smith",
+  "author_email": "njs@pobox.com",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/python-hyper/h11"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: System :: Networking"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/python-hyper/h11",
+  "last_fetched": "2025-12-26T04:46:33.564042+00:00",
+  "releases": {
+    "latest": "0.16.0",
+    "all_versions": [
+      "0.0.1",
+      "0.10.0",
+      "0.11.0",
+      "0.12.0",
+      "0.13.0",
+      "0.14.0",
+      "0.15.0",
+      "0.16.0",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.9.0"
+    ]
+  }
+}

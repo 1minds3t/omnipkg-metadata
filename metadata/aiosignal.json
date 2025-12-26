@@ -1,0 +1,52 @@
+{
+  "name": "aiosignal",
+  "version": "1.4.0",
+  "summary": "aiosignal: a list of registered asynchronous callbacks",
+  "author": null,
+  "author_email": null,
+  "license": "Apache 2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "frozenlist>=1.1.0",
+    "typing-extensions>=4.2; python_version < \"3.13\""
+  ],
+  "project_urls": {
+    "CI: GitHub Actions": "https://github.com/aio-libs/aiosignal/actions",
+    "Chat: Gitter": "https://gitter.im/aio-libs/Lobby",
+    "Coverage: codecov": "https://codecov.io/github/aio-libs/aiosignal",
+    "Docs: RTD": "https://docs.aiosignal.org",
+    "GitHub: issues": "https://github.com/aio-libs/aiosignal/issues",
+    "GitHub: repo": "https://github.com/aio-libs/aiosignal",
+    "Homepage": "https://github.com/aio-libs/aiosignal"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AsyncIO",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/aio-libs/aiosignal",
+  "last_fetched": "2025-12-26T04:46:41.396888+00:00",
+  "releases": {
+    "latest": "1.4.0",
+    "all_versions": [
+      "1.0.0",
+      "1.0.0a0",
+      "1.1.0",
+      "1.1.1",
+      "1.1.2",
+      "1.2.0",
+      "1.2.0a0",
+      "1.3.1",
+      "1.3.2",
+      "1.4.0"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "pyzmq",
+  "version": "27.1.0",
+  "summary": "Python bindings for 0MQ",
+  "author": "Brian E. Granger, Min Ragan-Kelley",
+  "author_email": "PyZMQ Contributors <zeromq-dev@lists.zeromq.org>",
+  "license": "BSD 3-Clause License\n         \n         Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\n         \n         All rights reserved.\n         \n         Redistribution and use in source and binary forms, with or without\n         modification, are permitted provided that the following conditions are met:\n         \n         1. Redistributions of source code must retain the above copyright notice, this\n            list of conditions and the following disclaimer.\n         \n         2. Redistributions in binary form must reproduce the above copyright notice,\n            this list of conditions and the following disclaimer in the documentation\n            and/or other materials provided with the distribution.\n         \n         3. Neither the name of the copyright holder nor the names of its\n            contributors may be used to endorse or promote products derived from\n            this software without specific prior written permission.\n         \n         THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\n         AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n         IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n         DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\n         FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n         DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n         SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n         CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n         OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n         OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n         ",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "cffi; implementation_name == \"pypy\""
+  ],
+  "project_urls": {
+    "Documentation": "https://pyzmq.readthedocs.org",
+    "Homepage": "https://pyzmq.readthedocs.org",
+    "Source": "https://github.com/zeromq/pyzmq",
+    "Tracker": "https://github.com/zeromq/pyzmq/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: System :: Networking"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:59.704160+00:00",
+  "releases": {
+    "latest": "27.1.0",
+    "all_versions": [
+      "26.0.0a2",
+      "26.0.0a3",
+      "26.0.0a4",
+      "26.0.0a5",
+      "26.0.0a6",
+      "26.0.0b1",
+      "26.0.0b2",
+      "26.0.1",
+      "26.0.2",
+      "26.0.3",
+      "26.1.0",
+      "26.1.1",
+      "26.2.0",
+      "26.2.1",
+      "26.3.0",
+      "26.4.0",
+      "27.0.0",
+      "27.0.1",
+      "27.0.2",
+      "27.1.0"
+    ]
+  }
+}

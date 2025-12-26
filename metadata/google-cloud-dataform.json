@@ -1,0 +1,67 @@
+{
+  "name": "google-cloud-dataform",
+  "version": "0.7.0",
+  "summary": "Google Cloud Dataform API client library",
+  "author": "Google LLC",
+  "author_email": "googleapis-packages@google.com",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+    "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+    "grpcio<2.0.0,>=1.33.2",
+    "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+    "proto-plus<2.0.0,>=1.22.3",
+    "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+    "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+    "grpc-google-iam-v1<1.0.0,>=0.14.0"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dataform"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dataform",
+  "last_fetched": "2025-12-26T04:47:18.540883+00:00",
+  "releases": {
+    "latest": "0.7.0",
+    "all_versions": [
+      "0.5.10",
+      "0.5.11",
+      "0.5.12",
+      "0.5.13",
+      "0.5.14",
+      "0.5.15",
+      "0.5.16",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.5rc0",
+      "0.5.6",
+      "0.5.7",
+      "0.5.8",
+      "0.5.9",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.7.0"
+    ]
+  }
+}

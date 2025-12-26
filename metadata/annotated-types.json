@@ -1,0 +1,51 @@
+{
+  "name": "annotated-types",
+  "version": "0.7.0",
+  "summary": "Reusable constraint types to use with typing.Annotated",
+  "author": null,
+  "author_email": "Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Samuel Colvin <s@muelcolvin.com>, Zac Hatfield-Dodds <zac@zhd.dev>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "typing-extensions>=4.0.0; python_version < \"3.9\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/annotated-types/annotated-types/releases",
+    "Homepage": "https://github.com/annotated-types/annotated-types",
+    "Source": "https://github.com/annotated-types/annotated-types"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Environment :: MacOS X",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux",
+    "Operating System :: Unix",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:34.904276+00:00",
+  "releases": {
+    "latest": "0.7.0",
+    "all_versions": [
+      "0.1.0",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.5.0",
+      "0.6.0",
+      "0.7.0"
+    ]
+  }
+}

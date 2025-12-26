@@ -1,0 +1,71 @@
+{
+  "name": "uvloop",
+  "version": "0.22.1",
+  "summary": "Fast implementation of asyncio event loop on top of libuv",
+  "author": null,
+  "author_email": "Yury Selivanov <yury@magic.io>",
+  "license": "MIT License",
+  "requires_python": ">=3.8.1",
+  "requires_dist": [
+    "aiohttp>=3.10.5; extra == \"test\"",
+    "flake8~=6.1; extra == \"test\"",
+    "psutil; extra == \"test\"",
+    "pycodestyle~=2.11.0; extra == \"test\"",
+    "pyOpenSSL~=25.3.0; extra == \"test\"",
+    "mypy>=0.800; extra == \"test\"",
+    "setuptools>=60; extra == \"dev\"",
+    "Cython~=3.0; extra == \"dev\"",
+    "Sphinx~=4.1.2; extra == \"docs\"",
+    "sphinxcontrib-asyncio~=0.3.0; extra == \"docs\"",
+    "sphinx_rtd_theme~=0.5.2; extra == \"docs\""
+  ],
+  "project_urls": {
+    "github": "https://github.com/MagicStack/uvloop"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AsyncIO",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: POSIX",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: System :: Networking"
+  ],
+  "keywords": "asyncio, networking",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:10.476718+00:00",
+  "releases": {
+    "latest": "0.22.1",
+    "all_versions": [
+      "0.4.9",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.6.0",
+      "0.6.1",
+      "0.6.5",
+      "0.6.6",
+      "0.6.7",
+      "0.6.8",
+      "0.7.0",
+      "0.7.1",
+      "0.7.2",
+      "0.8.0",
+      "0.8.1",
+      "0.9.0",
+      "0.9.1"
+    ]
+  }
+}

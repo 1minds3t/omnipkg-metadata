@@ -1,0 +1,69 @@
+{
+  "name": "pexpect",
+  "version": "4.9.0",
+  "summary": "Pexpect allows easy control of interactive console applications.",
+  "author": "Noah Spurrier; Thomas Kluyver; Jeff Quast",
+  "author_email": "noah@noah.org, thomas@kluyver.me.uk, contact@jeffquast.com",
+  "license": "ISC license",
+  "requires_python": "",
+  "requires_dist": [
+    "ptyprocess (>=0.5)"
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/pexpect/pexpect/issues",
+    "Documentation": "https://pexpect.readthedocs.io/",
+    "History": "https://pexpect.readthedocs.io/en/stable/history.html",
+    "Homepage": "https://pexpect.readthedocs.io/",
+    "Source Code": "https://github.com/pexpect/pexpect"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: ISC License (ISCL)",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Software Development :: Testing",
+    "Topic :: System",
+    "Topic :: System :: Archiving :: Packaging",
+    "Topic :: System :: Installation/Setup",
+    "Topic :: System :: Shells",
+    "Topic :: System :: Software Distribution",
+    "Topic :: Terminals"
+  ],
+  "keywords": "",
+  "home_page": "https://pexpect.readthedocs.io/",
+  "last_fetched": "2025-12-26T04:46:48.382658+00:00",
+  "releases": {
+    "latest": "4.9.0",
+    "all_versions": [
+      "0.97",
+      "2.01",
+      "2.4",
+      "3.0",
+      "3.1",
+      "3.2",
+      "3.3",
+      "4.0",
+      "4.0.1",
+      "4.1.0",
+      "4.2.0",
+      "4.2.1",
+      "4.3.0",
+      "4.3.1",
+      "4.4.0",
+      "4.5.0",
+      "4.6.0",
+      "4.7.0",
+      "4.8.0",
+      "4.9.0"
+    ]
+  }
+}

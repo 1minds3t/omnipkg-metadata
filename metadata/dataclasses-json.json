@@ -1,0 +1,58 @@
+{
+  "name": "dataclasses-json",
+  "version": "0.6.7",
+  "summary": "Easily serialize dataclasses to and from JSON.",
+  "author": "Charles Li",
+  "author_email": "charles.dt.li@gmail.com",
+  "license": "MIT",
+  "requires_python": "<4.0,>=3.7",
+  "requires_dist": [
+    "marshmallow<4.0.0,>=3.18.0",
+    "typing-inspect<1,>=0.4.0"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/lidatong/dataclasses-json",
+    "Repository": "https://github.com/lidatong/dataclasses-json",
+    "changelog": "https://github.com/lidatong/dataclasses-json/releases",
+    "documentation": "https://lidatong.github.io/dataclasses-json/",
+    "issues": "https://github.com/lidatong/dataclasses-json/issues"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/lidatong/dataclasses-json",
+  "last_fetched": "2025-12-26T04:47:21.667410+00:00",
+  "releases": {
+    "latest": "0.6.7",
+    "all_versions": [
+      "0.5.1",
+      "0.5.12",
+      "0.5.13",
+      "0.5.14",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5",
+      "0.5.6",
+      "0.5.7",
+      "0.5.8",
+      "0.5.9",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3",
+      "0.6.4",
+      "0.6.5",
+      "0.6.6",
+      "0.6.7"
+    ]
+  }
+}

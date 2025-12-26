@@ -1,0 +1,63 @@
+{
+  "name": "pycryptodome",
+  "version": "3.23.0",
+  "summary": "Cryptographic library for Python",
+  "author": "Helder Eijs",
+  "author_email": "helderijs@gmail.com",
+  "license": "BSD, Public Domain",
+  "requires_python": "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,!=3.6.*,>=2.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://www.pycryptodome.org/src/changelog",
+    "Homepage": "https://www.pycryptodome.org",
+    "Source": "https://github.com/Legrandin/pycryptodome/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "License :: Public Domain",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: Unix",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Security :: Cryptography"
+  ],
+  "keywords": null,
+  "home_page": "https://www.pycryptodome.org",
+  "last_fetched": "2025-12-26T04:47:14.703084+00:00",
+  "releases": {
+    "latest": "3.23.0",
+    "all_versions": [
+      "3.6.3",
+      "3.6.4",
+      "3.6.5",
+      "3.6.6",
+      "3.7.0",
+      "3.7.1",
+      "3.7.2",
+      "3.7.3",
+      "3.8.0",
+      "3.8.1",
+      "3.8.2",
+      "3.9.0",
+      "3.9.1",
+      "3.9.2",
+      "3.9.3",
+      "3.9.4",
+      "3.9.6",
+      "3.9.7",
+      "3.9.8",
+      "3.9.9"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "botocore-stubs",
+  "version": "1.42.16",
+  "summary": "Type annotations and code completion for botocore",
+  "author": null,
+  "author_email": "Vlad Emelianov <vlad.emelianov.nz@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "types-awscrt",
+    "botocore; extra == \"botocore\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/youtype/botocore-stubs/releases",
+    "Documentation": "https://youtype.github.io/mypy_boto3_builder/",
+    "Homepage": "https://github.com/youtype/botocore-stubs",
+    "Issues": "https://github.com/youtype/botocore-stubs/issues",
+    "Repository": "https://github.com/youtype/botocore-stubs"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": "botocore, type-annotations, pyright, mypy, boto3",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:27.383070+00:00",
+  "releases": {
+    "latest": "1.42.16",
+    "all_versions": [
+      "1.41.3",
+      "1.41.4",
+      "1.41.5",
+      "1.41.6",
+      "1.42.1",
+      "1.42.10",
+      "1.42.11",
+      "1.42.12",
+      "1.42.13",
+      "1.42.14",
+      "1.42.15",
+      "1.42.16",
+      "1.42.2",
+      "1.42.3",
+      "1.42.4",
+      "1.42.5",
+      "1.42.6",
+      "1.42.7",
+      "1.42.8",
+      "1.42.9"
+    ]
+  }
+}

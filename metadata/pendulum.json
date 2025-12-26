@@ -1,0 +1,56 @@
+{
+  "name": "pendulum",
+  "version": "3.1.0",
+  "summary": "Python datetimes made easy",
+  "author": null,
+  "author_email": "S\u00e9bastien Eustace <sebastien@eustace.io>",
+  "license": "MIT License",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "python-dateutil>=2.6",
+    "tzdata>=2020.1",
+    "time-machine>=2.6.0; implementation_name != \"pypy\" and extra == \"test\""
+  ],
+  "project_urls": {
+    "Documentation": "https://pendulum.eustace.io/docs",
+    "Homepage": "https://pendulum.eustace.io",
+    "Repository": "https://github.com/sdispater/pendulum"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "datetime, date, time",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:15.325506+00:00",
+  "releases": {
+    "latest": "3.1.0",
+    "all_versions": [
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.4.4",
+      "1.5.0",
+      "1.5.1",
+      "2.0.0",
+      "2.0.0a0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "3.0.0",
+      "3.0.0a1",
+      "3.0.0b1",
+      "3.1.0"
+    ]
+  }
+}

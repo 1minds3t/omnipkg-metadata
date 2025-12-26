@@ -1,0 +1,67 @@
+{
+  "name": "google-cloud-bigtable",
+  "version": "2.35.0",
+  "summary": "Google Cloud Bigtable API client library",
+  "author": "Google LLC",
+  "author_email": "googleapis-packages@google.com",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "google-api-core[grpc]<3.0.0,>=2.17.0",
+    "google-cloud-core<3.0.0,>=1.4.4",
+    "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.23.0",
+    "grpc-google-iam-v1<1.0.0,>=0.12.4",
+    "proto-plus<2.0.0,>=1.22.3",
+    "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+    "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+    "google-crc32c<2.0.0dev,>=1.5.0",
+    "libcst>=0.2.5; extra == \"libcst\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/googleapis/python-bigtable"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/googleapis/python-bigtable",
+  "last_fetched": "2025-12-26T04:47:27.589357+00:00",
+  "releases": {
+    "latest": "2.35.0",
+    "all_versions": [
+      "2.3.1",
+      "2.3.2",
+      "2.3.3",
+      "2.30.0",
+      "2.30.1",
+      "2.31.0",
+      "2.32.0",
+      "2.33.0",
+      "2.34.0",
+      "2.35.0",
+      "2.4.0",
+      "2.5.0",
+      "2.5.1",
+      "2.5.2",
+      "2.6.0",
+      "2.7.0",
+      "2.7.1",
+      "2.8.0",
+      "2.8.1",
+      "2.9.0"
+    ]
+  }
+}

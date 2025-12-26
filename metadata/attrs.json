@@ -1,0 +1,57 @@
+{
+  "name": "attrs",
+  "version": "25.4.0",
+  "summary": "Classes Without Boilerplate",
+  "author": null,
+  "author_email": "Hynek Schlawack <hs@ox.cx>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://www.attrs.org/en/stable/changelog.html",
+    "Documentation": "https://www.attrs.org/",
+    "Funding": "https://github.com/sponsors/hynek",
+    "GitHub": "https://github.com/python-attrs/attrs",
+    "Tidelift": "https://tidelift.com/subscription/pkg/pypi-attrs?utm_source=pypi-attrs&utm_medium=pypi"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Typing :: Typed"
+  ],
+  "keywords": "attribute, boilerplate, class",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:33.280747+00:00",
+  "releases": {
+    "latest": "25.4.0",
+    "all_versions": [
+      "19.2.0",
+      "19.3.0",
+      "20.1.0",
+      "20.2.0",
+      "20.3.0",
+      "21.1.0",
+      "21.2.0",
+      "21.3.0",
+      "21.4.0",
+      "22.1.0",
+      "22.2.0",
+      "23.1.0",
+      "23.2.0",
+      "24.1.0",
+      "24.2.0",
+      "24.3.0",
+      "25.1.0",
+      "25.2.0",
+      "25.3.0",
+      "25.4.0"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "kubernetes",
+  "version": "34.1.0",
+  "summary": "Kubernetes python client",
+  "author": "Kubernetes",
+  "author_email": null,
+  "license": "Apache License Version 2.0",
+  "requires_python": ">=3.6",
+  "requires_dist": [
+    "certifi>=14.05.14",
+    "six>=1.9.0",
+    "python-dateutil>=2.5.3",
+    "pyyaml>=5.4.1",
+    "google-auth>=1.0.1",
+    "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+    "requests",
+    "requests-oauthlib",
+    "urllib3<2.4.0,>=1.24.2",
+    "durationpy>=0.7",
+    "adal>=1.0.2; extra == \"adal\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/kubernetes-client/python"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Utilities"
+  ],
+  "keywords": "Swagger, OpenAPI, Kubernetes",
+  "home_page": "https://github.com/kubernetes-client/python",
+  "last_fetched": "2025-12-26T04:47:06.008450+00:00",
+  "releases": {
+    "latest": "34.1.0",
+    "all_versions": [
+      "4.0.0a1",
+      "4.0.0b1",
+      "5.0.0",
+      "5.0.0b1",
+      "6.0.0",
+      "6.0.0b1",
+      "6.1.0",
+      "7.0.0",
+      "7.0.0a1",
+      "7.0.0b1",
+      "7.0.1",
+      "8.0.0",
+      "8.0.0a1",
+      "8.0.0b1",
+      "8.0.1",
+      "8.0.2",
+      "9.0.0",
+      "9.0.0a1",
+      "9.0.0b1",
+      "9.0.1"
+    ]
+  }
+}

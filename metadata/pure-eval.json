@@ -1,0 +1,44 @@
+{
+  "name": "pure-eval",
+  "version": "0.2.3",
+  "summary": "Safely evaluate AST nodes without side effects",
+  "author": "Alex Hall",
+  "author_email": "alex.mojaki@gmail.com",
+  "license": "MIT",
+  "requires_python": null,
+  "requires_dist": [
+    "pytest; extra == \"tests\""
+  ],
+  "project_urls": {
+    "Homepage": "http://github.com/alexmojaki/pure_eval"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "http://github.com/alexmojaki/pure_eval",
+  "last_fetched": "2025-12-26T04:47:09.859862+00:00",
+  "releases": {
+    "latest": "0.2.3",
+    "all_versions": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.3",
+      "0.1.0",
+      "0.1.1",
+      "0.2.0",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3"
+    ]
+  }
+}

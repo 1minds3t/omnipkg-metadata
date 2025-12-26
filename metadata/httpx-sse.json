@@ -1,0 +1,40 @@
+{
+  "name": "httpx-sse",
+  "version": "0.4.3",
+  "summary": "Consume Server-Sent Event (SSE) messages with HTTPX.",
+  "author": null,
+  "author_email": "Florimond Manca <florimond.manca@protonmail.com>",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/florimondmanca/httpx-sse"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:19.423518+00:00",
+  "releases": {
+    "latest": "0.4.3",
+    "all_versions": [
+      "0.1.0",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2",
+      "0.4.3"
+    ]
+  }
+}

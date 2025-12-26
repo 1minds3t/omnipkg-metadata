@@ -1,0 +1,58 @@
+{
+  "name": "aiohappyeyeballs",
+  "version": "2.6.1",
+  "summary": "Happy Eyeballs for asyncio",
+  "author": "J. Nick Koston",
+  "author_email": "nick@koston.org",
+  "license": "PSF-2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Bug Tracker": "https://github.com/aio-libs/aiohappyeyeballs/issues",
+    "Changelog": "https://github.com/aio-libs/aiohappyeyeballs/blob/main/CHANGELOG.md",
+    "Documentation": "https://aiohappyeyeballs.readthedocs.io",
+    "Repository": "https://github.com/aio-libs/aiohappyeyeballs"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Python Software Foundation License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:43.744314+00:00",
+  "releases": {
+    "latest": "2.6.1",
+    "all_versions": [
+      "2.3.0",
+      "2.3.1",
+      "2.3.2",
+      "2.3.3",
+      "2.3.4",
+      "2.3.5",
+      "2.3.6",
+      "2.3.7",
+      "2.4.0",
+      "2.4.1",
+      "2.4.2",
+      "2.4.3",
+      "2.4.4",
+      "2.4.5",
+      "2.4.6",
+      "2.4.7",
+      "2.4.8",
+      "2.5.0",
+      "2.6.0",
+      "2.6.1"
+    ]
+  }
+}

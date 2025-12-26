@@ -1,0 +1,67 @@
+{
+  "name": "Pygments",
+  "version": "2.19.2",
+  "summary": "Pygments is a syntax highlighting package written in Python.",
+  "author": null,
+  "author_email": "Georg Brandl <georg@python.org>",
+  "license": "BSD-2-Clause",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "colorama>=0.4.6; extra == \"windows-terminal\""
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/pygments/pygments/issues",
+    "Changelog": "https://github.com/pygments/pygments/blob/master/CHANGES",
+    "Documentation": "https://pygments.org/docs",
+    "Homepage": "https://pygments.org",
+    "Source": "https://github.com/pygments/pygments"
+  },
+  "classifiers": [
+    "Development Status :: 6 - Mature",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Text Processing :: Filters",
+    "Topic :: Utilities"
+  ],
+  "keywords": "syntax highlighting",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:33.839412+00:00",
+  "releases": {
+    "latest": "2.19.2",
+    "all_versions": [
+      "2.19.1",
+      "2.19.2",
+      "2.2.0",
+      "2.3.0",
+      "2.3.1",
+      "2.4.0",
+      "2.4.1",
+      "2.4.2",
+      "2.5.1",
+      "2.5.2",
+      "2.6.0",
+      "2.6.1",
+      "2.7.0",
+      "2.7.1",
+      "2.7.2",
+      "2.7.3",
+      "2.7.4",
+      "2.8.0",
+      "2.8.1",
+      "2.9.0"
+    ]
+  }
+}

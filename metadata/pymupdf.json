@@ -1,0 +1,59 @@
+{
+  "name": "PyMuPDF",
+  "version": "1.26.7",
+  "summary": "A high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
+  "author": "Artifex",
+  "author_email": "support@artifex.com",
+  "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License",
+  "requires_python": ">=3.10",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://pymupdf.readthedocs.io/en/latest/changes.html",
+    "Documentation": "https://pymupdf.readthedocs.io/",
+    "Source": "https://github.com/pymupdf/pymupdf",
+    "Tracker": "https://github.com/pymupdf/PyMuPDF/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: C",
+    "Programming Language :: C++",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Multimedia :: Graphics",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:08.833480+00:00",
+  "releases": {
+    "latest": "1.26.7",
+    "all_versions": [
+      "1.24.4",
+      "1.24.5",
+      "1.24.6",
+      "1.24.7",
+      "1.24.8",
+      "1.24.9",
+      "1.25.0",
+      "1.25.1",
+      "1.25.2",
+      "1.25.3",
+      "1.25.4",
+      "1.25.5",
+      "1.26.0",
+      "1.26.1",
+      "1.26.3",
+      "1.26.4",
+      "1.26.5",
+      "1.26.6",
+      "1.26.7",
+      "1.9.2"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "xgboost",
+  "version": "3.1.2",
+  "summary": "XGBoost Python Package",
+  "author": null,
+  "author_email": "Hyunsu Cho <chohyu01@cs.washington.edu>, Jiaming Yuan <jm.yuan@outlook.com>",
+  "license": "Apache-2.0",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "numpy",
+    "nvidia-nccl-cu12; platform_system == \"Linux\" and platform_machine != \"aarch64\"",
+    "scipy",
+    "dask; extra == \"dask\"",
+    "distributed; extra == \"dask\"",
+    "pandas; extra == \"dask\"",
+    "pandas>=1.2; extra == \"pandas\"",
+    "graphviz; extra == \"plotting\"",
+    "matplotlib; extra == \"plotting\"",
+    "cloudpickle; extra == \"pyspark\"",
+    "pyspark>=3.4; extra == \"pyspark\"",
+    "scikit-learn; extra == \"pyspark\"",
+    "scikit-learn; extra == \"scikit-learn\""
+  ],
+  "project_urls": {
+    "documentation": "https://xgboost.readthedocs.io/en/stable/",
+    "repository": "https://github.com/dmlc/xgboost"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:41.029775+00:00",
+  "releases": {
+    "latest": "3.1.2",
+    "all_versions": [
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.1.0",
+      "2.1.0rc1",
+      "2.1.1",
+      "2.1.2",
+      "2.1.3",
+      "2.1.4",
+      "3.0.0",
+      "3.0.0rc1",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4",
+      "3.0.5",
+      "3.1.0",
+      "3.1.0rc1",
+      "3.1.1",
+      "3.1.2"
+    ]
+  }
+}

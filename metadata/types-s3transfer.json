@@ -1,0 +1,62 @@
+{
+  "name": "types-s3transfer",
+  "version": "0.16.0",
+  "summary": "Type annotations and code completion for s3transfer",
+  "author": null,
+  "author_email": "Vlad Emelianov <vlad.emelianov.nz@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changelog": "https://github.com/youtype/types-s3transfer/releases",
+    "Documentation": "https://youtype.github.io/mypy_boto3_builder/",
+    "Homepage": "https://github.com/youtype/types-s3transfer",
+    "Issues": "https://github.com/youtype/types-s3transfer/issues",
+    "Repository": "https://github.com/youtype/types-s3transfer"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": "s3transfer, type-annotations, pyright, mypy, boto3",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:29.299679+00:00",
+  "releases": {
+    "latest": "0.16.0",
+    "all_versions": [
+      "0.12.0",
+      "0.13.0",
+      "0.13.1",
+      "0.14.0",
+      "0.15.0",
+      "0.16.0",
+      "0.6.0",
+      "0.6.0.post1",
+      "0.6.0.post2",
+      "0.6.0.post3",
+      "0.6.0.post4",
+      "0.6.0.post5",
+      "0.6.0.post6",
+      "0.6.0.post7",
+      "0.6.1",
+      "0.6.2",
+      "0.7.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0"
+    ]
+  }
+}

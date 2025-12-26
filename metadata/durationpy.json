@@ -1,0 +1,33 @@
+{
+  "name": "durationpy",
+  "version": "0.10",
+  "summary": "Module for converting between datetime.timedelta and Go's Duration strings.",
+  "author": "Ilia Choly",
+  "author_email": "ilia.choly@gmail.com",
+  "license": "MIT",
+  "requires_python": null,
+  "requires_dist": null,
+  "project_urls": {
+    "Download": "https://github.com/icholy/durationpy/tarball/0.10",
+    "Homepage": "https://github.com/icholy/durationpy"
+  },
+  "classifiers": [],
+  "keywords": null,
+  "home_page": "https://github.com/icholy/durationpy",
+  "last_fetched": "2025-12-26T04:47:27.021079+00:00",
+  "releases": {
+    "latest": "0.10",
+    "all_versions": [
+      "0.1",
+      "0.10",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9"
+    ]
+  }
+}

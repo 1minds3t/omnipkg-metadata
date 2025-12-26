@@ -1,0 +1,73 @@
+{
+  "name": "argcomplete",
+  "version": "3.6.3",
+  "summary": "Bash tab completion for argparse",
+  "author": "Andrey Kislyuk",
+  "author_email": "kislyuk@gmail.com",
+  "license": "Apache Software License",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "coverage; extra == \"test\"",
+    "mypy; extra == \"test\"",
+    "pexpect; extra == \"test\"",
+    "ruff; extra == \"test\"",
+    "wheel; extra == \"test\""
+  ],
+  "project_urls": {
+    "Change Log": "https://github.com/kislyuk/argcomplete/blob/develop/Changes.rst",
+    "Documentation": "https://kislyuk.github.io/argcomplete",
+    "Homepage": "https://github.com/kislyuk/argcomplete",
+    "Issue Tracker": "https://github.com/kislyuk/argcomplete/issues",
+    "Source Code": "https://github.com/kislyuk/argcomplete"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: System :: Shells",
+    "Topic :: Terminals"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:07.050802+00:00",
+  "releases": {
+    "latest": "3.6.3",
+    "all_versions": [
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.1.5",
+      "3.1.6",
+      "3.2.0",
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.3.0",
+      "3.4.0",
+      "3.5.0",
+      "3.5.1",
+      "3.5.2",
+      "3.5.3",
+      "3.6.0",
+      "3.6.1",
+      "3.6.2",
+      "3.6.3"
+    ]
+  }
+}

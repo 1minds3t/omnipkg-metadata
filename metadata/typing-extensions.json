@@ -1,0 +1,61 @@
+{
+  "name": "typing-extensions",
+  "version": "4.15.0",
+  "summary": "Backported and Experimental Type Hints for Python 3.9+",
+  "author": null,
+  "author_email": "\"Guido van Rossum, Jukka Lehtosalo, \u0141ukasz Langa, Michael Lee\" <levkivskyi@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Bug Tracker": "https://github.com/python/typing_extensions/issues",
+    "Changes": "https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+    "Documentation": "https://typing-extensions.readthedocs.io/",
+    "Home": "https://github.com/python/typing_extensions",
+    "Q & A": "https://github.com/python/typing/discussions",
+    "Repository": "https://github.com/python/typing_extensions"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development"
+  ],
+  "keywords": "annotations, backport, checker, checking, function, hinting, hints, type, typechecking, typehinting, typehints, typing",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:29.461988+00:00",
+  "releases": {
+    "latest": "4.15.0",
+    "all_versions": [
+      "4.14.0",
+      "4.14.0rc1",
+      "4.14.1",
+      "4.15.0",
+      "4.15.0rc1",
+      "4.2.0",
+      "4.3.0",
+      "4.4.0",
+      "4.5.0",
+      "4.6.0",
+      "4.6.1",
+      "4.6.2",
+      "4.6.3",
+      "4.7.0",
+      "4.7.0rc1",
+      "4.7.1",
+      "4.8.0",
+      "4.8.0rc1",
+      "4.9.0",
+      "4.9.0rc1"
+    ]
+  }
+}

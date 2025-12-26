@@ -1,0 +1,68 @@
+{
+  "name": "shapely",
+  "version": "2.1.2",
+  "summary": "Manipulation and analysis of geometric objects",
+  "author": "Sean Gillies",
+  "author_email": null,
+  "license": "BSD 3-Clause",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "numpy>=1.21",
+    "pytest; extra == \"test\"",
+    "pytest-cov; extra == \"test\"",
+    "scipy-doctest; extra == \"test\"",
+    "numpydoc==1.1.*; extra == \"docs\"",
+    "matplotlib; extra == \"docs\"",
+    "sphinx; extra == \"docs\"",
+    "sphinx-book-theme; extra == \"docs\"",
+    "sphinx-remove-toctrees; extra == \"docs\""
+  ],
+  "project_urls": {
+    "Documentation": "https://shapely.readthedocs.io/",
+    "Repository": "https://github.com/shapely/shapely"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: Unix",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: GIS"
+  ],
+  "keywords": "geometry, topology, gis",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:12.944800+00:00",
+  "releases": {
+    "latest": "2.1.2",
+    "all_versions": [
+      "1.8rc1",
+      "1.8rc2",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.0a1",
+      "2.0b1",
+      "2.0b2",
+      "2.0rc1",
+      "2.0rc2",
+      "2.0rc3",
+      "2.1.0",
+      "2.1.0rc1",
+      "2.1.1",
+      "2.1.2"
+    ]
+  }
+}

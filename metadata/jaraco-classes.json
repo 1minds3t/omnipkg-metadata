@@ -1,0 +1,62 @@
+{
+  "name": "jaraco.classes",
+  "version": "3.4.0",
+  "summary": "Utility functions for Python class constructs",
+  "author": "Jason R. Coombs",
+  "author_email": "jaraco@jaraco.com",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "more-itertools",
+    "sphinx>=3.5; extra == \"docs\"",
+    "jaraco.packaging>=9.3; extra == \"docs\"",
+    "rst.linker>=1.9; extra == \"docs\"",
+    "furo; extra == \"docs\"",
+    "sphinx-lint; extra == \"docs\"",
+    "jaraco.tidelift>=1.4; extra == \"docs\"",
+    "pytest>=6; extra == \"testing\"",
+    "pytest-checkdocs>=2.4; extra == \"testing\"",
+    "pytest-cov; extra == \"testing\"",
+    "pytest-mypy; extra == \"testing\"",
+    "pytest-enabler>=2.2; extra == \"testing\"",
+    "pytest-ruff>=0.2.1; extra == \"testing\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/jaraco/jaraco.classes"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/jaraco/jaraco.classes",
+  "last_fetched": "2025-12-26T04:46:56.403878+00:00",
+  "releases": {
+    "latest": "3.4.0",
+    "all_versions": [
+      "1.0",
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.4.1",
+      "1.4.2",
+      "1.4.3",
+      "1.5",
+      "2.0",
+      "3.0.0",
+      "3.1.0",
+      "3.1.1",
+      "3.2.0",
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.3.0",
+      "3.3.1",
+      "3.4.0"
+    ]
+  }
+}

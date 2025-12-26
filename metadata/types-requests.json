@@ -1,0 +1,51 @@
+{
+  "name": "types-requests",
+  "version": "2.32.4.20250913",
+  "summary": "Typing stubs for requests",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "urllib3>=2"
+  ],
+  "project_urls": {
+    "Changes": "https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/requests.md",
+    "Chat": "https://gitter.im/python/typing",
+    "GitHub": "https://github.com/python/typeshed",
+    "Homepage": "https://github.com/python/typeshed",
+    "Issue tracker": "https://github.com/python/typeshed/issues"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:03.745664+00:00",
+  "releases": {
+    "latest": "2.32.4.20250913",
+    "all_versions": [
+      "2.31.0.7",
+      "2.31.0.8",
+      "2.31.0.9",
+      "2.32.0.20240521",
+      "2.32.0.20240523",
+      "2.32.0.20240602",
+      "2.32.0.20240622",
+      "2.32.0.20240712",
+      "2.32.0.20240905",
+      "2.32.0.20240907",
+      "2.32.0.20240914",
+      "2.32.0.20241016",
+      "2.32.0.20250301",
+      "2.32.0.20250306",
+      "2.32.0.20250328",
+      "2.32.0.20250515",
+      "2.32.0.20250602",
+      "2.32.4.20250611",
+      "2.32.4.20250809",
+      "2.32.4.20250913"
+    ]
+  }
+}

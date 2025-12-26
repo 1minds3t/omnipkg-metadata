@@ -1,0 +1,62 @@
+{
+  "name": "google-resumable-media",
+  "version": "2.8.0",
+  "summary": "Utilities for Google Media Downloads and Resumable Uploads",
+  "author": "Google Cloud Platform",
+  "author_email": "googleapis-publisher@google.com",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "google-crc32c<2.0.0,>=1.0.0",
+    "requests<3.0.0,>=2.18.0; extra == \"requests\"",
+    "aiohttp<4.0.0,>=3.6.2; extra == \"aiohttp\"",
+    "google-auth<2.0.0,>=1.22.0; extra == \"aiohttp\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/googleapis/google-resumable-media-python"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/googleapis/google-resumable-media-python",
+  "last_fetched": "2025-12-26T04:46:54.225092+00:00",
+  "releases": {
+    "latest": "2.8.0",
+    "all_versions": [
+      "2.0.0",
+      "2.0.0b1",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.1.0",
+      "2.2.0",
+      "2.2.1",
+      "2.3.0",
+      "2.3.1",
+      "2.3.2",
+      "2.3.3",
+      "2.4.0",
+      "2.4.1",
+      "2.5.0",
+      "2.6.0",
+      "2.7.0",
+      "2.7.1",
+      "2.7.2",
+      "2.8.0"
+    ]
+  }
+}

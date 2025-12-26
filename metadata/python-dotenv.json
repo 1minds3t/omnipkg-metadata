@@ -1,0 +1,60 @@
+{
+  "name": "python-dotenv",
+  "version": "1.2.1",
+  "summary": "Read key-value pairs from a .env file and set them as environment variables",
+  "author": null,
+  "author_email": "Saurabh Kumar <me+github@saurabh-kumar.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "click>=5.0; extra == \"cli\""
+  ],
+  "project_urls": {
+    "Source": "https://github.com/theskumar/python-dotenv"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: System :: Systems Administration",
+    "Topic :: Utilities"
+  ],
+  "keywords": "environment variables, deployments, settings, env, dotenv, configurations, python",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:38.391723+00:00",
+  "releases": {
+    "latest": "1.2.1",
+    "all_versions": [
+      "0.5.1",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3",
+      "0.6.4",
+      "0.6.5",
+      "0.7.0",
+      "0.7.1",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0",
+      "0.9.1",
+      "1.0.0",
+      "1.0.1",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0",
+      "1.2.1"
+    ]
+  }
+}

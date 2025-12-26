@@ -1,0 +1,56 @@
+{
+  "name": "async-timeout",
+  "version": "5.0.1",
+  "summary": "Timeout context manager for asyncio programs",
+  "author": "Andrew Svetlov <andrew.svetlov@gmail.com>",
+  "author_email": "andrew.svetlov@gmail.com",
+  "license": "Apache 2",
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "CI: GitHub Actions": "https://github.com/aio-libs/async-timeout/actions",
+    "Chat: Gitter": "https://gitter.im/aio-libs/Lobby",
+    "Coverage: codecov": "https://codecov.io/github/aio-libs/async-timeout",
+    "GitHub: issues": "https://github.com/aio-libs/async-timeout/issues",
+    "GitHub: repo": "https://github.com/aio-libs/async-timeout",
+    "Homepage": "https://github.com/aio-libs/async-timeout"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AsyncIO",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/aio-libs/async-timeout",
+  "last_fetched": "2025-12-26T04:46:50.701616+00:00",
+  "releases": {
+    "latest": "5.0.1",
+    "all_versions": [
+      "1.0.0",
+      "1.1.0",
+      "1.2.0",
+      "1.2.1",
+      "1.3.0",
+      "1.4.0",
+      "2.0.0",
+      "2.0.1",
+      "3.0.0",
+      "3.0.1",
+      "4.0.0",
+      "4.0.0a0",
+      "4.0.0a1",
+      "4.0.0a2",
+      "4.0.0a3",
+      "4.0.1",
+      "4.0.2",
+      "4.0.3",
+      "5.0.0",
+      "5.0.1"
+    ]
+  }
+}

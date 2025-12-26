@@ -1,0 +1,55 @@
+{
+  "name": "aliyun-python-sdk-core",
+  "version": "2.16.0",
+  "summary": "The core module of Aliyun Python SDK.",
+  "author": "Alibaba Cloud",
+  "author_email": "alibaba-cloud-sdk-dev-team@list.alibaba-inc.com",
+  "license": "Apache License 2.0",
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/aliyun/aliyun-openapi-python-sdk"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development"
+  ],
+  "keywords": "aliyun, sdk, core",
+  "home_page": "https://github.com/aliyun/aliyun-openapi-python-sdk",
+  "last_fetched": "2025-12-26T04:47:03.386320+00:00",
+  "releases": {
+    "latest": "2.16.0",
+    "all_versions": [
+      "2.4.4",
+      "2.5.0",
+      "2.5.1",
+      "2.5.2",
+      "2.6.0",
+      "2.6.1",
+      "2.6.2",
+      "2.7.0",
+      "2.7.2",
+      "2.8.0",
+      "2.8.1",
+      "2.8.2",
+      "2.8.3",
+      "2.8.4",
+      "2.8.5",
+      "2.8.6",
+      "2.8.7",
+      "2.9.2",
+      "2.9.4",
+      "2.9.5"
+    ]
+  }
+}

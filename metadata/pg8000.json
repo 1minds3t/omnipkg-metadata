@@ -1,0 +1,62 @@
+{
+  "name": "pg8000",
+  "version": "1.31.5",
+  "summary": "PostgreSQL interface library",
+  "author": "The Contributors",
+  "author_email": null,
+  "license": "BSD 3-Clause License",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "python-dateutil>=2.8.2",
+    "scramp>=1.4.5"
+  ],
+  "project_urls": {
+    "Homepage": "https://codeberg.org/tlocke/pg8000"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Database :: Front-Ends",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "dbapi, postgresql",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:38.339040+00:00",
+  "releases": {
+    "latest": "1.31.5",
+    "all_versions": [
+      "1.31.1",
+      "1.31.2",
+      "1.31.3",
+      "1.31.4",
+      "1.31.5",
+      "1.9.0",
+      "1.9.1",
+      "1.9.10",
+      "1.9.11",
+      "1.9.12",
+      "1.9.13",
+      "1.9.14",
+      "1.9.2",
+      "1.9.3",
+      "1.9.4",
+      "1.9.5",
+      "1.9.6",
+      "1.9.7",
+      "1.9.8",
+      "1.9.9"
+    ]
+  }
+}

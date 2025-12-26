@@ -1,0 +1,63 @@
+{
+  "name": "tree-sitter",
+  "version": "0.25.2",
+  "summary": "Python bindings to the Tree-sitter parsing library",
+  "author": null,
+  "author_email": "Max Brunsfeld <maxbrunsfeld@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "sphinx~=8.1; extra == \"docs\"",
+    "sphinx-book-theme; extra == \"docs\"",
+    "tree-sitter-html>=0.23.2; extra == \"tests\"",
+    "tree-sitter-javascript>=0.23.1; extra == \"tests\"",
+    "tree-sitter-json>=0.24.8; extra == \"tests\"",
+    "tree-sitter-python>=0.23.6; extra == \"tests\"",
+    "tree-sitter-rust>=0.23.2; extra == \"tests\""
+  ],
+  "project_urls": {
+    "Discord": "https://discord.gg/w7nTvsVJhm",
+    "Documentation": "https://tree-sitter.github.io/py-tree-sitter/",
+    "Homepage": "https://tree-sitter.github.io/tree-sitter/",
+    "Matrix": "https://matrix.to/#/#tree-sitter-chat:matrix.org",
+    "Source": "https://github.com/tree-sitter/py-tree-sitter"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: C",
+    "Programming Language :: Python",
+    "Topic :: Software Development :: Compilers",
+    "Topic :: Text Processing :: Linguistic",
+    "Typing :: Typed"
+  ],
+  "keywords": "incremental, parsing, tree-sitter",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:45.278978+00:00",
+  "releases": {
+    "latest": "0.25.2",
+    "all_versions": [
+      "0.20.0",
+      "0.20.1",
+      "0.20.2",
+      "0.20.3",
+      "0.20.4",
+      "0.21.0",
+      "0.21.1",
+      "0.21.2",
+      "0.21.3",
+      "0.22.0",
+      "0.22.1",
+      "0.22.2",
+      "0.22.3",
+      "0.23.0",
+      "0.23.1",
+      "0.23.2",
+      "0.24.0",
+      "0.25.0",
+      "0.25.1",
+      "0.25.2"
+    ]
+  }
+}

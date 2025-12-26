@@ -1,0 +1,64 @@
+{
+  "name": "multidict",
+  "version": "6.7.0",
+  "summary": "multidict implementation",
+  "author": "Andrew Svetlov",
+  "author_email": "andrew.svetlov@gmail.com",
+  "license": "Apache License 2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "typing-extensions>=4.1.0; python_version < \"3.11\""
+  ],
+  "project_urls": {
+    "CI: GitHub": "https://github.com/aio-libs/multidict/actions",
+    "Chat: Matrix": "https://matrix.to/#/#aio-libs:matrix.org",
+    "Chat: Matrix Space": "https://matrix.to/#/#aio-libs-space:matrix.org",
+    "Code of Conduct": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "Coverage: codecov": "https://codecov.io/github/aio-libs/multidict",
+    "Docs: Changelog": "https://multidict.aio-libs.org/en/latest/changes/",
+    "Docs: RTD": "https://multidict.aio-libs.org",
+    "GitHub: issues": "https://github.com/aio-libs/multidict/issues",
+    "GitHub: repo": "https://github.com/aio-libs/multidict",
+    "Homepage": "https://github.com/aio-libs/multidict"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/aio-libs/multidict",
+  "last_fetched": "2025-12-26T04:46:38.710492+00:00",
+  "releases": {
+    "latest": "6.7.0",
+    "all_versions": [
+      "6.0.4",
+      "6.0.5",
+      "6.1.0",
+      "6.2.0",
+      "6.3.0",
+      "6.3.1",
+      "6.3.2",
+      "6.4.0",
+      "6.4.1",
+      "6.4.2",
+      "6.4.3",
+      "6.4.4",
+      "6.5.0",
+      "6.5.1",
+      "6.6.0",
+      "6.6.1",
+      "6.6.2",
+      "6.6.3",
+      "6.6.4",
+      "6.7.0"
+    ]
+  }
+}

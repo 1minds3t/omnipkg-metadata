@@ -1,0 +1,58 @@
+{
+  "name": "langchain-community",
+  "version": "0.4.1",
+  "summary": "Community contributed LangChain integrations.",
+  "author": null,
+  "author_email": null,
+  "license": "MIT",
+  "requires_python": "<4.0.0,>=3.10.0",
+  "requires_dist": [
+    "langchain-core<2.0.0,>=1.0.1",
+    "langchain-classic<2.0.0,>=1.0.0",
+    "SQLAlchemy<3.0.0,>=1.4.0",
+    "requests<3.0.0,>=2.32.5",
+    "PyYAML<7.0.0,>=5.3.0",
+    "aiohttp<4.0.0,>=3.8.3",
+    "tenacity!=8.4.0,<10.0.0,>=8.1.0",
+    "dataclasses-json<0.7.0,>=0.6.7",
+    "pydantic-settings<3.0.0,>=2.10.1",
+    "langsmith<1.0.0,>=0.1.125",
+    "httpx-sse<1.0.0,>=0.4.0",
+    "numpy>=1.26.2; python_version < \"3.13\"",
+    "numpy>=2.1.0; python_version >= \"3.13\""
+  ],
+  "project_urls": {
+    "Release Notes": "https://github.com/langchain-ai/langchain/releases?q=tag%3A%22langchain-community%3D%3D0%22&expanded=true",
+    "Source Code": "https://github.com/langchain-ai/langchain-community/tree/main/libs/community",
+    "repository": "https://github.com/langchain-ai/langchain-community"
+  },
+  "classifiers": [],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:39.938404+00:00",
+  "releases": {
+    "latest": "0.4.1",
+    "all_versions": [
+      "0.3.22",
+      "0.3.23",
+      "0.3.24",
+      "0.3.25",
+      "0.3.26",
+      "0.3.27",
+      "0.3.28",
+      "0.3.29",
+      "0.3.3",
+      "0.3.30",
+      "0.3.31",
+      "0.3.4",
+      "0.3.5",
+      "0.3.6",
+      "0.3.7",
+      "0.3.8",
+      "0.3.9",
+      "0.4",
+      "0.4.1",
+      "1.0.0a1"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "pytest-cov",
+  "version": "7.0.0",
+  "summary": "Pytest plugin for measuring coverage.",
+  "author": null,
+  "author_email": "Marc Schlaich <marc.schlaich@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "coverage[toml]>=7.10.6",
+    "pluggy>=1.2",
+    "pytest>=7",
+    "process-tests; extra == \"testing\"",
+    "pytest-xdist; extra == \"testing\"",
+    "virtualenv; extra == \"testing\""
+  ],
+  "project_urls": {
+    "Changelog": "https://pytest-cov.readthedocs.io/en/latest/changelog.html",
+    "Documentation": "https://pytest-cov.readthedocs.io/",
+    "Issue Tracker": "https://github.com/pytest-dev/pytest-cov/issues",
+    "Sources": "https://github.com/pytest-dev/pytest-cov"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: Pytest",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Operating System :: Unix",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Testing",
+    "Topic :: Utilities"
+  ],
+  "keywords": "cover, coverage, distributed, parallel, py.test, pytest",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:59.495182+00:00",
+  "releases": {
+    "latest": "7.0.0",
+    "all_versions": [
+      "2.5.0",
+      "2.5.1",
+      "2.6.0",
+      "2.6.1",
+      "2.7.0",
+      "2.7.1",
+      "2.8.0",
+      "2.8.1",
+      "2.9.0",
+      "3.0.0",
+      "4.0.0",
+      "4.1.0",
+      "5.0.0",
+      "6.0.0",
+      "6.1.0",
+      "6.1.1",
+      "6.2.0",
+      "6.2.1",
+      "6.3.0",
+      "7.0.0"
+    ]
+  }
+}

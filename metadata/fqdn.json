@@ -1,0 +1,54 @@
+{
+  "name": "fqdn",
+  "version": "1.5.1",
+  "summary": "Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers",
+  "author": "ypcrts",
+  "author_email": "ypcrts@users.noreply.github.com",
+  "license": "MPL 2.0",
+  "requires_python": ">=2.7, !=3.0, !=3.1, !=3.2, !=3.3, !=3.4, <4",
+  "requires_dist": [
+    "cached-property (>=1.3.0) ; python_version < \"3.8\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/ypcrts/fqdn"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Internet",
+    "Topic :: Internet :: Name Service (DNS)",
+    "Topic :: System :: Systems Administration",
+    "Topic :: Utilities"
+  ],
+  "keywords": "fqdn,domain,hostname,RFC3686,dns",
+  "home_page": "https://github.com/ypcrts/fqdn",
+  "last_fetched": "2025-12-26T04:47:47.436467+00:00",
+  "releases": {
+    "latest": "1.5.1",
+    "all_versions": [
+      "0.0.1",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.1.0",
+      "1.2.0",
+      "1.3.0",
+      "1.3.1",
+      "1.4.0",
+      "1.5.0",
+      "1.5.1"
+    ]
+  }
+}

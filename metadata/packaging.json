@@ -1,0 +1,60 @@
+{
+  "name": "packaging",
+  "version": "25.0",
+  "summary": "Core utilities for Python packages",
+  "author": null,
+  "author_email": "Donald Stufft <donald@stufft.io>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://packaging.pypa.io/",
+    "Source": "https://github.com/pypa/packaging"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:30.665838+00:00",
+  "releases": {
+    "latest": "25.0",
+    "all_versions": [
+      "20.2",
+      "20.3",
+      "20.4",
+      "20.5",
+      "20.6",
+      "20.7",
+      "20.8",
+      "20.9",
+      "21.0",
+      "21.1",
+      "21.2",
+      "21.3",
+      "22.0",
+      "23.0",
+      "23.1",
+      "23.2",
+      "24.0",
+      "24.1",
+      "24.2",
+      "25.0"
+    ]
+  }
+}

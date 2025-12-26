@@ -1,0 +1,57 @@
+{
+  "name": "datadog",
+  "version": "0.52.1",
+  "summary": "The Datadog Python library",
+  "author": null,
+  "author_email": "\"Datadog, Inc.\" <dev@datadoghq.com>",
+  "license": "BSD-3-Clause",
+  "requires_python": "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,!=3.6.*,>=2.7",
+  "requires_dist": [
+    "configparser<5; python_version < \"3.0\"",
+    "requests>=2.6.0",
+    "typing; python_version < \"3.5\""
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/DataDog/datadogpy/issues",
+    "Documentation": "https://datadogpy.readthedocs.io/en/latest/",
+    "Source Code": "https://github.com/DataDog/datadogpy"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy"
+  ],
+  "keywords": "datadog",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:17.194547+00:00",
+  "releases": {
+    "latest": "0.52.1",
+    "all_versions": [
+      "0.44.0",
+      "0.44.1.dev0",
+      "0.45.0",
+      "0.46.0",
+      "0.47.0",
+      "0.48.0",
+      "0.49.0",
+      "0.49.1",
+      "0.5.0",
+      "0.50.0",
+      "0.50.1",
+      "0.50.2",
+      "0.51.0",
+      "0.52.0",
+      "0.52.1",
+      "0.6.0",
+      "0.6.1",
+      "0.7.0",
+      "0.8.0",
+      "0.9.0"
+    ]
+  }
+}

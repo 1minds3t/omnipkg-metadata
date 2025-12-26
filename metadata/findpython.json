@@ -1,0 +1,53 @@
+{
+  "name": "findpython",
+  "version": "0.7.1",
+  "summary": "A utility to find python versions on your system",
+  "author": null,
+  "author_email": "Frost Ming <mianghong@gmail.com>",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "packaging>=20",
+    "platformdirs>=4.3.6"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/frostming/findpython"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:37.669095+00:00",
+  "releases": {
+    "latest": "0.7.1",
+    "all_versions": [
+      "0.1.5",
+      "0.1.6",
+      "0.2.0",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1",
+      "0.5.0",
+      "0.5.1",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.6.3",
+      "0.7.0",
+      "0.7.1"
+    ]
+  }
+}

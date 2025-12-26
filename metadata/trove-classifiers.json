@@ -1,0 +1,48 @@
+{
+  "name": "trove-classifiers",
+  "version": "2025.12.1.14",
+  "summary": "Canonical source for classifiers on PyPI (pypi.org).",
+  "author": "The PyPI Admins",
+  "author_email": "admin@pypi.org",
+  "license": null,
+  "requires_python": null,
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/pypa/trove-classifiers"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Typing :: Typed"
+  ],
+  "keywords": "classifiers",
+  "home_page": "https://github.com/pypa/trove-classifiers",
+  "last_fetched": "2025-12-26T04:46:44.642407+00:00",
+  "releases": {
+    "latest": "2025.12.1.14",
+    "all_versions": [
+      "2025.1.6.15",
+      "2025.1.7.14",
+      "2025.11.14.15",
+      "2025.12.1.14",
+      "2025.2.18.16",
+      "2025.3.13.13",
+      "2025.3.19.19",
+      "2025.3.3.18",
+      "2025.4.11.15",
+      "2025.4.28.22",
+      "2025.5.1.12",
+      "2025.5.7.19",
+      "2025.5.8.13",
+      "2025.5.8.15",
+      "2025.5.9.12",
+      "2025.8.26.11",
+      "2025.8.6.13",
+      "2025.9.11.17",
+      "2025.9.8.13",
+      "2025.9.9.12"
+    ]
+  }
+}

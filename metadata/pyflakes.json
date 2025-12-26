@@ -1,0 +1,54 @@
+{
+  "name": "pyflakes",
+  "version": "3.4.0",
+  "summary": "passive checker of Python programs",
+  "author": "A lot of people",
+  "author_email": "code-quality@python.org",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/PyCQA/pyflakes"
+  },
+  "classifiers": [
+    "Development Status :: 6 - Mature",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/PyCQA/pyflakes",
+  "last_fetched": "2025-12-26T04:47:24.041059+00:00",
+  "releases": {
+    "latest": "3.4.0",
+    "all_versions": [
+      "1.3.0",
+      "1.4.0",
+      "1.5.0",
+      "1.6.0",
+      "2.0.0",
+      "2.1.0",
+      "2.1.1",
+      "2.2.0",
+      "2.3.0",
+      "2.3.1",
+      "2.4.0",
+      "2.5.0",
+      "3.0.0",
+      "3.0.1",
+      "3.1.0",
+      "3.2.0",
+      "3.3.0",
+      "3.3.1",
+      "3.3.2",
+      "3.4.0"
+    ]
+  }
+}

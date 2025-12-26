@@ -1,0 +1,71 @@
+{
+  "name": "nbformat",
+  "version": "5.10.4",
+  "summary": "The Jupyter Notebook format",
+  "author": null,
+  "author_email": "Jupyter Development Team <jupyter@googlegroups.com>",
+  "license": "BSD 3-Clause License  - Copyright (c) 2001-2015, IPython Development Team - Copyright (c) 2015-, Jupyter Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "fastjsonschema>=2.15",
+    "jsonschema>=2.6",
+    "jupyter-core!=5.0.*,>=4.12",
+    "traitlets>=5.1",
+    "myst-parser; extra == \"docs\"",
+    "pydata-sphinx-theme; extra == \"docs\"",
+    "sphinx; extra == \"docs\"",
+    "sphinxcontrib-github-alt; extra == \"docs\"",
+    "sphinxcontrib-spelling; extra == \"docs\"",
+    "pep440; extra == \"test\"",
+    "pre-commit; extra == \"test\"",
+    "pytest; extra == \"test\"",
+    "testpath; extra == \"test\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/jupyter/nbformat/blob/main/CHANGELOG.md",
+    "Documentation": "https://nbformat.readthedocs.io/",
+    "Homepage": "https://jupyter.org",
+    "Repository": "https://github.com/jupyter/nbformat.git"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "Interactive, Interpreter, Shell, Web",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:26.750914+00:00",
+  "releases": {
+    "latest": "5.10.4",
+    "all_versions": [
+      "5.10.1",
+      "5.10.2",
+      "5.10.3",
+      "5.10.4",
+      "5.2.0",
+      "5.3.0",
+      "5.3.0b0",
+      "5.4.0",
+      "5.5.0",
+      "5.5.0b1",
+      "5.6.0",
+      "5.6.1",
+      "5.7.0",
+      "5.7.1",
+      "5.7.2",
+      "5.7.3",
+      "5.8.0",
+      "5.9.0",
+      "5.9.1",
+      "5.9.2"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "keyring",
+  "version": "25.7.0",
+  "summary": "Store and access your passwords safely.",
+  "author": null,
+  "author_email": "Kang Zhang <jobo.zh@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "pywin32-ctypes>=0.2.0; sys_platform == \"win32\"",
+    "SecretStorage>=3.2; sys_platform == \"linux\"",
+    "jeepney>=0.4.2; sys_platform == \"linux\"",
+    "importlib_metadata>=4.11.4; python_version < \"3.12\"",
+    "jaraco.classes",
+    "jaraco.functools",
+    "jaraco.context",
+    "pytest!=8.1.*,>=6; extra == \"test\"",
+    "pyfakefs; extra == \"test\"",
+    "sphinx>=3.5; extra == \"doc\"",
+    "jaraco.packaging>=9.3; extra == \"doc\"",
+    "rst.linker>=1.9; extra == \"doc\"",
+    "furo; extra == \"doc\"",
+    "sphinx-lint; extra == \"doc\"",
+    "jaraco.tidelift>=1.4; extra == \"doc\"",
+    "pytest-checkdocs>=2.4; extra == \"check\"",
+    "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+    "pytest-cov; extra == \"cover\"",
+    "pytest-enabler>=3.4; extra == \"enabler\"",
+    "pytest-mypy>=1.0.1; extra == \"type\"",
+    "pygobject-stubs; extra == \"type\"",
+    "shtab; extra == \"type\"",
+    "types-pywin32; extra == \"type\"",
+    "shtab>=1.1.0; extra == \"completion\""
+  ],
+  "project_urls": {
+    "Source": "https://github.com/jaraco/keyring"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:53.951196+00:00",
+  "releases": {
+    "latest": "25.7.0",
+    "all_versions": [
+      "7.3.1",
+      "8.0",
+      "8.0.1",
+      "8.1",
+      "8.1.1",
+      "8.2",
+      "8.3",
+      "8.4",
+      "8.4.1",
+      "8.5",
+      "8.5.1",
+      "8.6",
+      "8.6.1",
+      "8.7",
+      "9.0",
+      "9.1",
+      "9.2",
+      "9.2.1",
+      "9.3",
+      "9.3.1"
+    ]
+  }
+}

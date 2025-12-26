@@ -1,0 +1,64 @@
+{
+  "name": "pyparsing",
+  "version": "3.3.1",
+  "summary": "pyparsing - Classes and methods to define and execute parsing grammars",
+  "author": null,
+  "author_email": "Paul McGuire <ptmcg.gm+pyparsing@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "railroad-diagrams; extra == \"diagrams\"",
+    "jinja2; extra == \"diagrams\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/pyparsing/pyparsing/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Compilers",
+    "Topic :: Text Processing",
+    "Typing :: Typed"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:42.811442+00:00",
+  "releases": {
+    "latest": "3.3.1",
+    "all_versions": [
+      "3.1.0b1",
+      "3.1.0b2",
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.2.0",
+      "3.2.0b1",
+      "3.2.0b2",
+      "3.2.0b3",
+      "3.2.0rc1",
+      "3.2.1",
+      "3.2.2",
+      "3.2.3",
+      "3.2.4",
+      "3.2.5",
+      "3.3.0",
+      "3.3.0a1",
+      "3.3.0b1",
+      "3.3.1"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "chardet",
+  "version": "5.2.0",
+  "summary": "Universal encoding detector for Python 3",
+  "author": "Mark Pilgrim",
+  "author_email": "mark@diveintomark.org",
+  "license": "LGPL",
+  "requires_python": ">=3.7",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://chardet.readthedocs.io/",
+    "GitHub Project": "https://github.com/chardet/chardet",
+    "Homepage": "https://github.com/chardet/chardet",
+    "Issue Tracker": "https://github.com/chardet/chardet/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Linguistic"
+  ],
+  "keywords": "encoding,i18n,xml",
+  "home_page": "https://github.com/chardet/chardet",
+  "last_fetched": "2025-12-26T04:46:53.809405+00:00",
+  "releases": {
+    "latest": "5.2.0",
+    "all_versions": [
+      "1.0",
+      "1.0.1",
+      "1.1",
+      "2.1.1",
+      "2.2.1",
+      "2.3.0",
+      "3.0.0",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4",
+      "4.0.0",
+      "5.0.0",
+      "5.1.0",
+      "5.2.0"
+    ]
+  }
+}

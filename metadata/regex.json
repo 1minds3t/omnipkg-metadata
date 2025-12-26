@@ -1,0 +1,56 @@
+{
+  "name": "regex",
+  "version": "2025.11.3",
+  "summary": "Alternative regular expression module, to replace re.",
+  "author": null,
+  "author_email": "Matthew Barnett <regex@mrabarnett.plus.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/mrabarnett/mrab-regex"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing",
+    "Topic :: Text Processing :: General"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:46.752818+00:00",
+  "releases": {
+    "latest": "2025.11.3",
+    "all_versions": [
+      "2023.5.5",
+      "2023.6.3",
+      "2023.8.8",
+      "2024.11.6",
+      "2024.4.16",
+      "2024.4.28",
+      "2024.5.10",
+      "2024.5.15",
+      "2024.7.24",
+      "2024.9.11",
+      "2025.10.22",
+      "2025.10.23",
+      "2025.11.3",
+      "2025.7.29",
+      "2025.7.31",
+      "2025.7.33",
+      "2025.7.34",
+      "2025.8.29",
+      "2025.9.1",
+      "2025.9.18"
+    ]
+  }
+}

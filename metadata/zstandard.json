@@ -1,0 +1,57 @@
+{
+  "name": "zstandard",
+  "version": "0.25.0",
+  "summary": "Zstandard bindings for Python",
+  "author": null,
+  "author_email": "Gregory Szorc <gregory.szorc@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "cffi~=1.17; (platform_python_implementation != \"PyPy\" and python_version < \"3.14\") and extra == \"cffi\"",
+    "cffi>=2.0.0b; (platform_python_implementation != \"PyPy\" and python_version >= \"3.14\") and extra == \"cffi\""
+  ],
+  "project_urls": {
+    "Documentation": "https://python-zstandard.readthedocs.io/en/latest/",
+    "Homepage": "https://github.com/indygreg/python-zstandard"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: C",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Free Threading :: 1 - Unstable"
+  ],
+  "keywords": "zstandard, zstd, compression",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:55.287850+00:00",
+  "releases": {
+    "latest": "0.25.0",
+    "all_versions": [
+      "0.21.0",
+      "0.22.0",
+      "0.23.0",
+      "0.24.0",
+      "0.25.0",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0",
+      "0.9.1"
+    ]
+  }
+}

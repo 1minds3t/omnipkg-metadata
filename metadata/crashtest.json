@@ -1,0 +1,35 @@
+{
+  "name": "crashtest",
+  "version": "0.4.1",
+  "summary": "Manage Python errors with ease",
+  "author": "S\u00e9bastien Eustace",
+  "author_email": "sebastien@eustace.io",
+  "license": "MIT",
+  "requires_python": ">=3.7,<4.0",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/sdispater/crashtest",
+    "Repository": "https://github.com/sdispater/crashtest"
+  },
+  "classifiers": [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "",
+  "home_page": "https://github.com/sdispater/crashtest",
+  "last_fetched": "2025-12-26T04:47:18.195938+00:00",
+  "releases": {
+    "latest": "0.4.1",
+    "all_versions": [
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1"
+    ]
+  }
+}

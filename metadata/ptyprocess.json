@@ -1,0 +1,44 @@
+{
+  "name": "ptyprocess",
+  "version": "0.7.0",
+  "summary": "Run a subprocess in a pseudo terminal",
+  "author": "Thomas Kluyver",
+  "author_email": "thomas@kluyver.me.uk",
+  "license": "",
+  "requires_python": "",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/pexpect/ptyprocess"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: ISC License (ISCL)",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Topic :: Terminals"
+  ],
+  "keywords": "",
+  "home_page": "https://github.com/pexpect/ptyprocess",
+  "last_fetched": "2025-12-26T04:46:48.249968+00:00",
+  "releases": {
+    "latest": "0.7.0",
+    "all_versions": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.3.1",
+      "0.4",
+      "0.5",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.7.0"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "starlette",
+  "version": "0.50.0",
+  "summary": "The little ASGI library that shines.",
+  "author": null,
+  "author_email": "Tom Christie <tom@tomchristie.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "anyio<5,>=3.6.2",
+    "typing-extensions>=4.10.0; python_version < \"3.13\"",
+    "httpx<0.29.0,>=0.27.0; extra == \"full\"",
+    "itsdangerous; extra == \"full\"",
+    "jinja2; extra == \"full\"",
+    "python-multipart>=0.0.18; extra == \"full\"",
+    "pyyaml; extra == \"full\""
+  ],
+  "project_urls": {
+    "Changelog": "https://starlette.dev/release-notes/",
+    "Documentation": "https://starlette.dev/",
+    "Funding": "https://github.com/sponsors/Kludex",
+    "Homepage": "https://github.com/Kludex/starlette",
+    "Source": "https://github.com/Kludex/starlette"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Web Environment",
+    "Framework :: AnyIO",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Internet :: WWW/HTTP"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:41.729435+00:00",
+  "releases": {
+    "latest": "0.50.0",
+    "all_versions": [
+      "0.8.1",
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.8.5",
+      "0.8.6",
+      "0.8.7",
+      "0.8.8",
+      "0.9.0",
+      "0.9.1",
+      "0.9.10",
+      "0.9.11",
+      "0.9.2",
+      "0.9.3",
+      "0.9.4",
+      "0.9.5",
+      "0.9.6",
+      "0.9.7",
+      "0.9.8",
+      "0.9.9"
+    ]
+  }
+}

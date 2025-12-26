@@ -1,0 +1,56 @@
+{
+  "name": "propcache",
+  "version": "0.4.1",
+  "summary": "Accelerated property cache",
+  "author": "Andrew Svetlov",
+  "author_email": "andrew.svetlov@gmail.com",
+  "license": "Apache-2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "CI: GitHub Workflows": "https://github.com/aio-libs/propcache/actions?query=branch:master",
+    "Chat: Matrix": "https://matrix.to/#/#aio-libs:matrix.org",
+    "Chat: Matrix Space": "https://matrix.to/#/#aio-libs-space:matrix.org",
+    "Code of Conduct": "https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+    "Coverage: codecov": "https://codecov.io/github/aio-libs/propcache",
+    "Docs: Changelog": "https://propcache.readthedocs.io/en/latest/changes/",
+    "Docs: RTD": "https://propcache.readthedocs.io",
+    "GitHub: issues": "https://github.com/aio-libs/propcache/issues",
+    "GitHub: repo": "https://github.com/aio-libs/propcache",
+    "Homepage": "https://github.com/aio-libs/propcache"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Cython",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "cython, cext, propcache",
+  "home_page": "https://github.com/aio-libs/propcache",
+  "last_fetched": "2025-12-26T04:46:42.044084+00:00",
+  "releases": {
+    "latest": "0.4.1",
+    "all_versions": [
+      "0.0.0",
+      "0.0.0.dev0",
+      "0.1.0",
+      "0.2.0",
+      "0.2.1",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.4.0",
+      "0.4.1"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "boto3",
+  "version": "1.42.16",
+  "summary": "The AWS SDK for Python",
+  "author": "Amazon Web Services",
+  "author_email": null,
+  "license": "Apache-2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "botocore<1.43.0,>=1.42.16",
+    "jmespath<2.0.0,>=0.7.1",
+    "s3transfer<0.17.0,>=0.16.0",
+    "botocore[crt]<2.0a0,>=1.21.0; extra == \"crt\""
+  ],
+  "project_urls": {
+    "Documentation": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html",
+    "Homepage": "https://github.com/boto/boto3",
+    "Source": "https://github.com/boto/boto3"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/boto/boto3",
+  "last_fetched": "2025-12-26T04:46:29.004515+00:00",
+  "releases": {
+    "latest": "1.42.16",
+    "all_versions": [
+      "1.9.81",
+      "1.9.82",
+      "1.9.83",
+      "1.9.84",
+      "1.9.85",
+      "1.9.86",
+      "1.9.87",
+      "1.9.88",
+      "1.9.89",
+      "1.9.9",
+      "1.9.90",
+      "1.9.91",
+      "1.9.92",
+      "1.9.93",
+      "1.9.94",
+      "1.9.95",
+      "1.9.96",
+      "1.9.97",
+      "1.9.98",
+      "1.9.99"
+    ]
+  }
+}

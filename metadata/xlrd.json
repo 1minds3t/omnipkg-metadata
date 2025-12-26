@@ -1,0 +1,64 @@
+{
+  "name": "xlrd",
+  "version": "2.0.2",
+  "summary": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+  "author": "Chris Withers",
+  "author_email": "chris@withers.org",
+  "license": "BSD",
+  "requires_python": "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,>=2.7",
+  "requires_dist": [
+    "wheel; extra == \"build\"",
+    "twine; extra == \"build\"",
+    "sphinx; extra == \"docs\"",
+    "pytest; extra == \"test\"",
+    "pytest-cov; extra == \"test\""
+  ],
+  "project_urls": {
+    "Homepage": "http://www.python-excel.org/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Database",
+    "Topic :: Office/Business",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "xls, excel, spreadsheet, workbook",
+  "home_page": "http://www.python-excel.org/",
+  "last_fetched": "2025-12-26T04:47:32.566179+00:00",
+  "releases": {
+    "latest": "2.0.2",
+    "all_versions": [
+      "0.7.2",
+      "0.7.3",
+      "0.7.4",
+      "0.7.5",
+      "0.7.6",
+      "0.7.7",
+      "0.7.8",
+      "0.7.9",
+      "0.8.0",
+      "0.9.0",
+      "0.9.1",
+      "0.9.2",
+      "0.9.3",
+      "0.9.4",
+      "1.0.0",
+      "1.1.0",
+      "1.2.0",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2"
+    ]
+  }
+}

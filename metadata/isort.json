@@ -1,0 +1,66 @@
+{
+  "name": "isort",
+  "version": "7.0.0",
+  "summary": "A Python utility / library to sort Python imports.",
+  "author": null,
+  "author_email": "Timothy Crosley <timothy.crosley@gmail.com>, staticdev <staticdev-support@proton.me>",
+  "license": null,
+  "requires_python": ">=3.10.0",
+  "requires_dist": [
+    "colorama; extra == \"colors\"",
+    "setuptools; extra == \"plugins\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/PyCQA/isort/releases",
+    "Documentation": "https://pycqa.github.io/isort/index.html",
+    "Homepage": "https://pycqa.github.io/isort/index.html",
+    "Repository": "https://github.com/PyCQA/isort"
+  },
+  "classifiers": [
+    "Development Status :: 6 - Mature",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Utilities"
+  ],
+  "keywords": "Clean, Imports, Lint, Refactor, Sort",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:11.532799+00:00",
+  "releases": {
+    "latest": "7.0.0",
+    "all_versions": [
+      "5.5.4",
+      "5.5.5",
+      "5.6.0",
+      "5.6.1",
+      "5.6.2",
+      "5.6.3",
+      "5.6.4",
+      "5.7.0",
+      "5.8.0",
+      "5.9.0",
+      "5.9.1",
+      "5.9.2",
+      "5.9.3",
+      "6.0.0",
+      "6.0.0a1",
+      "6.0.0b1",
+      "6.0.0b2",
+      "6.0.1",
+      "6.1.0",
+      "7.0.0"
+    ]
+  }
+}

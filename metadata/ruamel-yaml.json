@@ -1,0 +1,66 @@
+{
+  "name": "ruamel.yaml",
+  "version": "0.18.17",
+  "summary": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+  "author": "Anthon van der Neut",
+  "author_email": "a.van.der.neut@ruamel.eu",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "ruamel.yaml.clib>=0.2.15; platform_python_implementation == \"CPython\" and python_version < \"3.15\"",
+    "ruamel.yaml.jinja2>=0.2; extra == \"jinja2\"",
+    "ryd; extra == \"docs\"",
+    "mercurial>5.7; extra == \"docs\""
+  ],
+  "project_urls": {
+    "Documentation": "https://yaml.dev/doc/ruamel.yaml",
+    "Home": "https://sourceforge.net/p/ruamel-yaml/",
+    "Source": "https://sourceforge.net/p/ruamel-yaml/code/ci/default/tree/",
+    "Tracker": "https://sourceforge.net/p/ruamel-yaml/tickets/"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Markup",
+    "Typing :: Typed"
+  ],
+  "keywords": "yaml 1.2 parser round-trip preserve quotes order config",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:54.691026+00:00",
+  "releases": {
+    "latest": "0.18.17",
+    "all_versions": [
+      "0.18.8",
+      "0.18.9",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.5.1",
+      "0.6",
+      "0.6.1",
+      "0.7",
+      "0.7.1",
+      "0.7.2",
+      "0.8",
+      "0.9.1",
+      "0.9.2",
+      "0.9.4",
+      "0.9.5",
+      "0.9.6",
+      "0.9.7",
+      "0.9.8"
+    ]
+  }
+}

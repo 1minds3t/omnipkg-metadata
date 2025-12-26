@@ -1,0 +1,73 @@
+{
+  "name": "narwhals",
+  "version": "2.14.0",
+  "summary": "Extremely lightweight compatibility layer between dataframe libraries",
+  "author": null,
+  "author_email": "Marco Gorelli <hello_narwhals@proton.me>",
+  "license": "MIT License\n        \n        Copyright (c) 2024, Marco Gorelli\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "cudf>=24.10.0; extra == \"cudf\"",
+    "dask[dataframe]>=2024.8; extra == \"dask\"",
+    "duckdb>=1.1; extra == \"duckdb\"",
+    "ibis-framework>=6.0.0; extra == \"ibis\"",
+    "packaging; extra == \"ibis\"",
+    "pyarrow-hotfix; extra == \"ibis\"",
+    "rich; extra == \"ibis\"",
+    "modin; extra == \"modin\"",
+    "pandas>=1.1.3; extra == \"pandas\"",
+    "polars>=0.20.4; extra == \"polars\"",
+    "pyarrow>=13.0.0; extra == \"pyarrow\"",
+    "pyspark>=3.5.0; extra == \"pyspark\"",
+    "pyspark[connect]>=3.5.0; extra == \"pyspark-connect\"",
+    "sqlframe!=3.39.3,>=3.22.0; extra == \"sqlframe\""
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/narwhals-dev/narwhals/issues",
+    "Documentation": "https://narwhals-dev.github.io/narwhals/",
+    "Homepage": "https://github.com/narwhals-dev/narwhals",
+    "Repository": "https://github.com/narwhals-dev/narwhals"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Free Threading :: 2 - Beta",
+    "Typing :: Typed"
+  ],
+  "keywords": "cudf, dask, dataframes, interoperability, modin, pandas, polars, pyarrow",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:29.990586+00:00",
+  "releases": {
+    "latest": "2.14.0",
+    "all_versions": [
+      "2.0.0",
+      "2.0.1",
+      "2.1.0",
+      "2.1.1",
+      "2.1.2",
+      "2.10.0",
+      "2.10.1",
+      "2.10.2",
+      "2.11.0",
+      "2.12.0",
+      "2.13.0",
+      "2.14.0",
+      "2.2.0",
+      "2.3.0",
+      "2.4.0",
+      "2.5.0",
+      "2.6.0",
+      "2.7.0",
+      "2.8.0",
+      "2.9.0"
+    ]
+  }
+}

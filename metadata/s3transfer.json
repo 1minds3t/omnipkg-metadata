@@ -1,0 +1,59 @@
+{
+  "name": "s3transfer",
+  "version": "0.16.0",
+  "summary": "An Amazon S3 Transfer Manager",
+  "author": "Amazon Web Services",
+  "author_email": "kyknapp1@gmail.com",
+  "license": "Apache License 2.0",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "botocore<2.0a.0,>=1.37.4",
+    "botocore[crt]<2.0a.0,>=1.37.4; extra == \"crt\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/boto/s3transfer"
+  },
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/boto/s3transfer",
+  "last_fetched": "2025-12-26T04:46:30.934769+00:00",
+  "releases": {
+    "latest": "0.16.0",
+    "all_versions": [
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.3.5",
+      "0.3.6",
+      "0.3.7",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0"
+    ]
+  }
+}

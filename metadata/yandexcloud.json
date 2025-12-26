@@ -1,0 +1,60 @@
+{
+  "name": "yandexcloud",
+  "version": "0.372.0",
+  "summary": "The Yandex Cloud official SDK",
+  "author": null,
+  "author_email": "Yandex LLC <cloud@support.yandex.ru>",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "cryptography>=44.0.0",
+    "grpcio<2,>=1.68.1",
+    "protobuf<6,>=5.29.1",
+    "googleapis-common-protos<2,>=1.66.0",
+    "pyjwt<3,>=2.10.1",
+    "requests<3,>=2.32.3",
+    "six<2,>=1.17.0",
+    "grpcio-tools>=1.68.1",
+    "deprecated>=1.2.18"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/yandex-cloud/python-sdk"
+  },
+  "classifiers": [
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:40.498713+00:00",
+  "releases": {
+    "latest": "0.372.0",
+    "all_versions": [
+      "0.81.0",
+      "0.82.0",
+      "0.83.0",
+      "0.84.0",
+      "0.85.0",
+      "0.86.0",
+      "0.87.0",
+      "0.88.0",
+      "0.89.0",
+      "0.9.0",
+      "0.90.0",
+      "0.91.0",
+      "0.92.0",
+      "0.93.0",
+      "0.94.0",
+      "0.95.0",
+      "0.96.0",
+      "0.97.0",
+      "0.98.0",
+      "0.99.0"
+    ]
+  }
+}

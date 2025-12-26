@@ -1,0 +1,70 @@
+{
+  "name": "PyJWT",
+  "version": "2.10.1",
+  "summary": "JSON Web Token implementation in Python",
+  "author": null,
+  "author_email": "Jose Padilla <hello@jpadilla.com>",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "cryptography>=3.4.0; extra == \"crypto\"",
+    "coverage[toml]==5.0.4; extra == \"dev\"",
+    "cryptography>=3.4.0; extra == \"dev\"",
+    "pre-commit; extra == \"dev\"",
+    "pytest<7.0.0,>=6.0.0; extra == \"dev\"",
+    "sphinx; extra == \"dev\"",
+    "sphinx-rtd-theme; extra == \"dev\"",
+    "zope.interface; extra == \"dev\"",
+    "sphinx; extra == \"docs\"",
+    "sphinx-rtd-theme; extra == \"docs\"",
+    "zope.interface; extra == \"docs\"",
+    "coverage[toml]==5.0.4; extra == \"tests\"",
+    "pytest<7.0.0,>=6.0.0; extra == \"tests\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/jpadilla/pyjwt"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Utilities"
+  ],
+  "keywords": "json, jwt, security, signing, token, web",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:37.293910+00:00",
+  "releases": {
+    "latest": "2.10.1",
+    "all_versions": [
+      "1.6.1",
+      "1.6.3",
+      "1.6.4",
+      "1.7.0",
+      "1.7.1",
+      "2.0.0",
+      "2.0.0a1",
+      "2.0.0a2",
+      "2.0.1",
+      "2.1.0",
+      "2.10.0",
+      "2.10.1",
+      "2.2.0",
+      "2.3.0",
+      "2.4.0",
+      "2.5.0",
+      "2.6.0",
+      "2.7.0",
+      "2.8.0",
+      "2.9.0"
+    ]
+  }
+}

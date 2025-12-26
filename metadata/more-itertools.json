@@ -1,0 +1,57 @@
+{
+  "name": "more-itertools",
+  "version": "10.8.0",
+  "summary": "More routines for operating on iterables, beyond itertools",
+  "author": null,
+  "author_email": "Erik Rose <erikrose@grinchcentral.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://more-itertools.readthedocs.io/en/stable/",
+    "Homepage": "https://github.com/more-itertools/more-itertools"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": "itertools, iterator, iteration, filter, peek, peekable, chunk, chunked",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:46.232825+00:00",
+  "releases": {
+    "latest": "10.8.0",
+    "all_versions": [
+      "7.2.0",
+      "8.0.0",
+      "8.0.1",
+      "8.0.2",
+      "8.1.0",
+      "8.10.0",
+      "8.11.0",
+      "8.12.0",
+      "8.13.0",
+      "8.14.0",
+      "8.2.0",
+      "8.3.0",
+      "8.4.0",
+      "8.5.0",
+      "8.6.0",
+      "8.7.0",
+      "8.8.0",
+      "8.9.0",
+      "9.0.0",
+      "9.1.0"
+    ]
+  }
+}

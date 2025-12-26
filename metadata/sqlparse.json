@@ -1,0 +1,68 @@
+{
+  "name": "sqlparse",
+  "version": "0.5.5",
+  "summary": "A non-validating SQL parser.",
+  "author": null,
+  "author_email": "Andi Albrecht <albrecht.andi@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "build; extra == \"dev\"",
+    "sphinx; extra == \"doc\""
+  ],
+  "project_urls": {
+    "Documentation": "https://sqlparse.readthedocs.io/",
+    "Home": "https://github.com/andialbrecht/sqlparse",
+    "Release Notes": "https://sqlparse.readthedocs.io/en/latest/changes.html",
+    "Source": "https://github.com/andialbrecht/sqlparse",
+    "Tracker": "https://github.com/andialbrecht/sqlparse/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Database",
+    "Topic :: Software Development"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:01.563583+00:00",
+  "releases": {
+    "latest": "0.5.5",
+    "all_versions": [
+      "0.1.8",
+      "0.1.9",
+      "0.2.0",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.3.0",
+      "0.3.1",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2",
+      "0.4.3",
+      "0.4.4",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.5.3",
+      "0.5.4",
+      "0.5.5"
+    ]
+  }
+}

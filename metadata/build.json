@@ -1,0 +1,66 @@
+{
+  "name": "build",
+  "version": "1.3.0",
+  "summary": "A simple, correct Python build frontend",
+  "author": null,
+  "author_email": "Filipe La\u00edns <lains@riseup.net>, Bern\u00e1t G\u00e1bor <gaborjbernat@gmail.com>, layday <layday@protonmail.com>, Henry Schreiner <henryschreineriii@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "packaging>=19.1",
+    "pyproject_hooks",
+    "colorama; os_name == \"nt\"",
+    "importlib-metadata>=4.6; python_full_version < \"3.10.2\"",
+    "tomli>=1.1.0; python_version < \"3.11\"",
+    "uv>=0.1.18; extra == \"uv\"",
+    "virtualenv>=20.11; extra == \"virtualenv\" and python_version < \"3.10\"",
+    "virtualenv>=20.17; extra == \"virtualenv\" and (python_version >= \"3.10\" and python_version < \"3.14\")",
+    "virtualenv>=20.31; extra == \"virtualenv\" and python_version >= \"3.14\""
+  ],
+  "project_urls": {
+    "changelog": "https://build.pypa.io/en/stable/changelog.html",
+    "homepage": "https://build.pypa.io",
+    "issues": "https://github.com/pypa/build/issues",
+    "source": "https://github.com/pypa/build"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:57.708625+00:00",
+  "releases": {
+    "latest": "1.3.0",
+    "all_versions": [
+      "0.3.1",
+      "0.3.1.post1",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.6.0",
+      "0.6.0.post1",
+      "0.6.1",
+      "0.7.0",
+      "0.8.0",
+      "0.9.0",
+      "1.0.0",
+      "1.0.3",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0",
+      "1.2.1",
+      "1.2.2",
+      "1.2.2.post1",
+      "1.3.0"
+    ]
+  }
+}

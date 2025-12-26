@@ -1,0 +1,73 @@
+{
+  "name": "redshift-connector",
+  "version": "2.1.10",
+  "summary": "Redshift interface library",
+  "author": "Amazon Web Services",
+  "author_email": "redshift-drivers@amazon.com",
+  "license": "Apache License 2.0",
+  "requires_python": ">=3.6",
+  "requires_dist": [
+    "scramp<1.5.0,>=1.2.0",
+    "pytz>=2020.1",
+    "beautifulsoup4<5.0.0,>=4.7.0",
+    "boto3<2.0.0,>=1.9.201",
+    "requests<3.0.0,>=2.23.0",
+    "lxml<6.0.0,>=4.6.5",
+    "botocore<2.0.0,>=1.12.201",
+    "packaging",
+    "setuptools",
+    "numpy; extra == \"full\"",
+    "pandas; extra == \"full\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/aws/amazon-redshift-python-driver"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: Jython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Database :: Front-Ends",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "redshift dbapi",
+  "home_page": "https://github.com/aws/amazon-redshift-python-driver",
+  "last_fetched": "2025-12-26T04:47:25.321446+00:00",
+  "releases": {
+    "latest": "2.1.10",
+    "all_versions": [
+      "2.0.910",
+      "2.0.911",
+      "2.0.912",
+      "2.0.913",
+      "2.0.914",
+      "2.0.915",
+      "2.0.916",
+      "2.0.917",
+      "2.0.918",
+      "2.1.0",
+      "2.1.1",
+      "2.1.10",
+      "2.1.2",
+      "2.1.3",
+      "2.1.4",
+      "2.1.5",
+      "2.1.6",
+      "2.1.7",
+      "2.1.8",
+      "2.1.9"
+    ]
+  }
+}

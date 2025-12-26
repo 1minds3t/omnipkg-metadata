@@ -1,0 +1,72 @@
+{
+  "name": "swe-rex",
+  "version": "1.4.0",
+  "summary": "Sandboxed code execution for AI agents, locally or on the cloud.",
+  "author": null,
+  "author_email": "Kilian Lieret <kilian.lieret@posteo.de>, \"Carlos E. Jimenez\" <carlosej@princeton.edu>, John Yang <byjohnyang@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "fastapi",
+    "uvicorn",
+    "requests",
+    "pydantic>=2",
+    "pexpect",
+    "bashlex",
+    "python-multipart",
+    "rich",
+    "mike; extra == \"dev\"",
+    "mkdocs-material; extra == \"dev\"",
+    "mkdocs-glightbox; extra == \"dev\"",
+    "mkdocs-include-markdown-plugin; extra == \"dev\"",
+    "mkdocstrings[python]>=0.18; extra == \"dev\"",
+    "pytest; extra == \"dev\"",
+    "pytest-cov; extra == \"dev\"",
+    "pre-commit; extra == \"dev\"",
+    "pytest-asyncio; extra == \"dev\"",
+    "griffe-pydantic; extra == \"dev\"",
+    "swe-rex[modal]; extra == \"dev\"",
+    "swe-rex[fargate]; extra == \"dev\"",
+    "swe-rex[daytona]; extra == \"dev\"",
+    "modal>=1.0; extra == \"modal\"",
+    "boto3; extra == \"modal\"",
+    "boto3; extra == \"fargate\"",
+    "daytona; extra == \"daytona\"",
+    "daytona-sdk>=0.21; extra == \"daytona\""
+  ],
+  "project_urls": {
+    "Bug Reports": "http://github.com/SWE-agent/SWE-rex/issues",
+    "Documentation": "https://swe-rex.com/latest/",
+    "Homepage": "https://swe-rex.com",
+    "Source": "http://github.com/SWE-agent/SWE-rex"
+  },
+  "classifiers": [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11"
+  ],
+  "keywords": "nlp, agents, code",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:23.356856+00:00",
+  "releases": {
+    "latest": "1.4.0",
+    "all_versions": [
+      "0.0.0",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4",
+      "1.0.5",
+      "1.1.0",
+      "1.1.1",
+      "1.2.0",
+      "1.2.1",
+      "1.2.2",
+      "1.3.0",
+      "1.4.0"
+    ]
+  }
+}

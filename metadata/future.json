@@ -1,0 +1,63 @@
+{
+  "name": "future",
+  "version": "1.0.0",
+  "summary": "Clean single-source support for Python 3 and 2",
+  "author": "Ed Schofield",
+  "author_email": "ed@pythoncharmers.com",
+  "license": "MIT",
+  "requires_python": ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://python-future.org",
+    "Source": "https://github.com/PythonCharmers/python-future"
+  },
+  "classifiers": [
+    "Development Status :: 6 - Mature",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.6",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.3",
+    "Programming Language :: Python :: 3.4",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "future past python3 migration futurize backport six 2to3 modernize pasteurize 3to2",
+  "home_page": "https://python-future.org",
+  "last_fetched": "2025-12-26T04:47:15.459308+00:00",
+  "releases": {
+    "latest": "1.0.0",
+    "all_versions": [
+      "0.18.3",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.3.5",
+      "0.4.0",
+      "0.4.1",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.9.0",
+      "1.0.0"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "tzlocal",
+  "version": "5.3.1",
+  "summary": "tzinfo object for the local timezone",
+  "author": null,
+  "author_email": "Lennart Regebro <regebro@gmail.com>",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "tzdata; platform_system == \"Windows\"",
+    "pytest>=4.3; extra == \"devenv\"",
+    "pytest-mock>=3.3; extra == \"devenv\"",
+    "pytest-cov; extra == \"devenv\"",
+    "check-manifest; extra == \"devenv\"",
+    "zest.releaser; extra == \"devenv\""
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/regebro/tzlocal/blob/master/CHANGES.txt",
+    "Issue tracker": "https://github.com/regebro/tzlocal/issues",
+    "Source code": "https://github.com/regebro/tzlocal"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: Unix",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9",
+    "Typing :: Typed"
+  ],
+  "keywords": "timezone",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:00.372620+00:00",
+  "releases": {
+    "latest": "5.3.1",
+    "all_versions": [
+      "4.0a1",
+      "4.0b1",
+      "4.0b2",
+      "4.0b3",
+      "4.0b4",
+      "4.0b5",
+      "4.1",
+      "4.1b1",
+      "4.2",
+      "4.3",
+      "4.3.1",
+      "4.4b1",
+      "5.0",
+      "5.0.1",
+      "5.0b1",
+      "5.0b2",
+      "5.1",
+      "5.2",
+      "5.3",
+      "5.3.1"
+    ]
+  }
+}

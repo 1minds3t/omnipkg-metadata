@@ -1,0 +1,53 @@
+{
+  "name": "deprecation",
+  "version": "2.1.0",
+  "summary": "A library to handle automated deprecations",
+  "author": "Brian Curtin",
+  "author_email": "brian@python.org",
+  "license": "Apache 2",
+  "requires_python": "",
+  "requires_dist": [
+    "packaging"
+  ],
+  "project_urls": {
+    "Bug Tracker": "https://github.com/briancurtin/deprecation/issues",
+    "Documentation": "http://deprecation.readthedocs.io/en/latest/",
+    "Homepage": "http://deprecation.readthedocs.io/",
+    "Source": "https://github.com/briancurtin/deprecation"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "deprecation",
+  "home_page": "http://deprecation.readthedocs.io/",
+  "last_fetched": "2025-12-26T04:47:33.906568+00:00",
+  "releases": {
+    "latest": "2.1.0",
+    "all_versions": [
+      "1.0",
+      "1.0.1",
+      "1.1",
+      "1.2",
+      "2.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.1.0"
+    ]
+  }
+}

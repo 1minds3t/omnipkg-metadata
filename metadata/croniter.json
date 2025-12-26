@@ -1,0 +1,66 @@
+{
+  "name": "croniter",
+  "version": "6.0.0",
+  "summary": "croniter provides iteration for datetime object with cron like format",
+  "author": "Matsumoto Taichi, kiorky",
+  "author_email": "taichino@gmail.com, kiorky@cryptelium.net",
+  "license": "MIT License",
+  "requires_python": "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.6",
+  "requires_dist": [
+    "python-dateutil",
+    "pytz>2021.1"
+  ],
+  "project_urls": {
+    "Homepage": "http://github.com/kiorky/croniter"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.6",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.4",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "datetime, iterator, cron",
+  "home_page": "http://github.com/kiorky/croniter",
+  "last_fetched": "2025-12-26T04:47:38.197988+00:00",
+  "releases": {
+    "latest": "6.0.0",
+    "all_versions": [
+      "1.3.7",
+      "1.3.8",
+      "1.4.0",
+      "1.4.1",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "3.0.0",
+      "3.0.1",
+      "3.0.2",
+      "3.0.3",
+      "3.0.4",
+      "4.0.0",
+      "5.0.1",
+      "6.0.0"
+    ]
+  }
+}

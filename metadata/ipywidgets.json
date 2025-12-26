@@ -1,0 +1,67 @@
+{
+  "name": "ipywidgets",
+  "version": "8.1.8",
+  "summary": "Jupyter interactive widgets",
+  "author": "Jupyter Development Team",
+  "author_email": "jupyter@googlegroups.com",
+  "license": "BSD 3-Clause License",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "comm>=0.1.3",
+    "ipython>=6.1.0",
+    "traitlets>=4.3.1",
+    "widgetsnbextension~=4.0.14",
+    "jupyterlab_widgets~=3.0.15",
+    "jsonschema; extra == \"test\"",
+    "ipykernel; extra == \"test\"",
+    "pytest>=3.6.0; extra == \"test\"",
+    "pytest-cov; extra == \"test\"",
+    "pytz; extra == \"test\""
+  ],
+  "project_urls": {
+    "Homepage": "http://jupyter.org"
+  },
+  "classifiers": [
+    "Framework :: Jupyter",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "Interactive, Interpreter, Shell, Web, ipython, widgets, Jupyter",
+  "home_page": "http://jupyter.org",
+  "last_fetched": "2025-12-26T04:47:46.679742+00:00",
+  "releases": {
+    "latest": "8.1.8",
+    "all_versions": [
+      "8.0.0b1",
+      "8.0.0rc0",
+      "8.0.0rc1",
+      "8.0.0rc2",
+      "8.0.1",
+      "8.0.2",
+      "8.0.3",
+      "8.0.4",
+      "8.0.5",
+      "8.0.6",
+      "8.0.7",
+      "8.1.0",
+      "8.1.1",
+      "8.1.2",
+      "8.1.3",
+      "8.1.4",
+      "8.1.5",
+      "8.1.6",
+      "8.1.7",
+      "8.1.8"
+    ]
+  }
+}

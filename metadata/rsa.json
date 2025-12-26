@@ -1,0 +1,65 @@
+{
+  "name": "rsa",
+  "version": "4.9.1",
+  "summary": "Pure-Python RSA implementation",
+  "author": "Sybren A. St\u00fcvel",
+  "author_email": "sybren@stuvel.eu",
+  "license": "Apache-2.0",
+  "requires_python": "<4,>=3.6",
+  "requires_dist": [
+    "pyasn1>=0.1.3"
+  ],
+  "project_urls": {
+    "Homepage": "https://stuvel.eu/rsa",
+    "Repository": "https://github.com/sybrenstuvel/python-rsa"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Security :: Cryptography"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:34.351315+00:00",
+  "releases": {
+    "latest": "4.9.1",
+    "all_versions": [
+      "3.2.3",
+      "3.3",
+      "3.4",
+      "3.4.1",
+      "3.4.2",
+      "4.0",
+      "4.1",
+      "4.1.1",
+      "4.2",
+      "4.3",
+      "4.4",
+      "4.4.1",
+      "4.5",
+      "4.6",
+      "4.7",
+      "4.7.1",
+      "4.7.2",
+      "4.8",
+      "4.9",
+      "4.9.1"
+    ]
+  }
+}

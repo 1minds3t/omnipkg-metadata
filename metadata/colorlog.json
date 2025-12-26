@@ -1,0 +1,67 @@
+{
+  "name": "colorlog",
+  "version": "6.10.1",
+  "summary": "Add colours to the output of Python's logging module.",
+  "author": "Sam Clements",
+  "author_email": "sam@borntyping.co.uk",
+  "license": "MIT License",
+  "requires_python": ">=3.6",
+  "requires_dist": [
+    "colorama; sys_platform == \"win32\"",
+    "black; extra == \"development\"",
+    "flake8; extra == \"development\"",
+    "mypy; extra == \"development\"",
+    "pytest; extra == \"development\"",
+    "types-colorama; extra == \"development\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/borntyping/python-colorlog"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Terminals",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/borntyping/python-colorlog",
+  "last_fetched": "2025-12-26T04:47:39.801821+00:00",
+  "releases": {
+    "latest": "6.10.1",
+    "all_versions": [
+      "4.7.2",
+      "4.8.0",
+      "5.0.0",
+      "5.0.1",
+      "6.0.0a1",
+      "6.0.0a2",
+      "6.0.0a3",
+      "6.0.0a4",
+      "6.1.0a1",
+      "6.10.1",
+      "6.2.0a1",
+      "6.3.0a1",
+      "6.4.0",
+      "6.4.1",
+      "6.5.0",
+      "6.6.0",
+      "6.7.0",
+      "6.8.0",
+      "6.8.2",
+      "6.9.0"
+    ]
+  }
+}

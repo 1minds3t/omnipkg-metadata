@@ -1,0 +1,55 @@
+{
+  "name": "ruamel.yaml.clib",
+  "version": "0.2.15",
+  "summary": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
+  "author": "Anthon van der Neut",
+  "author_email": "a.van.der.neut@ruamel.eu",
+  "license": "MIT",
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://yaml.dev/doc/ruamel.yaml.clib/",
+    "Home": "https://sourceforge.net/p/ruamel-yaml-clib/",
+    "Source": "https://sourceforge.net/p/ruamel-yaml-clib/code/ci/default/tree/",
+    "Tracker": "https://sourceforge.net/p/ruamel-yaml-clib/tickets/"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": "yaml 1.2 parser c-library config",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:01.091102+00:00",
+  "releases": {
+    "latest": "0.2.15",
+    "all_versions": [
+      "0.1.0",
+      "0.1.2",
+      "0.2.0",
+      "0.2.10",
+      "0.2.11",
+      "0.2.12",
+      "0.2.13",
+      "0.2.14",
+      "0.2.15",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.2.9"
+    ]
+  }
+}

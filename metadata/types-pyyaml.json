@@ -1,0 +1,49 @@
+{
+  "name": "types-PyYAML",
+  "version": "6.0.12.20250915",
+  "summary": "Typing stubs for PyYAML",
+  "author": null,
+  "author_email": null,
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Changes": "https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/PyYAML.md",
+    "Chat": "https://gitter.im/python/typing",
+    "GitHub": "https://github.com/python/typeshed",
+    "Homepage": "https://github.com/python/typeshed",
+    "Issue tracker": "https://github.com/python/typeshed/issues"
+  },
+  "classifiers": [
+    "Programming Language :: Python :: 3",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:38.474389+00:00",
+  "releases": {
+    "latest": "6.0.12.20250915",
+    "all_versions": [
+      "6.0.12.20250402",
+      "6.0.12.20250516",
+      "6.0.12.20250809",
+      "6.0.12.20250822",
+      "6.0.12.20250915",
+      "6.0.12.3",
+      "6.0.12.4",
+      "6.0.12.5",
+      "6.0.12.6",
+      "6.0.12.7",
+      "6.0.12.8",
+      "6.0.12.9",
+      "6.0.2",
+      "6.0.3",
+      "6.0.4",
+      "6.0.5",
+      "6.0.6",
+      "6.0.7",
+      "6.0.8",
+      "6.0.9"
+    ]
+  }
+}

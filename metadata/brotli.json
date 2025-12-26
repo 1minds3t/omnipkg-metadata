@@ -1,0 +1,55 @@
+{
+  "name": "brotli",
+  "version": "1.2.0",
+  "summary": "Python bindings for the Brotli compression library",
+  "author": "The Brotli Authors",
+  "author_email": null,
+  "license": "MIT",
+  "requires_python": null,
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/google/brotli"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: C",
+    "Programming Language :: C++",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 2",
+    "Programming Language :: Python :: 2.7",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.3",
+    "Programming Language :: Python :: 3.4",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Unix Shell",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: System :: Archiving",
+    "Topic :: System :: Archiving :: Compression",
+    "Topic :: Text Processing :: Fonts",
+    "Topic :: Utilities"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/google/brotli",
+  "last_fetched": "2025-12-26T04:47:40.888640+00:00",
+  "releases": {
+    "latest": "1.2.0",
+    "all_versions": [
+      "0.5.2",
+      "0.6.0",
+      "1.0.1",
+      "1.0.4",
+      "1.0.6",
+      "1.0.7",
+      "1.0.8",
+      "1.0.9",
+      "1.1.0",
+      "1.2.0"
+    ]
+  }
+}

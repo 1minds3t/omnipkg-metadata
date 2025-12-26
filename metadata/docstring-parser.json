@@ -1,0 +1,66 @@
+{
+  "name": "docstring-parser",
+  "version": "0.17.0",
+  "summary": "Parse Python docstrings in reST, Google and Numpydoc format",
+  "author": null,
+  "author_email": "Marcin Kurczewski <dash@wind.garden>",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "pre-commit>=2.16.0; python_version >= \"3.9\" and extra == \"dev\"",
+    "pydoctor>=25.4.0; extra == \"dev\"",
+    "pytest; extra == \"dev\"",
+    "pydoctor>=25.4.0; extra == \"docs\"",
+    "pytest; extra == \"test\""
+  ],
+  "project_urls": {
+    "changelog": "https://github.com/rr-/docstring_parser/blob/master/CHANGELOG.md",
+    "homepage": "https://github.com/rr-/docstring_parser",
+    "repository": "https://github.com/rr-/docstring_parser"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Environment :: Other Environment",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Documentation :: Sphinx",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Markup"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:11.796623+00:00",
+  "releases": {
+    "latest": "0.17.0",
+    "all_versions": [
+      "0.14",
+      "0.14.1",
+      "0.15",
+      "0.16",
+      "0.17.0",
+      "0.17.0rc1",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.6.1",
+      "0.7",
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.8",
+      "0.8.1",
+      "0.9",
+      "0.9.1"
+    ]
+  }
+}

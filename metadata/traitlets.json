@@ -1,0 +1,66 @@
+{
+  "name": "traitlets",
+  "version": "5.14.3",
+  "summary": "Traitlets Python configuration system",
+  "author": null,
+  "author_email": "IPython Development Team <ipython-dev@python.org>",
+  "license": "BSD 3-Clause License  - Copyright (c) 2001-, IPython Development Team  All rights reserved.  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "myst-parser; extra == \"docs\"",
+    "pydata-sphinx-theme; extra == \"docs\"",
+    "sphinx; extra == \"docs\"",
+    "argcomplete>=3.0.3; extra == \"test\"",
+    "mypy>=1.7.0; extra == \"test\"",
+    "pre-commit; extra == \"test\"",
+    "pytest-mock; extra == \"test\"",
+    "pytest-mypy-testing; extra == \"test\"",
+    "pytest<8.2,>=7.0; extra == \"test\""
+  ],
+  "project_urls": {
+    "Documentation": "https://traitlets.readthedocs.io",
+    "Funding": "https://numfocus.org",
+    "Homepage": "https://github.com/ipython/traitlets",
+    "Source": "https://github.com/ipython/traitlets",
+    "Tracker": "https://github.com/ipython/traitlets/issues"
+  },
+  "classifiers": [
+    "Framework :: IPython",
+    "Framework :: Jupyter",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Typing :: Typed"
+  ],
+  "keywords": "Interactive, Interpreter, Shell, Web",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:04.286726+00:00",
+  "releases": {
+    "latest": "5.14.3",
+    "all_versions": [
+      "5.13.0",
+      "5.14.0",
+      "5.14.1",
+      "5.14.2",
+      "5.14.3",
+      "5.2.0",
+      "5.2.1",
+      "5.2.1.post0",
+      "5.2.2",
+      "5.2.2.post1",
+      "5.3.0",
+      "5.3.0.dev0",
+      "5.4.0",
+      "5.5.0",
+      "5.6.0",
+      "5.7.0",
+      "5.7.1",
+      "5.8.0",
+      "5.8.1",
+      "5.9.0"
+    ]
+  }
+}

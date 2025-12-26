@@ -1,0 +1,42 @@
+{
+  "name": "et-xmlfile",
+  "version": "2.0.0",
+  "summary": "An implementation of lxml.xmlfile for the standard library",
+  "author": "See AUTHORS.txt",
+  "author_email": "charlie.clark@clark-consulting.eu",
+  "license": "MIT",
+  "requires_python": ">=3.8",
+  "requires_dist": null,
+  "project_urls": {
+    "Documentation": "https://openpyxl.pages.heptapod.net/et_xmlfile/",
+    "Homepage": "https://foss.heptapod.net/openpyxl/et_xmlfile",
+    "Source": "https://foss.heptapod.net/openpyxl/et_xmlfile",
+    "Tracker": "https://foss.heptapod.net/openpyxl/et_xmfile/-/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": null,
+  "home_page": "https://foss.heptapod.net/openpyxl/et_xmlfile",
+  "last_fetched": "2025-12-26T04:46:44.301438+00:00",
+  "releases": {
+    "latest": "2.0.0",
+    "all_versions": [
+      "1.0.0",
+      "1.0.1",
+      "1.1.0",
+      "2.0.0"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "wcwidth",
+  "version": "0.2.14",
+  "summary": "Measures the displayed width of unicode strings in a terminal",
+  "author": "Jeff Quast",
+  "author_email": "contact@jeffquast.com",
+  "license": "MIT",
+  "requires_python": ">=3.6",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/jquast/wcwidth"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: POSIX",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Internationalization",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Localization",
+    "Topic :: Terminals"
+  ],
+  "keywords": "cjk, combining, console, eastasian, emoji, emulator, terminal, unicode, wcswidth, wcwidth, xterm",
+  "home_page": "https://github.com/jquast/wcwidth",
+  "last_fetched": "2025-12-26T04:46:50.434587+00:00",
+  "releases": {
+    "latest": "0.2.14",
+    "all_versions": [
+      "0.1.5",
+      "0.1.6",
+      "0.1.7",
+      "0.1.8",
+      "0.1.9",
+      "0.2.0",
+      "0.2.1",
+      "0.2.10",
+      "0.2.11",
+      "0.2.12",
+      "0.2.13",
+      "0.2.14",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.2.9"
+    ]
+  }
+}

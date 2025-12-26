@@ -1,0 +1,60 @@
+{
+  "name": "bcrypt",
+  "version": "5.0.0",
+  "summary": "Modern password hashing for your software and your servers",
+  "author": null,
+  "author_email": "The Python Cryptographic Authority developers <cryptography-dev@python.org>",
+  "license": "Apache-2.0",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "pytest!=3.3.0,>=3.2.1; extra == \"tests\"",
+    "mypy; extra == \"typecheck\""
+  ],
+  "project_urls": {
+    "homepage": "https://github.com/pyca/bcrypt/"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Free Threading :: 3 - Stable",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy"
+  ],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:51.011883+00:00",
+  "releases": {
+    "latest": "5.0.0",
+    "all_versions": [
+      "3.1.1",
+      "3.1.2",
+      "3.1.3",
+      "3.1.4",
+      "3.1.5",
+      "3.1.6",
+      "3.1.7",
+      "3.2.0",
+      "3.2.1",
+      "3.2.2",
+      "4.0.0",
+      "4.0.1",
+      "4.1.0",
+      "4.1.1",
+      "4.1.2",
+      "4.1.3",
+      "4.2.0",
+      "4.2.1",
+      "4.3.0",
+      "5.0.0"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "asttokens",
+  "version": "3.0.1",
+  "summary": "Annotate AST trees with source code positions",
+  "author": "Dmitry Sagalovskiy, Grist Labs",
+  "author_email": "dmitry@getgrist.com",
+  "license": "Apache 2.0",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "astroid<5,>=2; extra == \"astroid\"",
+    "astroid<5,>=2; extra == \"test\"",
+    "pytest<9.0; extra == \"test\"",
+    "pytest-cov; extra == \"test\"",
+    "pytest-xdist; extra == \"test\""
+  ],
+  "project_urls": {
+    "Documentation": "https://asttokens.readthedocs.io/en/latest/index.html",
+    "Homepage": "https://github.com/gristlabs/asttokens",
+    "Issue Tracker": "https://github.com/gristlabs/asttokens/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Code Generators",
+    "Topic :: Software Development :: Compilers",
+    "Topic :: Software Development :: Interpreters",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Pre-processors"
+  ],
+  "keywords": "code, ast, parse, tokenize, refactor",
+  "home_page": "https://github.com/gristlabs/asttokens",
+  "last_fetched": "2025-12-26T04:47:07.184332+00:00",
+  "releases": {
+    "latest": "3.0.1",
+    "all_versions": [
+      "1.1.7",
+      "1.1.8",
+      "1.1.9",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5",
+      "2.0.6",
+      "2.0.7",
+      "2.0.8",
+      "2.1.0",
+      "2.2.0",
+      "2.2.1",
+      "2.3.0",
+      "2.4.0",
+      "2.4.1",
+      "3.0.0",
+      "3.0.1"
+    ]
+  }
+}

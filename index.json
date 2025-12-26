@@ -1,138 +1,2006 @@
 {
-  "last_updated": "2025-12-26T02:05:37.053590+00:00",
+  "last_updated": "2025-12-26T04:46:28.927946+00:00",
   "packages": {
-    "torch": {
-      "version": "2.9.1",
-      "last_updated": "2025-12-26T02:05:37.104789+00:00"
+    "boto3": {
+      "version": "1.42.16",
+      "last_updated": "2025-12-26T04:46:29.004515+00:00"
     },
-    "numpy": {
-      "version": "2.4.0",
-      "last_updated": "2025-12-26T02:05:37.297662+00:00"
+    "urllib3": {
+      "version": "2.6.2",
+      "last_updated": "2025-12-26T04:46:29.141608+00:00"
     },
-    "pandas": {
-      "version": "2.3.3",
-      "last_updated": "2025-12-26T02:05:37.472975+00:00"
+    "botocore": {
+      "version": "1.42.16",
+      "last_updated": "2025-12-26T04:46:29.321701+00:00"
+    },
+    "typing-extensions": {
+      "version": "4.15.0",
+      "last_updated": "2025-12-26T04:46:29.461988+00:00"
+    },
+    "certifi": {
+      "version": "2025.11.12",
+      "last_updated": "2025-12-26T04:46:29.598288+00:00"
     },
     "requests": {
       "version": "2.32.5",
-      "last_updated": "2025-12-26T02:05:37.708567+00:00"
+      "last_updated": "2025-12-26T04:46:29.735883+00:00"
     },
-    "django": {
-      "version": "6.0",
-      "last_updated": "2025-12-26T02:05:37.857501+00:00"
+    "aiobotocore": {
+      "version": "3.0.0",
+      "last_updated": "2025-12-26T04:46:29.936408+00:00"
     },
-    "flask": {
-      "version": "3.1.2",
-      "last_updated": "2025-12-26T02:05:37.989999+00:00"
+    "idna": {
+      "version": "3.11",
+      "last_updated": "2025-12-26T04:46:30.071291+00:00"
     },
-    "tensorflow": {
-      "version": "2.20.0",
-      "last_updated": "2025-12-26T02:05:38.182368+00:00"
-    },
-    "scikit-learn": {
-      "version": "1.8.0",
-      "last_updated": "2025-12-26T02:05:38.338054+00:00"
-    },
-    "matplotlib": {
-      "version": "3.10.8",
-      "last_updated": "2025-12-26T02:05:38.502669+00:00"
-    },
-    "scipy": {
-      "version": "1.16.3",
-      "last_updated": "2025-12-26T02:05:38.675795+00:00"
-    },
-    "opencv-python": {
-      "version": "4.12.0.88",
-      "last_updated": "2025-12-26T02:05:38.843256+00:00"
-    },
-    "pillow": {
-      "version": "12.0.0",
-      "last_updated": "2025-12-26T02:05:39.026616+00:00"
-    },
-    "pytest": {
-      "version": "9.0.2",
-      "last_updated": "2025-12-26T02:05:39.173818+00:00"
-    },
-    "black": {
-      "version": "25.12.0",
-      "last_updated": "2025-12-26T02:05:39.325377+00:00"
-    },
-    "mypy": {
-      "version": "1.19.1",
-      "last_updated": "2025-12-26T02:05:39.485404+00:00"
-    },
-    "pylint": {
-      "version": "4.0.4",
-      "last_updated": "2025-12-26T02:05:39.628913+00:00"
+    "charset-normalizer": {
+      "version": "3.4.4",
+      "last_updated": "2025-12-26T04:46:30.229479+00:00"
     },
     "setuptools": {
       "version": "80.9.0",
-      "last_updated": "2025-12-26T02:05:39.886367+00:00"
+      "last_updated": "2025-12-26T04:46:30.384803+00:00"
     },
-    "wheel": {
-      "version": "0.45.1",
-      "last_updated": "2025-12-26T02:05:40.020905+00:00"
+    "grpcio-status": {
+      "version": "1.76.0",
+      "last_updated": "2025-12-26T04:46:30.527669+00:00"
     },
-    "pip": {
-      "version": "25.3",
-      "last_updated": "2025-12-26T02:05:40.211443+00:00"
+    "packaging": {
+      "version": "25.0",
+      "last_updated": "2025-12-26T04:46:30.665838+00:00"
+    },
+    "python-dateutil": {
+      "version": "2.9.0.post0",
+      "last_updated": "2025-12-26T04:46:30.800193+00:00"
+    },
+    "s3transfer": {
+      "version": "0.16.0",
+      "last_updated": "2025-12-26T04:46:30.934769+00:00"
+    },
+    "numpy": {
+      "version": "2.4.0",
+      "last_updated": "2025-12-26T04:46:31.105797+00:00"
+    },
+    "six": {
+      "version": "1.17.0",
+      "last_updated": "2025-12-26T04:46:31.240808+00:00"
     },
     "cryptography": {
       "version": "46.0.3",
-      "last_updated": "2025-12-26T02:05:40.376228+00:00"
+      "last_updated": "2025-12-26T04:46:31.408513+00:00"
     },
-    "sqlalchemy": {
-      "version": "2.0.45",
-      "last_updated": "2025-12-26T02:05:40.559555+00:00"
+    "s3fs": {
+      "version": "2025.12.0",
+      "last_updated": "2025-12-26T04:46:31.543220+00:00"
+    },
+    "pyyaml": {
+      "version": "6.0.3",
+      "last_updated": "2025-12-26T04:46:31.687789+00:00"
     },
     "pydantic": {
       "version": "2.12.5",
-      "last_updated": "2025-12-26T02:05:40.721086+00:00"
+      "last_updated": "2025-12-26T04:46:31.848991+00:00"
     },
-    "fastapi": {
-      "version": "0.127.0",
-      "last_updated": "2025-12-26T02:05:40.869027+00:00"
+    "fsspec": {
+      "version": "2025.12.0",
+      "last_updated": "2025-12-26T04:46:31.985332+00:00"
     },
-    "uvicorn": {
-      "version": "0.40.0",
-      "last_updated": "2025-12-26T02:05:41.009989+00:00"
+    "cffi": {
+      "version": "2.0.0",
+      "last_updated": "2025-12-26T04:46:32.144649+00:00"
     },
-    "httpx": {
-      "version": "0.28.1",
-      "last_updated": "2025-12-26T02:05:41.147208+00:00"
-    },
-    "aiohttp": {
-      "version": "3.13.2",
-      "last_updated": "2025-12-26T02:05:41.365561+00:00"
-    },
-    "beautifulsoup4": {
-      "version": "4.14.3",
-      "last_updated": "2025-12-26T02:05:41.504900+00:00"
-    },
-    "lxml": {
-      "version": "6.0.2",
-      "last_updated": "2025-12-26T02:05:41.691608+00:00"
+    "pandas": {
+      "version": "2.3.3",
+      "last_updated": "2025-12-26T04:46:32.308156+00:00"
     },
     "click": {
       "version": "8.3.1",
-      "last_updated": "2025-12-26T02:05:41.824939+00:00"
+      "last_updated": "2025-12-26T04:46:32.442775+00:00"
     },
-    "typer": {
-      "version": "0.21.0",
-      "last_updated": "2025-12-26T02:05:41.958866+00:00"
+    "pycparser": {
+      "version": "2.23",
+      "last_updated": "2025-12-26T04:46:32.577611+00:00"
     },
-    "rich": {
-      "version": "14.2.0",
-      "last_updated": "2025-12-26T02:05:42.104474+00:00"
+    "pip": {
+      "version": "25.3",
+      "last_updated": "2025-12-26T04:46:32.716607+00:00"
     },
-    "tqdm": {
-      "version": "4.67.1",
-      "last_updated": "2025-12-26T02:05:42.248365+00:00"
+    "pydantic-core": {
+      "version": "2.41.5",
+      "last_updated": "2025-12-26T04:46:32.974652+00:00"
+    },
+    "protobuf": {
+      "version": "6.33.2",
+      "last_updated": "2025-12-26T04:46:33.143921+00:00"
+    },
+    "attrs": {
+      "version": "25.4.0",
+      "last_updated": "2025-12-26T04:46:33.280747+00:00"
+    },
+    "markupsafe": {
+      "version": "3.0.3",
+      "last_updated": "2025-12-26T04:46:33.429931+00:00"
+    },
+    "h11": {
+      "version": "0.16.0",
+      "last_updated": "2025-12-26T04:46:33.564042+00:00"
+    },
+    "anyio": {
+      "version": "4.12.0",
+      "last_updated": "2025-12-26T04:46:33.701270+00:00"
+    },
+    "pygments": {
+      "version": "2.19.2",
+      "last_updated": "2025-12-26T04:46:33.839412+00:00"
+    },
+    "jmespath": {
+      "version": "1.0.1",
+      "last_updated": "2025-12-26T04:46:33.972070+00:00"
+    },
+    "awscli": {
+      "version": "1.44.6",
+      "last_updated": "2025-12-26T04:46:34.215704+00:00"
+    },
+    "rsa": {
+      "version": "4.9.1",
+      "last_updated": "2025-12-26T04:46:34.351315+00:00"
+    },
+    "pytz": {
+      "version": "2025.2",
+      "last_updated": "2025-12-26T04:46:34.503208+00:00"
+    },
+    "platformdirs": {
+      "version": "4.5.1",
+      "last_updated": "2025-12-26T04:46:34.638398+00:00"
+    },
+    "sniffio": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:46:34.771874+00:00"
+    },
+    "annotated-types": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:46:34.904276+00:00"
+    },
+    "pluggy": {
+      "version": "1.6.0",
+      "last_updated": "2025-12-26T04:46:35.038794+00:00"
     },
     "jinja2": {
       "version": "3.1.6",
-      "last_updated": "2025-12-26T02:05:42.381170+00:00"
+      "last_updated": "2025-12-26T04:46:35.173783+00:00"
+    },
+    "importlib-metadata": {
+      "version": "8.7.1",
+      "last_updated": "2025-12-26T04:46:35.316125+00:00"
+    },
+    "pyasn1": {
+      "version": "0.6.1",
+      "last_updated": "2025-12-26T04:46:35.458900+00:00"
+    },
+    "cachetools": {
+      "version": "6.2.4",
+      "last_updated": "2025-12-26T04:46:35.594114+00:00"
+    },
+    "wheel": {
+      "version": "0.45.1",
+      "last_updated": "2025-12-26T04:46:35.731361+00:00"
+    },
+    "zipp": {
+      "version": "3.23.0",
+      "last_updated": "2025-12-26T04:46:35.870318+00:00"
+    },
+    "tzdata": {
+      "version": "2025.3",
+      "last_updated": "2025-12-26T04:46:36.003932+00:00"
+    },
+    "filelock": {
+      "version": "3.20.1",
+      "last_updated": "2025-12-26T04:46:36.138438+00:00"
+    },
+    "typing-inspection": {
+      "version": "0.4.2",
+      "last_updated": "2025-12-26T04:46:36.270553+00:00"
+    },
+    "google-auth": {
+      "version": "2.45.0",
+      "last_updated": "2025-12-26T04:46:36.417681+00:00"
+    },
+    "httpx": {
+      "version": "0.28.1",
+      "last_updated": "2025-12-26T04:46:36.555169+00:00"
+    },
+    "google-api-core": {
+      "version": "2.28.1",
+      "last_updated": "2025-12-26T04:46:36.698353+00:00"
+    },
+    "httpcore": {
+      "version": "1.0.9",
+      "last_updated": "2025-12-26T04:46:36.833718+00:00"
+    },
+    "pytest": {
+      "version": "9.0.2",
+      "last_updated": "2025-12-26T04:46:36.974875+00:00"
+    },
+    "colorama": {
+      "version": "0.4.6",
+      "last_updated": "2025-12-26T04:46:37.154296+00:00"
+    },
+    "pyjwt": {
+      "version": "2.10.1",
+      "last_updated": "2025-12-26T04:46:37.293910+00:00"
+    },
+    "scipy": {
+      "version": "1.16.3",
+      "last_updated": "2025-12-26T04:46:37.457488+00:00"
+    },
+    "iniconfig": {
+      "version": "2.3.0",
+      "last_updated": "2025-12-26T04:46:37.592680+00:00"
+    },
+    "pyasn1-modules": {
+      "version": "0.4.2",
+      "last_updated": "2025-12-26T04:46:37.734883+00:00"
+    },
+    "aiohttp": {
+      "version": "3.13.2",
+      "last_updated": "2025-12-26T04:46:37.965983+00:00"
+    },
+    "rich": {
+      "version": "14.2.0",
+      "last_updated": "2025-12-26T04:46:38.115526+00:00"
+    },
+    "jsonschema": {
+      "version": "4.25.1",
+      "last_updated": "2025-12-26T04:46:38.256344+00:00"
+    },
+    "python-dotenv": {
+      "version": "1.2.1",
+      "last_updated": "2025-12-26T04:46:38.391723+00:00"
+    },
+    "googleapis-common-protos": {
+      "version": "1.72.0",
+      "last_updated": "2025-12-26T04:46:38.528368+00:00"
+    },
+    "multidict": {
+      "version": "6.7.0",
+      "last_updated": "2025-12-26T04:46:38.710492+00:00"
+    },
+    "yarl": {
+      "version": "1.22.0",
+      "last_updated": "2025-12-26T04:46:38.895416+00:00"
+    },
+    "virtualenv": {
+      "version": "20.35.4",
+      "last_updated": "2025-12-26T04:46:39.042064+00:00"
+    },
+    "tqdm": {
+      "version": "4.67.1",
+      "last_updated": "2025-12-26T04:46:39.187052+00:00"
+    },
+    "markdown-it-py": {
+      "version": "4.0.0",
+      "last_updated": "2025-12-26T04:46:39.320090+00:00"
+    },
+    "wrapt": {
+      "version": "2.0.1",
+      "last_updated": "2025-12-26T04:46:39.483720+00:00"
+    },
+    "tomli": {
+      "version": "2.3.0",
+      "last_updated": "2025-12-26T04:46:39.622085+00:00"
+    },
+    "pyarrow": {
+      "version": "22.0.0",
+      "last_updated": "2025-12-26T04:46:39.776125+00:00"
+    },
+    "grpcio-tools": {
+      "version": "1.76.0",
+      "last_updated": "2025-12-26T04:46:39.990603+00:00"
+    },
+    "frozenlist": {
+      "version": "1.8.0",
+      "last_updated": "2025-12-26T04:46:40.152658+00:00"
+    },
+    "mdurl": {
+      "version": "0.1.2",
+      "last_updated": "2025-12-26T04:46:40.287904+00:00"
+    },
+    "yandexcloud": {
+      "version": "0.372.0",
+      "last_updated": "2025-12-26T04:46:40.498713+00:00"
+    },
+    "psutil": {
+      "version": "7.2.0",
+      "last_updated": "2025-12-26T04:46:40.650874+00:00"
+    },
+    "pathspec": {
+      "version": "0.12.1",
+      "last_updated": "2025-12-26T04:46:40.784830+00:00"
+    },
+    "sqlalchemy": {
+      "version": "2.0.45",
+      "last_updated": "2025-12-26T04:46:40.957576+00:00"
+    },
+    "pillow": {
+      "version": "12.0.0",
+      "last_updated": "2025-12-26T04:46:41.126070+00:00"
+    },
+    "requests-oauthlib": {
+      "version": "2.0.0",
+      "last_updated": "2025-12-26T04:46:41.263793+00:00"
+    },
+    "aiosignal": {
+      "version": "1.4.0",
+      "last_updated": "2025-12-26T04:46:41.396888+00:00"
+    },
+    "rpds-py": {
+      "version": "0.30.0",
+      "last_updated": "2025-12-26T04:46:41.585586+00:00"
+    },
+    "starlette": {
+      "version": "0.50.0",
+      "last_updated": "2025-12-26T04:46:41.729435+00:00"
+    },
+    "greenlet": {
+      "version": "3.3.0",
+      "last_updated": "2025-12-26T04:46:41.890501+00:00"
+    },
+    "propcache": {
+      "version": "0.4.1",
+      "last_updated": "2025-12-26T04:46:42.044084+00:00"
+    },
+    "referencing": {
+      "version": "0.37.0",
+      "last_updated": "2025-12-26T04:46:42.181178+00:00"
+    },
+    "grpcio": {
+      "version": "1.76.0",
+      "last_updated": "2025-12-26T04:46:42.390238+00:00"
+    },
+    "jsonschema-specifications": {
+      "version": "2025.9.1",
+      "last_updated": "2025-12-26T04:46:42.528988+00:00"
+    },
+    "uvicorn": {
+      "version": "0.40.0",
+      "last_updated": "2025-12-26T04:46:42.671836+00:00"
+    },
+    "pyparsing": {
+      "version": "3.3.1",
+      "last_updated": "2025-12-26T04:46:42.811442+00:00"
+    },
+    "opentelemetry-sdk": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:42.945826+00:00"
+    },
+    "fastapi": {
+      "version": "0.127.0",
+      "last_updated": "2025-12-26T04:46:43.094312+00:00"
+    },
+    "opentelemetry-proto": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:43.230145+00:00"
+    },
+    "google-genai": {
+      "version": "1.56.0",
+      "last_updated": "2025-12-26T04:46:43.433028+00:00"
+    },
+    "lxml": {
+      "version": "6.0.2",
+      "last_updated": "2025-12-26T04:46:43.606735+00:00"
+    },
+    "aiohappyeyeballs": {
+      "version": "2.6.1",
+      "last_updated": "2025-12-26T04:46:43.744314+00:00"
+    },
+    "oauthlib": {
+      "version": "3.3.1",
+      "last_updated": "2025-12-26T04:46:43.878759+00:00"
+    },
+    "tomlkit": {
+      "version": "0.13.3",
+      "last_updated": "2025-12-26T04:46:44.013490+00:00"
+    },
+    "openpyxl": {
+      "version": "3.1.5",
+      "last_updated": "2025-12-26T04:46:44.150004+00:00"
+    },
+    "et-xmlfile": {
+      "version": "2.0.0",
+      "last_updated": "2025-12-26T04:46:44.301438+00:00"
+    },
+    "beautifulsoup4": {
+      "version": "4.14.3",
+      "last_updated": "2025-12-26T04:46:44.436023+00:00"
+    },
+    "trove-classifiers": {
+      "version": "2025.12.1.14",
+      "last_updated": "2025-12-26T04:46:44.642407+00:00"
+    },
+    "soupsieve": {
+      "version": "2.8.1",
+      "last_updated": "2025-12-26T04:46:44.775882+00:00"
+    },
+    "docutils": {
+      "version": "0.22.4",
+      "last_updated": "2025-12-26T04:46:44.965255+00:00"
+    },
+    "pyopenssl": {
+      "version": "25.3.0",
+      "last_updated": "2025-12-26T04:46:45.102776+00:00"
+    },
+    "scikit-learn": {
+      "version": "1.8.0",
+      "last_updated": "2025-12-26T04:46:45.260006+00:00"
+    },
+    "opentelemetry-exporter-otlp-proto-http": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:45.394539+00:00"
+    },
+    "distlib": {
+      "version": "0.4.0",
+      "last_updated": "2025-12-26T04:46:45.527451+00:00"
+    },
+    "requests-toolbelt": {
+      "version": "1.0.0",
+      "last_updated": "2025-12-26T04:46:45.660408+00:00"
+    },
+    "exceptiongroup": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:46:45.793844+00:00"
+    },
+    "opentelemetry-exporter-otlp-proto-grpc": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:45.928599+00:00"
+    },
+    "flask": {
+      "version": "3.1.2",
+      "last_updated": "2025-12-26T04:46:46.063844+00:00"
+    },
+    "more-itertools": {
+      "version": "10.8.0",
+      "last_updated": "2025-12-26T04:46:46.232825+00:00"
+    },
+    "werkzeug": {
+      "version": "3.1.4",
+      "last_updated": "2025-12-26T04:46:46.366940+00:00"
+    },
+    "isodate": {
+      "version": "0.7.2",
+      "last_updated": "2025-12-26T04:46:46.565579+00:00"
+    },
+    "regex": {
+      "version": "2025.11.3",
+      "last_updated": "2025-12-26T04:46:46.752818+00:00"
+    },
+    "msgpack": {
+      "version": "1.1.2",
+      "last_updated": "2025-12-26T04:46:46.917977+00:00"
+    },
+    "shellingham": {
+      "version": "1.5.4",
+      "last_updated": "2025-12-26T04:46:47.052035+00:00"
+    },
+    "mypy-extensions": {
+      "version": "1.1.0",
+      "last_updated": "2025-12-26T04:46:47.185833+00:00"
+    },
+    "snowflake-connector-python": {
+      "version": "4.1.1",
+      "last_updated": "2025-12-26T04:46:47.427219+00:00"
+    },
+    "google-cloud-storage": {
+      "version": "3.7.0",
+      "last_updated": "2025-12-26T04:46:47.570797+00:00"
+    },
+    "proto-plus": {
+      "version": "1.27.0",
+      "last_updated": "2025-12-26T04:46:47.703895+00:00"
+    },
+    "threadpoolctl": {
+      "version": "3.6.0",
+      "last_updated": "2025-12-26T04:46:47.836773+00:00"
+    },
+    "pynacl": {
+      "version": "1.6.1",
+      "last_updated": "2025-12-26T04:46:47.978989+00:00"
+    },
+    "opentelemetry-api": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:48.114963+00:00"
+    },
+    "ptyprocess": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:46:48.249968+00:00"
+    },
+    "pexpect": {
+      "version": "4.9.0",
+      "last_updated": "2025-12-26T04:46:48.382658+00:00"
+    },
+    "opentelemetry-exporter-otlp-proto-common": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:48.515121+00:00"
+    },
+    "tenacity": {
+      "version": "9.1.2",
+      "last_updated": "2025-12-26T04:46:48.648764+00:00"
+    },
+    "psycopg2-binary": {
+      "version": "2.9.11",
+      "last_updated": "2025-12-26T04:46:48.800856+00:00"
+    },
+    "websocket-client": {
+      "version": "1.9.0",
+      "last_updated": "2025-12-26T04:46:48.941767+00:00"
+    },
+    "opentelemetry-exporter-otlp": {
+      "version": "1.39.1",
+      "last_updated": "2025-12-26T04:46:49.145657+00:00"
+    },
+    "decorator": {
+      "version": "5.2.1",
+      "last_updated": "2025-12-26T04:46:49.277585+00:00"
+    },
+    "opentelemetry-semantic-conventions": {
+      "version": "0.60b1",
+      "last_updated": "2025-12-26T04:46:49.411858+00:00"
+    },
+    "coverage": {
+      "version": "7.13.0",
+      "last_updated": "2025-12-26T04:46:49.599069+00:00"
+    },
+    "sortedcontainers": {
+      "version": "2.4.0",
+      "last_updated": "2025-12-26T04:46:49.738149+00:00"
+    },
+    "azure-core": {
+      "version": "1.37.0",
+      "last_updated": "2025-12-26T04:46:49.878588+00:00"
+    },
+    "azure-identity": {
+      "version": "1.25.1",
+      "last_updated": "2025-12-26T04:46:50.021003+00:00"
+    },
+    "python-multipart": {
+      "version": "0.0.21",
+      "last_updated": "2025-12-26T04:46:50.156513+00:00"
+    },
+    "networkx": {
+      "version": "3.6.1",
+      "last_updated": "2025-12-26T04:46:50.299363+00:00"
+    },
+    "wcwidth": {
+      "version": "0.2.14",
+      "last_updated": "2025-12-26T04:46:50.434587+00:00"
+    },
+    "msal": {
+      "version": "1.34.0",
+      "last_updated": "2025-12-26T04:46:50.569966+00:00"
+    },
+    "async-timeout": {
+      "version": "5.0.1",
+      "last_updated": "2025-12-26T04:46:50.701616+00:00"
+    },
+    "websockets": {
+      "version": "15.0.1",
+      "last_updated": "2025-12-26T04:46:50.862273+00:00"
+    },
+    "bcrypt": {
+      "version": "5.0.0",
+      "last_updated": "2025-12-26T04:46:51.011883+00:00"
+    },
+    "dnspython": {
+      "version": "2.8.0",
+      "last_updated": "2025-12-26T04:46:51.146185+00:00"
+    },
+    "gitpython": {
+      "version": "3.1.45",
+      "last_updated": "2025-12-26T04:46:51.282836+00:00"
+    },
+    "huggingface-hub": {
+      "version": "1.2.3",
+      "last_updated": "2025-12-26T04:46:51.430083+00:00"
+    },
+    "openai": {
+      "version": "2.14.0",
+      "last_updated": "2025-12-26T04:46:51.579064+00:00"
+    },
+    "asn1crypto": {
+      "version": "1.5.1",
+      "last_updated": "2025-12-26T04:46:51.777624+00:00"
+    },
+    "google-cloud-core": {
+      "version": "2.5.0",
+      "last_updated": "2025-12-26T04:46:51.911750+00:00"
+    },
+    "poetry-core": {
+      "version": "2.2.1",
+      "last_updated": "2025-12-26T04:46:52.050055+00:00"
+    },
+    "joblib": {
+      "version": "1.5.3",
+      "last_updated": "2025-12-26T04:46:52.186086+00:00"
+    },
+    "smmap": {
+      "version": "5.0.2",
+      "last_updated": "2025-12-26T04:46:52.319225+00:00"
+    },
+    "annotated-doc": {
+      "version": "0.0.4",
+      "last_updated": "2025-12-26T04:46:52.451142+00:00"
+    },
+    "deprecated": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:46:52.585285+00:00"
+    },
+    "matplotlib": {
+      "version": "3.10.8",
+      "last_updated": "2025-12-26T04:46:52.765916+00:00"
+    },
+    "gitdb": {
+      "version": "4.0.12",
+      "last_updated": "2025-12-26T04:46:52.899759+00:00"
+    },
+    "hatchling": {
+      "version": "1.28.0",
+      "last_updated": "2025-12-26T04:46:53.102855+00:00"
+    },
+    "tabulate": {
+      "version": "0.9.0",
+      "last_updated": "2025-12-26T04:46:53.237030+00:00"
+    },
+    "distro": {
+      "version": "1.9.0",
+      "last_updated": "2025-12-26T04:46:53.370281+00:00"
+    },
+    "itsdangerous": {
+      "version": "2.2.0",
+      "last_updated": "2025-12-26T04:46:53.503525+00:00"
+    },
+    "fonttools": {
+      "version": "4.61.1",
+      "last_updated": "2025-12-26T04:46:53.673958+00:00"
+    },
+    "chardet": {
+      "version": "5.2.0",
+      "last_updated": "2025-12-26T04:46:53.809405+00:00"
+    },
+    "keyring": {
+      "version": "25.7.0",
+      "last_updated": "2025-12-26T04:46:53.951196+00:00"
+    },
+    "paramiko": {
+      "version": "4.0.0",
+      "last_updated": "2025-12-26T04:46:54.089862+00:00"
+    },
+    "google-resumable-media": {
+      "version": "2.8.0",
+      "last_updated": "2025-12-26T04:46:54.225092+00:00"
+    },
+    "prompt-toolkit": {
+      "version": "3.0.52",
+      "last_updated": "2025-12-26T04:46:54.368064+00:00"
+    },
+    "transformers": {
+      "version": "4.57.3",
+      "last_updated": "2025-12-26T04:46:54.515611+00:00"
+    },
+    "ruamel-yaml": {
+      "version": "0.18.17",
+      "last_updated": "2025-12-26T04:46:54.691026+00:00"
+    },
+    "redis": {
+      "version": "7.1.0",
+      "last_updated": "2025-12-26T04:46:54.835750+00:00"
+    },
+    "google-api-python-client": {
+      "version": "2.187.0",
+      "last_updated": "2025-12-26T04:46:54.982884+00:00"
+    },
+    "google-crc32c": {
+      "version": "1.8.0",
+      "last_updated": "2025-12-26T04:46:55.132892+00:00"
+    },
+    "zstandard": {
+      "version": "0.25.0",
+      "last_updated": "2025-12-26T04:46:55.287850+00:00"
+    },
+    "cloudpickle": {
+      "version": "3.1.2",
+      "last_updated": "2025-12-26T04:46:55.423255+00:00"
+    },
+    "langsmith": {
+      "version": "0.5.1",
+      "last_updated": "2025-12-26T04:46:55.573150+00:00"
+    },
+    "dill": {
+      "version": "0.4.0",
+      "last_updated": "2025-12-26T04:46:55.707332+00:00"
+    },
+    "kiwisolver": {
+      "version": "1.4.9",
+      "last_updated": "2025-12-26T04:46:55.861148+00:00"
+    },
+    "secretstorage": {
+      "version": "3.5.0",
+      "last_updated": "2025-12-26T04:46:55.994465+00:00"
+    },
+    "google-cloud-bigquery": {
+      "version": "3.39.0",
+      "last_updated": "2025-12-26T04:46:56.133303+00:00"
+    },
+    "blinker": {
+      "version": "1.9.0",
+      "last_updated": "2025-12-26T04:46:56.271474+00:00"
+    },
+    "jaraco-classes": {
+      "version": "3.4.0",
+      "last_updated": "2025-12-26T04:46:56.403878+00:00"
+    },
+    "google-auth-oauthlib": {
+      "version": "1.2.3",
+      "last_updated": "2025-12-26T04:46:56.601813+00:00"
+    },
+    "setuptools-scm": {
+      "version": "9.2.2",
+      "last_updated": "2025-12-26T04:46:56.746797+00:00"
+    },
+    "backoff": {
+      "version": "2.2.1",
+      "last_updated": "2025-12-26T04:46:56.881417+00:00"
+    },
+    "pyproject-hooks": {
+      "version": "1.2.0",
+      "last_updated": "2025-12-26T04:46:57.033865+00:00"
+    },
+    "typer": {
+      "version": "0.21.0",
+      "last_updated": "2025-12-26T04:46:57.169391+00:00"
+    },
+    "alembic": {
+      "version": "1.17.2",
+      "last_updated": "2025-12-26T04:46:57.307365+00:00"
+    },
+    "pydantic-settings": {
+      "version": "2.12.0",
+      "last_updated": "2025-12-26T04:46:57.442204+00:00"
+    },
+    "fastjsonschema": {
+      "version": "2.21.2",
+      "last_updated": "2025-12-26T04:46:57.576450+00:00"
+    },
+    "build": {
+      "version": "1.3.0",
+      "last_updated": "2025-12-26T04:46:57.708625+00:00"
+    },
+    "jeepney": {
+      "version": "0.9.0",
+      "last_updated": "2025-12-26T04:46:57.844117+00:00"
+    },
+    "rapidfuzz": {
+      "version": "3.14.3",
+      "last_updated": "2025-12-26T04:46:58.130216+00:00"
+    },
+    "cycler": {
+      "version": "0.12.1",
+      "last_updated": "2025-12-26T04:46:58.268392+00:00"
+    },
+    "defusedxml": {
+      "version": "0.7.1",
+      "last_updated": "2025-12-26T04:46:58.401285+00:00"
+    },
+    "ruff": {
+      "version": "0.14.10",
+      "last_updated": "2025-12-26T04:46:58.599439+00:00"
+    },
+    "jiter": {
+      "version": "0.12.0",
+      "last_updated": "2025-12-26T04:46:58.757196+00:00"
+    },
+    "google-cloud-secret-manager": {
+      "version": "2.26.0",
+      "last_updated": "2025-12-26T04:46:58.962244+00:00"
+    },
+    "uritemplate": {
+      "version": "4.2.0",
+      "last_updated": "2025-12-26T04:46:59.160161+00:00"
+    },
+    "google-cloud-batch": {
+      "version": "0.19.0",
+      "last_updated": "2025-12-26T04:46:59.361373+00:00"
+    },
+    "pytest-cov": {
+      "version": "7.0.0",
+      "last_updated": "2025-12-26T04:46:59.495182+00:00"
+    },
+    "pyzmq": {
+      "version": "27.1.0",
+      "last_updated": "2025-12-26T04:46:59.704160+00:00"
+    },
+    "msal-extensions": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:46:59.839642+00:00"
+    },
+    "orjson": {
+      "version": "3.11.5",
+      "last_updated": "2025-12-26T04:47:00.039211+00:00"
+    },
+    "google-auth-httplib2": {
+      "version": "0.3.0",
+      "last_updated": "2025-12-26T04:47:00.239500+00:00"
+    },
+    "tzlocal": {
+      "version": "5.3.1",
+      "last_updated": "2025-12-26T04:47:00.372620+00:00"
+    },
+    "contourpy": {
+      "version": "1.3.3",
+      "last_updated": "2025-12-26T04:47:00.522518+00:00"
+    },
+    "httplib2": {
+      "version": "0.31.0",
+      "last_updated": "2025-12-26T04:47:00.656889+00:00"
+    },
+    "py4j": {
+      "version": "0.10.9.9",
+      "last_updated": "2025-12-26T04:47:00.793053+00:00"
+    },
+    "langchain": {
+      "version": "1.2.0",
+      "last_updated": "2025-12-26T04:47:00.944496+00:00"
+    },
+    "ruamel-yaml-clib": {
+      "version": "0.2.15",
+      "last_updated": "2025-12-26T04:47:01.091102+00:00"
+    },
+    "jaraco-functools": {
+      "version": "4.4.0",
+      "last_updated": "2025-12-26T04:47:01.226395+00:00"
+    },
+    "grpcio-health-checking": {
+      "version": "1.76.0",
+      "last_updated": "2025-12-26T04:47:01.429582+00:00"
+    },
+    "sqlparse": {
+      "version": "0.5.5",
+      "last_updated": "2025-12-26T04:47:01.563583+00:00"
+    },
+    "jsonpointer": {
+      "version": "3.0.0",
+      "last_updated": "2025-12-26T04:47:01.698002+00:00"
+    },
+    "xmltodict": {
+      "version": "1.0.2",
+      "last_updated": "2025-12-26T04:47:01.833105+00:00"
+    },
+    "prometheus-client": {
+      "version": "0.23.1",
+      "last_updated": "2025-12-26T04:47:01.968252+00:00"
+    },
+    "tokenizers": {
+      "version": "0.22.1",
+      "last_updated": "2025-12-26T04:47:02.141500+00:00"
+    },
+    "marshmallow": {
+      "version": "4.1.2",
+      "last_updated": "2025-12-26T04:47:02.289794+00:00"
+    },
+    "azure-storage-blob": {
+      "version": "12.27.1",
+      "last_updated": "2025-12-26T04:47:02.429411+00:00"
+    },
+    "google-analytics-admin": {
+      "version": "0.26.0",
+      "last_updated": "2025-12-26T04:47:02.627494+00:00"
+    },
+    "ipython": {
+      "version": "9.8.0",
+      "last_updated": "2025-12-26T04:47:02.775875+00:00"
+    },
+    "importlib-resources": {
+      "version": "6.5.2",
+      "last_updated": "2025-12-26T04:47:02.914498+00:00"
+    },
+    "jaraco-context": {
+      "version": "6.0.2",
+      "last_updated": "2025-12-26T04:47:03.048270+00:00"
+    },
+    "docker": {
+      "version": "7.1.0",
+      "last_updated": "2025-12-26T04:47:03.184518+00:00"
+    },
+    "aliyun-python-sdk-core": {
+      "version": "2.16.0",
+      "last_updated": "2025-12-26T04:47:03.386320+00:00"
+    },
+    "black": {
+      "version": "25.12.0",
+      "last_updated": "2025-12-26T04:47:03.540124+00:00"
+    },
+    "types-requests": {
+      "version": "2.32.4.20250913",
+      "last_updated": "2025-12-26T04:47:03.745664+00:00"
+    },
+    "mako": {
+      "version": "1.3.10",
+      "last_updated": "2025-12-26T04:47:03.880107+00:00"
+    },
+    "babel": {
+      "version": "2.17.0",
+      "last_updated": "2025-12-26T04:47:04.014328+00:00"
+    },
+    "email-validator": {
+      "version": "2.3.0",
+      "last_updated": "2025-12-26T04:47:04.150990+00:00"
+    },
+    "traitlets": {
+      "version": "5.14.3",
+      "last_updated": "2025-12-26T04:47:04.286726+00:00"
+    },
+    "cython": {
+      "version": "3.2.3",
+      "last_updated": "2025-12-26T04:47:04.459326+00:00"
+    },
+    "jedi": {
+      "version": "0.19.2",
+      "last_updated": "2025-12-26T04:47:04.598118+00:00"
+    },
+    "parso": {
+      "version": "0.8.5",
+      "last_updated": "2025-12-26T04:47:04.732751+00:00"
+    },
+    "nest-asyncio": {
+      "version": "1.6.0",
+      "last_updated": "2025-12-26T04:47:04.865435+00:00"
+    },
+    "tornado": {
+      "version": "6.5.4",
+      "last_updated": "2025-12-26T04:47:05.012459+00:00"
+    },
+    "sympy": {
+      "version": "1.14.0",
+      "last_updated": "2025-12-26T04:47:05.148435+00:00"
+    },
+    "toml": {
+      "version": "0.10.2",
+      "last_updated": "2025-12-26T04:47:05.279950+00:00"
+    },
+    "mypy": {
+      "version": "1.19.1",
+      "last_updated": "2025-12-26T04:47:05.444502+00:00"
+    },
+    "awswrangler": {
+      "version": "3.14.0",
+      "last_updated": "2025-12-26T04:47:05.592940+00:00"
+    },
+    "matplotlib-inline": {
+      "version": "0.2.1",
+      "last_updated": "2025-12-26T04:47:05.726268+00:00"
+    },
+    "opentelemetry-instrumentation": {
+      "version": "0.60b1",
+      "last_updated": "2025-12-26T04:47:05.863401+00:00"
+    },
+    "kubernetes": {
+      "version": "34.1.0",
+      "last_updated": "2025-12-26T04:47:06.008450+00:00"
+    },
+    "aiofiles": {
+      "version": "25.1.0",
+      "last_updated": "2025-12-26T04:47:06.144805+00:00"
+    },
+    "snowflake-sqlalchemy": {
+      "version": "1.8.2",
+      "last_updated": "2025-12-26T04:47:06.348294+00:00"
+    },
+    "executing": {
+      "version": "2.2.1",
+      "last_updated": "2025-12-26T04:47:06.483036+00:00"
+    },
+    "pytest-asyncio": {
+      "version": "1.3.0",
+      "last_updated": "2025-12-26T04:47:06.617612+00:00"
+    },
+    "hf-xet": {
+      "version": "1.2.0",
+      "last_updated": "2025-12-26T04:47:06.764315+00:00"
+    },
+    "sentry-sdk": {
+      "version": "2.48.0",
+      "last_updated": "2025-12-26T04:47:06.913444+00:00"
+    },
+    "argcomplete": {
+      "version": "3.6.3",
+      "last_updated": "2025-12-26T04:47:07.050802+00:00"
+    },
+    "asttokens": {
+      "version": "3.0.1",
+      "last_updated": "2025-12-26T04:47:07.184332+00:00"
+    },
+    "grpc-google-iam-v1": {
+      "version": "0.14.3",
+      "last_updated": "2025-12-26T04:47:07.379364+00:00"
+    },
+    "sphinx": {
+      "version": "9.0.4",
+      "last_updated": "2025-12-26T04:47:07.526987+00:00"
+    },
+    "uv": {
+      "version": "0.9.18",
+      "last_updated": "2025-12-26T04:47:07.707771+00:00"
+    },
+    "mpmath": {
+      "version": "1.3.0",
+      "last_updated": "2025-12-26T04:47:07.845231+00:00"
+    },
+    "webencodings": {
+      "version": "0.5.1",
+      "last_updated": "2025-12-26T04:47:07.977705+00:00"
+    },
+    "langchain-core": {
+      "version": "1.2.5",
+      "last_updated": "2025-12-26T04:47:08.123852+00:00"
+    },
+    "typedload": {
+      "version": "2.39",
+      "last_updated": "2025-12-26T04:47:08.326081+00:00"
+    },
+    "ply": {
+      "version": "3.11",
+      "last_updated": "2025-12-26T04:47:08.459280+00:00"
+    },
+    "nodeenv": {
+      "version": "1.10.0",
+      "last_updated": "2025-12-26T04:47:08.596883+00:00"
+    },
+    "pymupdf": {
+      "version": "1.26.7",
+      "last_updated": "2025-12-26T04:47:08.833480+00:00"
+    },
+    "editables": {
+      "version": "0.5",
+      "last_updated": "2025-12-26T04:47:09.033383+00:00"
+    },
+    "termcolor": {
+      "version": "3.2.0",
+      "last_updated": "2025-12-26T04:47:09.165359+00:00"
+    },
+    "markdown": {
+      "version": "3.10",
+      "last_updated": "2025-12-26T04:47:09.302770+00:00"
+    },
+    "jsonpatch": {
+      "version": "1.33",
+      "last_updated": "2025-12-26T04:47:09.436605+00:00"
+    },
+    "torch": {
+      "version": "2.9.1",
+      "last_updated": "2025-12-26T04:47:09.590660+00:00"
+    },
+    "stack-data": {
+      "version": "0.6.3",
+      "last_updated": "2025-12-26T04:47:09.725545+00:00"
+    },
+    "pure-eval": {
+      "version": "0.2.3",
+      "last_updated": "2025-12-26T04:47:09.859862+00:00"
+    },
+    "cachecontrol": {
+      "version": "0.14.4",
+      "last_updated": "2025-12-26T04:47:10.058172+00:00"
+    },
+    "gunicorn": {
+      "version": "23.0.0",
+      "last_updated": "2025-12-26T04:47:10.193631+00:00"
+    },
+    "pymysql": {
+      "version": "1.1.2",
+      "last_updated": "2025-12-26T04:47:10.329830+00:00"
+    },
+    "uvloop": {
+      "version": "0.22.1",
+      "last_updated": "2025-12-26T04:47:10.476718+00:00"
+    },
+    "asgiref": {
+      "version": "3.11.0",
+      "last_updated": "2025-12-26T04:47:10.615298+00:00"
+    },
+    "pymongo": {
+      "version": "4.15.5",
+      "last_updated": "2025-12-26T04:47:10.807243+00:00"
+    },
+    "watchfiles": {
+      "version": "1.1.1",
+      "last_updated": "2025-12-26T04:47:10.974553+00:00"
+    },
+    "pkginfo": {
+      "version": "1.12.1.2",
+      "last_updated": "2025-12-26T04:47:11.110339+00:00"
+    },
+    "mccabe": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:47:11.243514+00:00"
+    },
+    "dbt-core": {
+      "version": "1.11.2",
+      "last_updated": "2025-12-26T04:47:11.390467+00:00"
+    },
+    "isort": {
+      "version": "7.0.0",
+      "last_updated": "2025-12-26T04:47:11.532799+00:00"
+    },
+    "typing-inspect": {
+      "version": "0.9.0",
+      "last_updated": "2025-12-26T04:47:11.665247+00:00"
+    },
+    "docstring-parser": {
+      "version": "0.17.0",
+      "last_updated": "2025-12-26T04:47:11.796623+00:00"
+    },
+    "dbt-common": {
+      "version": "1.37.2",
+      "last_updated": "2025-12-26T04:47:11.996739+00:00"
+    },
+    "pytest-xdist": {
+      "version": "3.8.0",
+      "last_updated": "2025-12-26T04:47:12.131200+00:00"
+    },
+    "pycodestyle": {
+      "version": "2.14.0",
+      "last_updated": "2025-12-26T04:47:12.329835+00:00"
+    },
+    "pre-commit": {
+      "version": "4.5.1",
+      "last_updated": "2025-12-26T04:47:12.476592+00:00"
+    },
+    "python-json-logger": {
+      "version": "4.0.0",
+      "last_updated": "2025-12-26T04:47:12.652099+00:00"
+    },
+    "aioitertools": {
+      "version": "0.13.0",
+      "last_updated": "2025-12-26T04:47:12.784781+00:00"
+    },
+    "shapely": {
+      "version": "2.1.2",
+      "last_updated": "2025-12-26T04:47:12.944800+00:00"
+    },
+    "tiktoken": {
+      "version": "0.12.0",
+      "last_updated": "2025-12-26T04:47:13.092952+00:00"
+    },
+    "cfgv": {
+      "version": "3.5.0",
+      "last_updated": "2025-12-26T04:47:13.225970+00:00"
+    },
+    "identify": {
+      "version": "2.6.15",
+      "last_updated": "2025-12-26T04:47:13.370735+00:00"
+    },
+    "execnet": {
+      "version": "2.1.2",
+      "last_updated": "2025-12-26T04:47:13.502963+00:00"
+    },
+    "installer": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:47:13.640548+00:00"
+    },
+    "httptools": {
+      "version": "0.7.1",
+      "last_updated": "2025-12-26T04:47:13.782576+00:00"
+    },
+    "opentelemetry-util-http": {
+      "version": "0.60b1",
+      "last_updated": "2025-12-26T04:47:13.915618+00:00"
+    },
+    "debugpy": {
+      "version": "1.8.19",
+      "last_updated": "2025-12-26T04:47:14.127600+00:00"
+    },
+    "google-cloud-vision": {
+      "version": "3.11.0",
+      "last_updated": "2025-12-26T04:47:14.342101+00:00"
+    },
+    "google-cloud-kms": {
+      "version": "3.7.0",
+      "last_updated": "2025-12-26T04:47:14.544433+00:00"
+    },
+    "pycryptodome": {
+      "version": "3.23.0",
+      "last_updated": "2025-12-26T04:47:14.703084+00:00"
+    },
+    "google-cloud-compute": {
+      "version": "1.40.0",
+      "last_updated": "2025-12-26T04:47:14.904945+00:00"
+    },
+    "google-cloud-monitoring": {
+      "version": "2.28.0",
+      "last_updated": "2025-12-26T04:47:15.106104+00:00"
+    },
+    "pendulum": {
+      "version": "3.1.0",
+      "last_updated": "2025-12-26T04:47:15.325506+00:00"
+    },
+    "future": {
+      "version": "1.0.0",
+      "last_updated": "2025-12-26T04:47:15.459308+00:00"
+    },
+    "google-cloud-speech": {
+      "version": "2.35.0",
+      "last_updated": "2025-12-26T04:47:15.659348+00:00"
+    },
+    "google-cloud-tasks": {
+      "version": "2.20.0",
+      "last_updated": "2025-12-26T04:47:15.862396+00:00"
+    },
+    "dulwich": {
+      "version": "0.25.0",
+      "last_updated": "2025-12-26T04:47:16.093621+00:00"
+    },
+    "dbt-adapters": {
+      "version": "1.22.2",
+      "last_updated": "2025-12-26T04:47:16.291962+00:00"
+    },
+    "google-cloud-dlp": {
+      "version": "3.33.0",
+      "last_updated": "2025-12-26T04:47:16.496934+00:00"
+    },
+    "msrest": {
+      "version": "0.7.1",
+      "last_updated": "2025-12-26T04:47:16.637597+00:00"
+    },
+    "databricks-sdk": {
+      "version": "0.76.0",
+      "last_updated": "2025-12-26T04:47:16.777761+00:00"
+    },
+    "watchdog": {
+      "version": "6.0.0",
+      "last_updated": "2025-12-26T04:47:16.925677+00:00"
+    },
+    "multiprocess": {
+      "version": "0.70.18",
+      "last_updated": "2025-12-26T04:47:17.062077+00:00"
+    },
+    "datadog": {
+      "version": "0.52.1",
+      "last_updated": "2025-12-26T04:47:17.194547+00:00"
+    },
+    "google-cloud-workflows": {
+      "version": "1.19.0",
+      "last_updated": "2025-12-26T04:47:17.396109+00:00"
+    },
+    "google-cloud-language": {
+      "version": "2.18.0",
+      "last_updated": "2025-12-26T04:47:17.596640+00:00"
+    },
+    "jsonpath-ng": {
+      "version": "1.7.0",
+      "last_updated": "2025-12-26T04:47:17.791422+00:00"
+    },
+    "poetry": {
+      "version": "2.2.1",
+      "last_updated": "2025-12-26T04:47:17.997856+00:00"
+    },
+    "crashtest": {
+      "version": "0.4.1",
+      "last_updated": "2025-12-26T04:47:18.195938+00:00"
+    },
+    "notebook": {
+      "version": "7.5.1",
+      "last_updated": "2025-12-26T04:47:18.340322+00:00"
+    },
+    "google-cloud-dataform": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:47:18.540883+00:00"
+    },
+    "slack-sdk": {
+      "version": "3.39.0",
+      "last_updated": "2025-12-26T04:47:18.681617+00:00"
+    },
+    "rfc3339-validator": {
+      "version": "0.1.4",
+      "last_updated": "2025-12-26T04:47:18.814912+00:00"
+    },
+    "google-cloud-videointelligence": {
+      "version": "2.17.0",
+      "last_updated": "2025-12-26T04:47:19.013769+00:00"
+    },
+    "smart-open": {
+      "version": "7.5.0",
+      "last_updated": "2025-12-26T04:47:19.151393+00:00"
+    },
+    "mcp": {
+      "version": "1.25.0",
+      "last_updated": "2025-12-26T04:47:19.290686+00:00"
+    },
+    "httpx-sse": {
+      "version": "0.4.3",
+      "last_updated": "2025-12-26T04:47:19.423518+00:00"
+    },
+    "azure-common": {
+      "version": "1.1.28",
+      "last_updated": "2025-12-26T04:47:19.556942+00:00"
+    },
+    "jupyter-core": {
+      "version": "5.9.1",
+      "last_updated": "2025-12-26T04:47:19.693552+00:00"
+    },
+    "google-cloud-os-login": {
+      "version": "2.18.0",
+      "last_updated": "2025-12-26T04:47:19.887337+00:00"
+    },
+    "databricks-sql-connector": {
+      "version": "4.2.3",
+      "last_updated": "2025-12-26T04:47:20.091914+00:00"
+    },
+    "lz4": {
+      "version": "4.4.5",
+      "last_updated": "2025-12-26T04:47:20.244519+00:00"
+    },
+    "cattrs": {
+      "version": "25.3.0",
+      "last_updated": "2025-12-26T04:47:20.378827+00:00"
+    },
+    "ipykernel": {
+      "version": "7.1.0",
+      "last_updated": "2025-12-26T04:47:20.522513+00:00"
+    },
+    "cleo": {
+      "version": "2.1.0",
+      "last_updated": "2025-12-26T04:47:20.722830+00:00"
+    },
+    "opentelemetry-instrumentation-requests": {
+      "version": "0.60b1",
+      "last_updated": "2025-12-26T04:47:20.858653+00:00"
+    },
+    "arrow": {
+      "version": "1.4.0",
+      "last_updated": "2025-12-26T04:47:20.993113+00:00"
+    },
+    "backports-tarfile": {
+      "version": "1.2.0",
+      "last_updated": "2025-12-26T04:47:21.124492+00:00"
+    },
+    "google-cloud-redis": {
+      "version": "2.19.0",
+      "last_updated": "2025-12-26T04:47:21.261447+00:00"
+    },
+    "pytest-mock": {
+      "version": "3.15.1",
+      "last_updated": "2025-12-26T04:47:21.397714+00:00"
+    },
+    "requests-file": {
+      "version": "3.0.1",
+      "last_updated": "2025-12-26T04:47:21.530802+00:00"
+    },
+    "dataclasses-json": {
+      "version": "0.6.7",
+      "last_updated": "2025-12-26T04:47:21.667410+00:00"
+    },
+    "scramp": {
+      "version": "1.4.6",
+      "last_updated": "2025-12-26T04:47:21.864402+00:00"
+    },
+    "bashlex": {
+      "version": "0.18",
+      "last_updated": "2025-12-26T04:47:21.996727+00:00"
+    },
+    "tinycss2": {
+      "version": "1.5.1",
+      "last_updated": "2025-12-26T04:47:22.129110+00:00"
+    },
+    "google-cloud-logging": {
+      "version": "3.13.0",
+      "last_updated": "2025-12-26T04:47:22.265989+00:00"
+    },
+    "pygithub": {
+      "version": "2.8.1",
+      "last_updated": "2025-12-26T04:47:22.403825+00:00"
+    },
+    "semver": {
+      "version": "3.0.4",
+      "last_updated": "2025-12-26T04:47:22.536883+00:00"
+    },
+    "jupyter-client": {
+      "version": "8.7.0",
+      "last_updated": "2025-12-26T04:47:22.688492+00:00"
+    },
+    "pypandoc-binary": {
+      "version": "1.16.2",
+      "last_updated": "2025-12-26T04:47:22.889877+00:00"
+    },
+    "comm": {
+      "version": "0.2.3",
+      "last_updated": "2025-12-26T04:47:23.022102+00:00"
+    },
+    "py": {
+      "version": "1.11.0",
+      "last_updated": "2025-12-26T04:47:23.155042+00:00"
+    },
+    "swe-rex": {
+      "version": "1.4.0",
+      "last_updated": "2025-12-26T04:47:23.356856+00:00"
+    },
+    "google-cloud-memcache": {
+      "version": "1.13.0",
+      "last_updated": "2025-12-26T04:47:23.564457+00:00"
+    },
+    "deepdiff": {
+      "version": "8.6.1",
+      "last_updated": "2025-12-26T04:47:23.772262+00:00"
+    },
+    "opensearch-py": {
+      "version": "3.1.0",
+      "last_updated": "2025-12-26T04:47:23.906402+00:00"
+    },
+    "pyflakes": {
+      "version": "3.4.0",
+      "last_updated": "2025-12-26T04:47:24.041059+00:00"
+    },
+    "nvidia-nccl-cu12": {
+      "version": "2.28.9",
+      "last_updated": "2025-12-26T04:47:24.172960+00:00"
+    },
+    "invoke": {
+      "version": "2.2.1",
+      "last_updated": "2025-12-26T04:47:24.309023+00:00"
+    },
+    "mistune": {
+      "version": "3.2.0",
+      "last_updated": "2025-12-26T04:47:24.445403+00:00"
+    },
+    "textual": {
+      "version": "6.11.0",
+      "last_updated": "2025-12-26T04:47:24.591591+00:00"
+    },
+    "zope-interface": {
+      "version": "8.1.1",
+      "last_updated": "2025-12-26T04:47:24.753482+00:00"
+    },
+    "safetensors": {
+      "version": "0.7.0",
+      "last_updated": "2025-12-26T04:47:24.913347+00:00"
+    },
+    "google-cloud-aiplatform": {
+      "version": "1.132.0",
+      "last_updated": "2025-12-26T04:47:25.122407+00:00"
+    },
+    "redshift-connector": {
+      "version": "2.1.10",
+      "last_updated": "2025-12-26T04:47:25.321446+00:00"
+    },
+    "bleach": {
+      "version": "6.3.0",
+      "last_updated": "2025-12-26T04:47:25.457486+00:00"
+    },
+    "pyspark": {
+      "version": "4.1.0",
+      "last_updated": "2025-12-26T04:47:25.591611+00:00"
+    },
+    "typeguard": {
+      "version": "4.4.4",
+      "last_updated": "2025-12-26T04:47:25.791278+00:00"
+    },
+    "h2": {
+      "version": "4.3.0",
+      "last_updated": "2025-12-26T04:47:25.926467+00:00"
+    },
+    "flake8": {
+      "version": "7.3.0",
+      "last_updated": "2025-12-26T04:47:26.060495+00:00"
+    },
+    "opentelemetry-exporter-prometheus": {
+      "version": "0.60b1",
+      "last_updated": "2025-12-26T04:47:26.194452+00:00"
+    },
+    "xlsxwriter": {
+      "version": "3.2.9",
+      "last_updated": "2025-12-26T04:47:26.333904+00:00"
+    },
+    "hyperframe": {
+      "version": "6.1.0",
+      "last_updated": "2025-12-26T04:47:26.468002+00:00"
+    },
+    "authlib": {
+      "version": "1.6.6",
+      "last_updated": "2025-12-26T04:47:26.601844+00:00"
+    },
+    "nbformat": {
+      "version": "5.10.4",
+      "last_updated": "2025-12-26T04:47:26.750914+00:00"
+    },
+    "hpack": {
+      "version": "4.1.0",
+      "last_updated": "2025-12-26T04:47:26.888575+00:00"
+    },
+    "durationpy": {
+      "version": "0.10",
+      "last_updated": "2025-12-26T04:47:27.021079+00:00"
+    },
+    "text-unidecode": {
+      "version": "1.3",
+      "last_updated": "2025-12-26T04:47:27.154247+00:00"
+    },
+    "botocore-stubs": {
+      "version": "1.42.16",
+      "last_updated": "2025-12-26T04:47:27.383070+00:00"
+    },
+    "google-cloud-bigtable": {
+      "version": "2.35.0",
+      "last_updated": "2025-12-26T04:47:27.589357+00:00"
+    },
+    "snowflake-snowpark-python": {
+      "version": "1.44.0",
+      "last_updated": "2025-12-26T04:47:27.790446+00:00"
+    },
+    "graphql-core": {
+      "version": "3.2.7",
+      "last_updated": "2025-12-26T04:47:27.993092+00:00"
+    },
+    "types-awscrt": {
+      "version": "0.30.0",
+      "last_updated": "2025-12-26T04:47:28.127660+00:00"
+    },
+    "pysocks": {
+      "version": "1.7.1",
+      "last_updated": "2025-12-26T04:47:28.260380+00:00"
+    },
+    "humanfriendly": {
+      "version": "10.0",
+      "last_updated": "2025-12-26T04:47:28.399603+00:00"
+    },
+    "python-slugify": {
+      "version": "8.0.4",
+      "last_updated": "2025-12-26T04:47:28.536840+00:00"
+    },
+    "boto3-stubs": {
+      "version": "1.42.16",
+      "last_updated": "2025-12-26T04:47:28.705014+00:00"
+    },
+    "poetry-plugin-export": {
+      "version": "1.9.0",
+      "last_updated": "2025-12-26T04:47:28.904041+00:00"
+    },
+    "wsproto": {
+      "version": "1.3.2",
+      "last_updated": "2025-12-26T04:47:29.101838+00:00"
+    },
+    "types-s3transfer": {
+      "version": "0.16.0",
+      "last_updated": "2025-12-26T04:47:29.299679+00:00"
+    },
+    "loguru": {
+      "version": "0.7.3",
+      "last_updated": "2025-12-26T04:47:29.434950+00:00"
+    },
+    "requests-aws4auth": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:47:29.631856+00:00"
+    },
+    "google-cloud-pubsub": {
+      "version": "2.34.0",
+      "last_updated": "2025-12-26T04:47:29.841909+00:00"
+    },
+    "narwhals": {
+      "version": "2.14.0",
+      "last_updated": "2025-12-26T04:47:29.990586+00:00"
+    },
+    "nbconvert": {
+      "version": "7.16.6",
+      "last_updated": "2025-12-26T04:47:30.129975+00:00"
+    },
+    "mysql-connector-python": {
+      "version": "9.5.0",
+      "last_updated": "2025-12-26T04:47:30.345483+00:00"
+    },
+    "aenum": {
+      "version": "3.1.16",
+      "last_updated": "2025-12-26T04:47:30.546641+00:00"
+    },
+    "elasticsearch": {
+      "version": "9.2.1",
+      "last_updated": "2025-12-26T04:47:30.755618+00:00"
+    },
+    "lark": {
+      "version": "1.3.1",
+      "last_updated": "2025-12-26T04:47:30.889328+00:00"
+    },
+    "pandas-stubs": {
+      "version": "2.3.3.251219",
+      "last_updated": "2025-12-26T04:47:31.031904+00:00"
+    },
+    "xxhash": {
+      "version": "3.6.0",
+      "last_updated": "2025-12-26T04:47:31.186757+00:00"
+    },
+    "simplejson": {
+      "version": "3.20.2",
+      "last_updated": "2025-12-26T04:47:31.342933+00:00"
+    },
+    "userpath": {
+      "version": "1.9.2",
+      "last_updated": "2025-12-26T04:47:31.546350+00:00"
+    },
+    "gcsfs": {
+      "version": "2025.12.0",
+      "last_updated": "2025-12-26T04:47:31.684656+00:00"
+    },
+    "nltk": {
+      "version": "3.9.2",
+      "last_updated": "2025-12-26T04:47:31.819419+00:00"
+    },
+    "google-cloud-resource-manager": {
+      "version": "1.15.0",
+      "last_updated": "2025-12-26T04:47:31.952025+00:00"
+    },
+    "pycryptodomex": {
+      "version": "3.23.0",
+      "last_updated": "2025-12-26T04:47:32.168105+00:00"
+    },
+    "nvidia-cublas-cu12": {
+      "version": "12.9.1.4",
+      "last_updated": "2025-12-26T04:47:32.367372+00:00"
+    },
+    "xlrd": {
+      "version": "2.0.2",
+      "last_updated": "2025-12-26T04:47:32.566179+00:00"
+    },
+    "jupyter-server": {
+      "version": "2.17.0",
+      "last_updated": "2025-12-26T04:47:32.708989+00:00"
+    },
+    "nbclient": {
+      "version": "0.10.4",
+      "last_updated": "2025-12-26T04:47:32.845633+00:00"
+    },
+    "jupyterlab": {
+      "version": "4.5.1",
+      "last_updated": "2025-12-26T04:47:33.001050+00:00"
+    },
+    "sse-starlette": {
+      "version": "3.0.4",
+      "last_updated": "2025-12-26T04:47:33.136297+00:00"
+    },
+    "triton": {
+      "version": "3.5.1",
+      "last_updated": "2025-12-26T04:47:33.434154+00:00"
+    },
+    "argon2-cffi": {
+      "version": "25.1.0",
+      "last_updated": "2025-12-26T04:47:33.569258+00:00"
+    },
+    "nvidia-cusparse-cu12": {
+      "version": "12.5.10.65",
+      "last_updated": "2025-12-26T04:47:33.771868+00:00"
+    },
+    "deprecation": {
+      "version": "2.1.0",
+      "last_updated": "2025-12-26T04:47:33.906568+00:00"
+    },
+    "faker": {
+      "version": "39.0.0",
+      "last_updated": "2025-12-26T04:47:34.118845+00:00"
+    },
+    "argon2-cffi-bindings": {
+      "version": "25.1.0",
+      "last_updated": "2025-12-26T04:47:34.254979+00:00"
+    },
+    "toolz": {
+      "version": "1.1.0",
+      "last_updated": "2025-12-26T04:47:34.387549+00:00"
+    },
+    "confluent-kafka": {
+      "version": "2.12.2",
+      "last_updated": "2025-12-26T04:47:34.544055+00:00"
+    },
+    "pytokens": {
+      "version": "0.3.0",
+      "last_updated": "2025-12-26T04:47:34.743782+00:00"
+    },
+    "nvidia-cuda-nvrtc-cu12": {
+      "version": "12.9.86",
+      "last_updated": "2025-12-26T04:47:34.942014+00:00"
+    },
+    "litellm": {
+      "version": "1.80.11",
+      "last_updated": "2025-12-26T04:47:35.107709+00:00"
+    },
+    "nvidia-cufft-cu12": {
+      "version": "11.4.1.4",
+      "last_updated": "2025-12-26T04:47:35.308156+00:00"
+    },
+    "nvidia-cusolver-cu12": {
+      "version": "11.7.5.82",
+      "last_updated": "2025-12-26T04:47:35.505881+00:00"
+    },
+    "nvidia-cuda-cupti-cu12": {
+      "version": "12.9.79",
+      "last_updated": "2025-12-26T04:47:35.700402+00:00"
+    },
+    "nvidia-nvjitlink-cu12": {
+      "version": "12.9.86",
+      "last_updated": "2025-12-26T04:47:35.901278+00:00"
+    },
+    "nvidia-curand-cu12": {
+      "version": "10.3.10.19",
+      "last_updated": "2025-12-26T04:47:36.100179+00:00"
+    },
+    "pyrsistent": {
+      "version": "0.20.0",
+      "last_updated": "2025-12-26T04:47:36.242571+00:00"
+    },
+    "datasets": {
+      "version": "4.4.2",
+      "last_updated": "2025-12-26T04:47:36.386818+00:00"
+    },
+    "pbs-installer": {
+      "version": "2025.12.17",
+      "last_updated": "2025-12-26T04:47:36.586556+00:00"
+    },
+    "nvidia-cuda-runtime-cu12": {
+      "version": "12.9.79",
+      "last_updated": "2025-12-26T04:47:36.783964+00:00"
+    },
+    "nvidia-cudnn-cu12": {
+      "version": "9.17.1.4",
+      "last_updated": "2025-12-26T04:47:36.981044+00:00"
+    },
+    "types-protobuf": {
+      "version": "6.32.1.20251210",
+      "last_updated": "2025-12-26T04:47:37.188064+00:00"
+    },
+    "selenium": {
+      "version": "4.39.0",
+      "last_updated": "2025-12-26T04:47:37.337579+00:00"
+    },
+    "pandocfilters": {
+      "version": "1.5.1",
+      "last_updated": "2025-12-26T04:47:37.471412+00:00"
+    },
+    "findpython": {
+      "version": "0.7.1",
+      "last_updated": "2025-12-26T04:47:37.669095+00:00"
+    },
+    "google-ads": {
+      "version": "28.4.1",
+      "last_updated": "2025-12-26T04:47:37.867275+00:00"
+    },
+    "jupyterlab-pygments": {
+      "version": "0.3.0",
+      "last_updated": "2025-12-26T04:47:37.999708+00:00"
+    },
+    "croniter": {
+      "version": "6.0.0",
+      "last_updated": "2025-12-26T04:47:38.197988+00:00"
+    },
+    "pg8000": {
+      "version": "1.31.5",
+      "last_updated": "2025-12-26T04:47:38.339040+00:00"
+    },
+    "types-pyyaml": {
+      "version": "6.0.12.20250915",
+      "last_updated": "2025-12-26T04:47:38.474389+00:00"
+    },
+    "json5": {
+      "version": "0.12.1",
+      "last_updated": "2025-12-26T04:47:38.611407+00:00"
+    },
+    "flatbuffers": {
+      "version": "25.12.19",
+      "last_updated": "2025-12-26T04:47:38.743259+00:00"
+    },
+    "structlog": {
+      "version": "25.5.0",
+      "last_updated": "2025-12-26T04:47:38.876773+00:00"
+    },
+    "sqlalchemy-bigquery": {
+      "version": "1.16.0",
+      "last_updated": "2025-12-26T04:47:39.072459+00:00"
+    },
+    "plotly": {
+      "version": "6.5.0",
+      "last_updated": "2025-12-26T04:47:39.215850+00:00"
+    },
+    "mypy-boto3-s3": {
+      "version": "1.42.16",
+      "last_updated": "2025-12-26T04:47:39.464579+00:00"
+    },
+    "altair": {
+      "version": "6.0.0",
+      "last_updated": "2025-12-26T04:47:39.664031+00:00"
+    },
+    "colorlog": {
+      "version": "6.10.1",
+      "last_updated": "2025-12-26T04:47:39.801821+00:00"
+    },
+    "langchain-community": {
+      "version": "0.4.1",
+      "last_updated": "2025-12-26T04:47:39.938404+00:00"
+    },
+    "google-cloud-appengine-logging": {
+      "version": "1.7.0",
+      "last_updated": "2025-12-26T04:47:40.137504+00:00"
+    },
+    "types-python-dateutil": {
+      "version": "2.9.0.20251115",
+      "last_updated": "2025-12-26T04:47:40.272588+00:00"
+    },
+    "azure-keyvault-secrets": {
+      "version": "4.10.0",
+      "last_updated": "2025-12-26T04:47:40.467079+00:00"
+    },
+    "astroid": {
+      "version": "4.0.2",
+      "last_updated": "2025-12-26T04:47:40.606209+00:00"
+    },
+    "overrides": {
+      "version": "7.7.0",
+      "last_updated": "2025-12-26T04:47:40.739366+00:00"
+    },
+    "brotli": {
+      "version": "1.2.0",
+      "last_updated": "2025-12-26T04:47:40.888640+00:00"
+    },
+    "xgboost": {
+      "version": "3.1.2",
+      "last_updated": "2025-12-26T04:47:41.029775+00:00"
+    },
+    "ipython-pygments-lexers": {
+      "version": "1.1.1",
+      "last_updated": "2025-12-26T04:47:41.162304+00:00"
+    },
+    "google-cloud-bigquery-datatransfer": {
+      "version": "3.20.0",
+      "last_updated": "2025-12-26T04:47:41.364543+00:00"
+    },
+    "jsonschema-path": {
+      "version": "0.3.4",
+      "last_updated": "2025-12-26T04:47:41.498756+00:00"
+    },
+    "google-cloud-texttospeech": {
+      "version": "2.33.0",
+      "last_updated": "2025-12-26T04:47:41.707710+00:00"
+    },
+    "ray": {
+      "version": "2.53.0",
+      "last_updated": "2025-12-26T04:47:41.872814+00:00"
+    },
+    "google-cloud-orchestration-airflow": {
+      "version": "1.18.0",
+      "last_updated": "2025-12-26T04:47:42.074386+00:00"
+    },
+    "absl-py": {
+      "version": "2.3.1",
+      "last_updated": "2025-12-26T04:47:42.207391+00:00"
+    },
+    "responses": {
+      "version": "0.25.8",
+      "last_updated": "2025-12-26T04:47:42.343282+00:00"
+    },
+    "numba": {
+      "version": "0.63.1",
+      "last_updated": "2025-12-26T04:47:42.502984+00:00"
+    },
+    "google-cloud-run": {
+      "version": "0.13.0",
+      "last_updated": "2025-12-26T04:47:42.710360+00:00"
+    },
+    "google-cloud-dataproc-metastore": {
+      "version": "1.20.0",
+      "last_updated": "2025-12-26T04:47:42.909127+00:00"
+    },
+    "imageio": {
+      "version": "2.37.2",
+      "last_updated": "2025-12-26T04:47:43.048797+00:00"
+    },
+    "google-pasta": {
+      "version": "0.2.0",
+      "last_updated": "2025-12-26T04:47:43.187264+00:00"
+    },
+    "jupyterlab-server": {
+      "version": "2.28.0",
+      "last_updated": "2025-12-26T04:47:43.389495+00:00"
+    },
+    "pylint": {
+      "version": "4.0.4",
+      "last_updated": "2025-12-26T04:47:43.534807+00:00"
+    },
+    "db-dtypes": {
+      "version": "1.5.0",
+      "last_updated": "2025-12-26T04:47:43.733726+00:00"
+    },
+    "portalocker": {
+      "version": "3.2.0",
+      "last_updated": "2025-12-26T04:47:43.869145+00:00"
+    },
+    "webcolors": {
+      "version": "25.10.0",
+      "last_updated": "2025-12-26T04:47:44.003068+00:00"
+    },
+    "llvmlite": {
+      "version": "0.46.0",
+      "last_updated": "2025-12-26T04:47:44.152682+00:00"
+    },
+    "lazy-object-proxy": {
+      "version": "1.12.0",
+      "last_updated": "2025-12-26T04:47:44.300756+00:00"
+    },
+    "nvidia-nvtx-cu12": {
+      "version": "12.9.79",
+      "last_updated": "2025-12-26T04:47:44.508343+00:00"
+    },
+    "langchain-openai": {
+      "version": "1.1.6",
+      "last_updated": "2025-12-26T04:47:44.650327+00:00"
+    },
+    "inflection": {
+      "version": "0.5.1",
+      "last_updated": "2025-12-26T04:47:44.781205+00:00"
+    },
+    "coloredlogs": {
+      "version": "15.0.1",
+      "last_updated": "2025-12-26T04:47:44.916991+00:00"
+    },
+    "psycopg2": {
+      "version": "2.9.11",
+      "last_updated": "2025-12-26T04:47:45.065147+00:00"
+    },
+    "tree-sitter": {
+      "version": "0.25.2",
+      "last_updated": "2025-12-26T04:47:45.278978+00:00"
+    },
+    "kombu": {
+      "version": "5.6.1",
+      "last_updated": "2025-12-26T04:47:45.486184+00:00"
+    },
+    "typer-slim": {
+      "version": "0.21.0",
+      "last_updated": "2025-12-26T04:47:45.623496+00:00"
+    },
+    "setproctitle": {
+      "version": "1.3.7",
+      "last_updated": "2025-12-26T04:47:45.840419+00:00"
+    },
+    "google-cloud-automl": {
+      "version": "2.17.0",
+      "last_updated": "2025-12-26T04:47:46.044550+00:00"
+    },
+    "widgetsnbextension": {
+      "version": "4.0.15",
+      "last_updated": "2025-12-26T04:47:46.184737+00:00"
+    },
+    "trio": {
+      "version": "0.32.0",
+      "last_updated": "2025-12-26T04:47:46.381341+00:00"
+    },
+    "django": {
+      "version": "6.0",
+      "last_updated": "2025-12-26T04:47:46.532917+00:00"
+    },
+    "ipywidgets": {
+      "version": "8.1.8",
+      "last_updated": "2025-12-26T04:47:46.679742+00:00"
+    },
+    "antlr4-python3-runtime": {
+      "version": "4.13.2",
+      "last_updated": "2025-12-26T04:47:46.873860+00:00"
+    },
+    "async-lru": {
+      "version": "2.0.5",
+      "last_updated": "2025-12-26T04:47:47.006199+00:00"
+    },
+    "gevent": {
+      "version": "25.9.1",
+      "last_updated": "2025-12-26T04:47:47.163747+00:00"
+    },
+    "jupyterlab-widgets": {
+      "version": "3.0.16",
+      "last_updated": "2025-12-26T04:47:47.303768+00:00"
+    },
+    "fqdn": {
+      "version": "1.5.1",
+      "last_updated": "2025-12-26T04:47:47.436467+00:00"
     }
   },
-  "total_packages": 33
+  "total_packages": 500
 }

@@ -1,0 +1,56 @@
+{
+  "name": "s3fs",
+  "version": "2025.12.0",
+  "summary": "Convenient Filesystem interface over S3",
+  "author": null,
+  "author_email": null,
+  "license": "BSD",
+  "requires_python": ">=3.10",
+  "requires_dist": [
+    "aiobotocore<3.0.0,>=2.5.4",
+    "fsspec==2025.12.0",
+    "aiohttp!=4.0.0a0,!=4.0.0a1"
+  ],
+  "project_urls": {
+    "Homepage": "http://github.com/fsspec/s3fs/"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14"
+  ],
+  "keywords": "s3, boto",
+  "home_page": "http://github.com/fsspec/s3fs/",
+  "last_fetched": "2025-12-26T04:46:31.543220+00:00",
+  "releases": {
+    "latest": "2025.12.0",
+    "all_versions": [
+      "2023.9.2",
+      "2024.10.0",
+      "2024.12.0",
+      "2024.2.0",
+      "2024.3.0",
+      "2024.3.1",
+      "2024.5.0",
+      "2024.6.0",
+      "2024.6.1",
+      "2024.9.0",
+      "2025.10.0",
+      "2025.12.0",
+      "2025.2.0",
+      "2025.3.0",
+      "2025.3.1",
+      "2025.3.2",
+      "2025.5.0",
+      "2025.5.1",
+      "2025.7.0",
+      "2025.9.0"
+    ]
+  }
+}

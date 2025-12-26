@@ -1,0 +1,58 @@
+{
+  "name": "soupsieve",
+  "version": "2.8.1",
+  "summary": "A modern CSS selector implementation for Beautiful Soup.",
+  "author": null,
+  "author_email": "Isaac Muse <Isaac.Muse@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": null,
+  "project_urls": {
+    "Homepage": "https://github.com/facelessuser/soupsieve"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+  ],
+  "keywords": "CSS, HTML, XML, filter, query, selector, soup",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:46:44.775882+00:00",
+  "releases": {
+    "latest": "2.8.1",
+    "all_versions": [
+      "1.9.3",
+      "1.9.4",
+      "1.9.5",
+      "1.9.6",
+      "2.0",
+      "2.0.1",
+      "2.1",
+      "2.2",
+      "2.2.1",
+      "2.3",
+      "2.3.1",
+      "2.3.2",
+      "2.3.2.post1",
+      "2.4",
+      "2.4.1",
+      "2.5",
+      "2.6",
+      "2.7",
+      "2.8",
+      "2.8.1"
+    ]
+  }
+}

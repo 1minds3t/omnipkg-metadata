@@ -1,0 +1,63 @@
+{
+  "name": "mypy-boto3-s3",
+  "version": "1.42.16",
+  "summary": "Type annotations for boto3 S3 1.42.16 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "author_email": "Vlad Emelianov <vlad.emelianov.nz@gmail.com>",
+  "license": null,
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "typing-extensions; python_version < \"3.12\""
+  ],
+  "project_urls": {
+    "Documentation": "https://youtype.github.io/boto3_stubs_docs/mypy_boto3_s3/",
+    "Homepage": "https://github.com/youtype/mypy_boto3_builder",
+    "Source": "https://github.com/youtype/mypy_boto3_builder",
+    "Tracker": "https://github.com/youtype/mypy_boto3_builder/issues"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Typing :: Stubs Only"
+  ],
+  "keywords": "boto3, s3, boto3-stubs, type-annotations, mypy, typeshed, autocomplete",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:39.464579+00:00",
+  "releases": {
+    "latest": "1.42.16",
+    "all_versions": [
+      "1.36.21",
+      "1.36.9",
+      "1.37.0",
+      "1.37.24",
+      "1.38.0",
+      "1.38.26",
+      "1.38.39",
+      "1.38.44",
+      "1.39.0",
+      "1.39.2",
+      "1.39.5",
+      "1.40.0",
+      "1.40.26",
+      "1.40.61",
+      "1.41.0",
+      "1.41.1",
+      "1.42.1",
+      "1.42.10",
+      "1.42.16",
+      "1.42.3"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "fastjsonschema",
+  "version": "2.21.2",
+  "summary": "Fastest Python implementation of JSON schema",
+  "author": "Michal Horejsek",
+  "author_email": "fastjsonschema@horejsek.com",
+  "license": "BSD",
+  "requires_python": null,
+  "requires_dist": [
+    "colorama; extra == \"devel\"",
+    "jsonschema; extra == \"devel\"",
+    "json-spec; extra == \"devel\"",
+    "pylint; extra == \"devel\"",
+    "pytest; extra == \"devel\"",
+    "pytest-benchmark; extra == \"devel\"",
+    "pytest-cache; extra == \"devel\"",
+    "validictory; extra == \"devel\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/horejsek/python-fastjsonschema"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: BSD License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.3",
+    "Programming Language :: Python :: 3.4",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/horejsek/python-fastjsonschema",
+  "last_fetched": "2025-12-26T04:46:57.576450+00:00",
+  "releases": {
+    "latest": "2.21.2",
+    "all_versions": [
+      "2.16.2",
+      "2.16.3",
+      "2.17.0",
+      "2.17.1",
+      "2.18.0",
+      "2.18.1",
+      "2.19.0",
+      "2.19.1",
+      "2.2",
+      "2.20.0",
+      "2.21.0",
+      "2.21.1",
+      "2.21.2",
+      "2.3",
+      "2.4",
+      "2.5",
+      "2.6",
+      "2.7",
+      "2.8",
+      "2.9"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "tabulate",
+  "version": "0.9.0",
+  "summary": "Pretty-print tabular data",
+  "author": "",
+  "author_email": "Sergey Astanin <s.astanin@gmail.com>",
+  "license": "MIT",
+  "requires_python": ">=3.7",
+  "requires_dist": [
+    "wcwidth ; extra == 'widechars'"
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/astanin/python-tabulate"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": "",
+  "home_page": "",
+  "last_fetched": "2025-12-26T04:46:53.237030+00:00",
+  "releases": {
+    "latest": "0.9.0",
+    "all_versions": [
+      "0.7",
+      "0.7.1",
+      "0.7.2",
+      "0.7.3",
+      "0.7.4",
+      "0.7.5",
+      "0.7.6",
+      "0.7.7",
+      "0.8.0",
+      "0.8.1",
+      "0.8.10",
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.8.5",
+      "0.8.6",
+      "0.8.7",
+      "0.8.8",
+      "0.8.9",
+      "0.9.0"
+    ]
+  }
+}

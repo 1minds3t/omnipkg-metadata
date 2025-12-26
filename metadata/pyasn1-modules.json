@@ -1,0 +1,69 @@
+{
+  "name": "pyasn1-modules",
+  "version": "0.4.2",
+  "summary": "A collection of ASN.1-based protocols modules",
+  "author": "Ilya Etingof",
+  "author_email": "etingof@gmail.com",
+  "license": "BSD",
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "pyasn1<0.7.0,>=0.6.1"
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/pyasn1/pyasn1-modules/blob/master/CHANGES.txt",
+    "Homepage": "https://github.com/pyasn1/pyasn1-modules",
+    "Issues": "https://github.com/pyasn1/pyasn1-modules/issues",
+    "Source": "https://github.com/pyasn1/pyasn1-modules"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "Intended Audience :: Telecommunications Industry",
+    "License :: OSI Approved :: BSD License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Communications",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+  ],
+  "keywords": null,
+  "home_page": "https://github.com/pyasn1/pyasn1-modules",
+  "last_fetched": "2025-12-26T04:46:37.734883+00:00",
+  "releases": {
+    "latest": "0.4.2",
+    "all_versions": [
+      "0.0.6",
+      "0.0.7",
+      "0.0.8",
+      "0.0.9",
+      "0.1.1",
+      "0.1.2",
+      "0.1.4",
+      "0.1.5",
+      "0.2.1",
+      "0.2.2",
+      "0.2.3",
+      "0.2.4",
+      "0.2.5",
+      "0.2.6",
+      "0.2.7",
+      "0.2.8",
+      "0.3.0",
+      "0.4.0",
+      "0.4.1",
+      "0.4.2"
+    ]
+  }
+}

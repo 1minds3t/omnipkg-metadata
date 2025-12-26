@@ -1,0 +1,46 @@
+{
+  "name": "tiktoken",
+  "version": "0.12.0",
+  "summary": "tiktoken is a fast BPE tokeniser for use with OpenAI's models",
+  "author": "Shantanu Jain",
+  "author_email": "shantanu@openai.com",
+  "license": "MIT License\n        \n        Copyright (c) 2022 OpenAI, Shantanu Jain\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        of this software and associated documentation files (the \"Software\"), to deal\n        in the Software without restriction, including without limitation the rights\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n        copies of the Software, and to permit persons to whom the Software is\n        furnished to do so, subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n        SOFTWARE.\n        ",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "regex>=2022.1.18",
+    "requests>=2.26.0",
+    "blobfile>=2; extra == \"blobfile\""
+  ],
+  "project_urls": {
+    "changelog": "https://github.com/openai/tiktoken/blob/main/CHANGELOG.md",
+    "homepage": "https://github.com/openai/tiktoken",
+    "repository": "https://github.com/openai/tiktoken"
+  },
+  "classifiers": [],
+  "keywords": null,
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:13.092952+00:00",
+  "releases": {
+    "latest": "0.12.0",
+    "all_versions": [
+      "0.1.1",
+      "0.1.2",
+      "0.10.0",
+      "0.11.0",
+      "0.12.0",
+      "0.2.0",
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.7.0",
+      "0.8.0",
+      "0.9.0"
+    ]
+  }
+}

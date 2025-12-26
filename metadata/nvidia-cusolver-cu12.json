@@ -1,0 +1,69 @@
+{
+  "name": "nvidia-cusolver-cu12",
+  "version": "11.7.5.82",
+  "summary": "CUDA solver native runtime libraries",
+  "author": "Nvidia CUDA Installer Team",
+  "author_email": "compute_installer@nvidia.com",
+  "license": "LicenseRef-NVIDIA-Proprietary",
+  "requires_python": ">=3",
+  "requires_dist": [
+    "nvidia-cublas-cu12",
+    "nvidia-nvjitlink-cu12",
+    "nvidia-cusparse-cu12"
+  ],
+  "project_urls": {
+    "Homepage": "https://developer.nvidia.com/cuda-zone"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "License :: Other/Proprietary License",
+    "Natural Language :: English",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Mathematics",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Libraries"
+  ],
+  "keywords": "cuda, nvidia, runtime, machine learning, deep learning",
+  "home_page": "https://developer.nvidia.com/cuda-zone",
+  "last_fetched": "2025-12-26T04:47:35.505881+00:00",
+  "releases": {
+    "latest": "11.7.5.82",
+    "all_versions": [
+      "11.4.2.57",
+      "11.4.3.1",
+      "11.4.4.55",
+      "11.4.5.107",
+      "11.5.0.53",
+      "11.5.1.129",
+      "11.5.2.141",
+      "11.5.3.52",
+      "11.5.4.101",
+      "11.6.0.99",
+      "11.6.1.9",
+      "11.6.2.40",
+      "11.6.3.83",
+      "11.6.4.38",
+      "11.6.4.69",
+      "11.7.1.2",
+      "11.7.2.55",
+      "11.7.3.90",
+      "11.7.4.40",
+      "11.7.5.82"
+    ]
+  }
+}

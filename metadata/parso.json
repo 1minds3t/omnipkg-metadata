@@ -1,0 +1,68 @@
+{
+  "name": "parso",
+  "version": "0.8.5",
+  "summary": "A Python Parser",
+  "author": "David Halter",
+  "author_email": "davidhalter88@gmail.com",
+  "license": "MIT",
+  "requires_python": ">=3.6",
+  "requires_dist": [
+    "pytest; extra == \"testing\"",
+    "docopt; extra == \"testing\"",
+    "flake8==5.0.4; extra == \"qa\"",
+    "mypy==0.971; extra == \"qa\"",
+    "types-setuptools==67.2.0.1; extra == \"qa\""
+  ],
+  "project_urls": {
+    "Homepage": "https://github.com/davidhalter/parso"
+  },
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Environment :: Plugins",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Editors :: Integrated Development Environments (IDE)",
+    "Topic :: Utilities",
+    "Typing :: Typed"
+  ],
+  "keywords": "python parser parsing",
+  "home_page": "https://github.com/davidhalter/parso",
+  "last_fetched": "2025-12-26T04:47:04.732751+00:00",
+  "releases": {
+    "latest": "0.8.5",
+    "all_versions": [
+      "0.3.0",
+      "0.3.1",
+      "0.3.2",
+      "0.3.3",
+      "0.3.4",
+      "0.4.0",
+      "0.5.0",
+      "0.5.1",
+      "0.5.2",
+      "0.6.0",
+      "0.6.1",
+      "0.6.2",
+      "0.7.0",
+      "0.7.1",
+      "0.8.0",
+      "0.8.1",
+      "0.8.2",
+      "0.8.3",
+      "0.8.4",
+      "0.8.5"
+    ]
+  }
+}

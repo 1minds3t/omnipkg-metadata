@@ -1,0 +1,58 @@
+{
+  "name": "async-lru",
+  "version": "2.0.5",
+  "summary": "Simple LRU cache for asyncio",
+  "author": null,
+  "author_email": null,
+  "license": "MIT License",
+  "requires_python": ">=3.9",
+  "requires_dist": [
+    "typing_extensions>=4.0.0; python_version < \"3.11\""
+  ],
+  "project_urls": {
+    "CI: GitHub Actions": "https://github.com/aio-libs/async-lru/actions",
+    "Chat: Matrix": "https://matrix.to/#/#aio-libs:matrix.org",
+    "Chat: Matrix Space": "https://matrix.to/#/#aio-libs-space:matrix.org",
+    "GitHub: repo": "https://github.com/aio-libs/async-lru",
+    "Homepage": "https://github.com/aio-libs/async-lru"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Framework :: AsyncIO",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.9"
+  ],
+  "keywords": "asyncio, lru, lru_cache",
+  "home_page": "https://github.com/aio-libs/async-lru",
+  "last_fetched": "2025-12-26T04:47:47.006199+00:00",
+  "releases": {
+    "latest": "2.0.5",
+    "all_versions": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.3",
+      "0.0.4",
+      "0.0.5",
+      "0.0.6",
+      "0.1.0",
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "2.0.0",
+      "2.0.1",
+      "2.0.2",
+      "2.0.3",
+      "2.0.4",
+      "2.0.5"
+    ]
+  }
+}

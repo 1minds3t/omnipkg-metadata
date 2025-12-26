@@ -1,0 +1,62 @@
+{
+  "name": "argon2-cffi",
+  "version": "25.1.0",
+  "summary": "Argon2 for Python",
+  "author": null,
+  "author_email": "Hynek Schlawack <hs@ox.cx>",
+  "license": null,
+  "requires_python": ">=3.8",
+  "requires_dist": [
+    "argon2-cffi-bindings"
+  ],
+  "project_urls": {
+    "Changelog": "https://github.com/hynek/argon2-cffi/blob/main/CHANGELOG.md",
+    "Documentation": "https://argon2-cffi.readthedocs.io/",
+    "Funding": "https://github.com/sponsors/hynek",
+    "GitHub": "https://github.com/hynek/argon2-cffi",
+    "Tidelift": "https://tidelift.com/?utm_source=lifter&utm_medium=referral&utm_campaign=hynek"
+  },
+  "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Security :: Cryptography",
+    "Typing :: Typed"
+  ],
+  "keywords": "hash, hashing, password, security",
+  "home_page": null,
+  "last_fetched": "2025-12-26T04:47:33.569258+00:00",
+  "releases": {
+    "latest": "25.1.0",
+    "all_versions": [
+      "15.0.0",
+      "15.0.0b5",
+      "15.0.1",
+      "16.0.0",
+      "16.1.0",
+      "16.2.0",
+      "16.3.0",
+      "18.1.0",
+      "18.2.0",
+      "18.3.0",
+      "19.1.0",
+      "19.2.0",
+      "20.1.0",
+      "21.1.0",
+      "21.2.0",
+      "21.3.0",
+      "23.1.0",
+      "25.1.0"
+    ]
+  }
+}
