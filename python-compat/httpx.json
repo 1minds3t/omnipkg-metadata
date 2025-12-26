@@ -1,46 +1,38 @@
 {
   "package": "httpx",
-  "last_updated": "2025-12-26T06:00:46.044260+00:00",
+  "last_updated": "0.28.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.24.1",
-      "released": "2023-05-19T00:50:54.910581Z",
-      "requires_python": ">=3.7"
+      "released": "2023-05-19T00:50:54"
     },
     "3.8": {
       "version": "0.28.1",
-      "released": "2024-12-06T15:37:21.509172Z",
-      "requires_python": ">=3.8"
+      "released": "2024-12-06T15:37:21"
     },
     "3.9": {
       "version": "0.28.1",
-      "released": "2024-12-06T15:37:21.509172Z",
-      "requires_python": ">=3.8"
+      "released": "2024-12-06T15:37:21"
     },
     "3.10": {
-      "version": "1.0.dev3",
-      "released": "2025-09-15T16:15:10.458000Z",
-      "requires_python": ">=3.10"
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21"
     },
     "3.11": {
-      "version": "1.0.dev3",
-      "released": "2025-09-15T16:15:10.458000Z",
-      "requires_python": ">=3.10"
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21"
     },
     "3.12": {
-      "version": "1.0.dev3",
-      "released": "2025-09-15T16:15:10.458000Z",
-      "requires_python": ">=3.10"
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21"
     },
     "3.13": {
-      "version": "1.0.dev3",
-      "released": "2025-09-15T16:15:10.458000Z",
-      "requires_python": ">=3.10"
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21"
     },
     "3.14": {
-      "version": "1.0.dev3",
-      "released": "2025-09-15T16:15:10.458000Z",
-      "requires_python": ">=3.10"
+      "version": "0.28.1",
+      "released": "2024-12-06T15:37:21"
     }
   }
 }

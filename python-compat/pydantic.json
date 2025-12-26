@@ -1,46 +1,38 @@
 {
   "package": "pydantic",
-  "last_updated": "2025-12-26T05:59:58.980377+00:00",
+  "last_updated": "2.12.5",
   "python_compatibility": {
     "3.7": {
       "version": "2.5.3",
-      "released": "2023-12-22T10:39:43.758993Z",
-      "requires_python": ">=3.7"
+      "released": "2023-12-22T10:39:43"
     },
     "3.8": {
       "version": "2.10.6",
-      "released": "2025-01-24T01:42:10.371104Z",
-      "requires_python": ">=3.8"
+      "released": "2025-01-24T01:42:10"
     },
     "3.9": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     },
     "3.10": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     },
     "3.11": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     },
     "3.12": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     },
     "3.13": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     },
     "3.14": {
       "version": "2.12.5",
-      "released": "2025-11-26T15:11:44.605145Z",
-      "requires_python": ">=3.9"
+      "released": "2025-11-26T15:11:44"
     }
   }
 }

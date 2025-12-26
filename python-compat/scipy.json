@@ -1,46 +1,38 @@
 {
   "package": "scipy",
-  "last_updated": "2025-12-26T06:00:54.594471+00:00",
+  "last_updated": "1.16.3",
   "python_compatibility": {
     "3.7": {
       "version": "1.7.3",
-      "released": "2021-11-29T02:34:32.823012Z",
-      "requires_python": ">=3.7,<3.11"
+      "released": "2021-11-29T02:34:32"
     },
     "3.8": {
       "version": "1.10.1",
-      "released": "2023-02-19T20:33:55.754534Z",
-      "requires_python": "<3.12,>=3.8"
+      "released": "2023-02-19T20:33:55"
     },
     "3.9": {
       "version": "1.13.1",
-      "released": "2024-05-23T03:19:01.687703Z",
-      "requires_python": ">=3.9"
+      "released": "2024-05-23T03:19:01"
     },
     "3.10": {
       "version": "1.15.3",
-      "released": "2025-05-08T16:04:20.849092Z",
-      "requires_python": ">=3.10"
+      "released": "2025-05-08T16:04:20"
     },
     "3.11": {
-      "version": "1.17.0rc1",
-      "released": "2025-12-09T17:38:39.456553Z",
-      "requires_python": ">=3.11"
+      "version": "1.16.3",
+      "released": "2025-10-28T17:31:47"
     },
     "3.12": {
-      "version": "1.17.0rc1",
-      "released": "2025-12-09T17:38:39.456553Z",
-      "requires_python": ">=3.11"
+      "version": "1.16.3",
+      "released": "2025-10-28T17:31:47"
     },
     "3.13": {
-      "version": "1.17.0rc1",
-      "released": "2025-12-09T17:38:39.456553Z",
-      "requires_python": ">=3.11"
+      "version": "1.16.3",
+      "released": "2025-10-28T17:31:47"
     },
     "3.14": {
-      "version": "1.17.0rc1",
-      "released": "2025-12-09T17:38:39.456553Z",
-      "requires_python": ">=3.11"
+      "version": "1.16.3",
+      "released": "2025-10-28T17:31:47"
     }
   }
 }

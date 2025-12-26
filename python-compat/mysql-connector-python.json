@@ -1,0 +1,38 @@
+{
+  "package": "mysql-connector-python",
+  "last_updated": "9.5.0",
+  "python_compatibility": {
+    "3.7": {
+      "version": "8.0.33",
+      "released": "2023-04-18T07:01:33"
+    },
+    "3.8": {
+      "version": "9.0.0",
+      "released": "2024-07-01T10:58:51"
+    },
+    "3.9": {
+      "version": "9.4.0",
+      "released": "2025-07-22T07:57:23"
+    },
+    "3.10": {
+      "version": "9.5.0",
+      "released": "2025-10-22T09:01:27"
+    },
+    "3.11": {
+      "version": "9.5.0",
+      "released": "2025-10-22T09:01:27"
+    },
+    "3.12": {
+      "version": "9.5.0",
+      "released": "2025-10-22T09:01:27"
+    },
+    "3.13": {
+      "version": "9.5.0",
+      "released": "2025-10-22T09:01:27"
+    },
+    "3.14": {
+      "version": "9.5.0",
+      "released": "2025-10-22T09:01:27"
+    }
+  }
+}

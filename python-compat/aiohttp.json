@@ -1,46 +1,38 @@
 {
   "package": "aiohttp",
-  "last_updated": "2025-12-26T06:00:45.802972+00:00",
+  "last_updated": "3.13.2",
   "python_compatibility": {
     "3.7": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.8.6",
+      "released": "2023-10-07T14:27:15"
     },
     "3.8": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.10.11",
+      "released": "2024-11-13T16:36:38"
     },
     "3.9": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     },
     "3.10": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     },
     "3.11": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     },
     "3.12": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     },
     "3.13": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     },
     "3.14": {
-      "version": "4.0.0a1",
-      "released": "2019-10-09T11:29:30.939016Z",
-      "requires_python": ">=3.6"
+      "version": "3.13.2",
+      "released": "2025-10-28T20:55:27"
     }
   }
 }

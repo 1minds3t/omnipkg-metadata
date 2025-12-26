@@ -1,0 +1,14 @@
+{
+  "package": "opentelemetry-util-http",
+  "last_updated": "0.60b1",
+  "python_compatibility": {
+    "3.7": null,
+    "3.8": null,
+    "3.9": null,
+    "3.10": null,
+    "3.11": null,
+    "3.12": null,
+    "3.13": null,
+    "3.14": null
+  }
+}

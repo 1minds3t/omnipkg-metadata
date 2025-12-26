@@ -1,46 +1,38 @@
 {
   "package": "matplotlib",
-  "last_updated": "2025-12-26T06:01:01.778284+00:00",
+  "last_updated": "3.10.8",
   "python_compatibility": {
     "3.7": {
       "version": "3.5.3",
-      "released": "2022-08-11T06:59:22.238447Z",
-      "requires_python": ">=3.7"
+      "released": "2022-08-11T06:59:22"
     },
     "3.8": {
       "version": "3.7.5",
-      "released": "2024-02-16T10:48:06.184553Z",
-      "requires_python": ">=3.8"
+      "released": "2024-02-16T10:48:06"
     },
     "3.9": {
       "version": "3.9.4",
-      "released": "2024-12-13T05:54:24.224691Z",
-      "requires_python": ">=3.9"
+      "released": "2024-12-13T05:54:24"
     },
     "3.10": {
       "version": "3.10.8",
-      "released": "2025-12-10T22:55:02.313544Z",
-      "requires_python": ">=3.10"
+      "released": "2025-12-10T22:55:02"
     },
     "3.11": {
       "version": "3.10.8",
-      "released": "2025-12-10T22:55:02.313544Z",
-      "requires_python": ">=3.10"
+      "released": "2025-12-10T22:55:02"
     },
     "3.12": {
       "version": "3.10.8",
-      "released": "2025-12-10T22:55:02.313544Z",
-      "requires_python": ">=3.10"
+      "released": "2025-12-10T22:55:02"
     },
     "3.13": {
       "version": "3.10.8",
-      "released": "2025-12-10T22:55:02.313544Z",
-      "requires_python": ">=3.10"
+      "released": "2025-12-10T22:55:02"
     },
     "3.14": {
       "version": "3.10.8",
-      "released": "2025-12-10T22:55:02.313544Z",
-      "requires_python": ">=3.10"
+      "released": "2025-12-10T22:55:02"
     }
   }
 }

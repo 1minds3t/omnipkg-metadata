@@ -1,46 +1,38 @@
 {
   "package": "mypy",
-  "last_updated": "2025-12-26T06:01:08.762448+00:00",
+  "last_updated": "1.19.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.4.1",
-      "released": "2023-06-25T23:22:02.502748Z",
-      "requires_python": ">=3.7"
+      "released": "2023-06-25T23:22:02"
     },
     "3.8": {
       "version": "1.14.1",
-      "released": "2024-12-30T16:37:22.435234Z",
-      "requires_python": ">=3.8"
+      "released": "2024-12-30T16:37:22"
     },
     "3.9": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     },
     "3.10": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     },
     "3.11": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     },
     "3.12": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     },
     "3.13": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     },
     "3.14": {
       "version": "1.19.1",
-      "released": "2025-12-15T05:03:03.280496Z",
-      "requires_python": ">=3.9"
+      "released": "2025-12-15T05:03:03"
     }
   }
 }
