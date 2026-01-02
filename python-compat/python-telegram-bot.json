@@ -1,0 +1,38 @@
+{
+  "package": "python-telegram-bot",
+  "last_updated": "22.5",
+  "python_compatibility": {
+    "3.7": {
+      "version": "20.3",
+      "released": "2023-05-07T13:38:44"
+    },
+    "3.8": {
+      "version": "21.6",
+      "released": "2024-09-19T18:20:55"
+    },
+    "3.9": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    },
+    "3.10": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    },
+    "3.11": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    },
+    "3.12": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    },
+    "3.13": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    },
+    "3.14": {
+      "version": "22.5",
+      "released": "2025-09-27T13:50:25"
+    }
+  }
+}

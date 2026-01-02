@@ -1,38 +1,38 @@
 {
   "package": "pynacl",
-  "last_updated": "1.6.1",
+  "last_updated": "1.6.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.5.0",
       "released": "2022-01-07T22:05:49"
     },
     "3.8": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.9": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.10": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.11": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.12": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.13": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     },
     "3.14": {
-      "version": "1.6.1",
-      "released": "2025-11-10T16:01:28"
+      "version": "1.6.2",
+      "released": "2026-01-01T17:31:57"
     }
   }
 }
