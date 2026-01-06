@@ -1,38 +1,38 @@
 {
   "package": "google-auth",
-  "last_updated": "2.45.0",
+  "last_updated": "2.46.0",
   "python_compatibility": {
     "3.7": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.8": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.9": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.10": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.11": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.12": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.13": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     },
     "3.14": {
-      "version": "2.45.0",
-      "released": "2025-12-15T22:58:40"
+      "version": "2.46.0",
+      "released": "2026-01-05T21:31:45"
     }
   }
 }
