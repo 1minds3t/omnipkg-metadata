@@ -1,6 +1,6 @@
 {
   "package": "pathspec",
-  "last_updated": "1.0.0",
+  "last_updated": "1.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.11.2",
@@ -11,28 +11,28 @@
       "released": "2023-12-10T22:30:43"
     },
     "3.9": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     },
     "3.10": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     },
     "3.11": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     },
     "3.12": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     },
     "3.13": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     },
     "3.14": {
-      "version": "1.0.0",
-      "released": "2026-01-06T03:21:21"
+      "version": "1.0.1",
+      "released": "2026-01-06T13:02:53"
     }
   }
 }
