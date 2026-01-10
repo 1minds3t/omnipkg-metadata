@@ -1,6 +1,6 @@
 {
   "package": "zope-interface",
-  "last_updated": "8.1.1",
+  "last_updated": "8.2",
   "python_compatibility": {
     "3.7": {
       "version": "6.4.post2",
@@ -15,24 +15,24 @@
       "released": "2025-09-25T05:58:50"
     },
     "3.10": {
-      "version": "8.1.1",
-      "released": "2025-11-15T08:36:36"
+      "version": "8.2",
+      "released": "2026-01-09T08:04:55"
     },
     "3.11": {
-      "version": "8.1.1",
-      "released": "2025-11-15T08:36:36"
+      "version": "8.2",
+      "released": "2026-01-09T08:04:55"
     },
     "3.12": {
-      "version": "8.1.1",
-      "released": "2025-11-15T08:36:36"
+      "version": "8.2",
+      "released": "2026-01-09T08:04:55"
     },
     "3.13": {
-      "version": "8.1.1",
-      "released": "2025-11-15T08:36:36"
+      "version": "8.2",
+      "released": "2026-01-09T08:04:55"
     },
     "3.14": {
-      "version": "8.1.1",
-      "released": "2025-11-15T08:36:36"
+      "version": "8.2",
+      "released": "2026-01-09T08:04:55"
     }
   }
 }

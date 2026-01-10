@@ -1,6 +1,6 @@
 {
   "package": "alembic",
-  "last_updated": "1.17.2",
+  "last_updated": "1.18.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.12.1",
@@ -15,24 +15,24 @@
       "released": "2025-08-27T18:02:07"
     },
     "3.10": {
-      "version": "1.17.2",
-      "released": "2025-11-14T20:35:05"
+      "version": "1.18.0",
+      "released": "2026-01-09T21:22:25"
     },
     "3.11": {
-      "version": "1.17.2",
-      "released": "2025-11-14T20:35:05"
+      "version": "1.18.0",
+      "released": "2026-01-09T21:22:25"
     },
     "3.12": {
-      "version": "1.17.2",
-      "released": "2025-11-14T20:35:05"
+      "version": "1.18.0",
+      "released": "2026-01-09T21:22:25"
     },
     "3.13": {
-      "version": "1.17.2",
-      "released": "2025-11-14T20:35:05"
+      "version": "1.18.0",
+      "released": "2026-01-09T21:22:25"
     },
     "3.14": {
-      "version": "1.17.2",
-      "released": "2025-11-14T20:35:05"
+      "version": "1.18.0",
+      "released": "2026-01-09T21:22:25"
     }
   }
 }

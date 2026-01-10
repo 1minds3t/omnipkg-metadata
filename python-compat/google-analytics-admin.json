@@ -1,38 +1,38 @@
 {
   "package": "google-analytics-admin",
-  "last_updated": "0.26.0",
+  "last_updated": "0.27.0",
   "python_compatibility": {
     "3.7": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.8": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.9": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.10": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.11": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.12": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.13": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     },
     "3.14": {
-      "version": "0.26.0",
-      "released": "2025-10-17T02:30:21"
+      "version": "0.27.0",
+      "released": "2026-01-09T14:52:33"
     }
   }
 }
