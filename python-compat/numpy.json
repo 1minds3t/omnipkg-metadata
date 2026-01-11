@@ -1,6 +1,6 @@
 {
   "package": "numpy",
-  "last_updated": "2.4.0",
+  "last_updated": "2.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.21.6",
@@ -19,20 +19,20 @@
       "released": "2025-05-17T21:27:58"
     },
     "3.11": {
-      "version": "2.4.0",
-      "released": "2025-12-20T16:15:43"
+      "version": "2.4.1",
+      "released": "2026-01-10T06:42:14"
     },
     "3.12": {
-      "version": "2.4.0",
-      "released": "2025-12-20T16:15:43"
+      "version": "2.4.1",
+      "released": "2026-01-10T06:42:14"
     },
     "3.13": {
-      "version": "2.4.0",
-      "released": "2025-12-20T16:15:43"
+      "version": "2.4.1",
+      "released": "2026-01-10T06:42:14"
     },
     "3.14": {
-      "version": "2.4.0",
-      "released": "2025-12-20T16:15:43"
+      "version": "2.4.1",
+      "released": "2026-01-10T06:42:14"
     }
   }
 }
