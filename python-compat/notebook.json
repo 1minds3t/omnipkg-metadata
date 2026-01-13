@@ -1,6 +1,6 @@
 {
   "package": "notebook",
-  "last_updated": "7.5.1",
+  "last_updated": "7.5.2",
   "python_compatibility": {
     "3.7": {
       "version": "6.5.7",
@@ -11,28 +11,28 @@
       "released": "2025-09-27T08:00:18"
     },
     "3.9": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     },
     "3.10": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     },
     "3.11": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     },
     "3.12": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     },
     "3.13": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     },
     "3.14": {
-      "version": "7.5.1",
-      "released": "2025-12-16T07:38:55"
+      "version": "7.5.2",
+      "released": "2026-01-12T14:56:47"
     }
   }
 }
