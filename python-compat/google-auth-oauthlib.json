@@ -1,38 +1,38 @@
 {
   "package": "google-auth-oauthlib",
-  "last_updated": "1.2.3",
+  "last_updated": "1.2.4",
   "python_compatibility": {
     "3.7": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.8": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.9": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.10": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.11": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.12": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.13": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     },
     "3.14": {
-      "version": "1.2.3",
-      "released": "2025-10-30T21:28:17"
+      "version": "1.2.4",
+      "released": "2026-01-15T22:03:09"
     }
   }
 }

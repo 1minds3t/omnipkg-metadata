@@ -1,38 +1,38 @@
 {
   "package": "types-awscrt",
-  "last_updated": "0.31.0",
+  "last_updated": "0.31.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.21.2",
       "released": "2024-07-16T01:18:39"
     },
     "3.8": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.9": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.10": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.11": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.12": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.13": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     },
     "3.14": {
-      "version": "0.31.0",
-      "released": "2026-01-12T06:42:36"
+      "version": "0.31.1",
+      "released": "2026-01-16T02:01:21"
     }
   }
 }

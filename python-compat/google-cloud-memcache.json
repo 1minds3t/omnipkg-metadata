@@ -1,38 +1,38 @@
 {
   "package": "google-cloud-memcache",
-  "last_updated": "1.13.0",
+  "last_updated": "1.14.0",
   "python_compatibility": {
     "3.7": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.8": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.9": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.10": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.11": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.12": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.13": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     },
     "3.14": {
-      "version": "1.13.0",
-      "released": "2025-10-20T14:53:07"
+      "version": "1.14.0",
+      "released": "2026-01-15T13:03:16"
     }
   }
 }
