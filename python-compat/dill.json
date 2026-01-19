@@ -1,6 +1,6 @@
 {
   "package": "dill",
-  "last_updated": "0.4.0",
+  "last_updated": "0.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.3.7",
@@ -11,28 +11,28 @@
       "released": "2025-04-16T00:41:47"
     },
     "3.9": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     },
     "3.10": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     },
     "3.11": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     },
     "3.12": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     },
     "3.13": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     },
     "3.14": {
-      "version": "0.4.0",
-      "released": "2025-04-16T00:41:47"
+      "version": "0.4.1",
+      "released": "2026-01-19T02:36:55"
     }
   }
 }
