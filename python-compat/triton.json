@@ -1,6 +1,6 @@
 {
   "package": "triton",
-  "last_updated": "3.5.1",
+  "last_updated": "3.6.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.3.1",
@@ -15,24 +15,24 @@
       "released": "2025-07-30T19:58:21"
     },
     "3.10": {
-      "version": "3.5.1",
-      "released": "2025-11-11T17:51:44"
+      "version": "3.6.0",
+      "released": "2026-01-20T16:15:53"
     },
     "3.11": {
-      "version": "3.5.1",
-      "released": "2025-11-11T17:51:44"
+      "version": "3.6.0",
+      "released": "2026-01-20T16:15:53"
     },
     "3.12": {
-      "version": "3.5.1",
-      "released": "2025-11-11T17:51:44"
+      "version": "3.6.0",
+      "released": "2026-01-20T16:15:53"
     },
     "3.13": {
-      "version": "3.5.1",
-      "released": "2025-11-11T17:51:44"
+      "version": "3.6.0",
+      "released": "2026-01-20T16:15:53"
     },
     "3.14": {
-      "version": "3.5.1",
-      "released": "2025-11-11T17:51:44"
+      "version": "3.6.0",
+      "released": "2026-01-20T16:15:53"
     }
   }
 }
