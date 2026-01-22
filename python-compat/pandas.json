@@ -1,6 +1,6 @@
 {
   "package": "pandas",
-  "last_updated": "2.3.3",
+  "last_updated": "3.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.1.5",
@@ -19,20 +19,20 @@
       "released": "2025-09-29T23:16:53"
     },
     "3.11": {
-      "version": "2.3.3",
-      "released": "2025-09-29T23:16:53"
+      "version": "3.0.0",
+      "released": "2026-01-21T15:50:15"
     },
     "3.12": {
-      "version": "2.3.3",
-      "released": "2025-09-29T23:16:53"
+      "version": "3.0.0",
+      "released": "2026-01-21T15:50:15"
     },
     "3.13": {
-      "version": "2.3.3",
-      "released": "2025-09-29T23:16:53"
+      "version": "3.0.0",
+      "released": "2026-01-21T15:50:15"
     },
     "3.14": {
-      "version": "2.3.3",
-      "released": "2025-09-29T23:16:53"
+      "version": "3.0.0",
+      "released": "2026-01-21T15:50:15"
     }
   }
 }
