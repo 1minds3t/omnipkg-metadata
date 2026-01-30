@@ -1,6 +1,6 @@
 {
   "package": "nbconvert",
-  "last_updated": "7.16.6",
+  "last_updated": "7.17.0",
   "python_compatibility": {
     "3.7": {
       "version": "7.6.0",
@@ -11,28 +11,28 @@
       "released": "2025-01-28T09:29:12"
     },
     "3.9": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     },
     "3.10": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     },
     "3.11": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     },
     "3.12": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     },
     "3.13": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     },
     "3.14": {
-      "version": "7.16.6",
-      "released": "2025-01-28T09:29:12"
+      "version": "7.17.0",
+      "released": "2026-01-29T16:37:46"
     }
   }
 }

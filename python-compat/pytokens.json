@@ -1,35 +1,35 @@
 {
   "package": "pytokens",
-  "last_updated": "0.4.0",
+  "last_updated": "0.4.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.9": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.10": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.11": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.12": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.13": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     },
     "3.14": {
-      "version": "0.4.0",
-      "released": "2026-01-19T07:58:51"
+      "version": "0.4.1",
+      "released": "2026-01-30T01:02:50"
     }
   }
 }
