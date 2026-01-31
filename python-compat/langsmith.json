@@ -1,6 +1,6 @@
 {
   "package": "langsmith",
-  "last_updated": "0.6.6",
+  "last_updated": "0.6.7",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-15T22:33:57"
     },
     "3.10": {
-      "version": "0.6.6",
-      "released": "2026-01-27T17:37:19"
+      "version": "0.6.7",
+      "released": "2026-01-31T02:10:32"
     },
     "3.11": {
-      "version": "0.6.6",
-      "released": "2026-01-27T17:37:19"
+      "version": "0.6.7",
+      "released": "2026-01-31T02:10:32"
     },
     "3.12": {
-      "version": "0.6.6",
-      "released": "2026-01-27T17:37:19"
+      "version": "0.6.7",
+      "released": "2026-01-31T02:10:32"
     },
     "3.13": {
-      "version": "0.6.6",
-      "released": "2026-01-27T17:37:19"
+      "version": "0.6.7",
+      "released": "2026-01-31T02:10:32"
     },
     "3.14": {
-      "version": "0.6.6",
-      "released": "2026-01-27T17:37:19"
+      "version": "0.6.7",
+      "released": "2026-01-31T02:10:32"
     }
   }
 }

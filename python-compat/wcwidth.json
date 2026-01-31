@@ -1,38 +1,38 @@
 {
   "package": "wcwidth",
-  "last_updated": "0.5.2",
+  "last_updated": "0.5.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.2.14",
       "released": "2025-09-22T16:29:51"
     },
     "3.8": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.9": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.10": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.11": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.12": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.13": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     },
     "3.14": {
-      "version": "0.5.2",
-      "released": "2026-01-29T19:32:50"
+      "version": "0.5.3",
+      "released": "2026-01-31T03:52:09"
     }
   }
 }
