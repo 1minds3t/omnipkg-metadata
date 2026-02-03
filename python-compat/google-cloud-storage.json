@@ -1,38 +1,38 @@
 {
   "package": "google-cloud-storage",
-  "last_updated": "3.8.0",
+  "last_updated": "3.9.0",
   "python_compatibility": {
     "3.7": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.8": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.9": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.10": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.11": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.12": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.13": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     },
     "3.14": {
-      "version": "3.8.0",
-      "released": "2026-01-14T00:45:28"
+      "version": "3.9.0",
+      "released": "2026-02-02T13:36:32"
     }
   }
 }
