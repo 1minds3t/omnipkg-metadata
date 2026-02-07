@@ -1,6 +1,6 @@
 {
   "package": "ipykernel",
-  "last_updated": "7.1.0",
+  "last_updated": "7.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "6.16.2",
@@ -15,24 +15,24 @@
       "released": "2025-10-20T11:42:37"
     },
     "3.10": {
-      "version": "7.1.0",
-      "released": "2025-10-27T09:46:37"
+      "version": "7.2.0",
+      "released": "2026-02-06T16:43:25"
     },
     "3.11": {
-      "version": "7.1.0",
-      "released": "2025-10-27T09:46:37"
+      "version": "7.2.0",
+      "released": "2026-02-06T16:43:25"
     },
     "3.12": {
-      "version": "7.1.0",
-      "released": "2025-10-27T09:46:37"
+      "version": "7.2.0",
+      "released": "2026-02-06T16:43:25"
     },
     "3.13": {
-      "version": "7.1.0",
-      "released": "2025-10-27T09:46:37"
+      "version": "7.2.0",
+      "released": "2026-02-06T16:43:25"
     },
     "3.14": {
-      "version": "7.1.0",
-      "released": "2025-10-27T09:46:37"
+      "version": "7.2.0",
+      "released": "2026-02-06T16:43:25"
     }
   }
 }
