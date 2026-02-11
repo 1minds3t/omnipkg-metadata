@@ -1,6 +1,6 @@
 {
   "package": "jupyterlab",
-  "last_updated": "4.5.3",
+  "last_updated": "4.5.4",
   "python_compatibility": {
     "3.7": {
       "version": "3.6.8",
@@ -11,28 +11,28 @@
       "released": "2025-06-24T16:49:28"
     },
     "3.9": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     },
     "3.10": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     },
     "3.11": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     },
     "3.12": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     },
     "3.13": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     },
     "3.14": {
-      "version": "4.5.3",
-      "released": "2026-01-23T15:04:21"
+      "version": "4.5.4",
+      "released": "2026-02-11T00:26:51"
     }
   }
 }
