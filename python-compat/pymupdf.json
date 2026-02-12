@@ -1,6 +1,6 @@
 {
   "package": "pymupdf",
-  "last_updated": "1.26.7",
+  "last_updated": "1.27.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.22.5",
@@ -15,24 +15,24 @@
       "released": "2025-10-10T13:58:43"
     },
     "3.10": {
-      "version": "1.26.7",
-      "released": "2025-12-11T21:47:21"
+      "version": "1.27.1",
+      "released": "2026-02-11T15:03:24"
     },
     "3.11": {
-      "version": "1.26.7",
-      "released": "2025-12-11T21:47:21"
+      "version": "1.27.1",
+      "released": "2026-02-11T15:03:24"
     },
     "3.12": {
-      "version": "1.26.7",
-      "released": "2025-12-11T21:47:21"
+      "version": "1.27.1",
+      "released": "2026-02-11T15:03:24"
     },
     "3.13": {
-      "version": "1.26.7",
-      "released": "2025-12-11T21:47:21"
+      "version": "1.27.1",
+      "released": "2026-02-11T15:03:24"
     },
     "3.14": {
-      "version": "1.26.7",
-      "released": "2025-12-11T21:47:21"
+      "version": "1.27.1",
+      "released": "2026-02-11T15:03:24"
     }
   }
 }
