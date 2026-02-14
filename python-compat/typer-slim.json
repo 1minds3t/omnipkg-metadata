@@ -1,6 +1,6 @@
 {
   "package": "typer-slim",
-  "last_updated": "0.23.0",
+  "last_updated": "0.23.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.19.1",
@@ -11,28 +11,28 @@
       "released": "2025-12-19T16:48:52"
     },
     "3.9": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     },
     "3.10": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     },
     "3.11": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     },
     "3.12": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     },
     "3.13": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     },
     "3.14": {
-      "version": "0.23.0",
-      "released": "2026-02-11T15:22:17"
+      "version": "0.23.1",
+      "released": "2026-02-13T10:04:27"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "package": "gunicorn",
-  "last_updated": "25.0.3",
+  "last_updated": "25.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "23.0.0",
@@ -15,24 +15,24 @@
       "released": "2024-08-10T20:25:24"
     },
     "3.10": {
-      "version": "25.0.3",
-      "released": "2026-02-07T16:53:49"
+      "version": "25.1.0",
+      "released": "2026-02-13T11:09:57"
     },
     "3.11": {
-      "version": "25.0.3",
-      "released": "2026-02-07T16:53:49"
+      "version": "25.1.0",
+      "released": "2026-02-13T11:09:57"
     },
     "3.12": {
-      "version": "25.0.3",
-      "released": "2026-02-07T16:53:49"
+      "version": "25.1.0",
+      "released": "2026-02-13T11:09:57"
     },
     "3.13": {
-      "version": "25.0.3",
-      "released": "2026-02-07T16:53:49"
+      "version": "25.1.0",
+      "released": "2026-02-13T11:09:57"
     },
     "3.14": {
-      "version": "25.0.3",
-      "released": "2026-02-07T16:53:49"
+      "version": "25.1.0",
+      "released": "2026-02-13T11:09:57"
     }
   }
 }
