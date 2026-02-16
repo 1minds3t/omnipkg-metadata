@@ -1,6 +1,6 @@
 {
   "package": "pydantic-settings",
-  "last_updated": "2.12.0",
+  "last_updated": "2.13.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.3",
@@ -15,24 +15,24 @@
       "released": "2025-09-24T14:19:10"
     },
     "3.10": {
-      "version": "2.12.0",
-      "released": "2025-11-10T14:25:45"
+      "version": "2.13.0",
+      "released": "2026-02-15T12:11:22"
     },
     "3.11": {
-      "version": "2.12.0",
-      "released": "2025-11-10T14:25:45"
+      "version": "2.13.0",
+      "released": "2026-02-15T12:11:22"
     },
     "3.12": {
-      "version": "2.12.0",
-      "released": "2025-11-10T14:25:45"
+      "version": "2.13.0",
+      "released": "2026-02-15T12:11:22"
     },
     "3.13": {
-      "version": "2.12.0",
-      "released": "2025-11-10T14:25:45"
+      "version": "2.13.0",
+      "released": "2026-02-15T12:11:22"
     },
     "3.14": {
-      "version": "2.12.0",
-      "released": "2025-11-10T14:25:45"
+      "version": "2.13.0",
+      "released": "2026-02-15T12:11:22"
     }
   }
 }
