@@ -1,32 +1,32 @@
 {
   "package": "librt",
-  "last_updated": "0.8.0",
+  "last_updated": "0.8.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     },
     "3.10": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     },
     "3.11": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     },
     "3.12": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     },
     "3.13": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     },
     "3.14": {
-      "version": "0.8.0",
-      "released": "2026-02-12T14:51:57"
+      "version": "0.8.1",
+      "released": "2026-02-17T16:11:06"
     }
   }
 }
