@@ -1,6 +1,6 @@
 {
   "package": "virtualenv",
-  "last_updated": "20.37.0",
+  "last_updated": "20.36.1",
   "python_compatibility": {
     "3.7": {
       "version": "20.26.6",
