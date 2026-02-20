@@ -1,6 +1,6 @@
 {
   "package": "langchain-core",
-  "last_updated": "1.2.13",
+  "last_updated": "1.2.14",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2026-01-13T01:19:21"
     },
     "3.10": {
-      "version": "1.2.13",
-      "released": "2026-02-15T07:45:55"
+      "version": "1.2.14",
+      "released": "2026-02-19T14:22:32"
     },
     "3.11": {
-      "version": "1.2.13",
-      "released": "2026-02-15T07:45:55"
+      "version": "1.2.14",
+      "released": "2026-02-19T14:22:32"
     },
     "3.12": {
-      "version": "1.2.13",
-      "released": "2026-02-15T07:45:55"
+      "version": "1.2.14",
+      "released": "2026-02-19T14:22:32"
     },
     "3.13": {
-      "version": "1.2.13",
-      "released": "2026-02-15T07:45:55"
+      "version": "1.2.14",
+      "released": "2026-02-19T14:22:32"
     },
     "3.14": {
-      "version": "1.2.13",
-      "released": "2026-02-15T07:45:55"
+      "version": "1.2.14",
+      "released": "2026-02-19T14:22:32"
     }
   }
 }

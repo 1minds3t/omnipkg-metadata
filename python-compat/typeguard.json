@@ -1,6 +1,6 @@
 {
   "package": "typeguard",
-  "last_updated": "4.5.0",
+  "last_updated": "4.5.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.13.3",
@@ -11,28 +11,28 @@
       "released": "2024-10-27T10:58:11"
     },
     "3.9": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     },
     "3.10": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     },
     "3.11": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     },
     "3.12": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     },
     "3.13": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     },
     "3.14": {
-      "version": "4.5.0",
-      "released": "2026-02-15T00:24:23"
+      "version": "4.5.1",
+      "released": "2026-02-19T16:09:01"
     }
   }
 }

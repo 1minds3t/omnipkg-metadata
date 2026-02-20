@@ -1,6 +1,6 @@
 {
   "package": "isort",
-  "last_updated": "7.0.0",
+  "last_updated": "8.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.11.5",
@@ -15,24 +15,24 @@
       "released": "2025-10-01T16:26:43"
     },
     "3.10": {
-      "version": "7.0.0",
-      "released": "2025-10-11T13:30:57"
+      "version": "8.0.0",
+      "released": "2026-02-19T16:31:57"
     },
     "3.11": {
-      "version": "7.0.0",
-      "released": "2025-10-11T13:30:57"
+      "version": "8.0.0",
+      "released": "2026-02-19T16:31:57"
     },
     "3.12": {
-      "version": "7.0.0",
-      "released": "2025-10-11T13:30:57"
+      "version": "8.0.0",
+      "released": "2026-02-19T16:31:57"
     },
     "3.13": {
-      "version": "7.0.0",
-      "released": "2025-10-11T13:30:57"
+      "version": "8.0.0",
+      "released": "2026-02-19T16:31:57"
     },
     "3.14": {
-      "version": "7.0.0",
-      "released": "2025-10-11T13:30:57"
+      "version": "8.0.0",
+      "released": "2026-02-19T16:31:57"
     }
   }
 }
