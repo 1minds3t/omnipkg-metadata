@@ -1,6 +1,6 @@
 {
   "package": "pylint",
-  "last_updated": "4.0.4",
+  "last_updated": "4.0.5",
   "python_compatibility": {
     "3.7": {
       "version": "2.13.9",
@@ -15,24 +15,24 @@
       "released": "2025-10-05T18:41:41"
     },
     "3.10": {
-      "version": "4.0.4",
-      "released": "2025-11-30T13:29:02"
+      "version": "4.0.5",
+      "released": "2026-02-20T09:07:31"
     },
     "3.11": {
-      "version": "4.0.4",
-      "released": "2025-11-30T13:29:02"
+      "version": "4.0.5",
+      "released": "2026-02-20T09:07:31"
     },
     "3.12": {
-      "version": "4.0.4",
-      "released": "2025-11-30T13:29:02"
+      "version": "4.0.5",
+      "released": "2026-02-20T09:07:31"
     },
     "3.13": {
-      "version": "4.0.4",
-      "released": "2025-11-30T13:29:02"
+      "version": "4.0.5",
+      "released": "2026-02-20T09:07:31"
     },
     "3.14": {
-      "version": "4.0.4",
-      "released": "2025-11-30T13:29:02"
+      "version": "4.0.5",
+      "released": "2026-02-20T09:07:31"
     }
   }
 }

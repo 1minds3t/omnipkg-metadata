@@ -1,6 +1,6 @@
 {
   "package": "async-lru",
-  "last_updated": "2.1.0",
+  "last_updated": "2.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.0.3",
@@ -15,24 +15,24 @@
       "released": "2025-03-16T17:25:35"
     },
     "3.10": {
-      "version": "2.1.0",
-      "released": "2026-01-17T22:52:17"
+      "version": "2.2.0",
+      "released": "2026-02-20T19:11:42"
     },
     "3.11": {
-      "version": "2.1.0",
-      "released": "2026-01-17T22:52:17"
+      "version": "2.2.0",
+      "released": "2026-02-20T19:11:42"
     },
     "3.12": {
-      "version": "2.1.0",
-      "released": "2026-01-17T22:52:17"
+      "version": "2.2.0",
+      "released": "2026-02-20T19:11:42"
     },
     "3.13": {
-      "version": "2.1.0",
-      "released": "2026-01-17T22:52:17"
+      "version": "2.2.0",
+      "released": "2026-02-20T19:11:42"
     },
     "3.14": {
-      "version": "2.1.0",
-      "released": "2026-01-17T22:52:17"
+      "version": "2.2.0",
+      "released": "2026-02-20T19:11:42"
     }
   }
 }
