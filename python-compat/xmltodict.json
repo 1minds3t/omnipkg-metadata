@@ -1,6 +1,6 @@
 {
   "package": "xmltodict",
-  "last_updated": "1.0.3",
+  "last_updated": "1.0.4",
   "python_compatibility": {
     "3.7": {
       "version": "0.15.0",
@@ -11,28 +11,28 @@
       "released": "2025-09-05T00:35:44"
     },
     "3.9": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     },
     "3.10": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     },
     "3.11": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     },
     "3.12": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     },
     "3.13": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     },
     "3.14": {
-      "version": "1.0.3",
-      "released": "2026-02-15T04:05:04"
+      "version": "1.0.4",
+      "released": "2026-02-22T02:21:21"
     }
   }
 }
