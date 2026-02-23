@@ -1,6 +1,6 @@
 {
   "package": "scipy",
-  "last_updated": "1.17.0",
+  "last_updated": "1.17.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.7.3",
@@ -19,20 +19,20 @@
       "released": "2025-05-08T16:04:20"
     },
     "3.11": {
-      "version": "1.17.0",
-      "released": "2026-01-10T21:24:33"
+      "version": "1.17.1",
+      "released": "2026-02-23T00:16:00"
     },
     "3.12": {
-      "version": "1.17.0",
-      "released": "2026-01-10T21:24:33"
+      "version": "1.17.1",
+      "released": "2026-02-23T00:16:00"
     },
     "3.13": {
-      "version": "1.17.0",
-      "released": "2026-01-10T21:24:33"
+      "version": "1.17.1",
+      "released": "2026-02-23T00:16:00"
     },
     "3.14": {
-      "version": "1.17.0",
-      "released": "2026-01-10T21:24:33"
+      "version": "1.17.1",
+      "released": "2026-02-23T00:16:00"
     }
   }
 }
