@@ -1,6 +1,6 @@
 {
   "package": "nltk",
-  "last_updated": "3.9.2",
+  "last_updated": "3.9.3",
   "python_compatibility": {
     "3.7": {
       "version": "3.8.1",
@@ -15,24 +15,24 @@
       "released": "2025-10-01T07:19:21"
     },
     "3.10": {
-      "version": "3.9.2",
-      "released": "2025-10-01T07:19:21"
+      "version": "3.9.3",
+      "released": "2026-02-24T12:05:46"
     },
     "3.11": {
-      "version": "3.9.2",
-      "released": "2025-10-01T07:19:21"
+      "version": "3.9.3",
+      "released": "2026-02-24T12:05:46"
     },
     "3.12": {
-      "version": "3.9.2",
-      "released": "2025-10-01T07:19:21"
+      "version": "3.9.3",
+      "released": "2026-02-24T12:05:46"
     },
     "3.13": {
-      "version": "3.9.2",
-      "released": "2025-10-01T07:19:21"
+      "version": "3.9.3",
+      "released": "2026-02-24T12:05:46"
     },
     "3.14": {
-      "version": "3.9.2",
-      "released": "2025-10-01T07:19:21"
+      "version": "3.9.3",
+      "released": "2026-02-24T12:05:46"
     }
   }
 }
