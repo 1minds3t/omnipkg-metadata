@@ -1,6 +1,6 @@
 {
   "package": "grpcio-tools",
-  "last_updated": "1.78.1",
+  "last_updated": "1.78.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.62.3",
