@@ -1,38 +1,38 @@
 {
   "package": "google-cloud-speech",
-  "last_updated": "2.36.1",
+  "last_updated": "2.37.0",
   "python_compatibility": {
     "3.7": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.8": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.9": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.10": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.11": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.12": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.13": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     },
     "3.14": {
-      "version": "2.36.1",
-      "released": "2026-02-05T18:58:59"
+      "version": "2.37.0",
+      "released": "2026-02-27T14:12:39"
     }
   }
 }
