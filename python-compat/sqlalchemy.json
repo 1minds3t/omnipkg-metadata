@@ -1,38 +1,38 @@
 {
   "package": "sqlalchemy",
-  "last_updated": "2.0.47",
+  "last_updated": "2.0.48",
   "python_compatibility": {
     "3.7": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.8": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.9": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.10": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.11": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.12": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.13": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     },
     "3.14": {
-      "version": "2.0.47",
-      "released": "2026-02-24T16:43:52"
+      "version": "2.0.48",
+      "released": "2026-03-02T15:38:26"
     }
   }
 }
