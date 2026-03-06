@@ -1,6 +1,6 @@
 {
   "package": "cachetools",
-  "last_updated": "7.0.2",
+  "last_updated": "7.0.3",
   "python_compatibility": {
     "3.7": {
       "version": "5.5.2",
@@ -15,24 +15,24 @@
       "released": "2026-01-27T20:32:58"
     },
     "3.10": {
-      "version": "7.0.2",
-      "released": "2026-03-02T19:45:15"
+      "version": "7.0.3",
+      "released": "2026-03-05T21:00:56"
     },
     "3.11": {
-      "version": "7.0.2",
-      "released": "2026-03-02T19:45:15"
+      "version": "7.0.3",
+      "released": "2026-03-05T21:00:56"
     },
     "3.12": {
-      "version": "7.0.2",
-      "released": "2026-03-02T19:45:15"
+      "version": "7.0.3",
+      "released": "2026-03-05T21:00:56"
     },
     "3.13": {
-      "version": "7.0.2",
-      "released": "2026-03-02T19:45:15"
+      "version": "7.0.3",
+      "released": "2026-03-05T21:00:56"
     },
     "3.14": {
-      "version": "7.0.2",
-      "released": "2026-03-02T19:45:15"
+      "version": "7.0.3",
+      "released": "2026-03-05T21:00:56"
     }
   }
 }
