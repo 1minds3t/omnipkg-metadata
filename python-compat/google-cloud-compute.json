@@ -1,38 +1,38 @@
 {
   "package": "google-cloud-compute",
-  "last_updated": "1.44.0",
+  "last_updated": "1.45.0",
   "python_compatibility": {
     "3.7": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.8": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.9": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.10": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.11": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.12": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.13": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     },
     "3.14": {
-      "version": "1.44.0",
-      "released": "2026-02-27T14:12:45"
+      "version": "1.45.0",
+      "released": "2026-03-06T21:52:43"
     }
   }
 }
