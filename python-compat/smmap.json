@@ -1,10 +1,10 @@
 {
   "package": "smmap",
-  "last_updated": "5.0.2",
+  "last_updated": "5.0.3",
   "python_compatibility": {
     "3.7": {
-      "version": "5.0.2",
-      "released": "2025-01-02T07:14:38"
+      "version": "5.0.3",
+      "released": "2026-03-09T03:43:24"
     },
     "3.8": {
       "version": "6.0.0",
