@@ -1,6 +1,6 @@
 {
   "package": "chardet",
-  "last_updated": "7.1.0",
+  "last_updated": "7.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.2.0",
@@ -15,24 +15,24 @@
       "released": "2023-08-01T19:23:00"
     },
     "3.10": {
-      "version": "7.1.0",
-      "released": "2026-03-11T21:38:51"
+      "version": "7.2.0",
+      "released": "2026-03-18T00:06:45"
     },
     "3.11": {
-      "version": "7.1.0",
-      "released": "2026-03-11T21:38:51"
+      "version": "7.2.0",
+      "released": "2026-03-18T00:06:45"
     },
     "3.12": {
-      "version": "7.1.0",
-      "released": "2026-03-11T21:38:51"
+      "version": "7.2.0",
+      "released": "2026-03-18T00:06:45"
     },
     "3.13": {
-      "version": "7.1.0",
-      "released": "2026-03-11T21:38:51"
+      "version": "7.2.0",
+      "released": "2026-03-18T00:06:45"
     },
     "3.14": {
-      "version": "7.1.0",
-      "released": "2026-03-11T21:38:51"
+      "version": "7.2.0",
+      "released": "2026-03-18T00:06:45"
     }
   }
 }
