@@ -1,6 +1,6 @@
 {
   "package": "deepdiff",
-  "last_updated": "8.6.1",
+  "last_updated": "8.6.2",
   "python_compatibility": {
     "3.7": {
       "version": "6.7.1",
@@ -11,28 +11,28 @@
       "released": "2025-03-17T21:35:54"
     },
     "3.9": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     },
     "3.10": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     },
     "3.11": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     },
     "3.12": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     },
     "3.13": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     },
     "3.14": {
-      "version": "8.6.1",
-      "released": "2025-09-03T19:40:39"
+      "version": "8.6.2",
+      "released": "2026-03-18T17:16:32"
     }
   }
 }
