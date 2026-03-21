@@ -1,6 +1,6 @@
 {
   "package": "polars",
-  "last_updated": "1.39.2",
+  "last_updated": "1.39.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.18.4",
@@ -15,24 +15,24 @@
       "released": "2025-12-10T01:13:53"
     },
     "3.10": {
-      "version": "1.39.2",
-      "released": "2026-03-17T17:16:35"
+      "version": "1.39.3",
+      "released": "2026-03-20T11:14:23"
     },
     "3.11": {
-      "version": "1.39.2",
-      "released": "2026-03-17T17:16:35"
+      "version": "1.39.3",
+      "released": "2026-03-20T11:14:23"
     },
     "3.12": {
-      "version": "1.39.2",
-      "released": "2026-03-17T17:16:35"
+      "version": "1.39.3",
+      "released": "2026-03-20T11:14:23"
     },
     "3.13": {
-      "version": "1.39.2",
-      "released": "2026-03-17T17:16:35"
+      "version": "1.39.3",
+      "released": "2026-03-20T11:14:23"
     },
     "3.14": {
-      "version": "1.39.2",
-      "released": "2026-03-17T17:16:35"
+      "version": "1.39.3",
+      "released": "2026-03-20T11:14:23"
     }
   }
 }

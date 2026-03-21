@@ -1,6 +1,6 @@
 {
   "package": "protobuf",
-  "last_updated": "7.34.0",
+  "last_updated": "7.34.1",
   "python_compatibility": {
     "3.7": {
       "version": "4.24.4",
@@ -15,24 +15,24 @@
       "released": "2026-03-18T19:04:48"
     },
     "3.10": {
-      "version": "7.34.0",
-      "released": "2026-02-27T00:30:14"
+      "version": "7.34.1",
+      "released": "2026-03-20T17:34:37"
     },
     "3.11": {
-      "version": "7.34.0",
-      "released": "2026-02-27T00:30:14"
+      "version": "7.34.1",
+      "released": "2026-03-20T17:34:37"
     },
     "3.12": {
-      "version": "7.34.0",
-      "released": "2026-02-27T00:30:14"
+      "version": "7.34.1",
+      "released": "2026-03-20T17:34:37"
     },
     "3.13": {
-      "version": "7.34.0",
-      "released": "2026-02-27T00:30:14"
+      "version": "7.34.1",
+      "released": "2026-03-20T17:34:37"
     },
     "3.14": {
-      "version": "7.34.0",
-      "released": "2026-02-27T00:30:14"
+      "version": "7.34.1",
+      "released": "2026-03-20T17:34:37"
     }
   }
 }

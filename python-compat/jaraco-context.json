@@ -1,6 +1,6 @@
 {
   "package": "jaraco-context",
-  "last_updated": "6.1.1",
+  "last_updated": "6.1.2",
   "python_compatibility": {
     "3.7": {
       "version": "4.3.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-07T15:46:03"
     },
     "3.10": {
-      "version": "6.1.1",
-      "released": "2026-03-07T15:46:03"
+      "version": "6.1.2",
+      "released": "2026-03-20T22:13:32"
     },
     "3.11": {
-      "version": "6.1.1",
-      "released": "2026-03-07T15:46:03"
+      "version": "6.1.2",
+      "released": "2026-03-20T22:13:32"
     },
     "3.12": {
-      "version": "6.1.1",
-      "released": "2026-03-07T15:46:03"
+      "version": "6.1.2",
+      "released": "2026-03-20T22:13:32"
     },
     "3.13": {
-      "version": "6.1.1",
-      "released": "2026-03-07T15:46:03"
+      "version": "6.1.2",
+      "released": "2026-03-20T22:13:32"
     },
     "3.14": {
-      "version": "6.1.1",
-      "released": "2026-03-07T15:46:03"
+      "version": "6.1.2",
+      "released": "2026-03-20T22:13:32"
     }
   }
 }
