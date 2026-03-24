@@ -1,6 +1,6 @@
 {
   "package": "werkzeug",
-  "last_updated": "3.1.6",
+  "last_updated": "3.1.7",
   "python_compatibility": {
     "3.7": {
       "version": "2.2.3",
@@ -11,28 +11,28 @@
       "released": "2024-10-25T18:52:30"
     },
     "3.9": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     },
     "3.10": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     },
     "3.11": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     },
     "3.12": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     },
     "3.13": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     },
     "3.14": {
-      "version": "3.1.6",
-      "released": "2026-02-19T15:17:17"
+      "version": "3.1.7",
+      "released": "2026-03-24T01:08:06"
     }
   }
 }
