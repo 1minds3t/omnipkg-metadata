@@ -1,38 +1,38 @@
 {
   "package": "tomli",
-  "last_updated": "2.4.0",
+  "last_updated": "2.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.1",
       "released": "2022-02-08T10:54:02"
     },
     "3.8": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.9": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.10": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.11": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.12": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.13": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     },
     "3.14": {
-      "version": "2.4.0",
-      "released": "2026-01-11T11:21:45"
+      "version": "2.4.1",
+      "released": "2026-03-25T20:21:10"
     }
   }
 }
