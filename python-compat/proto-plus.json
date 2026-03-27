@@ -1,6 +1,6 @@
 {
   "package": "proto-plus",
-  "last_updated": "1.27.1",
+  "last_updated": "1.27.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.27.1",
@@ -11,28 +11,28 @@
       "released": "2026-02-02T17:34:47"
     },
     "3.9": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     },
     "3.10": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     },
     "3.11": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     },
     "3.12": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     },
     "3.13": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     },
     "3.14": {
-      "version": "1.27.1",
-      "released": "2026-02-02T17:34:47"
+      "version": "1.27.2",
+      "released": "2026-03-26T22:13:42"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-vision",
-  "last_updated": "3.12.1",
+  "last_updated": "3.13.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.12.1",
@@ -11,28 +11,28 @@
       "released": "2026-02-05T18:58:49"
     },
     "3.9": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     },
     "3.10": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     },
     "3.11": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     },
     "3.12": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     },
     "3.13": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     },
     "3.14": {
-      "version": "3.12.1",
-      "released": "2026-02-05T18:58:49"
+      "version": "3.13.0",
+      "released": "2026-03-26T22:13:13"
     }
   }
 }
