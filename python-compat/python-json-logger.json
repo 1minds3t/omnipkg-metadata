@@ -1,6 +1,6 @@
 {
   "package": "python-json-logger",
-  "last_updated": "4.0.0",
+  "last_updated": "4.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.1",
@@ -15,24 +15,24 @@
       "released": "2025-10-06T04:15:17"
     },
     "3.10": {
-      "version": "4.0.0",
-      "released": "2025-10-06T04:15:17"
+      "version": "4.1.0",
+      "released": "2026-03-29T04:39:55"
     },
     "3.11": {
-      "version": "4.0.0",
-      "released": "2025-10-06T04:15:17"
+      "version": "4.1.0",
+      "released": "2026-03-29T04:39:55"
     },
     "3.12": {
-      "version": "4.0.0",
-      "released": "2025-10-06T04:15:17"
+      "version": "4.1.0",
+      "released": "2026-03-29T04:39:55"
     },
     "3.13": {
-      "version": "4.0.0",
-      "released": "2025-10-06T04:15:17"
+      "version": "4.1.0",
+      "released": "2026-03-29T04:39:55"
     },
     "3.14": {
-      "version": "4.0.0",
-      "released": "2025-10-06T04:15:17"
+      "version": "4.1.0",
+      "released": "2026-03-29T04:39:55"
     }
   }
 }
