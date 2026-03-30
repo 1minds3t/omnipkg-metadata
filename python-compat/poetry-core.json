@@ -1,6 +1,6 @@
 {
   "package": "poetry-core",
-  "last_updated": "2.3.1",
+  "last_updated": "2.3.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.6.1",
@@ -15,24 +15,24 @@
       "released": "2025-09-21T14:27:56"
     },
     "3.10": {
-      "version": "2.3.1",
-      "released": "2026-02-01T13:54:30"
+      "version": "2.3.2",
+      "released": "2026-03-29T07:44:52"
     },
     "3.11": {
-      "version": "2.3.1",
-      "released": "2026-02-01T13:54:30"
+      "version": "2.3.2",
+      "released": "2026-03-29T07:44:52"
     },
     "3.12": {
-      "version": "2.3.1",
-      "released": "2026-02-01T13:54:30"
+      "version": "2.3.2",
+      "released": "2026-03-29T07:44:52"
     },
     "3.13": {
-      "version": "2.3.1",
-      "released": "2026-02-01T13:54:30"
+      "version": "2.3.2",
+      "released": "2026-03-29T07:44:52"
     },
     "3.14": {
-      "version": "2.3.1",
-      "released": "2026-02-01T13:54:30"
+      "version": "2.3.2",
+      "released": "2026-03-29T07:44:52"
     }
   }
 }
