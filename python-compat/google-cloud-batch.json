@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-batch",
-  "last_updated": "0.20.0",
+  "last_updated": "0.21.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.20.0",
@@ -11,28 +11,28 @@
       "released": "2026-01-09T14:53:10"
     },
     "3.9": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     },
     "3.10": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     },
     "3.11": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     },
     "3.12": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     },
     "3.13": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     },
     "3.14": {
-      "version": "0.20.0",
-      "released": "2026-01-09T14:53:10"
+      "version": "0.21.0",
+      "released": "2026-03-30T22:49:06"
     }
   }
 }

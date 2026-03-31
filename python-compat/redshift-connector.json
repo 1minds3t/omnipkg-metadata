@@ -1,38 +1,38 @@
 {
   "package": "redshift-connector",
-  "last_updated": "2.1.12",
+  "last_updated": "2.1.13",
   "python_compatibility": {
     "3.7": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.8": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.9": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.10": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.11": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.12": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.13": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     },
     "3.14": {
-      "version": "2.1.12",
-      "released": "2026-03-03T23:15:03"
+      "version": "2.1.13",
+      "released": "2026-03-31T00:49:00"
     }
   }
 }

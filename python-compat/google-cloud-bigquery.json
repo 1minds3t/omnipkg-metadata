@@ -1,38 +1,38 @@
 {
   "package": "google-cloud-bigquery",
-  "last_updated": "3.40.1",
+  "last_updated": "3.41.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.30.0",
       "released": "2025-02-27T18:49:43"
     },
     "3.8": {
-      "version": "3.30.0",
-      "released": "2025-02-27T18:49:43"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.9": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.10": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.11": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.12": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.13": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     },
     "3.14": {
-      "version": "3.40.1",
-      "released": "2026-02-12T18:44:16"
+      "version": "3.41.0",
+      "released": "2026-03-30T22:48:45"
     }
   }
 }
