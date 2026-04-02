@@ -1,0 +1,38 @@
+{
+  "package": "openapi-spec-validator",
+  "last_updated": "0.8.4",
+  "python_compatibility": {
+    "3.7": {
+      "version": "0.5.7",
+      "released": "2023-06-11T23:13:32"
+    },
+    "3.8": {
+      "version": "0.7.2",
+      "released": "2025-06-07T14:48:54"
+    },
+    "3.9": {
+      "version": "0.7.2",
+      "released": "2025-06-07T14:48:54"
+    },
+    "3.10": {
+      "version": "0.8.4",
+      "released": "2026-03-01T15:48:17"
+    },
+    "3.11": {
+      "version": "0.8.4",
+      "released": "2026-03-01T15:48:17"
+    },
+    "3.12": {
+      "version": "0.8.4",
+      "released": "2026-03-01T15:48:17"
+    },
+    "3.13": {
+      "version": "0.8.4",
+      "released": "2026-03-01T15:48:17"
+    },
+    "3.14": {
+      "version": "0.8.4",
+      "released": "2026-03-01T15:48:17"
+    }
+  }
+}
