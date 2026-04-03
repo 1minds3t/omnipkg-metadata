@@ -1,38 +1,38 @@
 {
   "package": "charset-normalizer",
-  "last_updated": "3.4.6",
+  "last_updated": "3.4.7",
   "python_compatibility": {
     "3.7": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.8": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.9": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.10": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.11": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.12": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.13": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     },
     "3.14": {
-      "version": "3.4.6",
-      "released": "2026-03-15T18:50:00"
+      "version": "3.4.7",
+      "released": "2026-04-02T09:25:40"
     }
   }
 }

@@ -1,29 +1,29 @@
 {
   "package": "mcp",
-  "last_updated": "1.26.0",
+  "last_updated": "1.27.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": null,
     "3.10": {
-      "version": "1.26.0",
-      "released": "2026-01-24T19:40:30"
+      "version": "1.27.0",
+      "released": "2026-04-02T14:48:07"
     },
     "3.11": {
-      "version": "1.26.0",
-      "released": "2026-01-24T19:40:30"
+      "version": "1.27.0",
+      "released": "2026-04-02T14:48:07"
     },
     "3.12": {
-      "version": "1.26.0",
-      "released": "2026-01-24T19:40:30"
+      "version": "1.27.0",
+      "released": "2026-04-02T14:48:07"
     },
     "3.13": {
-      "version": "1.26.0",
-      "released": "2026-01-24T19:40:30"
+      "version": "1.27.0",
+      "released": "2026-04-02T14:48:07"
     },
     "3.14": {
-      "version": "1.26.0",
-      "released": "2026-01-24T19:40:30"
+      "version": "1.27.0",
+      "released": "2026-04-02T14:48:07"
     }
   }
 }

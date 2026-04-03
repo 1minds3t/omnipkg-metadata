@@ -1,6 +1,6 @@
 {
   "package": "googleapis-common-protos",
-  "last_updated": "1.73.1",
+  "last_updated": "1.74.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.73.0",
@@ -11,28 +11,28 @@
       "released": "2026-03-06T21:52:33"
     },
     "3.9": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     },
     "3.10": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     },
     "3.11": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     },
     "3.12": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     },
     "3.13": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     },
     "3.14": {
-      "version": "1.73.1",
-      "released": "2026-03-26T22:15:58"
+      "version": "1.74.0",
+      "released": "2026-04-02T21:22:49"
     }
   }
 }
