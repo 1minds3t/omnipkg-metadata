@@ -1,6 +1,6 @@
 {
   "package": "rich-rst",
-  "last_updated": "2.0.0",
+  "last_updated": "1.3.2",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.0",
