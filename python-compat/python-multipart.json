@@ -1,6 +1,6 @@
 {
   "package": "python-multipart",
-  "last_updated": "0.0.22",
+  "last_updated": "0.0.24",
   "python_compatibility": {
     "3.7": {
       "version": "0.0.8",
@@ -15,24 +15,24 @@
       "released": "2024-12-16T19:45:44"
     },
     "3.10": {
-      "version": "0.0.22",
-      "released": "2026-01-25T10:15:54"
+      "version": "0.0.24",
+      "released": "2026-04-05T20:49:12"
     },
     "3.11": {
-      "version": "0.0.22",
-      "released": "2026-01-25T10:15:54"
+      "version": "0.0.24",
+      "released": "2026-04-05T20:49:12"
     },
     "3.12": {
-      "version": "0.0.22",
-      "released": "2026-01-25T10:15:54"
+      "version": "0.0.24",
+      "released": "2026-04-05T20:49:12"
     },
     "3.13": {
-      "version": "0.0.22",
-      "released": "2026-01-25T10:15:54"
+      "version": "0.0.24",
+      "released": "2026-04-05T20:49:12"
     },
     "3.14": {
-      "version": "0.0.22",
-      "released": "2026-01-25T10:15:54"
+      "version": "0.0.24",
+      "released": "2026-04-05T20:49:12"
     }
   }
 }
