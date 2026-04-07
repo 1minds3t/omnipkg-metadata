@@ -1,6 +1,6 @@
 {
   "package": "uvicorn",
-  "last_updated": "0.43.0",
+  "last_updated": "0.44.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.22.0",
@@ -15,24 +15,24 @@
       "released": "2025-12-21T13:05:16"
     },
     "3.10": {
-      "version": "0.43.0",
-      "released": "2026-04-03T18:37:47"
+      "version": "0.44.0",
+      "released": "2026-04-06T09:23:21"
     },
     "3.11": {
-      "version": "0.43.0",
-      "released": "2026-04-03T18:37:47"
+      "version": "0.44.0",
+      "released": "2026-04-06T09:23:21"
     },
     "3.12": {
-      "version": "0.43.0",
-      "released": "2026-04-03T18:37:47"
+      "version": "0.44.0",
+      "released": "2026-04-06T09:23:21"
     },
     "3.13": {
-      "version": "0.43.0",
-      "released": "2026-04-03T18:37:47"
+      "version": "0.44.0",
+      "released": "2026-04-06T09:23:21"
     },
     "3.14": {
-      "version": "0.43.0",
-      "released": "2026-04-03T18:37:47"
+      "version": "0.44.0",
+      "released": "2026-04-06T09:23:21"
     }
   }
 }

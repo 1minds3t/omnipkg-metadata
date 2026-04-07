@@ -1,6 +1,6 @@
 {
   "package": "rapidfuzz",
-  "last_updated": "3.14.3",
+  "last_updated": "3.14.4",
   "python_compatibility": {
     "3.7": {
       "version": "3.4.0",
@@ -15,24 +15,24 @@
       "released": "2025-04-03T20:35:08"
     },
     "3.10": {
-      "version": "3.14.3",
-      "released": "2025-11-01T11:52:29"
+      "version": "3.14.4",
+      "released": "2026-04-07T00:00:00"
     },
     "3.11": {
-      "version": "3.14.3",
-      "released": "2025-11-01T11:52:29"
+      "version": "3.14.4",
+      "released": "2026-04-07T00:00:00"
     },
     "3.12": {
-      "version": "3.14.3",
-      "released": "2025-11-01T11:52:29"
+      "version": "3.14.4",
+      "released": "2026-04-07T00:00:00"
     },
     "3.13": {
-      "version": "3.14.3",
-      "released": "2025-11-01T11:52:29"
+      "version": "3.14.4",
+      "released": "2026-04-07T00:00:00"
     },
     "3.14": {
-      "version": "3.14.3",
-      "released": "2025-11-01T11:52:29"
+      "version": "3.14.4",
+      "released": "2026-04-07T00:00:00"
     }
   }
 }
