@@ -1,6 +1,6 @@
 {
   "package": "more-itertools",
-  "last_updated": "11.0.1",
+  "last_updated": "11.0.2",
   "python_compatibility": {
     "3.7": {
       "version": "9.1.0",
@@ -15,24 +15,24 @@
       "released": "2025-09-02T15:23:09"
     },
     "3.10": {
-      "version": "11.0.1",
-      "released": "2026-04-02T16:17:43"
+      "version": "11.0.2",
+      "released": "2026-04-09T15:01:32"
     },
     "3.11": {
-      "version": "11.0.1",
-      "released": "2026-04-02T16:17:43"
+      "version": "11.0.2",
+      "released": "2026-04-09T15:01:32"
     },
     "3.12": {
-      "version": "11.0.1",
-      "released": "2026-04-02T16:17:43"
+      "version": "11.0.2",
+      "released": "2026-04-09T15:01:32"
     },
     "3.13": {
-      "version": "11.0.1",
-      "released": "2026-04-02T16:17:43"
+      "version": "11.0.2",
+      "released": "2026-04-09T15:01:32"
     },
     "3.14": {
-      "version": "11.0.1",
-      "released": "2026-04-02T16:17:43"
+      "version": "11.0.2",
+      "released": "2026-04-09T15:01:32"
     }
   }
 }

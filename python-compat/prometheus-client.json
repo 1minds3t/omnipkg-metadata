@@ -1,6 +1,6 @@
 {
   "package": "prometheus-client",
-  "last_updated": "0.24.1",
+  "last_updated": "0.25.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.17.1",
@@ -11,28 +11,28 @@
       "released": "2024-12-03T14:59:10"
     },
     "3.9": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     },
     "3.10": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     },
     "3.11": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     },
     "3.12": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     },
     "3.13": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     },
     "3.14": {
-      "version": "0.24.1",
-      "released": "2026-01-14T15:26:24"
+      "version": "0.25.0",
+      "released": "2026-04-09T19:53:41"
     }
   }
 }

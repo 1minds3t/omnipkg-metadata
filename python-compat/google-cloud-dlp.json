@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-dlp",
-  "last_updated": "3.35.0",
+  "last_updated": "3.36.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.34.0",
@@ -11,28 +11,28 @@
       "released": "2026-01-15T13:12:55"
     },
     "3.9": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     },
     "3.10": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     },
     "3.11": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     },
     "3.12": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     },
     "3.13": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     },
     "3.14": {
-      "version": "3.35.0",
-      "released": "2026-03-30T22:48:09"
+      "version": "3.36.0",
+      "released": "2026-04-10T00:41:03"
     }
   }
 }
