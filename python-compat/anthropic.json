@@ -1,6 +1,6 @@
 {
   "package": "anthropic",
-  "last_updated": "0.93.0",
+  "last_updated": "0.94.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.38.0",
@@ -11,28 +11,28 @@
       "released": "2025-10-28T19:13:00"
     },
     "3.9": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     },
     "3.10": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     },
     "3.11": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     },
     "3.12": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     },
     "3.13": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     },
     "3.14": {
-      "version": "0.93.0",
-      "released": "2026-04-09T18:13:51"
+      "version": "0.94.0",
+      "released": "2026-04-10T22:27:57"
     }
   }
 }
