@@ -1,38 +1,38 @@
 {
   "package": "virtualenv",
-  "last_updated": "21.2.1",
+  "last_updated": "21.2.3",
   "python_compatibility": {
     "3.7": {
       "version": "20.26.6",
       "released": "2024-09-27T16:28:54"
     },
     "3.8": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.9": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.10": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.11": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.12": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.13": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     },
     "3.14": {
-      "version": "21.2.1",
-      "released": "2026-04-09T18:47:09"
+      "version": "21.2.3",
+      "released": "2026-04-14T01:10:34"
     }
   }
 }
