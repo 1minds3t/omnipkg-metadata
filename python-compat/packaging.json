@@ -1,38 +1,38 @@
 {
   "package": "packaging",
-  "last_updated": "26.0",
+  "last_updated": "26.1",
   "python_compatibility": {
     "3.7": {
       "version": "24.0",
       "released": "2024-03-10T09:39:25"
     },
     "3.8": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.9": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.10": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.11": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.12": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.13": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     },
     "3.14": {
-      "version": "26.0",
-      "released": "2026-01-21T20:50:37"
+      "version": "26.1",
+      "released": "2026-04-14T21:12:47"
     }
   }
 }

@@ -1,38 +1,38 @@
 {
   "package": "editables",
-  "last_updated": "0.5",
+  "last_updated": "0.6",
   "python_compatibility": {
     "3.7": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.8": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.9": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.10": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.11": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.12": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.13": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     },
     "3.14": {
-      "version": "0.5",
-      "released": "2023-07-24T18:26:29"
+      "version": "0.6",
+      "released": "2026-04-14T10:39:03"
     }
   }
 }
