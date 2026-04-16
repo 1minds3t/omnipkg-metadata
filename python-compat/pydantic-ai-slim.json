@@ -1,6 +1,6 @@
 {
   "package": "pydantic-ai-slim",
-  "last_updated": "1.82.0",
+  "last_updated": "1.83.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-08-29T14:46:14"
     },
     "3.10": {
-      "version": "1.82.0",
-      "released": "2026-04-15T02:51:47"
+      "version": "1.83.0",
+      "released": "2026-04-16T01:33:56"
     },
     "3.11": {
-      "version": "1.82.0",
-      "released": "2026-04-15T02:51:47"
+      "version": "1.83.0",
+      "released": "2026-04-16T01:33:56"
     },
     "3.12": {
-      "version": "1.82.0",
-      "released": "2026-04-15T02:51:47"
+      "version": "1.83.0",
+      "released": "2026-04-16T01:33:56"
     },
     "3.13": {
-      "version": "1.82.0",
-      "released": "2026-04-15T02:51:47"
+      "version": "1.83.0",
+      "released": "2026-04-16T01:33:56"
     },
     "3.14": {
-      "version": "1.82.0",
-      "released": "2026-04-15T02:51:47"
+      "version": "1.83.0",
+      "released": "2026-04-16T01:33:56"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "package": "pydantic-core",
-  "last_updated": "2.46.0",
+  "last_updated": "2.46.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.14.6",
@@ -11,28 +11,28 @@
       "released": "2024-12-18T11:27:14"
     },
     "3.9": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     },
     "3.10": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     },
     "3.11": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     },
     "3.12": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     },
     "3.13": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     },
     "3.14": {
-      "version": "2.46.0",
-      "released": "2026-04-13T09:04:32"
+      "version": "2.46.1",
+      "released": "2026-04-15T14:52:57"
     }
   }
 }
