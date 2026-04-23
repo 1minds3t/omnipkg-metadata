@@ -1,38 +1,38 @@
 {
   "package": "nvidia-nccl-cu12",
-  "last_updated": "2.30.3",
+  "last_updated": "2.30.4",
   "python_compatibility": {
     "3.7": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.8": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.9": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.10": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.11": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.12": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.13": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     },
     "3.14": {
-      "version": "2.30.3",
-      "released": "2026-04-20T23:22:09"
+      "version": "2.30.4",
+      "released": "2026-04-23T03:22:58"
     }
   }
 }
