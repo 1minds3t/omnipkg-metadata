@@ -1,38 +1,38 @@
 {
   "package": "databricks-sql-connector",
-  "last_updated": "4.2.5",
+  "last_updated": "4.2.6",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.2",
       "released": "2022-05-05T09:50:10"
     },
     "3.8": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.9": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.10": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.11": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.12": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.13": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     },
     "3.14": {
-      "version": "4.2.5",
-      "released": "2026-02-09T11:26:28"
+      "version": "4.2.6",
+      "released": "2026-04-23T10:40:32"
     }
   }
 }
