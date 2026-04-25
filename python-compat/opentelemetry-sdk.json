@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-sdk",
-  "last_updated": "1.41.0",
+  "last_updated": "1.41.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.22.0",
@@ -11,28 +11,28 @@
       "released": "2025-05-16T18:52:37"
     },
     "3.9": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     },
     "3.10": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     },
     "3.11": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     },
     "3.12": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     },
     "3.13": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     },
     "3.14": {
-      "version": "1.41.0",
-      "released": "2026-04-09T14:38:30"
+      "version": "1.41.1",
+      "released": "2026-04-24T13:15:33"
     }
   }
 }

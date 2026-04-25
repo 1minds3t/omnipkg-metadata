@@ -1,6 +1,6 @@
 {
   "package": "ipython",
-  "last_updated": "9.12.0",
+  "last_updated": "9.13.0",
   "python_compatibility": {
     "3.7": {
       "version": "7.34.0",
@@ -19,20 +19,20 @@
       "released": "2026-03-27T10:02:07"
     },
     "3.11": {
-      "version": "9.10.1",
-      "released": "2026-03-27T09:53:24"
+      "version": "9.13.0",
+      "released": "2026-04-24T12:24:53"
     },
     "3.12": {
-      "version": "9.12.0",
-      "released": "2026-03-27T09:42:42"
+      "version": "9.13.0",
+      "released": "2026-04-24T12:24:53"
     },
     "3.13": {
-      "version": "9.12.0",
-      "released": "2026-03-27T09:42:42"
+      "version": "9.13.0",
+      "released": "2026-04-24T12:24:53"
     },
     "3.14": {
-      "version": "9.12.0",
-      "released": "2026-03-27T09:42:42"
+      "version": "9.13.0",
+      "released": "2026-04-24T12:24:53"
     }
   }
 }

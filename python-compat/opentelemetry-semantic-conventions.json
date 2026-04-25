@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-semantic-conventions",
-  "last_updated": "0.62b0",
+  "last_updated": "0.62b1",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
