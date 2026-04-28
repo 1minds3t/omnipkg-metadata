@@ -1,6 +1,6 @@
 {
   "package": "onnxruntime",
-  "last_updated": "1.25.0",
+  "last_updated": "1.25.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.20.1",
@@ -19,20 +19,20 @@
       "released": "2026-03-05T17:18:59"
     },
     "3.11": {
-      "version": "1.25.0",
-      "released": "2026-04-22T17:20:31"
+      "version": "1.25.1",
+      "released": "2026-04-27T22:00:45"
     },
     "3.12": {
-      "version": "1.25.0",
-      "released": "2026-04-22T17:20:31"
+      "version": "1.25.1",
+      "released": "2026-04-27T22:00:45"
     },
     "3.13": {
-      "version": "1.25.0",
-      "released": "2026-04-22T17:20:31"
+      "version": "1.25.1",
+      "released": "2026-04-27T22:00:45"
     },
     "3.14": {
-      "version": "1.25.0",
-      "released": "2026-04-22T17:20:31"
+      "version": "1.25.1",
+      "released": "2026-04-27T22:00:45"
     }
   }
 }
