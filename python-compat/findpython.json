@@ -1,6 +1,6 @@
 {
   "package": "findpython",
-  "last_updated": "0.7.1",
+  "last_updated": "0.8.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.4.1",
@@ -11,28 +11,28 @@
       "released": "2025-11-13T08:34:43"
     },
     "3.9": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     },
     "3.10": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     },
     "3.11": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     },
     "3.12": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     },
     "3.13": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     },
     "3.14": {
-      "version": "0.7.1",
-      "released": "2025-11-13T08:34:43"
+      "version": "0.8.0",
+      "released": "2026-04-30T03:19:11"
     }
   }
 }

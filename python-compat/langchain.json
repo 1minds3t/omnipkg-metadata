@@ -1,6 +1,6 @@
 {
   "package": "langchain",
-  "last_updated": "1.2.15",
+  "last_updated": "1.2.16",
   "python_compatibility": {
     "3.7": {
       "version": "0.0.27",
@@ -15,24 +15,24 @@
       "released": "2026-03-06T22:45:15"
     },
     "3.10": {
-      "version": "1.2.15",
-      "released": "2026-04-03T14:26:02"
+      "version": "1.2.16",
+      "released": "2026-04-29T21:02:42"
     },
     "3.11": {
-      "version": "1.2.15",
-      "released": "2026-04-03T14:26:02"
+      "version": "1.2.16",
+      "released": "2026-04-29T21:02:42"
     },
     "3.12": {
-      "version": "1.2.15",
-      "released": "2026-04-03T14:26:02"
+      "version": "1.2.16",
+      "released": "2026-04-29T21:02:42"
     },
     "3.13": {
-      "version": "1.2.15",
-      "released": "2026-04-03T14:26:02"
+      "version": "1.2.16",
+      "released": "2026-04-29T21:02:42"
     },
     "3.14": {
-      "version": "1.2.15",
-      "released": "2026-04-03T14:26:02"
+      "version": "1.2.16",
+      "released": "2026-04-29T21:02:42"
     }
   }
 }

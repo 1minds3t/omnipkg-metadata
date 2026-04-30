@@ -1,6 +1,6 @@
 {
   "package": "dulwich",
-  "last_updated": "1.2.0",
+  "last_updated": "1.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.22.1",
@@ -15,24 +15,24 @@
       "released": "2025-11-10T17:16:03"
     },
     "3.10": {
-      "version": "1.2.0",
-      "released": "2026-04-21T17:11:46"
+      "version": "1.2.1",
+      "released": "2026-04-29T15:11:06"
     },
     "3.11": {
-      "version": "1.2.0",
-      "released": "2026-04-21T17:11:46"
+      "version": "1.2.1",
+      "released": "2026-04-29T15:11:06"
     },
     "3.12": {
-      "version": "1.2.0",
-      "released": "2026-04-21T17:11:46"
+      "version": "1.2.1",
+      "released": "2026-04-29T15:11:06"
     },
     "3.13": {
-      "version": "1.2.0",
-      "released": "2026-04-21T17:11:46"
+      "version": "1.2.1",
+      "released": "2026-04-29T15:11:06"
     },
     "3.14": {
-      "version": "1.2.0",
-      "released": "2026-04-21T17:11:46"
+      "version": "1.2.1",
+      "released": "2026-04-29T15:11:06"
     }
   }
 }
