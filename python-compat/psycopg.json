@@ -1,6 +1,6 @@
 {
   "package": "psycopg",
-  "last_updated": "3.3.3",
+  "last_updated": "3.3.4",
   "python_compatibility": {
     "3.7": {
       "version": "3.1.20",
@@ -15,24 +15,24 @@
       "released": "2025-11-21T22:29:39"
     },
     "3.10": {
-      "version": "3.3.3",
-      "released": "2026-02-18T16:46:27"
+      "version": "3.3.4",
+      "released": "2026-05-01T23:20:50"
     },
     "3.11": {
-      "version": "3.3.3",
-      "released": "2026-02-18T16:46:27"
+      "version": "3.3.4",
+      "released": "2026-05-01T23:20:50"
     },
     "3.12": {
-      "version": "3.3.3",
-      "released": "2026-02-18T16:46:27"
+      "version": "3.3.4",
+      "released": "2026-05-01T23:20:50"
     },
     "3.13": {
-      "version": "3.3.3",
-      "released": "2026-02-18T16:46:27"
+      "version": "3.3.4",
+      "released": "2026-05-01T23:20:50"
     },
     "3.14": {
-      "version": "3.3.3",
-      "released": "2026-02-18T16:46:27"
+      "version": "3.3.4",
+      "released": "2026-05-01T23:20:50"
     }
   }
 }

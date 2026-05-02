@@ -1,6 +1,6 @@
 {
   "package": "botocore",
-  "last_updated": "1.43.1",
+  "last_updated": "1.43.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.33.13",
@@ -15,24 +15,24 @@
       "released": "2026-04-27T20:39:01"
     },
     "3.10": {
-      "version": "1.43.1",
-      "released": "2026-04-30T20:26:46"
+      "version": "1.43.2",
+      "released": "2026-05-01T19:42:54"
     },
     "3.11": {
-      "version": "1.43.1",
-      "released": "2026-04-30T20:26:46"
+      "version": "1.43.2",
+      "released": "2026-05-01T19:42:54"
     },
     "3.12": {
-      "version": "1.43.1",
-      "released": "2026-04-30T20:26:46"
+      "version": "1.43.2",
+      "released": "2026-05-01T19:42:54"
     },
     "3.13": {
-      "version": "1.43.1",
-      "released": "2026-04-30T20:26:46"
+      "version": "1.43.2",
+      "released": "2026-05-01T19:42:54"
     },
     "3.14": {
-      "version": "1.43.1",
-      "released": "2026-04-30T20:26:46"
+      "version": "1.43.2",
+      "released": "2026-05-01T19:42:54"
     }
   }
 }
