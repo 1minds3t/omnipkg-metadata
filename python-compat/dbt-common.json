@@ -1,6 +1,6 @@
 {
   "package": "dbt-common",
-  "last_updated": "1.37.5",
+  "last_updated": "1.38.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
