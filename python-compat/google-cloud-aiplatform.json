@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-aiplatform",
-  "last_updated": "1.149.0",
+  "last_updated": "1.150.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.34.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-17T23:45:22"
     },
     "3.10": {
-      "version": "1.149.0",
-      "released": "2026-04-27T23:11:50"
+      "version": "1.150.0",
+      "released": "2026-05-05T22:54:21"
     },
     "3.11": {
-      "version": "1.149.0",
-      "released": "2026-04-27T23:11:50"
+      "version": "1.150.0",
+      "released": "2026-05-05T22:54:21"
     },
     "3.12": {
-      "version": "1.149.0",
-      "released": "2026-04-27T23:11:50"
+      "version": "1.150.0",
+      "released": "2026-05-05T22:54:21"
     },
     "3.13": {
-      "version": "1.149.0",
-      "released": "2026-04-27T23:11:50"
+      "version": "1.150.0",
+      "released": "2026-05-05T22:54:21"
     },
     "3.14": {
-      "version": "1.149.0",
-      "released": "2026-04-27T23:11:50"
+      "version": "1.150.0",
+      "released": "2026-05-05T22:54:21"
     }
   }
 }

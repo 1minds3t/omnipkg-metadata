@@ -1,35 +1,35 @@
 {
   "package": "hf-xet",
-  "last_updated": "1.4.3",
+  "last_updated": "1.5.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.9": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.10": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.11": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.12": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.13": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     },
     "3.14": {
-      "version": "1.4.3",
-      "released": "2026-03-31T22:39:49"
+      "version": "1.5.0",
+      "released": "2026-05-06T06:17:53"
     }
   }
 }
