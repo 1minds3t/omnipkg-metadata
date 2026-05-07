@@ -1,38 +1,38 @@
 {
   "package": "google-api-python-client",
-  "last_updated": "2.195.0",
+  "last_updated": "2.196.0",
   "python_compatibility": {
     "3.7": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.8": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.9": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.10": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.11": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.12": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.13": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     },
     "3.14": {
-      "version": "2.195.0",
-      "released": "2026-04-30T21:51:47"
+      "version": "2.196.0",
+      "released": "2026-05-06T23:47:32"
     }
   }
 }

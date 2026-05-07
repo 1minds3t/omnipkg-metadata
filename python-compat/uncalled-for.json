@@ -1,29 +1,29 @@
 {
   "package": "uncalled-for",
-  "last_updated": "0.3.1",
+  "last_updated": "0.3.2",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": null,
     "3.10": {
-      "version": "0.3.1",
-      "released": "2026-04-07T13:05:05"
+      "version": "0.3.2",
+      "released": "2026-05-06T13:38:24"
     },
     "3.11": {
-      "version": "0.3.1",
-      "released": "2026-04-07T13:05:05"
+      "version": "0.3.2",
+      "released": "2026-05-06T13:38:24"
     },
     "3.12": {
-      "version": "0.3.1",
-      "released": "2026-04-07T13:05:05"
+      "version": "0.3.2",
+      "released": "2026-05-06T13:38:24"
     },
     "3.13": {
-      "version": "0.3.1",
-      "released": "2026-04-07T13:05:05"
+      "version": "0.3.2",
+      "released": "2026-05-06T13:38:24"
     },
     "3.14": {
-      "version": "0.3.1",
-      "released": "2026-04-07T13:05:05"
+      "version": "0.3.2",
+      "released": "2026-05-06T13:38:24"
     }
   }
 }
