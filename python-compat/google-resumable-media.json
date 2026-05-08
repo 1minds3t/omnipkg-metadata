@@ -1,6 +1,6 @@
 {
   "package": "google-resumable-media",
-  "last_updated": "2.8.2",
+  "last_updated": "2.9.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.8.1",
@@ -15,24 +15,24 @@
       "released": "2026-03-30T23:34:09"
     },
     "3.10": {
-      "version": "2.8.2",
-      "released": "2026-03-30T23:34:09"
+      "version": "2.9.0",
+      "released": "2026-05-07T08:03:23"
     },
     "3.11": {
-      "version": "2.8.2",
-      "released": "2026-03-30T23:34:09"
+      "version": "2.9.0",
+      "released": "2026-05-07T08:03:23"
     },
     "3.12": {
-      "version": "2.8.2",
-      "released": "2026-03-30T23:34:09"
+      "version": "2.9.0",
+      "released": "2026-05-07T08:03:23"
     },
     "3.13": {
-      "version": "2.8.2",
-      "released": "2026-03-30T23:34:09"
+      "version": "2.9.0",
+      "released": "2026-05-07T08:03:23"
     },
     "3.14": {
-      "version": "2.8.2",
-      "released": "2026-03-30T23:34:09"
+      "version": "2.9.0",
+      "released": "2026-05-07T08:03:23"
     }
   }
 }

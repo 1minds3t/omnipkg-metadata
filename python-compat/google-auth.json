@@ -1,6 +1,6 @@
 {
   "package": "google-auth",
-  "last_updated": "2.50.0",
+  "last_updated": "2.52.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.46.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-30T21:19:27"
     },
     "3.10": {
-      "version": "2.50.0",
-      "released": "2026-04-30T21:19:27"
+      "version": "2.52.0",
+      "released": "2026-05-07T19:45:21"
     },
     "3.11": {
-      "version": "2.50.0",
-      "released": "2026-04-30T21:19:27"
+      "version": "2.52.0",
+      "released": "2026-05-07T19:45:21"
     },
     "3.12": {
-      "version": "2.50.0",
-      "released": "2026-04-30T21:19:27"
+      "version": "2.52.0",
+      "released": "2026-05-07T19:45:21"
     },
     "3.13": {
-      "version": "2.50.0",
-      "released": "2026-04-30T21:19:27"
+      "version": "2.52.0",
+      "released": "2026-05-07T19:45:21"
     },
     "3.14": {
-      "version": "2.50.0",
-      "released": "2026-04-30T21:19:27"
+      "version": "2.52.0",
+      "released": "2026-05-07T19:45:21"
     }
   }
 }

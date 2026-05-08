@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-bigtable",
-  "last_updated": "2.37.0",
+  "last_updated": "2.38.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.36.0",
@@ -11,28 +11,28 @@
       "released": "2026-04-02T21:23:20"
     },
     "3.9": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     },
     "3.10": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     },
     "3.11": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     },
     "3.12": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     },
     "3.13": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     },
     "3.14": {
-      "version": "2.37.0",
-      "released": "2026-05-05T20:48:38"
+      "version": "2.38.0",
+      "released": "2026-05-07T19:32:51"
     }
   }
 }
