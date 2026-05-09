@@ -1,6 +1,6 @@
 {
   "package": "matplotlib-inline",
-  "last_updated": "0.2.1",
+  "last_updated": "0.2.2",
   "python_compatibility": {
     "3.7": {
       "version": "0.1.6",
@@ -11,28 +11,28 @@
       "released": "2024-04-15T13:44:43"
     },
     "3.9": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     },
     "3.10": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     },
     "3.11": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     },
     "3.12": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     },
     "3.13": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     },
     "3.14": {
-      "version": "0.2.1",
-      "released": "2025-10-23T09:00:20"
+      "version": "0.2.2",
+      "released": "2026-05-08T17:33:32"
     }
   }
 }

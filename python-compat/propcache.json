@@ -1,6 +1,6 @@
 {
   "package": "propcache",
-  "last_updated": "0.4.1",
+  "last_updated": "0.5.2",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -12,24 +12,24 @@
       "released": "2025-10-08T19:46:02"
     },
     "3.10": {
-      "version": "0.4.1",
-      "released": "2025-10-08T19:46:02"
+      "version": "0.5.2",
+      "released": "2026-05-08T20:59:15"
     },
     "3.11": {
-      "version": "0.4.1",
-      "released": "2025-10-08T19:46:02"
+      "version": "0.5.2",
+      "released": "2026-05-08T20:59:15"
     },
     "3.12": {
-      "version": "0.4.1",
-      "released": "2025-10-08T19:46:02"
+      "version": "0.5.2",
+      "released": "2026-05-08T20:59:15"
     },
     "3.13": {
-      "version": "0.4.1",
-      "released": "2025-10-08T19:46:02"
+      "version": "0.5.2",
+      "released": "2026-05-08T20:59:15"
     },
     "3.14": {
-      "version": "0.4.1",
-      "released": "2025-10-08T19:46:02"
+      "version": "0.5.2",
+      "released": "2026-05-08T20:59:15"
     }
   }
 }
