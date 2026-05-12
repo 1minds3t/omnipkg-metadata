@@ -1,6 +1,6 @@
 {
   "package": "installer",
-  "last_updated": "1.0.0",
+  "last_updated": "1.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.7.0",
@@ -15,24 +15,24 @@
       "released": "2023-03-17T20:39:36"
     },
     "3.10": {
-      "version": "1.0.0",
-      "released": "2026-03-28T15:39:20"
+      "version": "1.0.1",
+      "released": "2026-05-11T18:13:26"
     },
     "3.11": {
-      "version": "1.0.0",
-      "released": "2026-03-28T15:39:20"
+      "version": "1.0.1",
+      "released": "2026-05-11T18:13:26"
     },
     "3.12": {
-      "version": "1.0.0",
-      "released": "2026-03-28T15:39:20"
+      "version": "1.0.1",
+      "released": "2026-05-11T18:13:26"
     },
     "3.13": {
-      "version": "1.0.0",
-      "released": "2026-03-28T15:39:20"
+      "version": "1.0.1",
+      "released": "2026-05-11T18:13:26"
     },
     "3.14": {
-      "version": "1.0.0",
-      "released": "2026-03-28T15:39:20"
+      "version": "1.0.1",
+      "released": "2026-05-11T18:13:26"
     }
   }
 }
