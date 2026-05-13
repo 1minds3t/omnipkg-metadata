@@ -1,6 +1,6 @@
 {
   "package": "selenium",
-  "last_updated": "4.43.0",
+  "last_updated": "4.44.0",
   "python_compatibility": {
     "3.7": {
       "version": "4.11.2",
@@ -15,24 +15,24 @@
       "released": "2025-10-02T15:24:35"
     },
     "3.10": {
-      "version": "4.43.0",
-      "released": "2026-04-10T06:47:01"
+      "version": "4.44.0",
+      "released": "2026-05-12T22:48:16"
     },
     "3.11": {
-      "version": "4.43.0",
-      "released": "2026-04-10T06:47:01"
+      "version": "4.44.0",
+      "released": "2026-05-12T22:48:16"
     },
     "3.12": {
-      "version": "4.43.0",
-      "released": "2026-04-10T06:47:01"
+      "version": "4.44.0",
+      "released": "2026-05-12T22:48:16"
     },
     "3.13": {
-      "version": "4.43.0",
-      "released": "2026-04-10T06:47:01"
+      "version": "4.44.0",
+      "released": "2026-05-12T22:48:16"
     },
     "3.14": {
-      "version": "4.43.0",
-      "released": "2026-04-10T06:47:01"
+      "version": "4.44.0",
+      "released": "2026-05-12T22:48:16"
     }
   }
 }
