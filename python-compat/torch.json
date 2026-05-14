@@ -1,6 +1,6 @@
 {
   "package": "torch",
-  "last_updated": "2.11.0",
+  "last_updated": "2.12.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.13.1",
@@ -15,24 +15,24 @@
       "released": "2025-08-06T14:53:15"
     },
     "3.10": {
-      "version": "2.11.0",
-      "released": "2026-03-23T18:12:06"
+      "version": "2.12.0",
+      "released": "2026-05-13T14:55:53"
     },
     "3.11": {
-      "version": "2.11.0",
-      "released": "2026-03-23T18:12:06"
+      "version": "2.12.0",
+      "released": "2026-05-13T14:55:53"
     },
     "3.12": {
-      "version": "2.11.0",
-      "released": "2026-03-23T18:12:06"
+      "version": "2.12.0",
+      "released": "2026-05-13T14:55:53"
     },
     "3.13": {
-      "version": "2.11.0",
-      "released": "2026-03-23T18:12:06"
+      "version": "2.12.0",
+      "released": "2026-05-13T14:55:53"
     },
     "3.14": {
-      "version": "2.11.0",
-      "released": "2026-03-23T18:12:06"
+      "version": "2.12.0",
+      "released": "2026-05-13T14:55:53"
     }
   }
 }
