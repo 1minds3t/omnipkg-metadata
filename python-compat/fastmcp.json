@@ -1,29 +1,29 @@
 {
   "package": "fastmcp",
-  "last_updated": "3.2.4",
+  "last_updated": "3.3.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": null,
     "3.10": {
-      "version": "3.2.4",
-      "released": "2026-04-14T01:42:26"
+      "version": "3.3.0",
+      "released": "2026-05-15T02:05:02"
     },
     "3.11": {
-      "version": "3.2.4",
-      "released": "2026-04-14T01:42:26"
+      "version": "3.3.0",
+      "released": "2026-05-15T02:05:02"
     },
     "3.12": {
-      "version": "3.2.4",
-      "released": "2026-04-14T01:42:26"
+      "version": "3.3.0",
+      "released": "2026-05-15T02:05:02"
     },
     "3.13": {
-      "version": "3.2.4",
-      "released": "2026-04-14T01:42:26"
+      "version": "3.3.0",
+      "released": "2026-05-15T02:05:02"
     },
     "3.14": {
-      "version": "3.2.4",
-      "released": "2026-04-14T01:42:26"
+      "version": "3.3.0",
+      "released": "2026-05-15T02:05:02"
     }
   }
 }
