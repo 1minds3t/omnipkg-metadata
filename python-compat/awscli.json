@@ -1,6 +1,6 @@
 {
   "package": "awscli",
-  "last_updated": "1.45.8",
+  "last_updated": "1.45.9",
   "python_compatibility": {
     "3.7": {
       "version": "1.31.13",
@@ -15,24 +15,24 @@
       "released": "2026-04-27T20:39:09"
     },
     "3.10": {
-      "version": "1.45.8",
-      "released": "2026-05-14T19:34:27"
+      "version": "1.45.9",
+      "released": "2026-05-15T19:28:23"
     },
     "3.11": {
-      "version": "1.45.8",
-      "released": "2026-05-14T19:34:27"
+      "version": "1.45.9",
+      "released": "2026-05-15T19:28:23"
     },
     "3.12": {
-      "version": "1.45.8",
-      "released": "2026-05-14T19:34:27"
+      "version": "1.45.9",
+      "released": "2026-05-15T19:28:23"
     },
     "3.13": {
-      "version": "1.45.8",
-      "released": "2026-05-14T19:34:27"
+      "version": "1.45.9",
+      "released": "2026-05-15T19:28:23"
     },
     "3.14": {
-      "version": "1.45.8",
-      "released": "2026-05-14T19:34:27"
+      "version": "1.45.9",
+      "released": "2026-05-15T19:28:23"
     }
   }
 }
