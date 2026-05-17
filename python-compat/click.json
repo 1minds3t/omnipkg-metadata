@@ -1,6 +1,6 @@
 {
   "package": "click",
-  "last_updated": "8.3.3",
+  "last_updated": "8.4.0",
   "python_compatibility": {
     "3.7": {
       "version": "8.1.8",
@@ -15,24 +15,24 @@
       "released": "2024-12-21T18:38:41"
     },
     "3.10": {
-      "version": "8.3.3",
-      "released": "2026-04-22T15:11:25"
+      "version": "8.4.0",
+      "released": "2026-05-17T00:47:56"
     },
     "3.11": {
-      "version": "8.3.3",
-      "released": "2026-04-22T15:11:25"
+      "version": "8.4.0",
+      "released": "2026-05-17T00:47:56"
     },
     "3.12": {
-      "version": "8.3.3",
-      "released": "2026-04-22T15:11:25"
+      "version": "8.4.0",
+      "released": "2026-05-17T00:47:56"
     },
     "3.13": {
-      "version": "8.3.3",
-      "released": "2026-04-22T15:11:25"
+      "version": "8.4.0",
+      "released": "2026-05-17T00:47:56"
     },
     "3.14": {
-      "version": "8.3.3",
-      "released": "2026-04-22T15:11:25"
+      "version": "8.4.0",
+      "released": "2026-05-17T00:47:56"
     }
   }
 }
