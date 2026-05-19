@@ -1,6 +1,6 @@
 {
   "package": "zipp",
-  "last_updated": "3.23.1",
+  "last_updated": "4.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.15.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-13T23:21:45"
     },
     "3.10": {
-      "version": "3.23.1",
-      "released": "2026-04-13T23:21:45"
+      "version": "4.1.0",
+      "released": "2026-05-18T20:08:57"
     },
     "3.11": {
-      "version": "3.23.1",
-      "released": "2026-04-13T23:21:45"
+      "version": "4.1.0",
+      "released": "2026-05-18T20:08:57"
     },
     "3.12": {
-      "version": "3.23.1",
-      "released": "2026-04-13T23:21:45"
+      "version": "4.1.0",
+      "released": "2026-05-18T20:08:57"
     },
     "3.13": {
-      "version": "3.23.1",
-      "released": "2026-04-13T23:21:45"
+      "version": "4.1.0",
+      "released": "2026-05-18T20:08:57"
     },
     "3.14": {
-      "version": "3.23.1",
-      "released": "2026-04-13T23:21:45"
+      "version": "4.1.0",
+      "released": "2026-05-18T20:08:57"
     }
   }
 }
