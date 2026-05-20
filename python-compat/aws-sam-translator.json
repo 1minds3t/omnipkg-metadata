@@ -1,6 +1,6 @@
 {
   "package": "aws-sam-translator",
-  "last_updated": "1.109.0",
+  "last_updated": "1.110.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.82.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-08T23:34:30"
     },
     "3.10": {
-      "version": "1.109.0",
-      "released": "2026-04-08T23:34:30"
+      "version": "1.110.0",
+      "released": "2026-05-19T21:21:05"
     },
     "3.11": {
-      "version": "1.109.0",
-      "released": "2026-04-08T23:34:30"
+      "version": "1.110.0",
+      "released": "2026-05-19T21:21:05"
     },
     "3.12": {
-      "version": "1.109.0",
-      "released": "2026-04-08T23:34:30"
+      "version": "1.110.0",
+      "released": "2026-05-19T21:21:05"
     },
     "3.13": {
-      "version": "1.109.0",
-      "released": "2026-04-08T23:34:30"
+      "version": "1.110.0",
+      "released": "2026-05-19T21:21:05"
     },
     "3.14": {
-      "version": "1.109.0",
-      "released": "2026-04-08T23:34:30"
+      "version": "1.110.0",
+      "released": "2026-05-19T21:21:05"
     }
   }
 }
