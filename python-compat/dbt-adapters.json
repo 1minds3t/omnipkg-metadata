@@ -1,6 +1,6 @@
 {
   "package": "dbt-adapters",
-  "last_updated": "1.24.1",
+  "last_updated": "1.24.2",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -12,24 +12,24 @@
       "released": "2025-10-20T15:57:02"
     },
     "3.10": {
-      "version": "1.24.1",
-      "released": "2026-05-19T07:10:38"
+      "version": "1.24.2",
+      "released": "2026-05-21T10:36:00"
     },
     "3.11": {
-      "version": "1.24.1",
-      "released": "2026-05-19T07:10:38"
+      "version": "1.24.2",
+      "released": "2026-05-21T10:36:00"
     },
     "3.12": {
-      "version": "1.24.1",
-      "released": "2026-05-19T07:10:38"
+      "version": "1.24.2",
+      "released": "2026-05-21T10:36:00"
     },
     "3.13": {
-      "version": "1.24.1",
-      "released": "2026-05-19T07:10:38"
+      "version": "1.24.2",
+      "released": "2026-05-21T10:36:00"
     },
     "3.14": {
-      "version": "1.24.1",
-      "released": "2026-05-19T07:10:38"
+      "version": "1.24.2",
+      "released": "2026-05-21T10:36:00"
     }
   }
 }

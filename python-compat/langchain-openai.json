@@ -1,6 +1,6 @@
 {
   "package": "langchain-openai",
-  "last_updated": "1.2.1",
+  "last_updated": "1.2.2",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-06T15:09:27"
     },
     "3.10": {
-      "version": "1.2.1",
-      "released": "2026-04-24T19:46:41"
+      "version": "1.2.2",
+      "released": "2026-05-21T22:08:29"
     },
     "3.11": {
-      "version": "1.2.1",
-      "released": "2026-04-24T19:46:41"
+      "version": "1.2.2",
+      "released": "2026-05-21T22:08:29"
     },
     "3.12": {
-      "version": "1.2.1",
-      "released": "2026-04-24T19:46:41"
+      "version": "1.2.2",
+      "released": "2026-05-21T22:08:29"
     },
     "3.13": {
-      "version": "1.2.1",
-      "released": "2026-04-24T19:46:41"
+      "version": "1.2.2",
+      "released": "2026-05-21T22:08:29"
     },
     "3.14": {
-      "version": "1.2.1",
-      "released": "2026-04-24T19:46:41"
+      "version": "1.2.2",
+      "released": "2026-05-21T22:08:29"
     }
   }
 }
