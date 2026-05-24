@@ -1,6 +1,6 @@
 {
   "package": "typedload",
-  "last_updated": "2.40",
+  "last_updated": "2.41",
   "python_compatibility": {
     "3.7": {
       "version": "2.26",
@@ -15,24 +15,24 @@
       "released": "2024-11-26T12:09:59"
     },
     "3.10": {
-      "version": "2.40",
-      "released": "2026-02-11T08:37:15"
+      "version": "2.41",
+      "released": "2026-05-23T22:38:52"
     },
     "3.11": {
-      "version": "2.40",
-      "released": "2026-02-11T08:37:15"
+      "version": "2.41",
+      "released": "2026-05-23T22:38:52"
     },
     "3.12": {
-      "version": "2.40",
-      "released": "2026-02-11T08:37:15"
+      "version": "2.41",
+      "released": "2026-05-23T22:38:52"
     },
     "3.13": {
-      "version": "2.40",
-      "released": "2026-02-11T08:37:15"
+      "version": "2.41",
+      "released": "2026-05-23T22:38:52"
     },
     "3.14": {
-      "version": "2.40",
-      "released": "2026-02-11T08:37:15"
+      "version": "2.41",
+      "released": "2026-05-23T22:38:52"
     }
   }
 }
