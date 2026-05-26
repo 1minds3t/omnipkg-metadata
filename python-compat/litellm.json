@@ -1,6 +1,6 @@
 {
   "package": "litellm",
-  "last_updated": "1.86.0",
+  "last_updated": "1.86.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.1.2291",
@@ -15,20 +15,20 @@
       "released": "2026-04-17T01:29:04"
     },
     "3.10": {
-      "version": "1.86.0",
-      "released": "2026-05-24T02:42:00"
+      "version": "1.86.1",
+      "released": "2026-05-26T03:51:49"
     },
     "3.11": {
-      "version": "1.86.0",
-      "released": "2026-05-24T02:42:00"
+      "version": "1.86.1",
+      "released": "2026-05-26T03:51:49"
     },
     "3.12": {
-      "version": "1.86.0",
-      "released": "2026-05-24T02:42:00"
+      "version": "1.86.1",
+      "released": "2026-05-26T03:51:49"
     },
     "3.13": {
-      "version": "1.86.0",
-      "released": "2026-05-24T02:42:00"
+      "version": "1.86.1",
+      "released": "2026-05-26T03:51:49"
     },
     "3.14": {
       "version": "1.83.7",
