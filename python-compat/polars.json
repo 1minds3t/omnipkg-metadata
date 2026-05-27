@@ -1,6 +1,6 @@
 {
   "package": "polars",
-  "last_updated": "1.41.0",
+  "last_updated": "1.40.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.18.4",
