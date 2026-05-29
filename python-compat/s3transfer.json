@@ -1,6 +1,6 @@
 {
   "package": "s3transfer",
-  "last_updated": "0.17.1",
+  "last_updated": "0.18.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.8.2",
@@ -15,24 +15,24 @@
       "released": "2026-04-22T20:36:04"
     },
     "3.10": {
-      "version": "0.17.1",
-      "released": "2026-05-26T19:45:00"
+      "version": "0.18.0",
+      "released": "2026-05-28T19:39:07"
     },
     "3.11": {
-      "version": "0.17.1",
-      "released": "2026-05-26T19:45:00"
+      "version": "0.18.0",
+      "released": "2026-05-28T19:39:07"
     },
     "3.12": {
-      "version": "0.17.1",
-      "released": "2026-05-26T19:45:00"
+      "version": "0.18.0",
+      "released": "2026-05-28T19:39:07"
     },
     "3.13": {
-      "version": "0.17.1",
-      "released": "2026-05-26T19:45:00"
+      "version": "0.18.0",
+      "released": "2026-05-28T19:39:07"
     },
     "3.14": {
-      "version": "0.17.1",
-      "released": "2026-05-26T19:45:00"
+      "version": "0.18.0",
+      "released": "2026-05-28T19:39:07"
     }
   }
 }

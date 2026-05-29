@@ -1,6 +1,6 @@
 {
   "package": "typer",
-  "last_updated": "0.26.2",
+  "last_updated": "0.26.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.19.1",
@@ -15,24 +15,24 @@
       "released": "2026-02-16T18:52:39"
     },
     "3.10": {
-      "version": "0.26.2",
-      "released": "2026-05-27T10:41:40"
+      "version": "0.26.3",
+      "released": "2026-05-28T20:30:49"
     },
     "3.11": {
-      "version": "0.26.2",
-      "released": "2026-05-27T10:41:40"
+      "version": "0.26.3",
+      "released": "2026-05-28T20:30:49"
     },
     "3.12": {
-      "version": "0.26.2",
-      "released": "2026-05-27T10:41:40"
+      "version": "0.26.3",
+      "released": "2026-05-28T20:30:49"
     },
     "3.13": {
-      "version": "0.26.2",
-      "released": "2026-05-27T10:41:40"
+      "version": "0.26.3",
+      "released": "2026-05-28T20:30:49"
     },
     "3.14": {
-      "version": "0.26.2",
-      "released": "2026-05-27T10:41:40"
+      "version": "0.26.3",
+      "released": "2026-05-28T20:30:49"
     }
   }
 }

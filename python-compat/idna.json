@@ -1,6 +1,6 @@
 {
   "package": "idna",
-  "last_updated": "3.16",
+  "last_updated": "3.17",
   "python_compatibility": {
     "3.7": {
       "version": "3.10",
@@ -11,28 +11,28 @@
       "released": "2026-05-12T22:45:55"
     },
     "3.9": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     },
     "3.10": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     },
     "3.11": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     },
     "3.12": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     },
     "3.13": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     },
     "3.14": {
-      "version": "3.16",
-      "released": "2026-05-22T00:16:16"
+      "version": "3.17",
+      "released": "2026-05-28T14:32:37"
     }
   }
 }
