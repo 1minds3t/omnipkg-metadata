@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-bigquery-datatransfer",
-  "last_updated": "3.21.0",
+  "last_updated": "3.22.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.21.0",
@@ -11,28 +11,28 @@
       "released": "2026-01-09T14:53:27"
     },
     "3.9": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     },
     "3.10": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     },
     "3.11": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     },
     "3.12": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     },
     "3.13": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     },
     "3.14": {
-      "version": "3.21.0",
-      "released": "2026-01-09T14:53:27"
+      "version": "3.22.0",
+      "released": "2026-03-30T22:49:25"
     }
   }
 }

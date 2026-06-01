@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-dataflow-client",
-  "last_updated": "0.11.0",
+  "last_updated": "0.13.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.11.0",
@@ -11,28 +11,28 @@
       "released": "2026-01-15T13:13:32"
     },
     "3.9": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     },
     "3.10": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     },
     "3.11": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     },
     "3.12": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     },
     "3.13": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     },
     "3.14": {
-      "version": "0.11.0",
-      "released": "2026-01-15T13:13:32"
+      "version": "0.13.0",
+      "released": "2026-04-02T21:23:15"
     }
   }
 }

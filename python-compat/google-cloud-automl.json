@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-automl",
-  "last_updated": "2.18.1",
+  "last_updated": "2.19.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.18.1",
@@ -11,28 +11,28 @@
       "released": "2026-01-29T15:32:13"
     },
     "3.9": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     },
     "3.10": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     },
     "3.11": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     },
     "3.12": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     },
     "3.13": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     },
     "3.14": {
-      "version": "2.18.1",
-      "released": "2026-01-29T15:32:13"
+      "version": "2.19.0",
+      "released": "2026-03-30T22:48:15"
     }
   }
 }
