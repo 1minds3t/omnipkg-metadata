@@ -1,38 +1,38 @@
 {
   "package": "debugpy",
-  "last_updated": "1.8.20",
+  "last_updated": "1.8.21",
   "python_compatibility": {
     "3.7": {
       "version": "1.7.0",
       "released": "2023-09-07T18:46:07"
     },
     "3.8": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.9": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.10": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.11": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.12": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.13": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     },
     "3.14": {
-      "version": "1.8.20",
-      "released": "2026-01-29T23:03:29"
+      "version": "1.8.21",
+      "released": "2026-06-01T19:30:37"
     }
   }
 }
