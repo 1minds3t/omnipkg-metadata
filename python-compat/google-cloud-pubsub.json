@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-pubsub",
-  "last_updated": "2.38.0",
+  "last_updated": "2.39.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.34.0",
@@ -15,24 +15,24 @@
       "released": "2026-05-07T08:03:04"
     },
     "3.10": {
-      "version": "2.38.0",
-      "released": "2026-05-07T08:03:04"
+      "version": "2.39.0",
+      "released": "2026-06-03T15:27:41"
     },
     "3.11": {
-      "version": "2.38.0",
-      "released": "2026-05-07T08:03:04"
+      "version": "2.39.0",
+      "released": "2026-06-03T15:27:41"
     },
     "3.12": {
-      "version": "2.38.0",
-      "released": "2026-05-07T08:03:04"
+      "version": "2.39.0",
+      "released": "2026-06-03T15:27:41"
     },
     "3.13": {
-      "version": "2.38.0",
-      "released": "2026-05-07T08:03:04"
+      "version": "2.39.0",
+      "released": "2026-06-03T15:27:41"
     },
     "3.14": {
-      "version": "2.38.0",
-      "released": "2026-05-07T08:03:04"
+      "version": "2.39.0",
+      "released": "2026-06-03T15:27:41"
     }
   }
 }
