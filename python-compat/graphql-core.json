@@ -1,38 +1,38 @@
 {
   "package": "graphql-core",
-  "last_updated": "3.2.8",
+  "last_updated": "3.2.9",
   "python_compatibility": {
     "3.7": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.8": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.9": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.10": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.11": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.12": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.13": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     },
     "3.14": {
-      "version": "3.2.8",
-      "released": "2026-03-05T19:55:35"
+      "version": "3.2.9",
+      "released": "2026-06-04T21:51:29"
     }
   }
 }

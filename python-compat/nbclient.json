@@ -1,6 +1,6 @@
 {
   "package": "nbclient",
-  "last_updated": "0.10.4",
+  "last_updated": "0.11.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.7.4",
@@ -15,24 +15,24 @@
       "released": "2024-12-19T10:32:24"
     },
     "3.10": {
-      "version": "0.10.4",
-      "released": "2025-12-23T07:45:44"
+      "version": "0.11.0",
+      "released": "2026-06-05T07:52:40"
     },
     "3.11": {
-      "version": "0.10.4",
-      "released": "2025-12-23T07:45:44"
+      "version": "0.11.0",
+      "released": "2026-06-05T07:52:40"
     },
     "3.12": {
-      "version": "0.10.4",
-      "released": "2025-12-23T07:45:44"
+      "version": "0.11.0",
+      "released": "2026-06-05T07:52:40"
     },
     "3.13": {
-      "version": "0.10.4",
-      "released": "2025-12-23T07:45:44"
+      "version": "0.11.0",
+      "released": "2026-06-05T07:52:40"
     },
     "3.14": {
-      "version": "0.10.4",
-      "released": "2025-12-23T07:45:44"
+      "version": "0.11.0",
+      "released": "2026-06-05T07:52:40"
     }
   }
 }
