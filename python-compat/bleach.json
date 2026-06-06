@@ -1,6 +1,6 @@
 {
   "package": "bleach",
-  "last_updated": "6.3.0",
+  "last_updated": "6.4.0",
   "python_compatibility": {
     "3.7": {
       "version": "6.0.0",
@@ -15,24 +15,24 @@
       "released": "2024-10-29T18:30:38"
     },
     "3.10": {
-      "version": "6.3.0",
-      "released": "2025-10-27T17:57:37"
+      "version": "6.4.0",
+      "released": "2026-06-05T13:01:12"
     },
     "3.11": {
-      "version": "6.3.0",
-      "released": "2025-10-27T17:57:37"
+      "version": "6.4.0",
+      "released": "2026-06-05T13:01:12"
     },
     "3.12": {
-      "version": "6.3.0",
-      "released": "2025-10-27T17:57:37"
+      "version": "6.4.0",
+      "released": "2026-06-05T13:01:12"
     },
     "3.13": {
-      "version": "6.3.0",
-      "released": "2025-10-27T17:57:37"
+      "version": "6.4.0",
+      "released": "2026-06-05T13:01:12"
     },
     "3.14": {
-      "version": "6.3.0",
-      "released": "2025-10-27T17:57:37"
+      "version": "6.4.0",
+      "released": "2026-06-05T13:01:12"
     }
   }
 }

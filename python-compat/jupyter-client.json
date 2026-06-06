@@ -1,6 +1,6 @@
 {
   "package": "jupyter-client",
-  "last_updated": "8.8.0",
+  "last_updated": "8.9.0",
   "python_compatibility": {
     "3.7": {
       "version": "7.4.9",
@@ -15,24 +15,24 @@
       "released": "2024-09-17T10:44:15"
     },
     "3.10": {
-      "version": "8.8.0",
-      "released": "2026-01-08T13:55:45"
+      "version": "8.9.0",
+      "released": "2026-06-05T12:17:42"
     },
     "3.11": {
-      "version": "8.8.0",
-      "released": "2026-01-08T13:55:45"
+      "version": "8.9.0",
+      "released": "2026-06-05T12:17:42"
     },
     "3.12": {
-      "version": "8.8.0",
-      "released": "2026-01-08T13:55:45"
+      "version": "8.9.0",
+      "released": "2026-06-05T12:17:42"
     },
     "3.13": {
-      "version": "8.8.0",
-      "released": "2026-01-08T13:55:45"
+      "version": "8.9.0",
+      "released": "2026-06-05T12:17:42"
     },
     "3.14": {
-      "version": "8.8.0",
-      "released": "2026-01-08T13:55:45"
+      "version": "8.9.0",
+      "released": "2026-06-05T12:17:42"
     }
   }
 }

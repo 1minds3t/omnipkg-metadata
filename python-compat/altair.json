@@ -1,6 +1,6 @@
 {
   "package": "altair",
-  "last_updated": "6.1.0",
+  "last_updated": "6.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "5.0.1",
@@ -15,24 +15,24 @@
       "released": "2025-11-12T08:59:09"
     },
     "3.10": {
-      "version": "6.1.0",
-      "released": "2026-04-21T13:08:48"
+      "version": "6.2.1",
+      "released": "2026-06-05T16:23:34"
     },
     "3.11": {
-      "version": "6.1.0",
-      "released": "2026-04-21T13:08:48"
+      "version": "6.2.1",
+      "released": "2026-06-05T16:23:34"
     },
     "3.12": {
-      "version": "6.1.0",
-      "released": "2026-04-21T13:08:48"
+      "version": "6.2.1",
+      "released": "2026-06-05T16:23:34"
     },
     "3.13": {
-      "version": "6.1.0",
-      "released": "2026-04-21T13:08:48"
+      "version": "6.2.1",
+      "released": "2026-06-05T16:23:34"
     },
     "3.14": {
-      "version": "6.1.0",
-      "released": "2026-04-21T13:08:48"
+      "version": "6.2.1",
+      "released": "2026-06-05T16:23:34"
     }
   }
 }
