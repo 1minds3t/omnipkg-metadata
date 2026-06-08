@@ -1,6 +1,6 @@
 {
   "package": "aiohttp",
-  "last_updated": "3.14.0",
+  "last_updated": "3.14.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.8.6",
@@ -15,24 +15,24 @@
       "released": "2026-03-31T21:56:30"
     },
     "3.10": {
-      "version": "3.14.0",
-      "released": "2026-06-01T19:36:39"
+      "version": "3.14.1",
+      "released": "2026-06-07T21:05:37"
     },
     "3.11": {
-      "version": "3.14.0",
-      "released": "2026-06-01T19:36:39"
+      "version": "3.14.1",
+      "released": "2026-06-07T21:05:37"
     },
     "3.12": {
-      "version": "3.14.0",
-      "released": "2026-06-01T19:36:39"
+      "version": "3.14.1",
+      "released": "2026-06-07T21:05:37"
     },
     "3.13": {
-      "version": "3.14.0",
-      "released": "2026-06-01T19:36:39"
+      "version": "3.14.1",
+      "released": "2026-06-07T21:05:37"
     },
     "3.14": {
-      "version": "3.14.0",
-      "released": "2026-06-01T19:36:39"
+      "version": "3.14.1",
+      "released": "2026-06-07T21:05:37"
     }
   }
 }
