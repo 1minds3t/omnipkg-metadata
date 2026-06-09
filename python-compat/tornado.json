@@ -1,6 +1,6 @@
 {
   "package": "tornado",
-  "last_updated": "6.5.6",
+  "last_updated": "6.5.7",
   "python_compatibility": {
     "3.7": {
       "version": "6.2",
@@ -11,28 +11,28 @@
       "released": "2024-11-22T03:06:20"
     },
     "3.9": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     },
     "3.10": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     },
     "3.11": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     },
     "3.12": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     },
     "3.13": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     },
     "3.14": {
-      "version": "6.5.6",
-      "released": "2026-05-27T15:35:38"
+      "version": "6.5.7",
+      "released": "2026-06-08T17:34:38"
     }
   }
 }

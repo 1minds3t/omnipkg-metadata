@@ -1,38 +1,38 @@
 {
   "package": "distlib",
-  "last_updated": "0.4.1",
+  "last_updated": "0.4.2",
   "python_compatibility": {
     "3.7": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.8": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.9": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.10": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.11": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.12": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.13": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     },
     "3.14": {
-      "version": "0.4.1",
-      "released": "2026-06-02T11:17:38"
+      "version": "0.4.2",
+      "released": "2026-06-08T16:24:13"
     }
   }
 }
