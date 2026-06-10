@@ -1,6 +1,6 @@
 {
   "package": "cryptography",
-  "last_updated": "48.0.0",
+  "last_updated": "48.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "45.0.7",
@@ -15,24 +15,24 @@
       "released": "2024-10-18T15:57:36"
     },
     "3.10": {
-      "version": "48.0.0",
-      "released": "2026-05-04T22:57:36"
+      "version": "48.0.1",
+      "released": "2026-06-09T22:31:00"
     },
     "3.11": {
-      "version": "48.0.0",
-      "released": "2026-05-04T22:57:36"
+      "version": "48.0.1",
+      "released": "2026-06-09T22:31:00"
     },
     "3.12": {
-      "version": "48.0.0",
-      "released": "2026-05-04T22:57:36"
+      "version": "48.0.1",
+      "released": "2026-06-09T22:31:00"
     },
     "3.13": {
-      "version": "48.0.0",
-      "released": "2026-05-04T22:57:36"
+      "version": "48.0.1",
+      "released": "2026-06-09T22:31:00"
     },
     "3.14": {
-      "version": "48.0.0",
-      "released": "2026-05-04T22:57:36"
+      "version": "48.0.1",
+      "released": "2026-06-09T22:31:00"
     }
   }
 }
