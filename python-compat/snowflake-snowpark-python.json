@@ -1,6 +1,6 @@
 {
   "package": "snowflake-snowpark-python",
-  "last_updated": "1.51.1",
+  "last_updated": "1.52.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -12,24 +12,24 @@
       "released": "2026-05-28T18:10:42"
     },
     "3.10": {
-      "version": "1.51.1",
-      "released": "2026-05-28T18:10:42"
+      "version": "1.52.0",
+      "released": "2026-06-10T20:35:58"
     },
     "3.11": {
-      "version": "1.51.1",
-      "released": "2026-05-28T18:10:42"
+      "version": "1.52.0",
+      "released": "2026-06-10T20:35:58"
     },
     "3.12": {
-      "version": "1.51.1",
-      "released": "2026-05-28T18:10:42"
+      "version": "1.52.0",
+      "released": "2026-06-10T20:35:58"
     },
     "3.13": {
-      "version": "1.51.1",
-      "released": "2026-05-28T18:10:42"
+      "version": "1.52.0",
+      "released": "2026-06-10T20:35:58"
     },
     "3.14": {
-      "version": "1.51.1",
-      "released": "2026-05-28T18:10:42"
+      "version": "1.52.0",
+      "released": "2026-06-10T20:35:58"
     }
   }
 }
