@@ -1,6 +1,6 @@
 {
   "package": "transformers",
-  "last_updated": "5.11.0",
+  "last_updated": "5.12.0",
   "python_compatibility": {
     "3.7": {
       "version": "4.30.2",
@@ -15,24 +15,24 @@
       "released": "2026-01-16T10:38:31"
     },
     "3.10": {
-      "version": "5.11.0",
-      "released": "2026-06-10T16:31:49"
+      "version": "5.12.0",
+      "released": "2026-06-12T14:39:17"
     },
     "3.11": {
-      "version": "5.11.0",
-      "released": "2026-06-10T16:31:49"
+      "version": "5.12.0",
+      "released": "2026-06-12T14:39:17"
     },
     "3.12": {
-      "version": "5.11.0",
-      "released": "2026-06-10T16:31:49"
+      "version": "5.12.0",
+      "released": "2026-06-12T14:39:17"
     },
     "3.13": {
-      "version": "5.11.0",
-      "released": "2026-06-10T16:31:49"
+      "version": "5.12.0",
+      "released": "2026-06-12T14:39:17"
     },
     "3.14": {
-      "version": "5.11.0",
-      "released": "2026-06-10T16:31:49"
+      "version": "5.12.0",
+      "released": "2026-06-12T14:39:17"
     }
   }
 }
