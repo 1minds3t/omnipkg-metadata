@@ -1,6 +1,6 @@
 {
   "package": "uuid-utils",
-  "last_updated": "0.16.0",
+  "last_updated": "0.16.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.6.1",
@@ -15,24 +15,24 @@
       "released": "2026-05-11T12:08:27"
     },
     "3.10": {
-      "version": "0.16.0",
-      "released": "2026-05-19T07:45:14"
+      "version": "0.16.1",
+      "released": "2026-06-16T07:25:51"
     },
     "3.11": {
-      "version": "0.16.0",
-      "released": "2026-05-19T07:45:14"
+      "version": "0.16.1",
+      "released": "2026-06-16T07:25:51"
     },
     "3.12": {
-      "version": "0.16.0",
-      "released": "2026-05-19T07:45:14"
+      "version": "0.16.1",
+      "released": "2026-06-16T07:25:51"
     },
     "3.13": {
-      "version": "0.16.0",
-      "released": "2026-05-19T07:45:14"
+      "version": "0.16.1",
+      "released": "2026-06-16T07:25:51"
     },
     "3.14": {
-      "version": "0.16.0",
-      "released": "2026-05-19T07:45:14"
+      "version": "0.16.1",
+      "released": "2026-06-16T07:25:51"
     }
   }
 }
