@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-resource-manager",
-  "last_updated": "1.17.0",
+  "last_updated": "1.18.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.16.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-26T22:15:26"
     },
     "3.10": {
-      "version": "1.17.0",
-      "released": "2026-03-26T22:15:26"
+      "version": "1.18.0",
+      "released": "2026-06-22T23:20:25"
     },
     "3.11": {
-      "version": "1.17.0",
-      "released": "2026-03-26T22:15:26"
+      "version": "1.18.0",
+      "released": "2026-06-22T23:20:25"
     },
     "3.12": {
-      "version": "1.17.0",
-      "released": "2026-03-26T22:15:26"
+      "version": "1.18.0",
+      "released": "2026-06-22T23:20:25"
     },
     "3.13": {
-      "version": "1.17.0",
-      "released": "2026-03-26T22:15:26"
+      "version": "1.18.0",
+      "released": "2026-06-22T23:20:25"
     },
     "3.14": {
-      "version": "1.17.0",
-      "released": "2026-03-26T22:15:26"
+      "version": "1.18.0",
+      "released": "2026-06-22T23:20:25"
     }
   }
 }

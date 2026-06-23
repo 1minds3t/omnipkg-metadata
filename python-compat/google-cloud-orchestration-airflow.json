@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-orchestration-airflow",
-  "last_updated": "1.21.0",
+  "last_updated": "1.22.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.19.0",
@@ -15,24 +15,24 @@
       "released": "2026-05-07T08:02:59"
     },
     "3.10": {
-      "version": "1.21.0",
-      "released": "2026-05-07T08:02:59"
+      "version": "1.22.0",
+      "released": "2026-06-22T23:19:56"
     },
     "3.11": {
-      "version": "1.21.0",
-      "released": "2026-05-07T08:02:59"
+      "version": "1.22.0",
+      "released": "2026-06-22T23:19:56"
     },
     "3.12": {
-      "version": "1.21.0",
-      "released": "2026-05-07T08:02:59"
+      "version": "1.22.0",
+      "released": "2026-06-22T23:19:56"
     },
     "3.13": {
-      "version": "1.21.0",
-      "released": "2026-05-07T08:02:59"
+      "version": "1.22.0",
+      "released": "2026-06-22T23:19:56"
     },
     "3.14": {
-      "version": "1.21.0",
-      "released": "2026-05-07T08:02:59"
+      "version": "1.22.0",
+      "released": "2026-06-22T23:19:56"
     }
   }
 }

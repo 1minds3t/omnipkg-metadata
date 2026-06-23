@@ -1,38 +1,38 @@
 {
   "package": "mistune",
-  "last_updated": "3.3.1",
+  "last_updated": "3.3.2",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.2",
       "released": "2023-09-29T23:58:46"
     },
     "3.8": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.9": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.10": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.11": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.12": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.13": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     },
     "3.14": {
-      "version": "3.3.1",
-      "released": "2026-06-22T01:32:04"
+      "version": "3.3.2",
+      "released": "2026-06-23T00:29:27"
     }
   }
 }

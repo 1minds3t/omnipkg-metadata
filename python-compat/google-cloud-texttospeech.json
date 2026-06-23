@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-texttospeech",
-  "last_updated": "2.36.0",
+  "last_updated": "2.37.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.34.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-02T21:23:13"
     },
     "3.10": {
-      "version": "2.36.0",
-      "released": "2026-04-02T21:23:13"
+      "version": "2.37.0",
+      "released": "2026-06-22T23:20:37"
     },
     "3.11": {
-      "version": "2.36.0",
-      "released": "2026-04-02T21:23:13"
+      "version": "2.37.0",
+      "released": "2026-06-22T23:20:37"
     },
     "3.12": {
-      "version": "2.36.0",
-      "released": "2026-04-02T21:23:13"
+      "version": "2.37.0",
+      "released": "2026-06-22T23:20:37"
     },
     "3.13": {
-      "version": "2.36.0",
-      "released": "2026-04-02T21:23:13"
+      "version": "2.37.0",
+      "released": "2026-06-22T23:20:37"
     },
     "3.14": {
-      "version": "2.36.0",
-      "released": "2026-04-02T21:23:13"
+      "version": "2.37.0",
+      "released": "2026-06-22T23:20:37"
     }
   }
 }
