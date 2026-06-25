@@ -1,6 +1,6 @@
 {
   "package": "databricks-sdk",
-  "last_updated": "0.118.0",
+  "last_updated": "0.119.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.102.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-19T08:15:52"
     },
     "3.10": {
-      "version": "0.118.0",
-      "released": "2026-06-18T14:09:33"
+      "version": "0.119.0",
+      "released": "2026-06-24T15:36:59"
     },
     "3.11": {
-      "version": "0.118.0",
-      "released": "2026-06-18T14:09:33"
+      "version": "0.119.0",
+      "released": "2026-06-24T15:36:59"
     },
     "3.12": {
-      "version": "0.118.0",
-      "released": "2026-06-18T14:09:33"
+      "version": "0.119.0",
+      "released": "2026-06-24T15:36:59"
     },
     "3.13": {
-      "version": "0.118.0",
-      "released": "2026-06-18T14:09:33"
+      "version": "0.119.0",
+      "released": "2026-06-24T15:36:59"
     },
     "3.14": {
-      "version": "0.118.0",
-      "released": "2026-06-18T14:09:33"
+      "version": "0.119.0",
+      "released": "2026-06-24T15:36:59"
     }
   }
 }

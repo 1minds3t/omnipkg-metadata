@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-exporter-otlp-proto-http",
-  "last_updated": "1.42.1",
+  "last_updated": "1.43.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.22.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-24T13:15:21"
     },
     "3.10": {
-      "version": "1.42.1",
-      "released": "2026-05-21T16:32:35"
+      "version": "1.43.0",
+      "released": "2026-06-24T15:19:43"
     },
     "3.11": {
-      "version": "1.42.1",
-      "released": "2026-05-21T16:32:35"
+      "version": "1.43.0",
+      "released": "2026-06-24T15:19:43"
     },
     "3.12": {
-      "version": "1.42.1",
-      "released": "2026-05-21T16:32:35"
+      "version": "1.43.0",
+      "released": "2026-06-24T15:19:43"
     },
     "3.13": {
-      "version": "1.42.1",
-      "released": "2026-05-21T16:32:35"
+      "version": "1.43.0",
+      "released": "2026-06-24T15:19:43"
     },
     "3.14": {
-      "version": "1.42.1",
-      "released": "2026-05-21T16:32:35"
+      "version": "1.43.0",
+      "released": "2026-06-24T15:19:43"
     }
   }
 }

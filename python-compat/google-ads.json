@@ -1,6 +1,6 @@
 {
   "package": "google-ads",
-  "last_updated": "31.0.0",
+  "last_updated": "31.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "22.1.0",
@@ -11,28 +11,28 @@
       "released": "2025-09-12T20:04:52"
     },
     "3.9": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     },
     "3.10": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     },
     "3.11": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     },
     "3.12": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     },
     "3.13": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     },
     "3.14": {
-      "version": "31.0.0",
-      "released": "2026-05-13T20:11:54"
+      "version": "31.1.0",
+      "released": "2026-06-24T22:53:49"
     }
   }
 }

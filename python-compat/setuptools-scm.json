@@ -1,38 +1,38 @@
 {
   "package": "setuptools-scm",
-  "last_updated": "10.1.2",
+  "last_updated": "10.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "7.1.0",
       "released": "2022-12-17T16:07:04"
     },
     "3.8": {
-      "version": "9.2.2",
-      "released": "2025-10-19T22:08:04"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.9": {
-      "version": "9.2.2",
-      "released": "2025-10-19T22:08:04"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.10": {
-      "version": "10.1.2",
-      "released": "2026-06-23T04:14:02"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.11": {
-      "version": "10.1.2",
-      "released": "2026-06-23T04:14:02"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.12": {
-      "version": "10.1.2",
-      "released": "2026-06-23T04:14:02"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.13": {
-      "version": "10.1.2",
-      "released": "2026-06-23T04:14:02"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     },
     "3.14": {
-      "version": "10.1.2",
-      "released": "2026-06-23T04:14:02"
+      "version": "10.2.0",
+      "released": "2026-06-25T05:27:09"
     }
   }
 }

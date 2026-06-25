@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-instrumentation",
-  "last_updated": "0.63b1",
+  "last_updated": "0.64b0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
