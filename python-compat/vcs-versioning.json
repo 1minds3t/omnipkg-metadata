@@ -1,35 +1,35 @@
 {
   "package": "vcs-versioning",
-  "last_updated": "2.2.0",
+  "last_updated": "2.2.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.9": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.10": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.11": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.12": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.13": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     },
     "3.14": {
-      "version": "2.2.0",
-      "released": "2026-06-25T05:26:12"
+      "version": "2.2.1",
+      "released": "2026-06-29T05:35:15"
     }
   }
 }
