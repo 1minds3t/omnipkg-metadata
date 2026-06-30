@@ -1,6 +1,6 @@
 {
   "package": "textual",
-  "last_updated": "8.2.7",
+  "last_updated": "8.2.8",
   "python_compatibility": {
     "3.7": {
       "version": "0.43.2",
@@ -11,28 +11,28 @@
       "released": "2024-07-18T15:42:52"
     },
     "3.9": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     },
     "3.10": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     },
     "3.11": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     },
     "3.12": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     },
     "3.13": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     },
     "3.14": {
-      "version": "8.2.7",
-      "released": "2026-05-19T10:52:51"
+      "version": "8.2.8",
+      "released": "2026-06-30T06:51:26"
     }
   }
 }
