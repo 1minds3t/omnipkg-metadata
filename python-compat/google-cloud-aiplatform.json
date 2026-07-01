@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-aiplatform",
-  "last_updated": "1.158.0",
+  "last_updated": "1.159.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.34.0",

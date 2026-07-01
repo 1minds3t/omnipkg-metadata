@@ -1,0 +1,26 @@
+{
+  "package": "browser-use",
+  "last_updated": "0.13.1",
+  "python_compatibility": {
+    "3.7": null,
+    "3.8": null,
+    "3.9": null,
+    "3.10": null,
+    "3.11": {
+      "version": "0.13.1",
+      "released": "2026-06-10T01:02:04"
+    },
+    "3.12": {
+      "version": "0.13.1",
+      "released": "2026-06-10T01:02:04"
+    },
+    "3.13": {
+      "version": "0.13.1",
+      "released": "2026-06-10T01:02:04"
+    },
+    "3.14": {
+      "version": "0.13.1",
+      "released": "2026-06-10T01:02:04"
+    }
+  }
+}

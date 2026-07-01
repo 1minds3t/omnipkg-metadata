@@ -1,6 +1,6 @@
 {
   "package": "aiofile",
-  "last_updated": "3.9.0",
+  "last_updated": "3.11.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.8.8",
@@ -19,20 +19,20 @@
       "released": "2024-10-08T10:39:32"
     },
     "3.11": {
-      "version": "3.9.0",
-      "released": "2024-10-08T10:39:32"
+      "version": "3.11.1",
+      "released": "2026-05-16T08:18:32"
     },
     "3.12": {
-      "version": "3.9.0",
-      "released": "2024-10-08T10:39:32"
+      "version": "3.11.1",
+      "released": "2026-05-16T08:18:32"
     },
     "3.13": {
-      "version": "3.9.0",
-      "released": "2024-10-08T10:39:32"
+      "version": "3.11.1",
+      "released": "2026-05-16T08:18:32"
     },
     "3.14": {
-      "version": "3.9.0",
-      "released": "2024-10-08T10:39:32"
+      "version": "3.11.1",
+      "released": "2026-05-16T08:18:32"
     }
   }
 }
