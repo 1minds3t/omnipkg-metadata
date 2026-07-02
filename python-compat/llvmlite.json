@@ -1,6 +1,6 @@
 {
   "package": "llvmlite",
-  "last_updated": "0.47.0",
+  "last_updated": "0.48.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.39.1",
@@ -15,24 +15,24 @@
       "released": "2024-06-13T18:08:13"
     },
     "3.10": {
-      "version": "0.47.0",
-      "released": "2026-03-31T18:28:12"
+      "version": "0.48.0",
+      "released": "2026-07-01T18:41:01"
     },
     "3.11": {
-      "version": "0.47.0",
-      "released": "2026-03-31T18:28:12"
+      "version": "0.48.0",
+      "released": "2026-07-01T18:41:01"
     },
     "3.12": {
-      "version": "0.47.0",
-      "released": "2026-03-31T18:28:12"
+      "version": "0.48.0",
+      "released": "2026-07-01T18:41:01"
     },
     "3.13": {
-      "version": "0.47.0",
-      "released": "2026-03-31T18:28:12"
+      "version": "0.48.0",
+      "released": "2026-07-01T18:41:01"
     },
     "3.14": {
-      "version": "0.47.0",
-      "released": "2026-03-31T18:28:12"
+      "version": "0.48.0",
+      "released": "2026-07-01T18:41:01"
     }
   }
 }
