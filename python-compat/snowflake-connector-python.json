@@ -1,6 +1,6 @@
 {
   "package": "snowflake-connector-python",
-  "last_updated": "4.6.0",
+  "last_updated": "4.7.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.4",
@@ -15,24 +15,24 @@
       "released": "2026-05-12T11:57:13"
     },
     "3.10": {
-      "version": "4.6.0",
-      "released": "2026-05-28T13:01:50"
+      "version": "4.7.0",
+      "released": "2026-07-02T13:18:43"
     },
     "3.11": {
-      "version": "4.6.0",
-      "released": "2026-05-28T13:01:50"
+      "version": "4.7.0",
+      "released": "2026-07-02T13:18:43"
     },
     "3.12": {
-      "version": "4.6.0",
-      "released": "2026-05-28T13:01:50"
+      "version": "4.7.0",
+      "released": "2026-07-02T13:18:43"
     },
     "3.13": {
-      "version": "4.6.0",
-      "released": "2026-05-28T13:01:50"
+      "version": "4.7.0",
+      "released": "2026-07-02T13:18:43"
     },
     "3.14": {
-      "version": "4.6.0",
-      "released": "2026-05-28T13:01:50"
+      "version": "4.7.0",
+      "released": "2026-07-02T13:18:43"
     }
   }
 }
