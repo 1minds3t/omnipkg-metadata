@@ -1,6 +1,6 @@
 {
   "package": "snowflake-connector-python",
-  "last_updated": "4.7.0",
+  "last_updated": "4.6.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.4",
