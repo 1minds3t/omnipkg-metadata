@@ -1,6 +1,6 @@
 {
   "package": "setuptools",
-  "last_updated": "82.0.1",
+  "last_updated": "83.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "68.0.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-09T12:47:15"
     },
     "3.10": {
-      "version": "82.0.1",
-      "released": "2026-03-09T12:47:15"
+      "version": "83.0.0",
+      "released": "2026-07-04T15:31:20"
     },
     "3.11": {
-      "version": "82.0.1",
-      "released": "2026-03-09T12:47:15"
+      "version": "83.0.0",
+      "released": "2026-07-04T15:31:20"
     },
     "3.12": {
-      "version": "82.0.1",
-      "released": "2026-03-09T12:47:15"
+      "version": "83.0.0",
+      "released": "2026-07-04T15:31:20"
     },
     "3.13": {
-      "version": "82.0.1",
-      "released": "2026-03-09T12:47:15"
+      "version": "83.0.0",
+      "released": "2026-07-04T15:31:20"
     },
     "3.14": {
-      "version": "82.0.1",
-      "released": "2026-03-09T12:47:15"
+      "version": "83.0.0",
+      "released": "2026-07-04T15:31:20"
     }
   }
 }
