@@ -1,6 +1,6 @@
 {
   "package": "lmnr",
-  "last_updated": "0.7.54",
+  "last_updated": "0.7.55",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-05-08T09:20:37"
     },
     "3.10": {
-      "version": "0.7.54",
-      "released": "2026-06-19T19:53:38"
+      "version": "0.7.55",
+      "released": "2026-07-05T17:14:49"
     },
     "3.11": {
-      "version": "0.7.54",
-      "released": "2026-06-19T19:53:38"
+      "version": "0.7.55",
+      "released": "2026-07-05T17:14:49"
     },
     "3.12": {
-      "version": "0.7.54",
-      "released": "2026-06-19T19:53:38"
+      "version": "0.7.55",
+      "released": "2026-07-05T17:14:49"
     },
     "3.13": {
-      "version": "0.7.54",
-      "released": "2026-06-19T19:53:38"
+      "version": "0.7.55",
+      "released": "2026-07-05T17:14:49"
     },
     "3.14": {
-      "version": "0.7.54",
-      "released": "2026-06-19T19:53:38"
+      "version": "0.7.55",
+      "released": "2026-07-05T17:14:49"
     }
   }
 }
