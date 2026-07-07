@@ -1,6 +1,6 @@
 {
   "package": "cffi",
-  "last_updated": "2.0.0",
+  "last_updated": "2.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.15.1",
@@ -15,24 +15,24 @@
       "released": "2025-09-08T23:22:08"
     },
     "3.10": {
-      "version": "2.0.0",
-      "released": "2025-09-08T23:22:08"
+      "version": "2.1.0",
+      "released": "2026-07-06T21:32:09"
     },
     "3.11": {
-      "version": "2.0.0",
-      "released": "2025-09-08T23:22:08"
+      "version": "2.1.0",
+      "released": "2026-07-06T21:32:09"
     },
     "3.12": {
-      "version": "2.0.0",
-      "released": "2025-09-08T23:22:08"
+      "version": "2.1.0",
+      "released": "2026-07-06T21:32:09"
     },
     "3.13": {
-      "version": "2.0.0",
-      "released": "2025-09-08T23:22:08"
+      "version": "2.1.0",
+      "released": "2026-07-06T21:32:09"
     },
     "3.14": {
-      "version": "2.0.0",
-      "released": "2025-09-08T23:22:08"
+      "version": "2.1.0",
+      "released": "2026-07-06T21:32:09"
     }
   }
 }
