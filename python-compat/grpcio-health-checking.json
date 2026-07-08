@@ -1,6 +1,6 @@
 {
   "package": "grpcio-health-checking",
-  "last_updated": "1.82.0",
+  "last_updated": "1.81.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.62.3",
