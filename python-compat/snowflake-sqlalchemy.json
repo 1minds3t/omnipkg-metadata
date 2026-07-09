@@ -1,38 +1,38 @@
 {
   "package": "snowflake-sqlalchemy",
-  "last_updated": "1.10.2",
+  "last_updated": "1.11.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.5.1",
       "released": "2023-11-02T19:53:30"
     },
     "3.8": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.9": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.10": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.11": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.12": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.13": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     },
     "3.14": {
-      "version": "1.10.2",
-      "released": "2026-06-22T07:48:48"
+      "version": "1.11.0",
+      "released": "2026-07-08T08:53:38"
     }
   }
 }
