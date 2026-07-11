@@ -1,6 +1,6 @@
 {
   "package": "fastcore",
-  "last_updated": "2.0.1",
+  "last_updated": "2.0.4",
   "python_compatibility": {
     "3.7": {
       "version": "1.5.55",
@@ -19,20 +19,20 @@
       "released": "2026-07-08T07:16:03"
     },
     "3.11": {
-      "version": "2.0.1",
-      "released": "2026-07-09T04:39:45"
+      "version": "2.0.4",
+      "released": "2026-07-11T04:46:50"
     },
     "3.12": {
-      "version": "2.0.1",
-      "released": "2026-07-09T04:39:45"
+      "version": "2.0.4",
+      "released": "2026-07-11T04:46:50"
     },
     "3.13": {
-      "version": "2.0.1",
-      "released": "2026-07-09T04:39:45"
+      "version": "2.0.4",
+      "released": "2026-07-11T04:46:50"
     },
     "3.14": {
-      "version": "2.0.1",
-      "released": "2026-07-09T04:39:45"
+      "version": "2.0.4",
+      "released": "2026-07-11T04:46:50"
     }
   }
 }
