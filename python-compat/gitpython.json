@@ -1,38 +1,38 @@
 {
   "package": "gitpython",
-  "last_updated": "3.1.50",
+  "last_updated": "3.1.51",
   "python_compatibility": {
     "3.7": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.8": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.9": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.10": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.11": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.12": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.13": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     },
     "3.14": {
-      "version": "3.1.50",
-      "released": "2026-05-06T04:01:23"
+      "version": "3.1.51",
+      "released": "2026-07-12T13:40:06"
     }
   }
 }
