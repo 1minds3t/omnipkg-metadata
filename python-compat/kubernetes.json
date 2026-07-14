@@ -1,6 +1,6 @@
 {
   "package": "kubernetes",
-  "last_updated": "36.0.2",
+  "last_updated": "36.0.3",
   "python_compatibility": {
     "3.7": {
       "version": "35.0.0",
@@ -15,24 +15,24 @@
       "released": "2026-01-16T01:05:25"
     },
     "3.10": {
-      "version": "36.0.2",
-      "released": "2026-06-01T18:20:28"
+      "version": "36.0.3",
+      "released": "2026-07-13T20:38:10"
     },
     "3.11": {
-      "version": "36.0.2",
-      "released": "2026-06-01T18:20:28"
+      "version": "36.0.3",
+      "released": "2026-07-13T20:38:10"
     },
     "3.12": {
-      "version": "36.0.2",
-      "released": "2026-06-01T18:20:28"
+      "version": "36.0.3",
+      "released": "2026-07-13T20:38:10"
     },
     "3.13": {
-      "version": "36.0.2",
-      "released": "2026-06-01T18:20:28"
+      "version": "36.0.3",
+      "released": "2026-07-13T20:38:10"
     },
     "3.14": {
-      "version": "36.0.2",
-      "released": "2026-06-01T18:20:28"
+      "version": "36.0.3",
+      "released": "2026-07-13T20:38:10"
     }
   }
 }

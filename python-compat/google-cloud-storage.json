@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-storage",
-  "last_updated": "3.12.1",
+  "last_updated": "3.13.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.9.0",
@@ -15,24 +15,24 @@
       "released": "2026-02-02T13:36:32"
     },
     "3.10": {
-      "version": "3.12.1",
-      "released": "2026-07-08T17:03:31"
+      "version": "3.13.0",
+      "released": "2026-07-13T19:09:52"
     },
     "3.11": {
-      "version": "3.12.1",
-      "released": "2026-07-08T17:03:31"
+      "version": "3.13.0",
+      "released": "2026-07-13T19:09:52"
     },
     "3.12": {
-      "version": "3.12.1",
-      "released": "2026-07-08T17:03:31"
+      "version": "3.13.0",
+      "released": "2026-07-13T19:09:52"
     },
     "3.13": {
-      "version": "3.12.1",
-      "released": "2026-07-08T17:03:31"
+      "version": "3.13.0",
+      "released": "2026-07-13T19:09:52"
     },
     "3.14": {
-      "version": "3.12.1",
-      "released": "2026-07-08T17:03:31"
+      "version": "3.13.0",
+      "released": "2026-07-13T19:09:52"
     }
   }
 }
