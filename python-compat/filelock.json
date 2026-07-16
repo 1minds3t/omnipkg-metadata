@@ -1,6 +1,6 @@
 {
   "package": "filelock",
-  "last_updated": "3.29.7",
+  "last_updated": "3.30.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.12.2",
@@ -15,24 +15,24 @@
       "released": "2025-08-14T16:56:01"
     },
     "3.10": {
-      "version": "3.29.7",
-      "released": "2026-07-08T05:46:57"
+      "version": "3.30.0",
+      "released": "2026-07-16T03:53:56"
     },
     "3.11": {
-      "version": "3.29.7",
-      "released": "2026-07-08T05:46:57"
+      "version": "3.30.0",
+      "released": "2026-07-16T03:53:56"
     },
     "3.12": {
-      "version": "3.29.7",
-      "released": "2026-07-08T05:46:57"
+      "version": "3.30.0",
+      "released": "2026-07-16T03:53:56"
     },
     "3.13": {
-      "version": "3.29.7",
-      "released": "2026-07-08T05:46:57"
+      "version": "3.30.0",
+      "released": "2026-07-16T03:53:56"
     },
     "3.14": {
-      "version": "3.29.7",
-      "released": "2026-07-08T05:46:57"
+      "version": "3.30.0",
+      "released": "2026-07-16T03:53:56"
     }
   }
 }
