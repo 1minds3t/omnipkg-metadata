@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-kms",
-  "last_updated": "3.15.0",
+  "last_updated": "3.16.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.11.0",
@@ -15,24 +15,24 @@
       "released": "2026-05-07T08:02:49"
     },
     "3.10": {
-      "version": "3.15.0",
-      "released": "2026-07-08T17:03:21"
+      "version": "3.16.0",
+      "released": "2026-07-16T20:35:57"
     },
     "3.11": {
-      "version": "3.15.0",
-      "released": "2026-07-08T17:03:21"
+      "version": "3.16.0",
+      "released": "2026-07-16T20:35:57"
     },
     "3.12": {
-      "version": "3.15.0",
-      "released": "2026-07-08T17:03:21"
+      "version": "3.16.0",
+      "released": "2026-07-16T20:35:57"
     },
     "3.13": {
-      "version": "3.15.0",
-      "released": "2026-07-08T17:03:21"
+      "version": "3.16.0",
+      "released": "2026-07-16T20:35:57"
     },
     "3.14": {
-      "version": "3.15.0",
-      "released": "2026-07-08T17:03:21"
+      "version": "3.16.0",
+      "released": "2026-07-16T20:35:57"
     }
   }
 }

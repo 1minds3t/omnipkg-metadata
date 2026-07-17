@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-instrumentation-asgi",
-  "last_updated": "0.64b0",
+  "last_updated": "0.65b0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,

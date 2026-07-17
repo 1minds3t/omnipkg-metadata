@@ -1,26 +1,26 @@
 {
   "package": "browser-use",
-  "last_updated": "0.13.4",
+  "last_updated": "0.13.6",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": null,
     "3.10": null,
     "3.11": {
-      "version": "0.13.4",
-      "released": "2026-07-11T19:37:24"
+      "version": "0.13.6",
+      "released": "2026-07-17T05:31:58"
     },
     "3.12": {
-      "version": "0.13.4",
-      "released": "2026-07-11T19:37:24"
+      "version": "0.13.6",
+      "released": "2026-07-17T05:31:58"
     },
     "3.13": {
-      "version": "0.13.4",
-      "released": "2026-07-11T19:37:24"
+      "version": "0.13.6",
+      "released": "2026-07-17T05:31:58"
     },
     "3.14": {
-      "version": "0.13.4",
-      "released": "2026-07-11T19:37:24"
+      "version": "0.13.6",
+      "released": "2026-07-17T05:31:58"
     }
   }
 }

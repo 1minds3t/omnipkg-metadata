@@ -1,6 +1,6 @@
 {
   "package": "aiobotocore",
-  "last_updated": "3.7.0",
+  "last_updated": "3.8.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.6.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-21T07:25:25"
     },
     "3.10": {
-      "version": "3.7.0",
-      "released": "2026-05-09T10:02:50"
+      "version": "3.8.0",
+      "released": "2026-07-17T03:10:28"
     },
     "3.11": {
-      "version": "3.7.0",
-      "released": "2026-05-09T10:02:50"
+      "version": "3.8.0",
+      "released": "2026-07-17T03:10:28"
     },
     "3.12": {
-      "version": "3.7.0",
-      "released": "2026-05-09T10:02:50"
+      "version": "3.8.0",
+      "released": "2026-07-17T03:10:28"
     },
     "3.13": {
-      "version": "3.7.0",
-      "released": "2026-05-09T10:02:50"
+      "version": "3.8.0",
+      "released": "2026-07-17T03:10:28"
     },
     "3.14": {
-      "version": "3.7.0",
-      "released": "2026-05-09T10:02:50"
+      "version": "3.8.0",
+      "released": "2026-07-17T03:10:28"
     }
   }
 }
