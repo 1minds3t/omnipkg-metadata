@@ -1,6 +1,6 @@
 {
   "package": "platformdirs",
-  "last_updated": "4.10.0",
+  "last_updated": "4.10.1",
   "python_compatibility": {
     "3.7": {
       "version": "4.0.0",
@@ -15,24 +15,24 @@
       "released": "2025-08-26T14:32:02"
     },
     "3.10": {
-      "version": "4.10.0",
-      "released": "2026-05-28T03:32:52"
+      "version": "4.10.1",
+      "released": "2026-07-18T03:53:42"
     },
     "3.11": {
-      "version": "4.10.0",
-      "released": "2026-05-28T03:32:52"
+      "version": "4.10.1",
+      "released": "2026-07-18T03:53:42"
     },
     "3.12": {
-      "version": "4.10.0",
-      "released": "2026-05-28T03:32:52"
+      "version": "4.10.1",
+      "released": "2026-07-18T03:53:42"
     },
     "3.13": {
-      "version": "4.10.0",
-      "released": "2026-05-28T03:32:52"
+      "version": "4.10.1",
+      "released": "2026-07-18T03:53:42"
     },
     "3.14": {
-      "version": "4.10.0",
-      "released": "2026-05-28T03:32:52"
+      "version": "4.10.1",
+      "released": "2026-07-18T03:53:42"
     }
   }
 }

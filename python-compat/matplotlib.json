@@ -1,6 +1,6 @@
 {
   "package": "matplotlib",
-  "last_updated": "3.11.0",
+  "last_updated": "3.11.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.5.3",
@@ -19,20 +19,20 @@
       "released": "2026-04-24T00:11:43"
     },
     "3.11": {
-      "version": "3.11.0",
-      "released": "2026-06-12T02:27:34"
+      "version": "3.11.1",
+      "released": "2026-07-18T03:38:03"
     },
     "3.12": {
-      "version": "3.11.0",
-      "released": "2026-06-12T02:27:34"
+      "version": "3.11.1",
+      "released": "2026-07-18T03:38:03"
     },
     "3.13": {
-      "version": "3.11.0",
-      "released": "2026-06-12T02:27:34"
+      "version": "3.11.1",
+      "released": "2026-07-18T03:38:03"
     },
     "3.14": {
-      "version": "3.11.0",
-      "released": "2026-06-12T02:27:34"
+      "version": "3.11.1",
+      "released": "2026-07-18T03:38:03"
     }
   }
 }
