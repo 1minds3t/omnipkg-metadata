@@ -1,6 +1,6 @@
 {
   "package": "ghapi",
-  "last_updated": "2.0.2",
+  "last_updated": "2.0.3",
   "python_compatibility": {
     "3.7": {
       "version": "1.1.1",
@@ -15,24 +15,24 @@
       "released": "2026-07-11T21:44:39"
     },
     "3.10": {
-      "version": "2.0.2",
-      "released": "2026-07-20T20:37:33"
+      "version": "2.0.3",
+      "released": "2026-07-22T05:50:12"
     },
     "3.11": {
-      "version": "2.0.2",
-      "released": "2026-07-20T20:37:33"
+      "version": "2.0.3",
+      "released": "2026-07-22T05:50:12"
     },
     "3.12": {
-      "version": "2.0.2",
-      "released": "2026-07-20T20:37:33"
+      "version": "2.0.3",
+      "released": "2026-07-22T05:50:12"
     },
     "3.13": {
-      "version": "2.0.2",
-      "released": "2026-07-20T20:37:33"
+      "version": "2.0.3",
+      "released": "2026-07-22T05:50:12"
     },
     "3.14": {
-      "version": "2.0.2",
-      "released": "2026-07-20T20:37:33"
+      "version": "2.0.3",
+      "released": "2026-07-22T05:50:12"
     }
   }
 }
