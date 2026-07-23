@@ -1,6 +1,6 @@
 {
   "package": "greenlet",
-  "last_updated": "3.5.3",
+  "last_updated": "3.5.4",
   "python_compatibility": {
     "3.7": {
       "version": "3.1.1",
@@ -15,24 +15,24 @@
       "released": "2026-02-20T20:06:42"
     },
     "3.10": {
-      "version": "3.5.3",
-      "released": "2026-06-26T18:21:05"
+      "version": "3.5.4",
+      "released": "2026-07-22T11:38:14"
     },
     "3.11": {
-      "version": "3.5.3",
-      "released": "2026-06-26T18:21:05"
+      "version": "3.5.4",
+      "released": "2026-07-22T11:38:14"
     },
     "3.12": {
-      "version": "3.5.3",
-      "released": "2026-06-26T18:21:05"
+      "version": "3.5.4",
+      "released": "2026-07-22T11:38:14"
     },
     "3.13": {
-      "version": "3.5.3",
-      "released": "2026-06-26T18:21:05"
+      "version": "3.5.4",
+      "released": "2026-07-22T11:38:14"
     },
     "3.14": {
-      "version": "3.5.3",
-      "released": "2026-06-26T18:21:05"
+      "version": "3.5.4",
+      "released": "2026-07-22T11:38:14"
     }
   }
 }

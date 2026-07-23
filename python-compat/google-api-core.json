@@ -1,6 +1,6 @@
 {
   "package": "google-api-core",
-  "last_updated": "2.32.0",
+  "last_updated": "2.33.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.29.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-09T22:57:16"
     },
     "3.10": {
-      "version": "2.32.0",
-      "released": "2026-07-16T20:35:41"
+      "version": "2.33.0",
+      "released": "2026-07-22T16:28:22"
     },
     "3.11": {
-      "version": "2.32.0",
-      "released": "2026-07-16T20:35:41"
+      "version": "2.33.0",
+      "released": "2026-07-22T16:28:22"
     },
     "3.12": {
-      "version": "2.32.0",
-      "released": "2026-07-16T20:35:41"
+      "version": "2.33.0",
+      "released": "2026-07-22T16:28:22"
     },
     "3.13": {
-      "version": "2.32.0",
-      "released": "2026-07-16T20:35:41"
+      "version": "2.33.0",
+      "released": "2026-07-22T16:28:22"
     },
     "3.14": {
-      "version": "2.32.0",
-      "released": "2026-07-16T20:35:41"
+      "version": "2.33.0",
+      "released": "2026-07-22T16:28:22"
     }
   }
 }
