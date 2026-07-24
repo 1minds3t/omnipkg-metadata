@@ -1,38 +1,38 @@
 {
   "package": "colorlog",
-  "last_updated": "6.11.0",
+  "last_updated": "6.12.0",
   "python_compatibility": {
     "3.7": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.8": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.9": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.10": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.11": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.12": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.13": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     },
     "3.14": {
-      "version": "6.11.0",
-      "released": "2026-07-17T12:16:45"
+      "version": "6.12.0",
+      "released": "2026-07-23T13:40:39"
     }
   }
 }

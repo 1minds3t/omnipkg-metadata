@@ -1,6 +1,6 @@
 {
   "package": "scramp",
-  "last_updated": "1.4.12",
+  "last_updated": "1.4.13",
   "python_compatibility": {
     "3.7": {
       "version": "1.4.4",
@@ -15,24 +15,24 @@
       "released": "2025-07-05T14:44:02"
     },
     "3.10": {
-      "version": "1.4.12",
-      "released": "2026-07-05T10:30:53"
+      "version": "1.4.13",
+      "released": "2026-07-23T21:03:50"
     },
     "3.11": {
-      "version": "1.4.12",
-      "released": "2026-07-05T10:30:53"
+      "version": "1.4.13",
+      "released": "2026-07-23T21:03:50"
     },
     "3.12": {
-      "version": "1.4.12",
-      "released": "2026-07-05T10:30:53"
+      "version": "1.4.13",
+      "released": "2026-07-23T21:03:50"
     },
     "3.13": {
-      "version": "1.4.12",
-      "released": "2026-07-05T10:30:53"
+      "version": "1.4.13",
+      "released": "2026-07-23T21:03:50"
     },
     "3.14": {
-      "version": "1.4.12",
-      "released": "2026-07-05T10:30:53"
+      "version": "1.4.13",
+      "released": "2026-07-23T21:03:50"
     }
   }
 }
