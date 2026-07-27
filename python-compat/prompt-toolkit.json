@@ -1,6 +1,6 @@
 {
   "package": "prompt-toolkit",
-  "last_updated": "3.0.52",
+  "last_updated": "3.0.53",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.48",
@@ -15,24 +15,24 @@
       "released": "2025-08-27T15:23:59"
     },
     "3.10": {
-      "version": "3.0.52",
-      "released": "2025-08-27T15:23:59"
+      "version": "3.0.53",
+      "released": "2026-07-26T20:56:12"
     },
     "3.11": {
-      "version": "3.0.52",
-      "released": "2025-08-27T15:23:59"
+      "version": "3.0.53",
+      "released": "2026-07-26T20:56:12"
     },
     "3.12": {
-      "version": "3.0.52",
-      "released": "2025-08-27T15:23:59"
+      "version": "3.0.53",
+      "released": "2026-07-26T20:56:12"
     },
     "3.13": {
-      "version": "3.0.52",
-      "released": "2025-08-27T15:23:59"
+      "version": "3.0.53",
+      "released": "2026-07-26T20:56:12"
     },
     "3.14": {
-      "version": "3.0.52",
-      "released": "2025-08-27T15:23:59"
+      "version": "3.0.53",
+      "released": "2026-07-26T20:56:12"
     }
   }
 }
