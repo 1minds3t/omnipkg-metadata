@@ -1,6 +1,6 @@
 {
   "package": "cfn-lint",
-  "last_updated": "1.53.2",
+  "last_updated": "1.53.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.83.8",
@@ -15,24 +15,24 @@
       "released": "2026-03-02T20:32:41"
     },
     "3.10": {
-      "version": "1.53.2",
-      "released": "2026-07-23T19:29:54"
+      "version": "1.53.3",
+      "released": "2026-07-28T16:25:52"
     },
     "3.11": {
-      "version": "1.53.2",
-      "released": "2026-07-23T19:29:54"
+      "version": "1.53.3",
+      "released": "2026-07-28T16:25:52"
     },
     "3.12": {
-      "version": "1.53.2",
-      "released": "2026-07-23T19:29:54"
+      "version": "1.53.3",
+      "released": "2026-07-28T16:25:52"
     },
     "3.13": {
-      "version": "1.53.2",
-      "released": "2026-07-23T19:29:54"
+      "version": "1.53.3",
+      "released": "2026-07-28T16:25:52"
     },
     "3.14": {
-      "version": "1.53.2",
-      "released": "2026-07-23T19:29:54"
+      "version": "1.53.3",
+      "released": "2026-07-28T16:25:52"
     }
   }
 }

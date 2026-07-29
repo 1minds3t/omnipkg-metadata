@@ -1,6 +1,6 @@
 {
   "package": "annotated-doc",
-  "last_updated": "0.0.4",
+  "last_updated": "0.0.5",
   "python_compatibility": {
     "3.7": {
       "version": "0.0.1",
@@ -11,28 +11,28 @@
       "released": "2025-11-10T22:07:40"
     },
     "3.9": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     },
     "3.10": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     },
     "3.11": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     },
     "3.12": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     },
     "3.13": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     },
     "3.14": {
-      "version": "0.0.4",
-      "released": "2025-11-10T22:07:40"
+      "version": "0.0.5",
+      "released": "2026-07-28T13:50:57"
     }
   }
 }

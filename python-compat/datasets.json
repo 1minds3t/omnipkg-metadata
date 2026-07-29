@@ -1,6 +1,6 @@
 {
   "package": "datasets",
-  "last_updated": "5.0.0",
+  "last_updated": "5.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.13.2",
@@ -15,24 +15,24 @@
       "released": "2026-01-14T18:27:52"
     },
     "3.10": {
-      "version": "5.0.0",
-      "released": "2026-06-05T13:18:24"
+      "version": "5.0.1",
+      "released": "2026-07-28T11:09:10"
     },
     "3.11": {
-      "version": "5.0.0",
-      "released": "2026-06-05T13:18:24"
+      "version": "5.0.1",
+      "released": "2026-07-28T11:09:10"
     },
     "3.12": {
-      "version": "5.0.0",
-      "released": "2026-06-05T13:18:24"
+      "version": "5.0.1",
+      "released": "2026-07-28T11:09:10"
     },
     "3.13": {
-      "version": "5.0.0",
-      "released": "2026-06-05T13:18:24"
+      "version": "5.0.1",
+      "released": "2026-07-28T11:09:10"
     },
     "3.14": {
-      "version": "5.0.0",
-      "released": "2026-06-05T13:18:24"
+      "version": "5.0.1",
+      "released": "2026-07-28T11:09:10"
     }
   }
 }
