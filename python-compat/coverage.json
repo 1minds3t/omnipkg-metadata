@@ -1,6 +1,6 @@
 {
   "package": "coverage",
-  "last_updated": "7.15.2",
+  "last_updated": "7.15.3",
   "python_compatibility": {
     "3.7": {
       "version": "7.2.7",
@@ -15,24 +15,24 @@
       "released": "2025-09-21T20:00:57"
     },
     "3.10": {
-      "version": "7.15.2",
-      "released": "2026-07-15T18:53:29"
+      "version": "7.15.3",
+      "released": "2026-08-02T18:47:25"
     },
     "3.11": {
-      "version": "7.15.2",
-      "released": "2026-07-15T18:53:29"
+      "version": "7.15.3",
+      "released": "2026-08-02T18:47:25"
     },
     "3.12": {
-      "version": "7.15.2",
-      "released": "2026-07-15T18:53:29"
+      "version": "7.15.3",
+      "released": "2026-08-02T18:47:25"
     },
     "3.13": {
-      "version": "7.15.2",
-      "released": "2026-07-15T18:53:29"
+      "version": "7.15.3",
+      "released": "2026-08-02T18:47:25"
     },
     "3.14": {
-      "version": "7.15.2",
-      "released": "2026-07-15T18:53:29"
+      "version": "7.15.3",
+      "released": "2026-08-02T18:47:25"
     }
   }
 }
