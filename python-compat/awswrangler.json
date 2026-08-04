@@ -1,6 +1,6 @@
 {
   "package": "awswrangler",
-  "last_updated": "3.17.0",
+  "last_updated": "3.17.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.14.0",
@@ -15,24 +15,24 @@
       "released": "2025-10-30T20:14:44"
     },
     "3.10": {
-      "version": "3.17.0",
-      "released": "2026-06-25T12:01:20"
+      "version": "3.17.1",
+      "released": "2026-08-03T11:57:34"
     },
     "3.11": {
-      "version": "3.17.0",
-      "released": "2026-06-25T12:01:20"
+      "version": "3.17.1",
+      "released": "2026-08-03T11:57:34"
     },
     "3.12": {
-      "version": "3.17.0",
-      "released": "2026-06-25T12:01:20"
+      "version": "3.17.1",
+      "released": "2026-08-03T11:57:34"
     },
     "3.13": {
-      "version": "3.17.0",
-      "released": "2026-06-25T12:01:20"
+      "version": "3.17.1",
+      "released": "2026-08-03T11:57:34"
     },
     "3.14": {
-      "version": "3.17.0",
-      "released": "2026-06-25T12:01:20"
+      "version": "3.17.1",
+      "released": "2026-08-03T11:57:34"
     }
   }
 }

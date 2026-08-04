@@ -1,6 +1,6 @@
 {
   "package": "traitlets",
-  "last_updated": "5.16.0",
+  "last_updated": "5.16.1",
   "python_compatibility": {
     "3.7": {
       "version": "5.9.0",
@@ -15,24 +15,24 @@
       "released": "2026-06-03T12:26:04"
     },
     "3.10": {
-      "version": "5.16.0",
-      "released": "2026-07-31T12:23:47"
+      "version": "5.16.1",
+      "released": "2026-08-03T08:32:34"
     },
     "3.11": {
-      "version": "5.16.0",
-      "released": "2026-07-31T12:23:47"
+      "version": "5.16.1",
+      "released": "2026-08-03T08:32:34"
     },
     "3.12": {
-      "version": "5.16.0",
-      "released": "2026-07-31T12:23:47"
+      "version": "5.16.1",
+      "released": "2026-08-03T08:32:34"
     },
     "3.13": {
-      "version": "5.16.0",
-      "released": "2026-07-31T12:23:47"
+      "version": "5.16.1",
+      "released": "2026-08-03T08:32:34"
     },
     "3.14": {
-      "version": "5.16.0",
-      "released": "2026-07-31T12:23:47"
+      "version": "5.16.1",
+      "released": "2026-08-03T08:32:34"
     }
   }
 }
