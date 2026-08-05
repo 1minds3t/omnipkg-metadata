@@ -1,6 +1,6 @@
 {
   "package": "pip",
-  "last_updated": "26.2",
+  "last_updated": "26.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "24.0",
@@ -15,24 +15,24 @@
       "released": "2026-02-05T02:20:16"
     },
     "3.10": {
-      "version": "26.2",
-      "released": "2026-07-29T21:57:54"
+      "version": "26.2.1",
+      "released": "2026-08-04T22:51:12"
     },
     "3.11": {
-      "version": "26.2",
-      "released": "2026-07-29T21:57:54"
+      "version": "26.2.1",
+      "released": "2026-08-04T22:51:12"
     },
     "3.12": {
-      "version": "26.2",
-      "released": "2026-07-29T21:57:54"
+      "version": "26.2.1",
+      "released": "2026-08-04T22:51:12"
     },
     "3.13": {
-      "version": "26.2",
-      "released": "2026-07-29T21:57:54"
+      "version": "26.2.1",
+      "released": "2026-08-04T22:51:12"
     },
     "3.14": {
-      "version": "26.2",
-      "released": "2026-07-29T21:57:54"
+      "version": "26.2.1",
+      "released": "2026-08-04T22:51:12"
     }
   }
 }
