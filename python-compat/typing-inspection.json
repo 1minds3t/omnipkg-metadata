@@ -1,6 +1,6 @@
 {
   "package": "typing-inspection",
-  "last_updated": "0.4.2",
+  "last_updated": "0.4.3",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-01T02:14:40"
     },
     "3.10": {
-      "version": "0.4.2",
-      "released": "2025-10-01T02:14:40"
+      "version": "0.4.3",
+      "released": "2026-08-10T09:39:16"
     },
     "3.11": {
-      "version": "0.4.2",
-      "released": "2025-10-01T02:14:40"
+      "version": "0.4.3",
+      "released": "2026-08-10T09:39:16"
     },
     "3.12": {
-      "version": "0.4.2",
-      "released": "2025-10-01T02:14:40"
+      "version": "0.4.3",
+      "released": "2026-08-10T09:39:16"
     },
     "3.13": {
-      "version": "0.4.2",
-      "released": "2025-10-01T02:14:40"
+      "version": "0.4.3",
+      "released": "2026-08-10T09:39:16"
     },
     "3.14": {
-      "version": "0.4.2",
-      "released": "2025-10-01T02:14:40"
+      "version": "0.4.3",
+      "released": "2026-08-10T09:39:16"
     }
   }
 }
