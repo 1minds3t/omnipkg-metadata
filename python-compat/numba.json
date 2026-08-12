@@ -1,6 +1,6 @@
 {
   "package": "numba",
-  "last_updated": "0.66.0",
+  "last_updated": "0.67.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.56.4",
@@ -15,24 +15,24 @@
       "released": "2024-06-13T18:10:29"
     },
     "3.10": {
-      "version": "0.66.0",
-      "released": "2026-07-01T23:12:04"
+      "version": "0.67.0",
+      "released": "2026-08-11T23:03:08"
     },
     "3.11": {
-      "version": "0.66.0",
-      "released": "2026-07-01T23:12:04"
+      "version": "0.67.0",
+      "released": "2026-08-11T23:03:08"
     },
     "3.12": {
-      "version": "0.66.0",
-      "released": "2026-07-01T23:12:04"
+      "version": "0.67.0",
+      "released": "2026-08-11T23:03:08"
     },
     "3.13": {
-      "version": "0.66.0",
-      "released": "2026-07-01T23:12:04"
+      "version": "0.67.0",
+      "released": "2026-08-11T23:03:08"
     },
     "3.14": {
-      "version": "0.66.0",
-      "released": "2026-07-01T23:12:04"
+      "version": "0.67.0",
+      "released": "2026-08-11T23:03:08"
     }
   }
 }
