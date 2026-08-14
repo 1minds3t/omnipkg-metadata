@@ -1,38 +1,38 @@
 {
   "package": "sentry-sdk",
-  "last_updated": "2.67.1",
+  "last_updated": "2.68.0",
   "python_compatibility": {
     "3.7": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.8": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.9": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.10": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.11": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.12": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.13": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     },
     "3.14": {
-      "version": "2.67.1",
-      "released": "2026-08-10T13:05:54"
+      "version": "2.68.0",
+      "released": "2026-08-13T09:06:19"
     }
   }
 }
