@@ -1,6 +1,6 @@
 {
   "package": "python-dotenv",
-  "last_updated": "1.2.2",
+  "last_updated": "1.2.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.21.1",
@@ -15,24 +15,24 @@
       "released": "2025-10-26T15:12:09"
     },
     "3.10": {
-      "version": "1.2.2",
-      "released": "2026-03-01T16:00:25"
+      "version": "1.2.3",
+      "released": "2026-08-16T16:54:52"
     },
     "3.11": {
-      "version": "1.2.2",
-      "released": "2026-03-01T16:00:25"
+      "version": "1.2.3",
+      "released": "2026-08-16T16:54:52"
     },
     "3.12": {
-      "version": "1.2.2",
-      "released": "2026-03-01T16:00:25"
+      "version": "1.2.3",
+      "released": "2026-08-16T16:54:52"
     },
     "3.13": {
-      "version": "1.2.2",
-      "released": "2026-03-01T16:00:25"
+      "version": "1.2.3",
+      "released": "2026-08-16T16:54:52"
     },
     "3.14": {
-      "version": "1.2.2",
-      "released": "2026-03-01T16:00:25"
+      "version": "1.2.3",
+      "released": "2026-08-16T16:54:52"
     }
   }
 }
