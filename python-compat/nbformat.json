@@ -1,6 +1,6 @@
 {
   "package": "nbformat",
-  "last_updated": "5.11.0",
+  "last_updated": "5.11.1",
   "python_compatibility": {
     "3.7": {
       "version": "5.8.0",
@@ -15,24 +15,24 @@
       "released": "2024-04-04T11:20:34"
     },
     "3.10": {
-      "version": "5.11.0",
-      "released": "2026-08-06T12:29:54"
+      "version": "5.11.1",
+      "released": "2026-08-17T08:10:50"
     },
     "3.11": {
-      "version": "5.11.0",
-      "released": "2026-08-06T12:29:54"
+      "version": "5.11.1",
+      "released": "2026-08-17T08:10:50"
     },
     "3.12": {
-      "version": "5.11.0",
-      "released": "2026-08-06T12:29:54"
+      "version": "5.11.1",
+      "released": "2026-08-17T08:10:50"
     },
     "3.13": {
-      "version": "5.11.0",
-      "released": "2026-08-06T12:29:54"
+      "version": "5.11.1",
+      "released": "2026-08-17T08:10:50"
     },
     "3.14": {
-      "version": "5.11.0",
-      "released": "2026-08-06T12:29:54"
+      "version": "5.11.1",
+      "released": "2026-08-17T08:10:50"
     }
   }
 }
