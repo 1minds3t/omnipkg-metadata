@@ -1,6 +1,6 @@
 {
   "package": "pygithub",
-  "last_updated": "2.9.1",
+  "last_updated": "2.10.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.3.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-14T07:26:12"
     },
     "3.10": {
-      "version": "2.9.1",
-      "released": "2026-04-14T07:26:12"
+      "version": "2.10.0",
+      "released": "2026-08-20T10:05:06"
     },
     "3.11": {
-      "version": "2.9.1",
-      "released": "2026-04-14T07:26:12"
+      "version": "2.10.0",
+      "released": "2026-08-20T10:05:06"
     },
     "3.12": {
-      "version": "2.9.1",
-      "released": "2026-04-14T07:26:12"
+      "version": "2.10.0",
+      "released": "2026-08-20T10:05:06"
     },
     "3.13": {
-      "version": "2.9.1",
-      "released": "2026-04-14T07:26:12"
+      "version": "2.10.0",
+      "released": "2026-08-20T10:05:06"
     },
     "3.14": {
-      "version": "2.9.1",
-      "released": "2026-04-14T07:26:12"
+      "version": "2.10.0",
+      "released": "2026-08-20T10:05:06"
     }
   }
 }
