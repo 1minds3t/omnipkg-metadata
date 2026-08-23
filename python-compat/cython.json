@@ -1,6 +1,6 @@
 {
   "package": "cython",
-  "last_updated": "3.2.9",
+  "last_updated": "3.3.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.12",
@@ -11,28 +11,28 @@
       "released": "2026-07-24T06:21:37"
     },
     "3.9": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     },
     "3.10": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     },
     "3.11": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     },
     "3.12": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     },
     "3.13": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     },
     "3.14": {
-      "version": "3.2.9",
-      "released": "2026-07-24T06:21:37"
+      "version": "3.3.0",
+      "released": "2026-08-22T05:16:50"
     }
   }
 }
