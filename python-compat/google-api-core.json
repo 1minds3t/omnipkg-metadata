@@ -1,6 +1,6 @@
 {
   "package": "google-api-core",
-  "last_updated": "2.35.0",
+  "last_updated": "2.34.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.29.0",

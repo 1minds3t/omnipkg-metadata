@@ -1,6 +1,6 @@
 {
   "package": "google-genai",
-  "last_updated": "2.19.0",
+  "last_updated": "2.20.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-29T22:01:00"
     },
     "3.10": {
-      "version": "2.19.0",
-      "released": "2026-08-19T23:05:41"
+      "version": "2.20.0",
+      "released": "2026-08-25T21:28:25"
     },
     "3.11": {
-      "version": "2.19.0",
-      "released": "2026-08-19T23:05:41"
+      "version": "2.20.0",
+      "released": "2026-08-25T21:28:25"
     },
     "3.12": {
-      "version": "2.19.0",
-      "released": "2026-08-19T23:05:41"
+      "version": "2.20.0",
+      "released": "2026-08-25T21:28:25"
     },
     "3.13": {
-      "version": "2.19.0",
-      "released": "2026-08-19T23:05:41"
+      "version": "2.20.0",
+      "released": "2026-08-25T21:28:25"
     },
     "3.14": {
-      "version": "2.19.0",
-      "released": "2026-08-19T23:05:41"
+      "version": "2.20.0",
+      "released": "2026-08-25T21:28:25"
     }
   }
 }

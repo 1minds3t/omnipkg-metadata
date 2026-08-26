@@ -1,38 +1,38 @@
 {
   "package": "plotly",
-  "last_updated": "6.9.0",
+  "last_updated": "7.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.18.0",
       "released": "2023-10-25T19:43:41"
     },
     "3.8": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.9": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.10": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.11": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.12": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.13": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     },
     "3.14": {
-      "version": "6.9.0",
-      "released": "2026-07-09T14:55:55"
+      "version": "7.0.0",
+      "released": "2026-08-25T17:47:24"
     }
   }
 }
