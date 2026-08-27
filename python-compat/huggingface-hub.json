@@ -1,6 +1,6 @@
 {
   "package": "huggingface-hub",
-  "last_updated": "1.28.0",
+  "last_updated": "1.29.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.16.4",
@@ -15,24 +15,24 @@
       "released": "2026-03-25T16:01:26"
     },
     "3.10": {
-      "version": "1.28.0",
-      "released": "2026-08-18T12:27:12"
+      "version": "1.29.0",
+      "released": "2026-08-27T12:18:35"
     },
     "3.11": {
-      "version": "1.28.0",
-      "released": "2026-08-18T12:27:12"
+      "version": "1.29.0",
+      "released": "2026-08-27T12:18:35"
     },
     "3.12": {
-      "version": "1.28.0",
-      "released": "2026-08-18T12:27:12"
+      "version": "1.29.0",
+      "released": "2026-08-27T12:18:35"
     },
     "3.13": {
-      "version": "1.28.0",
-      "released": "2026-08-18T12:27:12"
+      "version": "1.29.0",
+      "released": "2026-08-27T12:18:35"
     },
     "3.14": {
-      "version": "1.28.0",
-      "released": "2026-08-18T12:27:12"
+      "version": "1.29.0",
+      "released": "2026-08-27T12:18:35"
     }
   }
 }
