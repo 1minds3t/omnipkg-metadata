@@ -1,6 +1,6 @@
 {
   "package": "wrapt",
-  "last_updated": "2.3.0",
+  "last_updated": "2.4.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.16.0",
@@ -11,28 +11,28 @@
       "released": "2025-11-07T00:43:11"
     },
     "3.9": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     },
     "3.10": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     },
     "3.11": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     },
     "3.12": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     },
     "3.13": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     },
     "3.14": {
-      "version": "2.3.0",
-      "released": "2026-07-28T06:04:04"
+      "version": "2.4.0",
+      "released": "2026-08-30T04:39:07"
     }
   }
 }
