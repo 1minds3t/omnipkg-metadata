@@ -1,6 +1,6 @@
 {
   "package": "websocket-client",
-  "last_updated": "1.9.1",
+  "last_updated": "1.9.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.6.1",
@@ -15,24 +15,24 @@
       "released": "2025-10-07T21:16:34"
     },
     "3.10": {
-      "version": "1.9.1",
-      "released": "2026-08-29T13:45:39"
+      "version": "1.9.2",
+      "released": "2026-08-31T14:08:39"
     },
     "3.11": {
-      "version": "1.9.1",
-      "released": "2026-08-29T13:45:39"
+      "version": "1.9.2",
+      "released": "2026-08-31T14:08:39"
     },
     "3.12": {
-      "version": "1.9.1",
-      "released": "2026-08-29T13:45:39"
+      "version": "1.9.2",
+      "released": "2026-08-31T14:08:39"
     },
     "3.13": {
-      "version": "1.9.1",
-      "released": "2026-08-29T13:45:39"
+      "version": "1.9.2",
+      "released": "2026-08-31T14:08:39"
     },
     "3.14": {
-      "version": "1.9.1",
-      "released": "2026-08-29T13:45:39"
+      "version": "1.9.2",
+      "released": "2026-08-31T14:08:39"
     }
   }
 }
