@@ -1,6 +1,6 @@
 {
   "package": "openai",
-  "last_updated": "3.6.0",
+  "last_updated": "3.7.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.10.5",
@@ -15,24 +15,24 @@
       "released": "2026-07-23T20:15:48"
     },
     "3.10": {
-      "version": "3.6.0",
-      "released": "2026-08-28T22:29:16"
+      "version": "3.7.0",
+      "released": "2026-09-02T01:30:52"
     },
     "3.11": {
-      "version": "3.6.0",
-      "released": "2026-08-28T22:29:16"
+      "version": "3.7.0",
+      "released": "2026-09-02T01:30:52"
     },
     "3.12": {
-      "version": "3.6.0",
-      "released": "2026-08-28T22:29:16"
+      "version": "3.7.0",
+      "released": "2026-09-02T01:30:52"
     },
     "3.13": {
-      "version": "3.6.0",
-      "released": "2026-08-28T22:29:16"
+      "version": "3.7.0",
+      "released": "2026-09-02T01:30:52"
     },
     "3.14": {
-      "version": "3.6.0",
-      "released": "2026-08-28T22:29:16"
+      "version": "3.7.0",
+      "released": "2026-09-02T01:30:52"
     }
   }
 }
