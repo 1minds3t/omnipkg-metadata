@@ -1,6 +1,6 @@
 {
   "package": "fastapi-cloud-cli",
-  "last_updated": "0.24.0",
+  "last_updated": "0.25.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.1.0",
@@ -15,24 +15,24 @@
       "released": "2026-02-13T19:39:58"
     },
     "3.10": {
-      "version": "0.24.0",
-      "released": "2026-08-27T14:36:43"
+      "version": "0.25.0",
+      "released": "2026-09-02T16:09:06"
     },
     "3.11": {
-      "version": "0.24.0",
-      "released": "2026-08-27T14:36:43"
+      "version": "0.25.0",
+      "released": "2026-09-02T16:09:06"
     },
     "3.12": {
-      "version": "0.24.0",
-      "released": "2026-08-27T14:36:43"
+      "version": "0.25.0",
+      "released": "2026-09-02T16:09:06"
     },
     "3.13": {
-      "version": "0.24.0",
-      "released": "2026-08-27T14:36:43"
+      "version": "0.25.0",
+      "released": "2026-09-02T16:09:06"
     },
     "3.14": {
-      "version": "0.24.0",
-      "released": "2026-08-27T14:36:43"
+      "version": "0.25.0",
+      "released": "2026-09-02T16:09:06"
     }
   }
 }

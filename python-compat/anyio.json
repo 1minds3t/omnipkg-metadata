@@ -1,6 +1,6 @@
 {
   "package": "anyio",
-  "last_updated": "4.14.2",
+  "last_updated": "4.15.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.7.1",
@@ -15,24 +15,24 @@
       "released": "2026-01-06T11:45:19"
     },
     "3.10": {
-      "version": "4.14.2",
-      "released": "2026-07-12T20:29:05"
+      "version": "4.15.0",
+      "released": "2026-09-02T21:46:35"
     },
     "3.11": {
-      "version": "4.14.2",
-      "released": "2026-07-12T20:29:05"
+      "version": "4.15.0",
+      "released": "2026-09-02T21:46:35"
     },
     "3.12": {
-      "version": "4.14.2",
-      "released": "2026-07-12T20:29:05"
+      "version": "4.15.0",
+      "released": "2026-09-02T21:46:35"
     },
     "3.13": {
-      "version": "4.14.2",
-      "released": "2026-07-12T20:29:05"
+      "version": "4.15.0",
+      "released": "2026-09-02T21:46:35"
     },
     "3.14": {
-      "version": "4.14.2",
-      "released": "2026-07-12T20:29:05"
+      "version": "4.15.0",
+      "released": "2026-09-02T21:46:35"
     }
   }
 }
