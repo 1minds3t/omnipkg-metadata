@@ -1,6 +1,6 @@
 {
   "package": "tokenizers",
-  "last_updated": "0.23.1",
+  "last_updated": "0.23.2",
   "python_compatibility": {
     "3.7": {
       "version": "0.21.0",
@@ -15,24 +15,24 @@
       "released": "2026-01-05T10:41:02"
     },
     "3.10": {
-      "version": "0.23.1",
-      "released": "2026-04-27T14:43:15"
+      "version": "0.23.2",
+      "released": "2026-09-03T08:55:30"
     },
     "3.11": {
-      "version": "0.23.1",
-      "released": "2026-04-27T14:43:15"
+      "version": "0.23.2",
+      "released": "2026-09-03T08:55:30"
     },
     "3.12": {
-      "version": "0.23.1",
-      "released": "2026-04-27T14:43:15"
+      "version": "0.23.2",
+      "released": "2026-09-03T08:55:30"
     },
     "3.13": {
-      "version": "0.23.1",
-      "released": "2026-04-27T14:43:15"
+      "version": "0.23.2",
+      "released": "2026-09-03T08:55:30"
     },
     "3.14": {
-      "version": "0.23.1",
-      "released": "2026-04-27T14:43:15"
+      "version": "0.23.2",
+      "released": "2026-09-03T08:55:30"
     }
   }
 }

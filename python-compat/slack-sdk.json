@@ -1,38 +1,38 @@
 {
   "package": "slack-sdk",
-  "last_updated": "3.44.0",
+  "last_updated": "3.44.1",
   "python_compatibility": {
     "3.7": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.8": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.9": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.10": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.11": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.12": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.13": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     },
     "3.14": {
-      "version": "3.44.0",
-      "released": "2026-08-27T07:08:48"
+      "version": "3.44.1",
+      "released": "2026-09-03T14:21:12"
     }
   }
 }
