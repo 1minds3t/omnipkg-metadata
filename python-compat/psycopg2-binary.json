@@ -1,6 +1,6 @@
 {
   "package": "psycopg2-binary",
-  "last_updated": "2.9.12",
+  "last_updated": "2.9.13",
   "python_compatibility": {
     "3.7": {
       "version": "2.9.9",
@@ -15,24 +15,24 @@
       "released": "2026-04-20T23:33:31"
     },
     "3.10": {
-      "version": "2.9.12",
-      "released": "2026-04-20T23:33:31"
+      "version": "2.9.13",
+      "released": "2026-09-09T23:54:05"
     },
     "3.11": {
-      "version": "2.9.12",
-      "released": "2026-04-20T23:33:31"
+      "version": "2.9.13",
+      "released": "2026-09-09T23:54:05"
     },
     "3.12": {
-      "version": "2.9.12",
-      "released": "2026-04-20T23:33:31"
+      "version": "2.9.13",
+      "released": "2026-09-09T23:54:05"
     },
     "3.13": {
-      "version": "2.9.12",
-      "released": "2026-04-20T23:33:31"
+      "version": "2.9.13",
+      "released": "2026-09-09T23:54:05"
     },
     "3.14": {
-      "version": "2.9.12",
-      "released": "2026-04-20T23:33:31"
+      "version": "2.9.13",
+      "released": "2026-09-09T23:54:05"
     }
   }
 }
