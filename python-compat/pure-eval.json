@@ -1,38 +1,38 @@
 {
   "package": "pure-eval",
-  "last_updated": "0.2.3",
+  "last_updated": "0.2.4",
   "python_compatibility": {
     "3.7": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.8": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.9": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.10": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.11": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.12": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.13": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     },
     "3.14": {
-      "version": "0.2.3",
-      "released": "2024-07-21T12:58:20"
+      "version": "0.2.4",
+      "released": "2026-09-10T21:41:21"
     }
   }
 }
