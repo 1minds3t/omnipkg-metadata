@@ -1,6 +1,6 @@
 {
   "package": "httpx2",
-  "last_updated": "2.12.0",
+  "last_updated": "2.13.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2026-05-12T17:59:20"
     },
     "3.10": {
-      "version": "2.12.0",
-      "released": "2026-08-18T13:22:06"
+      "version": "2.13.0",
+      "released": "2026-09-14T14:18:03"
     },
     "3.11": {
-      "version": "2.12.0",
-      "released": "2026-08-18T13:22:06"
+      "version": "2.13.0",
+      "released": "2026-09-14T14:18:03"
     },
     "3.12": {
-      "version": "2.12.0",
-      "released": "2026-08-18T13:22:06"
+      "version": "2.13.0",
+      "released": "2026-09-14T14:18:03"
     },
     "3.13": {
-      "version": "2.12.0",
-      "released": "2026-08-18T13:22:06"
+      "version": "2.13.0",
+      "released": "2026-09-14T14:18:03"
     },
     "3.14": {
-      "version": "2.12.0",
-      "released": "2026-08-18T13:22:06"
+      "version": "2.13.0",
+      "released": "2026-09-14T14:18:03"
     }
   }
 }
