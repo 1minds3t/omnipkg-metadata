@@ -1,6 +1,6 @@
 {
   "package": "setuptools-scm",
-  "last_updated": "10.3.2",
+  "last_updated": "10.2.3",
   "python_compatibility": {
     "3.7": {
       "version": "7.1.0",

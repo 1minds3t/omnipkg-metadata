@@ -1,6 +1,6 @@
 {
   "package": "urllib3",
-  "last_updated": "2.7.0",
+  "last_updated": "2.8.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.7",
@@ -15,24 +15,24 @@
       "released": "2026-01-07T16:24:42"
     },
     "3.10": {
-      "version": "2.7.0",
-      "released": "2026-05-07T16:13:17"
+      "version": "2.8.0",
+      "released": "2026-09-15T19:29:34"
     },
     "3.11": {
-      "version": "2.7.0",
-      "released": "2026-05-07T16:13:17"
+      "version": "2.8.0",
+      "released": "2026-09-15T19:29:34"
     },
     "3.12": {
-      "version": "2.7.0",
-      "released": "2026-05-07T16:13:17"
+      "version": "2.8.0",
+      "released": "2026-09-15T19:29:34"
     },
     "3.13": {
-      "version": "2.7.0",
-      "released": "2026-05-07T16:13:17"
+      "version": "2.8.0",
+      "released": "2026-09-15T19:29:34"
     },
     "3.14": {
-      "version": "2.7.0",
-      "released": "2026-05-07T16:13:17"
+      "version": "2.8.0",
+      "released": "2026-09-15T19:29:34"
     }
   }
 }

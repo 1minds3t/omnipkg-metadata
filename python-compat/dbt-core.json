@@ -1,6 +1,6 @@
 {
   "package": "dbt-core",
-  "last_updated": "1.12.4",
+  "last_updated": "1.12.5",
   "python_compatibility": {
     "3.7": {
       "version": "1.0.9",
@@ -15,24 +15,24 @@
       "released": "2026-08-12T16:28:57"
     },
     "3.10": {
-      "version": "1.12.4",
-      "released": "2026-09-08T10:01:39"
+      "version": "1.12.5",
+      "released": "2026-09-15T19:08:26"
     },
     "3.11": {
-      "version": "1.12.4",
-      "released": "2026-09-08T10:01:39"
+      "version": "1.12.5",
+      "released": "2026-09-15T19:08:26"
     },
     "3.12": {
-      "version": "1.12.4",
-      "released": "2026-09-08T10:01:39"
+      "version": "1.12.5",
+      "released": "2026-09-15T19:08:26"
     },
     "3.13": {
-      "version": "1.12.4",
-      "released": "2026-09-08T10:01:39"
+      "version": "1.12.5",
+      "released": "2026-09-15T19:08:26"
     },
     "3.14": {
-      "version": "1.12.4",
-      "released": "2026-09-08T10:01:39"
+      "version": "1.12.5",
+      "released": "2026-09-15T19:08:26"
     }
   }
 }
