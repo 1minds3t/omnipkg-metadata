@@ -1,6 +1,6 @@
 {
   "package": "hatchling",
-  "last_updated": "1.32.0",
+  "last_updated": "1.32.3",
   "python_compatibility": {
     "3.7": {
       "version": "1.17.1",
@@ -15,24 +15,24 @@
       "released": "2024-12-15T17:08:10"
     },
     "3.10": {
-      "version": "1.32.1",
-      "released": "2026-09-16T16:52:41"
+      "version": "1.32.3",
+      "released": "2026-09-17T20:05:10"
     },
     "3.11": {
-      "version": "1.32.1",
-      "released": "2026-09-16T16:52:41"
+      "version": "1.32.3",
+      "released": "2026-09-17T20:05:10"
     },
     "3.12": {
-      "version": "1.32.1",
-      "released": "2026-09-16T16:52:41"
+      "version": "1.32.3",
+      "released": "2026-09-17T20:05:10"
     },
     "3.13": {
-      "version": "1.32.1",
-      "released": "2026-09-16T16:52:41"
+      "version": "1.32.3",
+      "released": "2026-09-17T20:05:10"
     },
     "3.14": {
-      "version": "1.32.1",
-      "released": "2026-09-16T16:52:41"
+      "version": "1.32.3",
+      "released": "2026-09-17T20:05:10"
     }
   }
 }
