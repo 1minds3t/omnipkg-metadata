@@ -1,6 +1,6 @@
 {
   "package": "pycodestyle",
-  "last_updated": "2.14.0",
+  "last_updated": "2.15.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.10.0",
@@ -15,24 +15,24 @@
       "released": "2025-06-20T18:49:47"
     },
     "3.10": {
-      "version": "2.14.0",
-      "released": "2025-06-20T18:49:47"
+      "version": "2.15.0",
+      "released": "2026-09-22T22:15:34"
     },
     "3.11": {
-      "version": "2.14.0",
-      "released": "2025-06-20T18:49:47"
+      "version": "2.15.0",
+      "released": "2026-09-22T22:15:34"
     },
     "3.12": {
-      "version": "2.14.0",
-      "released": "2025-06-20T18:49:47"
+      "version": "2.15.0",
+      "released": "2026-09-22T22:15:34"
     },
     "3.13": {
-      "version": "2.14.0",
-      "released": "2025-06-20T18:49:47"
+      "version": "2.15.0",
+      "released": "2026-09-22T22:15:34"
     },
     "3.14": {
-      "version": "2.14.0",
-      "released": "2025-06-20T18:49:47"
+      "version": "2.15.0",
+      "released": "2026-09-22T22:15:34"
     }
   }
 }

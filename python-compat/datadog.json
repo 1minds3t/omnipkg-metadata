@@ -1,38 +1,38 @@
 {
   "package": "datadog",
-  "last_updated": "0.53.0",
+  "last_updated": "0.54.0",
   "python_compatibility": {
     "3.7": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.8": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.9": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.10": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.11": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.12": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.13": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     },
     "3.14": {
-      "version": "0.53.0",
-      "released": "2026-07-24T15:11:55"
+      "version": "0.54.0",
+      "released": "2026-09-22T20:53:49"
     }
   }
 }
