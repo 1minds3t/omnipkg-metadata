@@ -1,6 +1,6 @@
 {
   "package": "cyclopts",
-  "last_updated": "4.25.3",
+  "last_updated": "5.0.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -16,20 +16,20 @@
       "released": "2026-09-17T16:25:15"
     },
     "3.11": {
-      "version": "4.25.3",
-      "released": "2026-09-17T16:25:15"
+      "version": "5.0.0",
+      "released": "2026-09-23T23:44:52"
     },
     "3.12": {
-      "version": "4.25.3",
-      "released": "2026-09-17T16:25:15"
+      "version": "5.0.0",
+      "released": "2026-09-23T23:44:52"
     },
     "3.13": {
-      "version": "4.25.3",
-      "released": "2026-09-17T16:25:15"
+      "version": "5.0.0",
+      "released": "2026-09-23T23:44:52"
     },
     "3.14": {
-      "version": "4.25.3",
-      "released": "2026-09-17T16:25:15"
+      "version": "5.0.0",
+      "released": "2026-09-23T23:44:52"
     }
   }
 }
