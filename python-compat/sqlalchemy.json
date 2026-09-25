@@ -1,6 +1,6 @@
 {
   "package": "sqlalchemy",
-  "last_updated": "2.0.54",
+  "last_updated": "2.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.54",
@@ -19,20 +19,20 @@
       "released": "2026-09-15T22:11:14"
     },
     "3.11": {
-      "version": "2.0.54",
-      "released": "2026-09-15T22:11:14"
+      "version": "2.1.0",
+      "released": "2026-09-24T20:36:01"
     },
     "3.12": {
-      "version": "2.0.54",
-      "released": "2026-09-15T22:11:14"
+      "version": "2.1.0",
+      "released": "2026-09-24T20:36:01"
     },
     "3.13": {
-      "version": "2.0.54",
-      "released": "2026-09-15T22:11:14"
+      "version": "2.1.0",
+      "released": "2026-09-24T20:36:01"
     },
     "3.14": {
-      "version": "2.0.54",
-      "released": "2026-09-15T22:11:14"
+      "version": "2.1.0",
+      "released": "2026-09-24T20:36:01"
     }
   }
 }

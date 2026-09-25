@@ -1,6 +1,6 @@
 {
   "package": "google-cloud-tasks",
-  "last_updated": "2.24.0",
+  "last_updated": "2.25.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.21.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-26T22:15:10"
     },
     "3.10": {
-      "version": "2.24.0",
-      "released": "2026-08-06T06:23:39"
+      "version": "2.25.0",
+      "released": "2026-09-24T23:19:53"
     },
     "3.11": {
-      "version": "2.24.0",
-      "released": "2026-08-06T06:23:39"
+      "version": "2.25.0",
+      "released": "2026-09-24T23:19:53"
     },
     "3.12": {
-      "version": "2.24.0",
-      "released": "2026-08-06T06:23:39"
+      "version": "2.25.0",
+      "released": "2026-09-24T23:19:53"
     },
     "3.13": {
-      "version": "2.24.0",
-      "released": "2026-08-06T06:23:39"
+      "version": "2.25.0",
+      "released": "2026-09-24T23:19:53"
     },
     "3.14": {
-      "version": "2.24.0",
-      "released": "2026-08-06T06:23:39"
+      "version": "2.25.0",
+      "released": "2026-09-24T23:19:53"
     }
   }
 }
