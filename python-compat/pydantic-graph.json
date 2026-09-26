@@ -1,6 +1,6 @@
 {
   "package": "pydantic-graph",
-  "last_updated": "2.50.0",
+  "last_updated": "2.51.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-08-29T14:46:18"
     },
     "3.10": {
-      "version": "2.50.0",
-      "released": "2026-09-25T05:03:28"
+      "version": "2.51.0",
+      "released": "2026-09-25T23:32:23"
     },
     "3.11": {
-      "version": "2.50.0",
-      "released": "2026-09-25T05:03:28"
+      "version": "2.51.0",
+      "released": "2026-09-25T23:32:23"
     },
     "3.12": {
-      "version": "2.50.0",
-      "released": "2026-09-25T05:03:28"
+      "version": "2.51.0",
+      "released": "2026-09-25T23:32:23"
     },
     "3.13": {
-      "version": "2.50.0",
-      "released": "2026-09-25T05:03:28"
+      "version": "2.51.0",
+      "released": "2026-09-25T23:32:23"
     },
     "3.14": {
-      "version": "2.50.0",
-      "released": "2026-09-25T05:03:28"
+      "version": "2.51.0",
+      "released": "2026-09-25T23:32:23"
     }
   }
 }
