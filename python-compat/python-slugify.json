@@ -1,6 +1,6 @@
 {
   "package": "python-slugify",
-  "last_updated": "9.1.1",
+  "last_updated": "9.1.2",
   "python_compatibility": {
     "3.7": {
       "version": "8.0.4",
@@ -15,24 +15,24 @@
       "released": "2024-02-08T18:32:43"
     },
     "3.10": {
-      "version": "9.1.1",
-      "released": "2026-09-22T15:54:16"
+      "version": "9.1.2",
+      "released": "2026-09-27T15:56:23"
     },
     "3.11": {
-      "version": "9.1.1",
-      "released": "2026-09-22T15:54:16"
+      "version": "9.1.2",
+      "released": "2026-09-27T15:56:23"
     },
     "3.12": {
-      "version": "9.1.1",
-      "released": "2026-09-22T15:54:16"
+      "version": "9.1.2",
+      "released": "2026-09-27T15:56:23"
     },
     "3.13": {
-      "version": "9.1.1",
-      "released": "2026-09-22T15:54:16"
+      "version": "9.1.2",
+      "released": "2026-09-27T15:56:23"
     },
     "3.14": {
-      "version": "9.1.1",
-      "released": "2026-09-22T15:54:16"
+      "version": "9.1.2",
+      "released": "2026-09-27T15:56:23"
     }
   }
 }
