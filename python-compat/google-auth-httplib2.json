@@ -1,6 +1,6 @@
 {
   "package": "google-auth-httplib2",
-  "last_updated": "0.4.2",
+  "last_updated": "0.4.3",
   "python_compatibility": {
     "3.7": {
       "version": "0.3.0",
@@ -15,24 +15,24 @@
       "released": "2026-03-30T22:49:03"
     },
     "3.10": {
-      "version": "0.4.2",
-      "released": "2026-08-24T21:55:05"
+      "version": "0.4.3",
+      "released": "2026-09-29T19:25:30"
     },
     "3.11": {
-      "version": "0.4.2",
-      "released": "2026-08-24T21:55:05"
+      "version": "0.4.3",
+      "released": "2026-09-29T19:25:30"
     },
     "3.12": {
-      "version": "0.4.2",
-      "released": "2026-08-24T21:55:05"
+      "version": "0.4.3",
+      "released": "2026-09-29T19:25:30"
     },
     "3.13": {
-      "version": "0.4.2",
-      "released": "2026-08-24T21:55:05"
+      "version": "0.4.3",
+      "released": "2026-09-29T19:25:30"
     },
     "3.14": {
-      "version": "0.4.2",
-      "released": "2026-08-24T21:55:05"
+      "version": "0.4.3",
+      "released": "2026-09-29T19:25:30"
     }
   }
 }
