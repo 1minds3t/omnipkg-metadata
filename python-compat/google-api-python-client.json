@@ -1,6 +1,6 @@
 {
   "package": "google-api-python-client",
-  "last_updated": "2.200.0",
+  "last_updated": "2.201.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.198.0",
@@ -15,24 +15,24 @@
       "released": "2026-06-25T14:32:39"
     },
     "3.10": {
-      "version": "2.200.0",
-      "released": "2026-09-01T00:04:22"
+      "version": "2.201.0",
+      "released": "2026-09-30T22:06:18"
     },
     "3.11": {
-      "version": "2.200.0",
-      "released": "2026-09-01T00:04:22"
+      "version": "2.201.0",
+      "released": "2026-09-30T22:06:18"
     },
     "3.12": {
-      "version": "2.200.0",
-      "released": "2026-09-01T00:04:22"
+      "version": "2.201.0",
+      "released": "2026-09-30T22:06:18"
     },
     "3.13": {
-      "version": "2.200.0",
-      "released": "2026-09-01T00:04:22"
+      "version": "2.201.0",
+      "released": "2026-09-30T22:06:18"
     },
     "3.14": {
-      "version": "2.200.0",
-      "released": "2026-09-01T00:04:22"
+      "version": "2.201.0",
+      "released": "2026-09-30T22:06:18"
     }
   }
 }

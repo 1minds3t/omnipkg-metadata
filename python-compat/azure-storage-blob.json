@@ -1,6 +1,6 @@
 {
   "package": "azure-storage-blob",
-  "last_updated": "12.30.3",
+  "last_updated": "12.31.0",
   "python_compatibility": {
     "3.7": {
       "version": "12.19.1",
@@ -15,24 +15,24 @@
       "released": "2026-09-22T21:50:06"
     },
     "3.10": {
-      "version": "12.30.3",
-      "released": "2026-09-22T21:50:06"
+      "version": "12.31.0",
+      "released": "2026-09-30T21:23:24"
     },
     "3.11": {
-      "version": "12.30.3",
-      "released": "2026-09-22T21:50:06"
+      "version": "12.31.0",
+      "released": "2026-09-30T21:23:24"
     },
     "3.12": {
-      "version": "12.30.3",
-      "released": "2026-09-22T21:50:06"
+      "version": "12.31.0",
+      "released": "2026-09-30T21:23:24"
     },
     "3.13": {
-      "version": "12.30.3",
-      "released": "2026-09-22T21:50:06"
+      "version": "12.31.0",
+      "released": "2026-09-30T21:23:24"
     },
     "3.14": {
-      "version": "12.30.3",
-      "released": "2026-09-22T21:50:06"
+      "version": "12.31.0",
+      "released": "2026-09-30T21:23:24"
     }
   }
 }

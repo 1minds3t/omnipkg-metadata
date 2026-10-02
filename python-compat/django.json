@@ -1,6 +1,6 @@
 {
   "package": "django",
-  "last_updated": "6.0.4",
+  "last_updated": "6.1.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.2.25",
@@ -15,24 +15,24 @@
       "released": "2026-04-07T14:05:38"
     },
     "3.10": {
-      "version": "5.2.13",
-      "released": "2026-04-07T14:02:08"
+      "version": "5.2.17",
+      "released": "2026-08-04T15:03:59"
     },
     "3.11": {
-      "version": "5.2.13",
-      "released": "2026-04-07T14:02:08"
+      "version": "5.2.17",
+      "released": "2026-08-04T15:03:59"
     },
     "3.12": {
-      "version": "6.0.4",
-      "released": "2026-04-07T13:55:37"
+      "version": "6.1.1",
+      "released": "2026-09-02T17:20:39"
     },
     "3.13": {
-      "version": "6.0.4",
-      "released": "2026-04-07T13:55:37"
+      "version": "6.1.1",
+      "released": "2026-09-02T17:20:39"
     },
     "3.14": {
-      "version": "6.0.4",
-      "released": "2026-04-07T13:55:37"
+      "version": "6.1.1",
+      "released": "2026-09-02T17:20:39"
     }
   }
 }
