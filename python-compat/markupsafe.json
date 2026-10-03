@@ -1,6 +1,6 @@
 {
   "package": "markupsafe",
-  "last_updated": "3.0.3",
+  "last_updated": "3.0.4",
   "python_compatibility": {
     "3.7": {
       "version": "2.1.5",
@@ -11,28 +11,28 @@
       "released": "2024-02-02T16:30:04"
     },
     "3.9": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     },
     "3.10": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     },
     "3.11": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     },
     "3.12": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     },
     "3.13": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     },
     "3.14": {
-      "version": "3.0.3",
-      "released": "2025-09-27T18:36:05"
+      "version": "3.0.4",
+      "released": "2026-10-02T23:04:20"
     }
   }
 }
