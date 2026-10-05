@@ -1,6 +1,6 @@
 {
   "package": "click-repl",
-  "last_updated": "0.4.0",
+  "last_updated": "0.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.3.0",
@@ -11,28 +11,28 @@
       "released": "2023-06-15T12:43:48"
     },
     "3.9": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     },
     "3.10": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     },
     "3.11": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     },
     "3.12": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     },
     "3.13": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     },
     "3.14": {
-      "version": "0.4.0",
-      "released": "2026-09-17T07:22:00"
+      "version": "0.4.1",
+      "released": "2026-10-05T06:01:55"
     }
   }
 }
