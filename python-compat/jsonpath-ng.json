@@ -1,38 +1,38 @@
 {
   "package": "jsonpath-ng",
-  "last_updated": "1.8.0",
+  "last_updated": "1.9.0",
   "python_compatibility": {
     "3.7": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.8": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.9": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.10": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.11": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.12": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.13": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     },
     "3.14": {
-      "version": "1.8.0",
-      "released": "2026-02-28T00:53:19"
+      "version": "1.9.0",
+      "released": "2026-10-05T18:15:12"
     }
   }
 }
