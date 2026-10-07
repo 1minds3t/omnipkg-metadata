@@ -1,6 +1,6 @@
 {
   "package": "langgraph",
-  "last_updated": "1.2.13",
+  "last_updated": "1.2.14",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-21T00:04:12"
     },
     "3.10": {
-      "version": "1.2.13",
-      "released": "2026-10-05T17:51:20"
+      "version": "1.2.14",
+      "released": "2026-10-06T14:41:18"
     },
     "3.11": {
-      "version": "1.2.13",
-      "released": "2026-10-05T17:51:20"
+      "version": "1.2.14",
+      "released": "2026-10-06T14:41:18"
     },
     "3.12": {
-      "version": "1.2.13",
-      "released": "2026-10-05T17:51:20"
+      "version": "1.2.14",
+      "released": "2026-10-06T14:41:18"
     },
     "3.13": {
-      "version": "1.2.13",
-      "released": "2026-10-05T17:51:20"
+      "version": "1.2.14",
+      "released": "2026-10-06T14:41:18"
     },
     "3.14": {
-      "version": "1.2.13",
-      "released": "2026-10-05T17:51:20"
+      "version": "1.2.14",
+      "released": "2026-10-06T14:41:18"
     }
   }
 }

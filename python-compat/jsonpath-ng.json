@@ -1,6 +1,6 @@
 {
   "package": "jsonpath-ng",
-  "last_updated": "1.9.0",
+  "last_updated": "1.9.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.9.0",
@@ -19,20 +19,20 @@
       "released": "2026-10-05T18:15:12"
     },
     "3.11": {
-      "version": "1.9.0",
-      "released": "2026-10-05T18:15:12"
+      "version": "1.9.1",
+      "released": "2026-10-06T11:42:35"
     },
     "3.12": {
-      "version": "1.9.0",
-      "released": "2026-10-05T18:15:12"
+      "version": "1.9.1",
+      "released": "2026-10-06T11:42:35"
     },
     "3.13": {
-      "version": "1.9.0",
-      "released": "2026-10-05T18:15:12"
+      "version": "1.9.1",
+      "released": "2026-10-06T11:42:35"
     },
     "3.14": {
-      "version": "1.9.0",
-      "released": "2026-10-05T18:15:12"
+      "version": "1.9.1",
+      "released": "2026-10-06T11:42:35"
     }
   }
 }

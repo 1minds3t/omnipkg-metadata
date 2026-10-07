@@ -1,6 +1,6 @@
 {
   "package": "shapely",
-  "last_updated": "2.1.2",
+  "last_updated": "2.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.0.7",
@@ -19,20 +19,20 @@
       "released": "2025-09-24T13:50:00"
     },
     "3.11": {
-      "version": "2.1.2",
-      "released": "2025-09-24T13:50:00"
+      "version": "2.2.0",
+      "released": "2026-10-07T09:15:56"
     },
     "3.12": {
-      "version": "2.1.2",
-      "released": "2025-09-24T13:50:00"
+      "version": "2.2.0",
+      "released": "2026-10-07T09:15:56"
     },
     "3.13": {
-      "version": "2.1.2",
-      "released": "2025-09-24T13:50:00"
+      "version": "2.2.0",
+      "released": "2026-10-07T09:15:56"
     },
     "3.14": {
-      "version": "2.1.2",
-      "released": "2025-09-24T13:50:00"
+      "version": "2.2.0",
+      "released": "2026-10-07T09:15:56"
     }
   }
 }

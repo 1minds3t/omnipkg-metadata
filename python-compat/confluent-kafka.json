@@ -1,38 +1,38 @@
 {
   "package": "confluent-kafka",
-  "last_updated": "2.15.1",
+  "last_updated": "2.16.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.12.0",
       "released": "2025-10-10T00:06:50"
     },
     "3.8": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.9": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.10": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.11": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.12": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.13": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     },
     "3.14": {
-      "version": "2.15.1",
-      "released": "2026-09-10T15:27:01"
+      "version": "2.16.0",
+      "released": "2026-10-07T09:12:28"
     }
   }
 }
