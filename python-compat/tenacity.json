@@ -1,6 +1,6 @@
 {
   "package": "tenacity",
-  "last_updated": "9.1.4",
+  "last_updated": "9.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "8.2.3",
@@ -15,24 +15,24 @@
       "released": "2025-04-02T08:25:07"
     },
     "3.10": {
-      "version": "9.1.4",
-      "released": "2026-02-07T10:45:32"
+      "version": "9.2.1",
+      "released": "2026-10-07T12:13:00"
     },
     "3.11": {
-      "version": "9.1.4",
-      "released": "2026-02-07T10:45:32"
+      "version": "9.2.1",
+      "released": "2026-10-07T12:13:00"
     },
     "3.12": {
-      "version": "9.1.4",
-      "released": "2026-02-07T10:45:32"
+      "version": "9.2.1",
+      "released": "2026-10-07T12:13:00"
     },
     "3.13": {
-      "version": "9.1.4",
-      "released": "2026-02-07T10:45:32"
+      "version": "9.2.1",
+      "released": "2026-10-07T12:13:00"
     },
     "3.14": {
-      "version": "9.1.4",
-      "released": "2026-02-07T10:45:32"
+      "version": "9.2.1",
+      "released": "2026-10-07T12:13:00"
     }
   }
 }
