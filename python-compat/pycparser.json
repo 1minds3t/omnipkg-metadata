@@ -1,6 +1,6 @@
 {
   "package": "pycparser",
-  "last_updated": "3.0",
+  "last_updated": "3.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.21",
@@ -15,24 +15,24 @@
       "released": "2025-09-09T13:23:46"
     },
     "3.10": {
-      "version": "3.0",
-      "released": "2026-01-21T14:26:50"
+      "version": "3.1",
+      "released": "2026-10-08T12:26:32"
     },
     "3.11": {
-      "version": "3.0",
-      "released": "2026-01-21T14:26:50"
+      "version": "3.1",
+      "released": "2026-10-08T12:26:32"
     },
     "3.12": {
-      "version": "3.0",
-      "released": "2026-01-21T14:26:50"
+      "version": "3.1",
+      "released": "2026-10-08T12:26:32"
     },
     "3.13": {
-      "version": "3.0",
-      "released": "2026-01-21T14:26:50"
+      "version": "3.1",
+      "released": "2026-10-08T12:26:32"
     },
     "3.14": {
-      "version": "3.0",
-      "released": "2026-01-21T14:26:50"
+      "version": "3.1",
+      "released": "2026-10-08T12:26:32"
     }
   }
 }
