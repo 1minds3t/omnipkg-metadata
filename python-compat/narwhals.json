@@ -1,6 +1,6 @@
 {
   "package": "narwhals",
-  "last_updated": "2.26.0",
+  "last_updated": "2.27.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -12,24 +12,24 @@
       "released": "2026-05-08T12:29:01"
     },
     "3.10": {
-      "version": "2.27.0",
-      "released": "2026-10-05T11:15:04"
+      "version": "2.27.1",
+      "released": "2026-10-10T06:52:16"
     },
     "3.11": {
-      "version": "2.27.0",
-      "released": "2026-10-05T11:15:04"
+      "version": "2.27.1",
+      "released": "2026-10-10T06:52:16"
     },
     "3.12": {
-      "version": "2.27.0",
-      "released": "2026-10-05T11:15:04"
+      "version": "2.27.1",
+      "released": "2026-10-10T06:52:16"
     },
     "3.13": {
-      "version": "2.27.0",
-      "released": "2026-10-05T11:15:04"
+      "version": "2.27.1",
+      "released": "2026-10-10T06:52:16"
     },
     "3.14": {
-      "version": "2.27.0",
-      "released": "2026-10-05T11:15:04"
+      "version": "2.27.1",
+      "released": "2026-10-10T06:52:16"
     }
   }
 }
