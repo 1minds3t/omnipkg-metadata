@@ -1,6 +1,6 @@
 {
   "package": "jsonpointer",
-  "last_updated": "3.2.0",
+  "last_updated": "3.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.0",
@@ -15,24 +15,24 @@
       "released": "2024-06-10T19:24:40"
     },
     "3.10": {
-      "version": "3.2.0",
-      "released": "2026-10-07T13:37:15"
+      "version": "3.2.1",
+      "released": "2026-10-10T21:11:05"
     },
     "3.11": {
-      "version": "3.2.0",
-      "released": "2026-10-07T13:37:15"
+      "version": "3.2.1",
+      "released": "2026-10-10T21:11:05"
     },
     "3.12": {
-      "version": "3.2.0",
-      "released": "2026-10-07T13:37:15"
+      "version": "3.2.1",
+      "released": "2026-10-10T21:11:05"
     },
     "3.13": {
-      "version": "3.2.0",
-      "released": "2026-10-07T13:37:15"
+      "version": "3.2.1",
+      "released": "2026-10-10T21:11:05"
     },
     "3.14": {
-      "version": "3.2.0",
-      "released": "2026-10-07T13:37:15"
+      "version": "3.2.1",
+      "released": "2026-10-10T21:11:05"
     }
   }
 }
