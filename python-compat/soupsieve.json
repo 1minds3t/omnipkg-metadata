@@ -1,6 +1,6 @@
 {
   "package": "soupsieve",
-  "last_updated": "3.0.1",
+  "last_updated": "3.0.2",
   "python_compatibility": {
     "3.7": {
       "version": "2.4.1",
@@ -23,16 +23,16 @@
       "released": "2026-10-10T17:10:24"
     },
     "3.12": {
-      "version": "3.0.1",
-      "released": "2026-10-10T17:10:24"
+      "version": "3.0.2",
+      "released": "2026-10-12T01:36:23"
     },
     "3.13": {
-      "version": "3.0.1",
-      "released": "2026-10-10T17:10:24"
+      "version": "3.0.2",
+      "released": "2026-10-12T01:36:23"
     },
     "3.14": {
-      "version": "3.0.1",
-      "released": "2026-10-10T17:10:24"
+      "version": "3.0.2",
+      "released": "2026-10-12T01:36:23"
     }
   }
 }

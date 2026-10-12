@@ -1,6 +1,6 @@
 {
   "package": "bracex",
-  "last_updated": "3.0.1",
+  "last_updated": "3.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.3.post1",
@@ -15,24 +15,24 @@
       "released": "2025-06-22T19:12:29"
     },
     "3.10": {
-      "version": "3.0.1",
-      "released": "2026-07-20T13:42:59"
+      "version": "3.1",
+      "released": "2026-10-11T15:26:05"
     },
     "3.11": {
-      "version": "3.0.1",
-      "released": "2026-07-20T13:42:59"
+      "version": "3.1",
+      "released": "2026-10-11T15:26:05"
     },
     "3.12": {
-      "version": "3.0.1",
-      "released": "2026-07-20T13:42:59"
+      "version": "3.1",
+      "released": "2026-10-11T15:26:05"
     },
     "3.13": {
-      "version": "3.0.1",
-      "released": "2026-07-20T13:42:59"
+      "version": "3.1",
+      "released": "2026-10-11T15:26:05"
     },
     "3.14": {
-      "version": "3.0.1",
-      "released": "2026-07-20T13:42:59"
+      "version": "3.1",
+      "released": "2026-10-11T15:26:05"
     }
   }
 }
