@@ -1,6 +1,6 @@
 {
   "package": "pendulum",
-  "last_updated": "3.2.0",
+  "last_updated": "3.3.0",
   "python_compatibility": {
     "3.7": {
       "version": "2.1.2",
@@ -15,24 +15,24 @@
       "released": "2026-01-30T11:20:36"
     },
     "3.10": {
-      "version": "3.2.0",
-      "released": "2026-01-30T11:20:36"
+      "version": "3.3.0",
+      "released": "2026-10-12T20:51:58"
     },
     "3.11": {
-      "version": "3.2.0",
-      "released": "2026-01-30T11:20:36"
+      "version": "3.3.0",
+      "released": "2026-10-12T20:51:58"
     },
     "3.12": {
-      "version": "3.2.0",
-      "released": "2026-01-30T11:20:36"
+      "version": "3.3.0",
+      "released": "2026-10-12T20:51:58"
     },
     "3.13": {
-      "version": "3.2.0",
-      "released": "2026-01-30T11:20:36"
+      "version": "3.3.0",
+      "released": "2026-10-12T20:51:58"
     },
     "3.14": {
-      "version": "3.2.0",
-      "released": "2026-01-30T11:20:36"
+      "version": "3.3.0",
+      "released": "2026-10-12T20:51:58"
     }
   }
 }
