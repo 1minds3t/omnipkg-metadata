@@ -1,6 +1,6 @@
 {
   "package": "markdown",
-  "last_updated": "3.11",
+  "last_updated": "3.11.1",
   "python_compatibility": {
     "3.7": {
       "version": "3.4.4",
@@ -19,20 +19,20 @@
       "released": "2026-07-30T19:05:27"
     },
     "3.11": {
-      "version": "3.11",
-      "released": "2026-09-25T13:46:22"
+      "version": "3.11.1",
+      "released": "2026-10-13T19:29:12"
     },
     "3.12": {
-      "version": "3.11",
-      "released": "2026-09-25T13:46:22"
+      "version": "3.11.1",
+      "released": "2026-10-13T19:29:12"
     },
     "3.13": {
-      "version": "3.11",
-      "released": "2026-09-25T13:46:22"
+      "version": "3.11.1",
+      "released": "2026-10-13T19:29:12"
     },
     "3.14": {
-      "version": "3.11",
-      "released": "2026-09-25T13:46:22"
+      "version": "3.11.1",
+      "released": "2026-10-13T19:29:12"
     }
   }
 }
