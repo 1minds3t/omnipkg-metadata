@@ -1,6 +1,6 @@
 {
   "package": "pymongo",
-  "last_updated": "4.18.3",
+  "last_updated": "4.19.0",
   "python_compatibility": {
     "3.7": {
       "version": "4.7.3",
@@ -19,20 +19,20 @@
       "released": "2026-10-08T19:41:50"
     },
     "3.11": {
-      "version": "4.18.3",
-      "released": "2026-10-08T19:41:50"
+      "version": "4.19.0",
+      "released": "2026-10-14T19:46:01"
     },
     "3.12": {
-      "version": "4.18.3",
-      "released": "2026-10-08T19:41:50"
+      "version": "4.19.0",
+      "released": "2026-10-14T19:46:01"
     },
     "3.13": {
-      "version": "4.18.3",
-      "released": "2026-10-08T19:41:50"
+      "version": "4.19.0",
+      "released": "2026-10-14T19:46:01"
     },
     "3.14": {
-      "version": "4.18.3",
-      "released": "2026-10-08T19:41:50"
+      "version": "4.19.0",
+      "released": "2026-10-14T19:46:01"
     }
   }
 }

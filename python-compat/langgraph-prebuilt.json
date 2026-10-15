@@ -1,6 +1,6 @@
 {
   "package": "langgraph-prebuilt",
-  "last_updated": "1.1.0",
+  "last_updated": "1.1.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2025-10-21T00:14:49"
     },
     "3.10": {
-      "version": "1.1.0",
-      "released": "2026-05-12T03:37:48"
+      "version": "1.1.1",
+      "released": "2026-10-15T04:32:24"
     },
     "3.11": {
-      "version": "1.1.0",
-      "released": "2026-05-12T03:37:48"
+      "version": "1.1.1",
+      "released": "2026-10-15T04:32:24"
     },
     "3.12": {
-      "version": "1.1.0",
-      "released": "2026-05-12T03:37:48"
+      "version": "1.1.1",
+      "released": "2026-10-15T04:32:24"
     },
     "3.13": {
-      "version": "1.1.0",
-      "released": "2026-05-12T03:37:48"
+      "version": "1.1.1",
+      "released": "2026-10-15T04:32:24"
     },
     "3.14": {
-      "version": "1.1.0",
-      "released": "2026-05-12T03:37:48"
+      "version": "1.1.1",
+      "released": "2026-10-15T04:32:24"
     }
   }
 }
