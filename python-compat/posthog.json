@@ -1,6 +1,6 @@
 {
   "package": "posthog",
-  "last_updated": "7.70.0",
+  "last_updated": "7.70.2",
   "python_compatibility": {
     "3.7": {
       "version": "4.2.0",
@@ -15,24 +15,24 @@
       "released": "2025-11-11T17:56:56"
     },
     "3.10": {
-      "version": "7.70.0",
-      "released": "2026-10-14T16:55:18"
+      "version": "7.70.2",
+      "released": "2026-10-15T17:03:12"
     },
     "3.11": {
-      "version": "7.70.0",
-      "released": "2026-10-14T16:55:18"
+      "version": "7.70.2",
+      "released": "2026-10-15T17:03:12"
     },
     "3.12": {
-      "version": "7.70.0",
-      "released": "2026-10-14T16:55:18"
+      "version": "7.70.2",
+      "released": "2026-10-15T17:03:12"
     },
     "3.13": {
-      "version": "7.70.0",
-      "released": "2026-10-14T16:55:18"
+      "version": "7.70.2",
+      "released": "2026-10-15T17:03:12"
     },
     "3.14": {
-      "version": "7.70.0",
-      "released": "2026-10-14T16:55:18"
+      "version": "7.70.2",
+      "released": "2026-10-15T17:03:12"
     }
   }
 }

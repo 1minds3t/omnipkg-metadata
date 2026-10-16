@@ -1,6 +1,6 @@
 {
   "package": "pluggy",
-  "last_updated": "1.6.0",
+  "last_updated": "1.7.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.2.0",
@@ -15,24 +15,24 @@
       "released": "2025-05-15T12:30:06"
     },
     "3.10": {
-      "version": "1.6.0",
-      "released": "2025-05-15T12:30:06"
+      "version": "1.7.0",
+      "released": "2026-10-15T09:50:56"
     },
     "3.11": {
-      "version": "1.6.0",
-      "released": "2025-05-15T12:30:06"
+      "version": "1.7.0",
+      "released": "2026-10-15T09:50:56"
     },
     "3.12": {
-      "version": "1.6.0",
-      "released": "2025-05-15T12:30:06"
+      "version": "1.7.0",
+      "released": "2026-10-15T09:50:56"
     },
     "3.13": {
-      "version": "1.6.0",
-      "released": "2025-05-15T12:30:06"
+      "version": "1.7.0",
+      "released": "2026-10-15T09:50:56"
     },
     "3.14": {
-      "version": "1.6.0",
-      "released": "2025-05-15T12:30:06"
+      "version": "1.7.0",
+      "released": "2026-10-15T09:50:56"
     }
   }
 }
