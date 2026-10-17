@@ -1,6 +1,6 @@
 {
   "package": "portalocker",
-  "last_updated": "4.4.0",
+  "last_updated": "4.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "2.7.0",
@@ -15,24 +15,24 @@
       "released": "2025-06-14T13:20:38"
     },
     "3.10": {
-      "version": "4.4.0",
-      "released": "2026-09-19T16:11:07"
+      "version": "4.4.1",
+      "released": "2026-10-16T12:42:45"
     },
     "3.11": {
-      "version": "4.4.0",
-      "released": "2026-09-19T16:11:07"
+      "version": "4.4.1",
+      "released": "2026-10-16T12:42:45"
     },
     "3.12": {
-      "version": "4.4.0",
-      "released": "2026-09-19T16:11:07"
+      "version": "4.4.1",
+      "released": "2026-10-16T12:42:45"
     },
     "3.13": {
-      "version": "4.4.0",
-      "released": "2026-09-19T16:11:07"
+      "version": "4.4.1",
+      "released": "2026-10-16T12:42:45"
     },
     "3.14": {
-      "version": "4.4.0",
-      "released": "2026-09-19T16:11:07"
+      "version": "4.4.1",
+      "released": "2026-10-16T12:42:45"
     }
   }
 }

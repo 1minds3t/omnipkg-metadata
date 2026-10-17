@@ -1,6 +1,6 @@
 {
   "package": "pillow",
-  "last_updated": "12.3.0",
+  "last_updated": "13.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "9.5.0",
@@ -19,20 +19,20 @@
       "released": "2026-07-01T11:53:27"
     },
     "3.11": {
-      "version": "12.3.0",
-      "released": "2026-07-01T11:53:27"
+      "version": "13.0.0",
+      "released": "2026-10-16T22:15:24"
     },
     "3.12": {
-      "version": "12.3.0",
-      "released": "2026-07-01T11:53:27"
+      "version": "13.0.0",
+      "released": "2026-10-16T22:15:24"
     },
     "3.13": {
-      "version": "12.3.0",
-      "released": "2026-07-01T11:53:27"
+      "version": "13.0.0",
+      "released": "2026-10-16T22:15:24"
     },
     "3.14": {
-      "version": "12.3.0",
-      "released": "2026-07-01T11:53:27"
+      "version": "13.0.0",
+      "released": "2026-10-16T22:15:24"
     }
   }
 }
