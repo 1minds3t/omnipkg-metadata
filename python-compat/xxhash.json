@@ -1,6 +1,6 @@
 {
   "package": "xxhash",
-  "last_updated": "4.0.1",
+  "last_updated": "4.0.2",
   "python_compatibility": {
     "3.7": {
       "version": "3.6.0",
@@ -11,28 +11,28 @@
       "released": "2026-10-18T04:02:58"
     },
     "3.9": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     },
     "3.10": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     },
     "3.11": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     },
     "3.12": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     },
     "3.13": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     },
     "3.14": {
-      "version": "4.0.1",
-      "released": "2026-08-17T08:20:33"
+      "version": "4.0.2",
+      "released": "2026-10-19T05:57:55"
     }
   }
 }

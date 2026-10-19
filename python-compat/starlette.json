@@ -1,6 +1,6 @@
 {
   "package": "starlette",
-  "last_updated": "1.8.0",
+  "last_updated": "1.9.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.29.0",
@@ -19,20 +19,20 @@
       "released": "2026-09-23T07:30:24"
     },
     "3.11": {
-      "version": "1.8.0",
-      "released": "2026-10-13T07:54:38"
+      "version": "1.9.0",
+      "released": "2026-10-18T15:50:31"
     },
     "3.12": {
-      "version": "1.8.0",
-      "released": "2026-10-13T07:54:38"
+      "version": "1.9.0",
+      "released": "2026-10-18T15:50:31"
     },
     "3.13": {
-      "version": "1.8.0",
-      "released": "2026-10-13T07:54:38"
+      "version": "1.9.0",
+      "released": "2026-10-18T15:50:31"
     },
     "3.14": {
-      "version": "1.8.0",
-      "released": "2026-10-13T07:54:38"
+      "version": "1.9.0",
+      "released": "2026-10-18T15:50:31"
     }
   }
 }
