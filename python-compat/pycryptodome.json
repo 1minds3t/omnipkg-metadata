@@ -1,6 +1,6 @@
 {
   "package": "pycryptodome",
-  "last_updated": "4.0.1",
+  "last_updated": "4.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.24.1",
@@ -11,28 +11,28 @@
       "released": "2026-10-11T19:09:08"
     },
     "3.9": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     },
     "3.10": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     },
     "3.11": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     },
     "3.12": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     },
     "3.13": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     },
     "3.14": {
-      "version": "4.0.1",
-      "released": "2026-10-17T18:10:48"
+      "version": "4.1.0",
+      "released": "2026-10-19T11:01:39"
     }
   }
 }

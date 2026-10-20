@@ -1,6 +1,6 @@
 {
   "package": "httpcore2",
-  "last_updated": "2.14.0",
+  "last_updated": "2.15.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -16,20 +16,20 @@
       "released": "2026-10-18T16:29:19"
     },
     "3.11": {
-      "version": "2.14.0",
-      "released": "2026-10-18T16:29:19"
+      "version": "2.15.1",
+      "released": "2026-10-19T20:14:21"
     },
     "3.12": {
-      "version": "2.14.0",
-      "released": "2026-10-18T16:29:19"
+      "version": "2.15.1",
+      "released": "2026-10-19T20:14:21"
     },
     "3.13": {
-      "version": "2.14.0",
-      "released": "2026-10-18T16:29:19"
+      "version": "2.15.1",
+      "released": "2026-10-19T20:14:21"
     },
     "3.14": {
-      "version": "2.14.0",
-      "released": "2026-10-18T16:29:19"
+      "version": "2.15.1",
+      "released": "2026-10-19T20:14:21"
     }
   }
 }
