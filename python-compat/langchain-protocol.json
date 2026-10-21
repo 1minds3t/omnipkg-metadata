@@ -1,29 +1,29 @@
 {
   "package": "langchain-protocol",
-  "last_updated": "0.0.19",
+  "last_updated": "0.0.20",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
     "3.9": null,
     "3.10": {
-      "version": "0.0.19",
-      "released": "2026-08-26T21:11:59"
+      "version": "0.0.20",
+      "released": "2026-10-20T11:13:49"
     },
     "3.11": {
-      "version": "0.0.19",
-      "released": "2026-08-26T21:11:59"
+      "version": "0.0.20",
+      "released": "2026-10-20T11:13:49"
     },
     "3.12": {
-      "version": "0.0.19",
-      "released": "2026-08-26T21:11:59"
+      "version": "0.0.20",
+      "released": "2026-10-20T11:13:49"
     },
     "3.13": {
-      "version": "0.0.19",
-      "released": "2026-08-26T21:11:59"
+      "version": "0.0.20",
+      "released": "2026-10-20T11:13:49"
     },
     "3.14": {
-      "version": "0.0.19",
-      "released": "2026-08-26T21:11:59"
+      "version": "0.0.20",
+      "released": "2026-10-20T11:13:49"
     }
   }
 }
