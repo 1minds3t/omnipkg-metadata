@@ -1,38 +1,38 @@
 {
   "package": "python-dateutil",
-  "last_updated": "2.9.0.post0",
+  "last_updated": "3.0.0",
   "python_compatibility": {
     "3.7": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.8": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.9": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.10": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.11": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.12": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.13": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     },
     "3.14": {
-      "version": "2.9.0.post0",
-      "released": "2024-03-01T18:36:18"
+      "version": "3.0.0",
+      "released": "2026-10-21T23:41:43"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "package": "wcmatch",
-  "last_updated": "11.1",
+  "last_updated": "11.2",
   "python_compatibility": {
     "3.7": {
       "version": "8.4.1",
@@ -19,20 +19,20 @@
       "released": "2026-10-10T13:10:52"
     },
     "3.11": {
-      "version": "11.1",
-      "released": "2026-10-10T13:10:52"
+      "version": "11.2",
+      "released": "2026-10-22T00:37:56"
     },
     "3.12": {
-      "version": "11.1",
-      "released": "2026-10-10T13:10:52"
+      "version": "11.2",
+      "released": "2026-10-22T00:37:56"
     },
     "3.13": {
-      "version": "11.1",
-      "released": "2026-10-10T13:10:52"
+      "version": "11.2",
+      "released": "2026-10-22T00:37:56"
     },
     "3.14": {
-      "version": "11.1",
-      "released": "2026-10-10T13:10:52"
+      "version": "11.2",
+      "released": "2026-10-22T00:37:56"
     }
   }
 }

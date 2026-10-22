@@ -1,6 +1,6 @@
 {
   "package": "tornado",
-  "last_updated": "6.5.10",
+  "last_updated": "6.6",
   "python_compatibility": {
     "3.7": {
       "version": "6.2",
@@ -19,20 +19,20 @@
       "released": "2026-09-15T13:47:35"
     },
     "3.11": {
-      "version": "6.5.10",
-      "released": "2026-09-15T13:47:35"
+      "version": "6.6",
+      "released": "2026-10-21T15:30:05"
     },
     "3.12": {
-      "version": "6.5.10",
-      "released": "2026-09-15T13:47:35"
+      "version": "6.6",
+      "released": "2026-10-21T15:30:05"
     },
     "3.13": {
-      "version": "6.5.10",
-      "released": "2026-09-15T13:47:35"
+      "version": "6.6",
+      "released": "2026-10-21T15:30:05"
     },
     "3.14": {
-      "version": "6.5.10",
-      "released": "2026-09-15T13:47:35"
+      "version": "6.6",
+      "released": "2026-10-21T15:30:05"
     }
   }
 }
