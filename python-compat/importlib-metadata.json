@@ -1,6 +1,6 @@
 {
   "package": "importlib-metadata",
-  "last_updated": "9.0.1",
+  "last_updated": "9.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "6.7.0",
@@ -19,20 +19,20 @@
       "released": "2026-08-28T15:30:33"
     },
     "3.11": {
-      "version": "9.0.1",
-      "released": "2026-08-28T15:30:33"
+      "version": "9.1.0",
+      "released": "2026-10-22T23:22:12"
     },
     "3.12": {
-      "version": "9.0.1",
-      "released": "2026-08-28T15:30:33"
+      "version": "9.1.0",
+      "released": "2026-10-22T23:22:12"
     },
     "3.13": {
-      "version": "9.0.1",
-      "released": "2026-08-28T15:30:33"
+      "version": "9.1.0",
+      "released": "2026-10-22T23:22:12"
     },
     "3.14": {
-      "version": "9.0.1",
-      "released": "2026-08-28T15:30:33"
+      "version": "9.1.0",
+      "released": "2026-10-22T23:22:12"
     }
   }
 }

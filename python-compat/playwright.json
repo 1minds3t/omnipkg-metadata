@@ -1,6 +1,6 @@
 {
   "package": "playwright",
-  "last_updated": "1.64.0",
+  "last_updated": "1.64.1",
   "python_compatibility": {
     "3.7": {
       "version": "1.35.0",
@@ -15,24 +15,24 @@
       "released": "2026-05-18T12:00:31"
     },
     "3.10": {
-      "version": "1.64.0",
-      "released": "2026-10-13T23:35:20"
+      "version": "1.64.1",
+      "released": "2026-10-22T16:29:58"
     },
     "3.11": {
-      "version": "1.64.0",
-      "released": "2026-10-13T23:35:20"
+      "version": "1.64.1",
+      "released": "2026-10-22T16:29:58"
     },
     "3.12": {
-      "version": "1.64.0",
-      "released": "2026-10-13T23:35:20"
+      "version": "1.64.1",
+      "released": "2026-10-22T16:29:58"
     },
     "3.13": {
-      "version": "1.64.0",
-      "released": "2026-10-13T23:35:20"
+      "version": "1.64.1",
+      "released": "2026-10-22T16:29:58"
     },
     "3.14": {
-      "version": "1.64.0",
-      "released": "2026-10-13T23:35:20"
+      "version": "1.64.1",
+      "released": "2026-10-22T16:29:58"
     }
   }
 }

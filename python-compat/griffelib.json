@@ -1,6 +1,6 @@
 {
   "package": "griffelib",
-  "last_updated": "2.4.0",
+  "last_updated": "2.4.1",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -10,20 +10,20 @@
       "released": "2026-10-06T09:04:09"
     },
     "3.11": {
-      "version": "2.4.0",
-      "released": "2026-10-19T16:26:49"
+      "version": "2.4.1",
+      "released": "2026-10-22T11:19:59"
     },
     "3.12": {
-      "version": "2.4.0",
-      "released": "2026-10-19T16:26:49"
+      "version": "2.4.1",
+      "released": "2026-10-22T11:19:59"
     },
     "3.13": {
-      "version": "2.4.0",
-      "released": "2026-10-19T16:26:49"
+      "version": "2.4.1",
+      "released": "2026-10-22T11:19:59"
     },
     "3.14": {
-      "version": "2.4.0",
-      "released": "2026-10-19T16:26:49"
+      "version": "2.4.1",
+      "released": "2026-10-22T11:19:59"
     }
   }
 }
