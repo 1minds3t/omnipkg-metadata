@@ -1,6 +1,6 @@
 {
   "package": "multidict",
-  "last_updated": "7.1.0",
+  "last_updated": "7.2.1",
   "python_compatibility": {
     "3.7": {
       "version": "6.0.5",
@@ -19,20 +19,20 @@
       "released": "2026-10-09T13:58:50"
     },
     "3.11": {
-      "version": "7.1.0",
-      "released": "2026-10-09T13:58:50"
+      "version": "7.2.1",
+      "released": "2026-10-24T20:40:02"
     },
     "3.12": {
-      "version": "7.1.0",
-      "released": "2026-10-09T13:58:50"
+      "version": "7.2.1",
+      "released": "2026-10-24T20:40:02"
     },
     "3.13": {
-      "version": "7.1.0",
-      "released": "2026-10-09T13:58:50"
+      "version": "7.2.1",
+      "released": "2026-10-24T20:40:02"
     },
     "3.14": {
-      "version": "7.1.0",
-      "released": "2026-10-09T13:58:50"
+      "version": "7.2.1",
+      "released": "2026-10-24T20:40:02"
     }
   }
 }
