@@ -1,6 +1,6 @@
 {
   "package": "pytest-asyncio",
-  "last_updated": "1.4.0",
+  "last_updated": "1.4.1",
   "python_compatibility": {
     "3.7": {
       "version": "0.21.2",
@@ -15,24 +15,24 @@
       "released": "2025-09-12T07:33:52"
     },
     "3.10": {
-      "version": "1.4.0",
-      "released": "2026-05-26T09:56:02"
+      "version": "1.4.1",
+      "released": "2026-10-25T21:05:35"
     },
     "3.11": {
-      "version": "1.4.0",
-      "released": "2026-05-26T09:56:02"
+      "version": "1.4.1",
+      "released": "2026-10-25T21:05:35"
     },
     "3.12": {
-      "version": "1.4.0",
-      "released": "2026-05-26T09:56:02"
+      "version": "1.4.1",
+      "released": "2026-10-25T21:05:35"
     },
     "3.13": {
-      "version": "1.4.0",
-      "released": "2026-05-26T09:56:02"
+      "version": "1.4.1",
+      "released": "2026-10-25T21:05:35"
     },
     "3.14": {
-      "version": "1.4.0",
-      "released": "2026-05-26T09:56:02"
+      "version": "1.4.1",
+      "released": "2026-10-25T21:05:35"
     }
   }
 }

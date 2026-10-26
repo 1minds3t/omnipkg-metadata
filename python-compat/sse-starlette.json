@@ -1,6 +1,6 @@
 {
   "package": "sse-starlette",
-  "last_updated": "3.5.1",
+  "last_updated": "3.6.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.10.3",
@@ -19,20 +19,20 @@
       "released": "2026-10-24T08:45:10"
     },
     "3.11": {
-      "version": "3.5.1",
-      "released": "2026-10-24T08:45:10"
+      "version": "3.6.0",
+      "released": "2026-10-25T20:31:58"
     },
     "3.12": {
-      "version": "3.5.1",
-      "released": "2026-10-24T08:45:10"
+      "version": "3.6.0",
+      "released": "2026-10-25T20:31:58"
     },
     "3.13": {
-      "version": "3.5.1",
-      "released": "2026-10-24T08:45:10"
+      "version": "3.6.0",
+      "released": "2026-10-25T20:31:58"
     },
     "3.14": {
-      "version": "3.5.1",
-      "released": "2026-10-24T08:45:10"
+      "version": "3.6.0",
+      "released": "2026-10-25T20:31:58"
     }
   }
 }
