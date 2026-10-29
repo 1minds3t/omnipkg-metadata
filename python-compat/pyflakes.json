@@ -1,6 +1,6 @@
 {
   "package": "pyflakes",
-  "last_updated": "4.0.3",
+  "last_updated": "4.1.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.1",
@@ -19,20 +19,20 @@
       "released": "2026-10-07T18:57:24"
     },
     "3.11": {
-      "version": "4.0.3",
-      "released": "2026-10-07T18:57:24"
+      "version": "4.1.0",
+      "released": "2026-10-28T20:10:01"
     },
     "3.12": {
-      "version": "4.0.3",
-      "released": "2026-10-07T18:57:24"
+      "version": "4.1.0",
+      "released": "2026-10-28T20:10:01"
     },
     "3.13": {
-      "version": "4.0.3",
-      "released": "2026-10-07T18:57:24"
+      "version": "4.1.0",
+      "released": "2026-10-28T20:10:01"
     },
     "3.14": {
-      "version": "4.0.3",
-      "released": "2026-10-07T18:57:24"
+      "version": "4.1.0",
+      "released": "2026-10-28T20:10:01"
     }
   }
 }

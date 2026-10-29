@@ -1,6 +1,6 @@
 {
   "package": "pkginfo",
-  "last_updated": "1.13.3",
+  "last_updated": "2.0",
   "python_compatibility": {
     "3.7": {
       "version": "1.10.0",
@@ -19,20 +19,20 @@
       "released": "2026-10-16T23:15:05"
     },
     "3.11": {
-      "version": "1.13.3",
-      "released": "2026-10-16T23:15:05"
+      "version": "2.0",
+      "released": "2026-10-28T15:36:41"
     },
     "3.12": {
-      "version": "1.13.3",
-      "released": "2026-10-16T23:15:05"
+      "version": "2.0",
+      "released": "2026-10-28T15:36:41"
     },
     "3.13": {
-      "version": "1.13.3",
-      "released": "2026-10-16T23:15:05"
+      "version": "2.0",
+      "released": "2026-10-28T15:36:41"
     },
     "3.14": {
-      "version": "1.13.3",
-      "released": "2026-10-16T23:15:05"
+      "version": "2.0",
+      "released": "2026-10-28T15:36:41"
     }
   }
 }

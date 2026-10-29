@@ -1,6 +1,6 @@
 {
   "package": "flake8",
-  "last_updated": "7.4.1",
+  "last_updated": "7.5.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.0.4",
@@ -19,20 +19,20 @@
       "released": "2026-09-23T12:21:58"
     },
     "3.11": {
-      "version": "7.4.1",
-      "released": "2026-09-23T12:21:58"
+      "version": "7.5.0",
+      "released": "2026-10-28T20:17:21"
     },
     "3.12": {
-      "version": "7.4.1",
-      "released": "2026-09-23T12:21:58"
+      "version": "7.5.0",
+      "released": "2026-10-28T20:17:21"
     },
     "3.13": {
-      "version": "7.4.1",
-      "released": "2026-09-23T12:21:58"
+      "version": "7.5.0",
+      "released": "2026-10-28T20:17:21"
     },
     "3.14": {
-      "version": "7.4.1",
-      "released": "2026-09-23T12:21:58"
+      "version": "7.5.0",
+      "released": "2026-10-28T20:17:21"
     }
   }
 }
