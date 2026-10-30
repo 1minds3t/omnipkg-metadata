@@ -1,6 +1,6 @@
 {
   "package": "opentelemetry-proto",
-  "last_updated": "1.45.1",
+  "last_updated": "1.45.2",
   "python_compatibility": {
     "3.7": {
       "version": "1.22.0",
@@ -15,24 +15,24 @@
       "released": "2026-04-24T13:15:32"
     },
     "3.10": {
-      "version": "1.45.1",
-      "released": "2026-10-06T17:32:53"
+      "version": "1.45.2",
+      "released": "2026-10-29T17:29:31"
     },
     "3.11": {
-      "version": "1.45.1",
-      "released": "2026-10-06T17:32:53"
+      "version": "1.45.2",
+      "released": "2026-10-29T17:29:31"
     },
     "3.12": {
-      "version": "1.45.1",
-      "released": "2026-10-06T17:32:53"
+      "version": "1.45.2",
+      "released": "2026-10-29T17:29:31"
     },
     "3.13": {
-      "version": "1.45.1",
-      "released": "2026-10-06T17:32:53"
+      "version": "1.45.2",
+      "released": "2026-10-29T17:29:31"
     },
     "3.14": {
-      "version": "1.45.1",
-      "released": "2026-10-06T17:32:53"
+      "version": "1.45.2",
+      "released": "2026-10-29T17:29:31"
     }
   }
 }

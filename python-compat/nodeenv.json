@@ -1,38 +1,38 @@
 {
   "package": "nodeenv",
-  "last_updated": "1.11.0",
+  "last_updated": "1.11.1",
   "python_compatibility": {
     "3.7": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.8": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.9": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.10": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.11": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.12": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.13": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     },
     "3.14": {
-      "version": "1.11.0",
-      "released": "2026-09-26T11:29:19"
+      "version": "1.11.1",
+      "released": "2026-10-29T20:54:02"
     }
   }
 }
