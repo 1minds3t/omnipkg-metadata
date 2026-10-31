@@ -1,6 +1,6 @@
 {
   "package": "watchdog",
-  "last_updated": "6.0.0",
+  "last_updated": "7.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.0",
@@ -19,20 +19,20 @@
       "released": "2024-11-01T14:06:24"
     },
     "3.11": {
-      "version": "6.0.0",
-      "released": "2024-11-01T14:06:24"
+      "version": "7.0.0",
+      "released": "2026-10-31T08:53:40"
     },
     "3.12": {
-      "version": "6.0.0",
-      "released": "2024-11-01T14:06:24"
+      "version": "7.0.0",
+      "released": "2026-10-31T08:53:40"
     },
     "3.13": {
-      "version": "6.0.0",
-      "released": "2024-11-01T14:06:24"
+      "version": "7.0.0",
+      "released": "2026-10-31T08:53:40"
     },
     "3.14": {
-      "version": "6.0.0",
-      "released": "2024-11-01T14:06:24"
+      "version": "7.0.0",
+      "released": "2026-10-31T08:53:40"
     }
   }
 }

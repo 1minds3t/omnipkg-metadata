@@ -1,6 +1,6 @@
 {
   "package": "pyspark",
-  "last_updated": "4.2.1",
+  "last_updated": "4.3.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.4.4",
@@ -19,20 +19,20 @@
       "released": "2026-10-27T17:32:45"
     },
     "3.11": {
-      "version": "4.2.1",
-      "released": "2026-10-27T17:32:45"
+      "version": "4.3.0",
+      "released": "2026-10-30T15:30:57"
     },
     "3.12": {
-      "version": "4.2.1",
-      "released": "2026-10-27T17:32:45"
+      "version": "4.3.0",
+      "released": "2026-10-30T15:30:57"
     },
     "3.13": {
-      "version": "4.2.1",
-      "released": "2026-10-27T17:32:45"
+      "version": "4.3.0",
+      "released": "2026-10-30T15:30:57"
     },
     "3.14": {
-      "version": "4.2.1",
-      "released": "2026-10-27T17:32:45"
+      "version": "4.3.0",
+      "released": "2026-10-30T15:30:57"
     }
   }
 }

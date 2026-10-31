@@ -1,6 +1,6 @@
 {
   "package": "python-discovery",
-  "last_updated": "1.6.7",
+  "last_updated": "1.9.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -8,28 +8,28 @@
       "released": "2026-09-18T01:31:52"
     },
     "3.9": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     },
     "3.10": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     },
     "3.11": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     },
     "3.12": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     },
     "3.13": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     },
     "3.14": {
-      "version": "1.6.7",
-      "released": "2026-10-28T06:24:20"
+      "version": "1.9.0",
+      "released": "2026-10-30T23:24:23"
     }
   }
 }

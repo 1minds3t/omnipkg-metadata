@@ -1,6 +1,6 @@
 {
   "package": "websockets",
-  "last_updated": "17.3",
+  "last_updated": "17.4",
   "python_compatibility": {
     "3.7": {
       "version": "11.0.3",
@@ -19,20 +19,20 @@
       "released": "2026-07-17T22:48:24"
     },
     "3.11": {
-      "version": "17.3",
-      "released": "2026-10-19T16:54:25"
+      "version": "17.4",
+      "released": "2026-10-30T15:06:39"
     },
     "3.12": {
-      "version": "17.3",
-      "released": "2026-10-19T16:54:25"
+      "version": "17.4",
+      "released": "2026-10-30T15:06:39"
     },
     "3.13": {
-      "version": "17.3",
-      "released": "2026-10-19T16:54:25"
+      "version": "17.4",
+      "released": "2026-10-30T15:06:39"
     },
     "3.14": {
-      "version": "17.3",
-      "released": "2026-10-19T16:54:25"
+      "version": "17.4",
+      "released": "2026-10-30T15:06:39"
     }
   }
 }
