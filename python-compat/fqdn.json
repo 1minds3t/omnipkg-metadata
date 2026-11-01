@@ -1,38 +1,38 @@
 {
   "package": "fqdn",
-  "last_updated": "1.5.1",
+  "last_updated": "1.6.0",
   "python_compatibility": {
     "3.7": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.8": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.9": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.10": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.11": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.12": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.13": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     },
     "3.14": {
-      "version": "1.5.1",
-      "released": "2021-03-11T07:16:28"
+      "version": "1.6.0",
+      "released": "2026-09-28T05:43:33"
     }
   }
 }

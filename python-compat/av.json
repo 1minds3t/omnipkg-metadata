@@ -1,0 +1,38 @@
+{
+  "package": "av",
+  "last_updated": "19.0.2",
+  "python_compatibility": {
+    "3.7": {
+      "version": "14.3.0",
+      "released": null
+    },
+    "3.8": {
+      "version": "14.3.0",
+      "released": null
+    },
+    "3.9": {
+      "version": "15.1.0",
+      "released": "2025-08-30T04:39:13"
+    },
+    "3.10": {
+      "version": "17.1.0",
+      "released": "2026-06-07T05:51:40"
+    },
+    "3.11": {
+      "version": "18.1.0",
+      "released": "2026-08-12T22:27:11"
+    },
+    "3.12": {
+      "version": "19.0.2",
+      "released": "2026-10-21T03:44:28"
+    },
+    "3.13": {
+      "version": "19.0.2",
+      "released": "2026-10-21T03:44:28"
+    },
+    "3.14": {
+      "version": "19.0.2",
+      "released": "2026-10-21T03:44:28"
+    }
+  }
+}

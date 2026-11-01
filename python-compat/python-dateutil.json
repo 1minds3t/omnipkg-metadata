@@ -1,6 +1,6 @@
 {
   "package": "python-dateutil",
-  "last_updated": "3.0.0",
+  "last_updated": "4.0.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.0.0",
@@ -19,20 +19,20 @@
       "released": "2026-10-21T23:41:43"
     },
     "3.11": {
-      "version": "3.0.0",
-      "released": "2026-10-21T23:41:43"
+      "version": "4.0.0",
+      "released": "2026-11-01T07:02:40"
     },
     "3.12": {
-      "version": "3.0.0",
-      "released": "2026-10-21T23:41:43"
+      "version": "4.0.0",
+      "released": "2026-11-01T07:02:40"
     },
     "3.13": {
-      "version": "3.0.0",
-      "released": "2026-10-21T23:41:43"
+      "version": "4.0.0",
+      "released": "2026-11-01T07:02:40"
     },
     "3.14": {
-      "version": "3.0.0",
-      "released": "2026-10-21T23:41:43"
+      "version": "4.0.0",
+      "released": "2026-11-01T07:02:40"
     }
   }
 }
