@@ -1,6 +1,6 @@
 {
   "package": "fastjsonschema",
-  "last_updated": "2.22.2",
+  "last_updated": "2.22.3",
   "python_compatibility": {
     "3.7": {
       "version": "2.22.0",
@@ -15,24 +15,24 @@
       "released": "2026-07-25T20:32:33"
     },
     "3.10": {
-      "version": "2.22.2",
-      "released": "2026-08-15T19:47:04"
+      "version": "2.22.3",
+      "released": "2026-11-01T21:11:29"
     },
     "3.11": {
-      "version": "2.22.2",
-      "released": "2026-08-15T19:47:04"
+      "version": "2.22.3",
+      "released": "2026-11-01T21:11:29"
     },
     "3.12": {
-      "version": "2.22.2",
-      "released": "2026-08-15T19:47:04"
+      "version": "2.22.3",
+      "released": "2026-11-01T21:11:29"
     },
     "3.13": {
-      "version": "2.22.2",
-      "released": "2026-08-15T19:47:04"
+      "version": "2.22.3",
+      "released": "2026-11-01T21:11:29"
     },
     "3.14": {
-      "version": "2.22.2",
-      "released": "2026-08-15T19:47:04"
+      "version": "2.22.3",
+      "released": "2026-11-01T21:11:29"
     }
   }
 }
