@@ -1,6 +1,6 @@
 {
   "package": "pyarrow",
-  "last_updated": "26.0.0",
+  "last_updated": "26.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "12.0.1",
@@ -19,20 +19,20 @@
       "released": "2026-08-10T12:36:33"
     },
     "3.11": {
-      "version": "26.0.0",
-      "released": "2026-10-09T08:13:28"
+      "version": "26.0.1",
+      "released": "2026-11-03T09:54:01"
     },
     "3.12": {
-      "version": "26.0.0",
-      "released": "2026-10-09T08:13:28"
+      "version": "26.0.1",
+      "released": "2026-11-03T09:54:01"
     },
     "3.13": {
-      "version": "26.0.0",
-      "released": "2026-10-09T08:13:28"
+      "version": "26.0.1",
+      "released": "2026-11-03T09:54:01"
     },
     "3.14": {
-      "version": "26.0.0",
-      "released": "2026-10-09T08:13:28"
+      "version": "26.0.1",
+      "released": "2026-11-03T09:54:01"
     }
   }
 }

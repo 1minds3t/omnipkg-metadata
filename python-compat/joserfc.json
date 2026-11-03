@@ -1,6 +1,6 @@
 {
   "package": "joserfc",
-  "last_updated": "1.7.7",
+  "last_updated": "1.8.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -16,20 +16,20 @@
       "released": "2026-10-19T00:30:28"
     },
     "3.11": {
-      "version": "1.7.7",
-      "released": "2026-10-19T00:30:28"
+      "version": "1.8.0",
+      "released": "2026-11-03T10:45:56"
     },
     "3.12": {
-      "version": "1.7.7",
-      "released": "2026-10-19T00:30:28"
+      "version": "1.8.0",
+      "released": "2026-11-03T10:45:56"
     },
     "3.13": {
-      "version": "1.7.7",
-      "released": "2026-10-19T00:30:28"
+      "version": "1.8.0",
+      "released": "2026-11-03T10:45:56"
     },
     "3.14": {
-      "version": "1.7.7",
-      "released": "2026-10-19T00:30:28"
+      "version": "1.8.0",
+      "released": "2026-11-03T10:45:56"
     }
   }
 }

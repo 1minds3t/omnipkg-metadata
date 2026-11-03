@@ -1,6 +1,6 @@
 {
   "package": "kombu",
-  "last_updated": "5.6.2",
+  "last_updated": "5.7.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.2.4",
@@ -15,24 +15,24 @@
       "released": "2025-12-29T20:30:05"
     },
     "3.10": {
-      "version": "5.6.2",
-      "released": "2025-12-29T20:30:05"
+      "version": "5.7.0",
+      "released": "2026-11-03T05:58:31"
     },
     "3.11": {
-      "version": "5.6.2",
-      "released": "2025-12-29T20:30:05"
+      "version": "5.7.0",
+      "released": "2026-11-03T05:58:31"
     },
     "3.12": {
-      "version": "5.6.2",
-      "released": "2025-12-29T20:30:05"
+      "version": "5.7.0",
+      "released": "2026-11-03T05:58:31"
     },
     "3.13": {
-      "version": "5.6.2",
-      "released": "2025-12-29T20:30:05"
+      "version": "5.7.0",
+      "released": "2026-11-03T05:58:31"
     },
     "3.14": {
-      "version": "5.6.2",
-      "released": "2025-12-29T20:30:05"
+      "version": "5.7.0",
+      "released": "2026-11-03T05:58:31"
     }
   }
 }
