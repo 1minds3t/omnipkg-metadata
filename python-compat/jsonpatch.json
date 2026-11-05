@@ -1,6 +1,6 @@
 {
   "package": "jsonpatch",
-  "last_updated": "1.41",
+  "last_updated": "1.42",
   "python_compatibility": {
     "3.7": {
       "version": "1.33",
@@ -15,24 +15,24 @@
       "released": "2023-06-16T21:01:28"
     },
     "3.10": {
-      "version": "1.41",
-      "released": "2026-11-02T22:20:46"
+      "version": "1.42",
+      "released": "2026-11-04T12:32:37"
     },
     "3.11": {
-      "version": "1.41",
-      "released": "2026-11-02T22:20:46"
+      "version": "1.42",
+      "released": "2026-11-04T12:32:37"
     },
     "3.12": {
-      "version": "1.41",
-      "released": "2026-11-02T22:20:46"
+      "version": "1.42",
+      "released": "2026-11-04T12:32:37"
     },
     "3.13": {
-      "version": "1.41",
-      "released": "2026-11-02T22:20:46"
+      "version": "1.42",
+      "released": "2026-11-04T12:32:37"
     },
     "3.14": {
-      "version": "1.41",
-      "released": "2026-11-02T22:20:46"
+      "version": "1.42",
+      "released": "2026-11-04T12:32:37"
     }
   }
 }
