@@ -1,6 +1,6 @@
 {
   "package": "hypothesis",
-  "last_updated": "6.170.14",
+  "last_updated": "6.170.15",
   "python_compatibility": {
     "3.7": {
       "version": "6.79.4",
@@ -19,20 +19,20 @@
       "released": "2026-10-05T23:24:25"
     },
     "3.11": {
-      "version": "6.170.14",
-      "released": "2026-10-30T06:50:33"
+      "version": "6.170.15",
+      "released": "2026-11-06T09:53:36"
     },
     "3.12": {
-      "version": "6.170.14",
-      "released": "2026-10-30T06:50:33"
+      "version": "6.170.15",
+      "released": "2026-11-06T09:53:36"
     },
     "3.13": {
-      "version": "6.170.14",
-      "released": "2026-10-30T06:50:33"
+      "version": "6.170.15",
+      "released": "2026-11-06T09:53:36"
     },
     "3.14": {
-      "version": "6.170.14",
-      "released": "2026-10-30T06:50:33"
+      "version": "6.170.15",
+      "released": "2026-11-06T09:53:36"
     }
   }
 }

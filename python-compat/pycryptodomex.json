@@ -1,38 +1,38 @@
 {
   "package": "pycryptodomex",
-  "last_updated": "3.24.1",
+  "last_updated": "3.24.2",
   "python_compatibility": {
     "3.7": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.8": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.9": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.10": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.11": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.12": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.13": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     },
     "3.14": {
-      "version": "3.24.1",
-      "released": "2026-10-11T19:25:25"
+      "version": "3.24.2",
+      "released": "2026-11-05T19:03:34"
     }
   }
 }
