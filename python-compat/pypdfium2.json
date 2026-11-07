@@ -1,38 +1,38 @@
 {
   "package": "pypdfium2",
-  "last_updated": "5.14.0",
+  "last_updated": "5.15.0",
   "python_compatibility": {
     "3.7": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.8": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.9": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.10": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.11": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.12": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.13": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     },
     "3.14": {
-      "version": "5.14.0",
-      "released": "2026-10-04T15:18:40"
+      "version": "5.15.0",
+      "released": "2026-11-06T13:23:24"
     }
   }
 }
