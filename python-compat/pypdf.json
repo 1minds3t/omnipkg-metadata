@@ -1,6 +1,6 @@
 {
   "package": "pypdf",
-  "last_updated": "7.0.0",
+  "last_updated": "7.0.1",
   "python_compatibility": {
     "3.7": {
       "version": "5.0.0",
@@ -15,24 +15,24 @@
       "released": "2026-10-28T17:00:53"
     },
     "3.10": {
-      "version": "7.0.0",
-      "released": "2026-11-06T12:10:01"
+      "version": "7.0.1",
+      "released": "2026-11-10T11:47:20"
     },
     "3.11": {
-      "version": "7.0.0",
-      "released": "2026-11-06T12:10:01"
+      "version": "7.0.1",
+      "released": "2026-11-10T11:47:20"
     },
     "3.12": {
-      "version": "7.0.0",
-      "released": "2026-11-06T12:10:01"
+      "version": "7.0.1",
+      "released": "2026-11-10T11:47:20"
     },
     "3.13": {
-      "version": "7.0.0",
-      "released": "2026-11-06T12:10:01"
+      "version": "7.0.1",
+      "released": "2026-11-10T11:47:20"
     },
     "3.14": {
-      "version": "7.0.0",
-      "released": "2026-11-06T12:10:01"
+      "version": "7.0.1",
+      "released": "2026-11-10T11:47:20"
     }
   }
 }
