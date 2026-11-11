@@ -1,6 +1,6 @@
 {
   "package": "pytest-json-ctrf",
-  "last_updated": "0.6.1",
+  "last_updated": "0.6.5",
   "python_compatibility": {
     "3.7": null,
     "3.8": {
@@ -8,28 +8,28 @@
       "released": "2026-10-04T13:27:08"
     },
     "3.9": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     },
     "3.10": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     },
     "3.11": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     },
     "3.12": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     },
     "3.13": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     },
     "3.14": {
-      "version": "0.6.1",
-      "released": "2026-10-04T13:27:08"
+      "version": "0.6.5",
+      "released": "2026-11-10T19:04:42"
     }
   }
 }
