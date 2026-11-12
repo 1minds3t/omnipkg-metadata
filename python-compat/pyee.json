@@ -1,6 +1,6 @@
 {
   "package": "pyee",
-  "last_updated": "16.0.1",
+  "last_updated": "16.0.2",
   "python_compatibility": {
     "3.7": {
       "version": "10.0.2",
@@ -23,16 +23,16 @@
       "released": "2026-02-14T21:12:26"
     },
     "3.12": {
-      "version": "16.0.1",
-      "released": "2026-10-31T17:23:30"
+      "version": "16.0.2",
+      "released": "2026-11-11T19:54:52"
     },
     "3.13": {
-      "version": "16.0.1",
-      "released": "2026-10-31T17:23:30"
+      "version": "16.0.2",
+      "released": "2026-11-11T19:54:52"
     },
     "3.14": {
-      "version": "16.0.1",
-      "released": "2026-10-31T17:23:30"
+      "version": "16.0.2",
+      "released": "2026-11-11T19:54:52"
     }
   }
 }
