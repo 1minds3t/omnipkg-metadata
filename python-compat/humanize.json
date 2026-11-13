@@ -1,6 +1,6 @@
 {
   "package": "humanize",
-  "last_updated": "4.16.0",
+  "last_updated": "4.17.0",
   "python_compatibility": {
     "3.7": {
       "version": "4.6.0",
@@ -19,20 +19,20 @@
       "released": "2026-06-30T16:17:28"
     },
     "3.11": {
-      "version": "4.16.0",
-      "released": "2026-06-30T16:17:28"
+      "version": "4.17.0",
+      "released": "2026-11-12T12:33:32"
     },
     "3.12": {
-      "version": "4.16.0",
-      "released": "2026-06-30T16:17:28"
+      "version": "4.17.0",
+      "released": "2026-11-12T12:33:32"
     },
     "3.13": {
-      "version": "4.16.0",
-      "released": "2026-06-30T16:17:28"
+      "version": "4.17.0",
+      "released": "2026-11-12T12:33:32"
     },
     "3.14": {
-      "version": "4.16.0",
-      "released": "2026-06-30T16:17:28"
+      "version": "4.17.0",
+      "released": "2026-11-12T12:33:32"
     }
   }
 }
