@@ -1,6 +1,6 @@
 {
   "package": "fastapi",
-  "last_updated": "0.162.5",
+  "last_updated": "0.162.7",
   "python_compatibility": {
     "3.7": {
       "version": "0.103.2",
@@ -19,20 +19,20 @@
       "released": "2026-11-11T22:29:51"
     },
     "3.11": {
-      "version": "0.162.5",
-      "released": "2026-11-11T22:29:51"
+      "version": "0.162.7",
+      "released": "2026-11-13T17:47:16"
     },
     "3.12": {
-      "version": "0.162.5",
-      "released": "2026-11-11T22:29:51"
+      "version": "0.162.7",
+      "released": "2026-11-13T17:47:16"
     },
     "3.13": {
-      "version": "0.162.5",
-      "released": "2026-11-11T22:29:51"
+      "version": "0.162.7",
+      "released": "2026-11-13T17:47:16"
     },
     "3.14": {
-      "version": "0.162.5",
-      "released": "2026-11-11T22:29:51"
+      "version": "0.162.7",
+      "released": "2026-11-13T17:47:16"
     }
   }
 }

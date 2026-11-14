@@ -1,6 +1,6 @@
 {
   "package": "cbor2",
-  "last_updated": "6.2.1",
+  "last_updated": "6.3.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.4.6",
@@ -15,24 +15,24 @@
       "released": "2026-03-22T15:55:54"
     },
     "3.10": {
-      "version": "6.2.1",
-      "released": "2026-11-07T00:25:54"
+      "version": "6.3.0",
+      "released": "2026-11-13T22:57:15"
     },
     "3.11": {
-      "version": "6.2.1",
-      "released": "2026-11-07T00:25:54"
+      "version": "6.3.0",
+      "released": "2026-11-13T22:57:15"
     },
     "3.12": {
-      "version": "6.2.1",
-      "released": "2026-11-07T00:25:54"
+      "version": "6.3.0",
+      "released": "2026-11-13T22:57:15"
     },
     "3.13": {
-      "version": "6.2.1",
-      "released": "2026-11-07T00:25:54"
+      "version": "6.3.0",
+      "released": "2026-11-13T22:57:15"
     },
     "3.14": {
-      "version": "6.2.1",
-      "released": "2026-11-07T00:25:54"
+      "version": "6.3.0",
+      "released": "2026-11-13T22:57:15"
     }
   }
 }

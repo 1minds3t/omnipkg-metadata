@@ -1,6 +1,6 @@
 {
   "package": "fastapi-cli",
-  "last_updated": "0.0.33",
+  "last_updated": "0.0.34",
   "python_compatibility": {
     "3.7": {
       "version": "0.0.1",
@@ -19,20 +19,20 @@
       "released": "2026-11-11T09:18:04"
     },
     "3.11": {
-      "version": "0.0.33",
-      "released": "2026-11-11T09:18:04"
+      "version": "0.0.34",
+      "released": "2026-11-13T16:44:55"
     },
     "3.12": {
-      "version": "0.0.33",
-      "released": "2026-11-11T09:18:04"
+      "version": "0.0.34",
+      "released": "2026-11-13T16:44:55"
     },
     "3.13": {
-      "version": "0.0.33",
-      "released": "2026-11-11T09:18:04"
+      "version": "0.0.34",
+      "released": "2026-11-13T16:44:55"
     },
     "3.14": {
-      "version": "0.0.33",
-      "released": "2026-11-11T09:18:04"
+      "version": "0.0.34",
+      "released": "2026-11-13T16:44:55"
     }
   }
 }
