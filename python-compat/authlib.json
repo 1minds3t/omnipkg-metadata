@@ -1,6 +1,6 @@
 {
   "package": "authlib",
-  "last_updated": "1.9.6",
+  "last_updated": "1.9.8",
   "python_compatibility": {
     "3.7": {
       "version": "1.2.1",
@@ -15,24 +15,24 @@
       "released": "2026-05-04T08:11:30"
     },
     "3.10": {
-      "version": "1.9.6",
-      "released": "2026-11-14T19:47:44"
+      "version": "1.9.8",
+      "released": "2026-11-16T10:39:37"
     },
     "3.11": {
-      "version": "1.9.6",
-      "released": "2026-11-14T19:47:44"
+      "version": "1.9.8",
+      "released": "2026-11-16T10:39:37"
     },
     "3.12": {
-      "version": "1.9.6",
-      "released": "2026-11-14T19:47:44"
+      "version": "1.9.8",
+      "released": "2026-11-16T10:39:37"
     },
     "3.13": {
-      "version": "1.9.6",
-      "released": "2026-11-14T19:47:44"
+      "version": "1.9.8",
+      "released": "2026-11-16T10:39:37"
     },
     "3.14": {
-      "version": "1.9.6",
-      "released": "2026-11-14T19:47:44"
+      "version": "1.9.8",
+      "released": "2026-11-16T10:39:37"
     }
   }
 }
