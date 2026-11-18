@@ -1,6 +1,6 @@
 {
   "package": "grpcio",
-  "last_updated": "1.85.1",
+  "last_updated": "1.85.3",
   "python_compatibility": {
     "3.7": {
       "version": "1.62.3",
@@ -15,24 +15,24 @@
       "released": "2026-11-05T08:30:47"
     },
     "3.10": {
-      "version": "1.85.1",
-      "released": "2026-10-30T15:58:47"
+      "version": "1.85.3",
+      "released": "2026-11-18T04:25:59"
     },
     "3.11": {
-      "version": "1.85.1",
-      "released": "2026-10-30T15:58:47"
+      "version": "1.85.3",
+      "released": "2026-11-18T04:25:59"
     },
     "3.12": {
-      "version": "1.85.1",
-      "released": "2026-10-30T15:58:47"
+      "version": "1.85.3",
+      "released": "2026-11-18T04:25:59"
     },
     "3.13": {
-      "version": "1.85.1",
-      "released": "2026-10-30T15:58:47"
+      "version": "1.85.3",
+      "released": "2026-11-18T04:25:59"
     },
     "3.14": {
-      "version": "1.85.1",
-      "released": "2026-10-30T15:58:47"
+      "version": "1.85.3",
+      "released": "2026-11-18T04:25:59"
     }
   }
 }
