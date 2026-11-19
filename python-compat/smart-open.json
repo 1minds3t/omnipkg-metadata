@@ -1,6 +1,6 @@
 {
   "package": "smart-open",
-  "last_updated": "9.0.4",
+  "last_updated": "9.0.5",
   "python_compatibility": {
     "3.7": {
       "version": "7.3.0",
@@ -15,24 +15,24 @@
       "released": "2025-11-08T21:38:39"
     },
     "3.10": {
-      "version": "9.0.4",
-      "released": "2026-11-14T11:32:56"
+      "version": "9.0.5",
+      "released": "2026-11-18T17:34:43"
     },
     "3.11": {
-      "version": "9.0.4",
-      "released": "2026-11-14T11:32:56"
+      "version": "9.0.5",
+      "released": "2026-11-18T17:34:43"
     },
     "3.12": {
-      "version": "9.0.4",
-      "released": "2026-11-14T11:32:56"
+      "version": "9.0.5",
+      "released": "2026-11-18T17:34:43"
     },
     "3.13": {
-      "version": "9.0.4",
-      "released": "2026-11-14T11:32:56"
+      "version": "9.0.5",
+      "released": "2026-11-18T17:34:43"
     },
     "3.14": {
-      "version": "9.0.4",
-      "released": "2026-11-14T11:32:56"
+      "version": "9.0.5",
+      "released": "2026-11-18T17:34:43"
     }
   }
 }
