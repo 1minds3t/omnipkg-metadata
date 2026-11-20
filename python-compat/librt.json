@@ -1,6 +1,6 @@
 {
   "package": "librt",
-  "last_updated": "0.16.0",
+  "last_updated": "0.17.0",
   "python_compatibility": {
     "3.7": null,
     "3.8": null,
@@ -9,24 +9,24 @@
       "released": "2026-09-29T00:44:20"
     },
     "3.10": {
-      "version": "0.16.0",
-      "released": "2026-09-29T00:44:20"
+      "version": "0.17.0",
+      "released": "2026-11-19T14:08:08"
     },
     "3.11": {
-      "version": "0.16.0",
-      "released": "2026-09-29T00:44:20"
+      "version": "0.17.0",
+      "released": "2026-11-19T14:08:08"
     },
     "3.12": {
-      "version": "0.16.0",
-      "released": "2026-09-29T00:44:20"
+      "version": "0.17.0",
+      "released": "2026-11-19T14:08:08"
     },
     "3.13": {
-      "version": "0.16.0",
-      "released": "2026-09-29T00:44:20"
+      "version": "0.17.0",
+      "released": "2026-11-19T14:08:08"
     },
     "3.14": {
-      "version": "0.16.0",
-      "released": "2026-09-29T00:44:20"
+      "version": "0.17.0",
+      "released": "2026-11-19T14:08:08"
     }
   }
 }
