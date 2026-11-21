@@ -1,38 +1,38 @@
 {
   "package": "decorator",
-  "last_updated": "5.3.1",
+  "last_updated": "5.3.2",
   "python_compatibility": {
     "3.7": {
       "version": "5.1.1",
       "released": "2022-01-07T08:20:03"
     },
     "3.8": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.9": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.10": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.11": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.12": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.13": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     },
     "3.14": {
-      "version": "5.3.1",
-      "released": "2026-05-18T06:03:26"
+      "version": "5.3.2",
+      "released": "2026-11-21T05:12:50"
     }
   }
 }

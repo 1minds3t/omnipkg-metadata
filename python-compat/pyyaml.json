@@ -1,6 +1,6 @@
 {
   "package": "pyyaml",
-  "last_updated": "6.0.3",
+  "last_updated": "6.0.4",
   "python_compatibility": {
     "3.7": {
       "version": "6.0.1",
@@ -15,24 +15,24 @@
       "released": "2025-09-25T21:31:46"
     },
     "3.10": {
-      "version": "6.0.3",
-      "released": "2025-09-25T21:31:46"
+      "version": "6.0.4",
+      "released": "2026-11-20T23:34:39"
     },
     "3.11": {
-      "version": "6.0.3",
-      "released": "2025-09-25T21:31:46"
+      "version": "6.0.4",
+      "released": "2026-11-20T23:34:39"
     },
     "3.12": {
-      "version": "6.0.3",
-      "released": "2025-09-25T21:31:46"
+      "version": "6.0.4",
+      "released": "2026-11-20T23:34:39"
     },
     "3.13": {
-      "version": "6.0.3",
-      "released": "2025-09-25T21:31:46"
+      "version": "6.0.4",
+      "released": "2026-11-20T23:34:39"
     },
     "3.14": {
-      "version": "6.0.3",
-      "released": "2025-09-25T21:31:46"
+      "version": "6.0.4",
+      "released": "2026-11-20T23:34:39"
     }
   }
 }
