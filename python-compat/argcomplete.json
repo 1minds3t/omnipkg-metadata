@@ -1,6 +1,6 @@
 {
   "package": "argcomplete",
-  "last_updated": "3.7.2",
+  "last_updated": "3.8.0",
   "python_compatibility": {
     "3.7": {
       "version": "3.1.2",
@@ -15,24 +15,24 @@
       "released": "2026-08-04T15:03:58"
     },
     "3.10": {
-      "version": "3.7.2",
-      "released": "2026-08-06T04:53:20"
+      "version": "3.8.0",
+      "released": "2026-11-22T04:11:02"
     },
     "3.11": {
-      "version": "3.7.2",
-      "released": "2026-08-06T04:53:20"
+      "version": "3.8.0",
+      "released": "2026-11-22T04:11:02"
     },
     "3.12": {
-      "version": "3.7.2",
-      "released": "2026-08-06T04:53:20"
+      "version": "3.8.0",
+      "released": "2026-11-22T04:11:02"
     },
     "3.13": {
-      "version": "3.7.2",
-      "released": "2026-08-06T04:53:20"
+      "version": "3.8.0",
+      "released": "2026-11-22T04:11:02"
     },
     "3.14": {
-      "version": "3.7.2",
-      "released": "2026-08-06T04:53:20"
+      "version": "3.8.0",
+      "released": "2026-11-22T04:11:02"
     }
   }
 }
