@@ -1,6 +1,6 @@
 {
   "package": "tree-sitter",
-  "last_updated": "0.26.1",
+  "last_updated": "0.27.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.20.4",
@@ -19,20 +19,20 @@
       "released": "2026-11-09T15:17:17"
     },
     "3.11": {
-      "version": "0.26.1",
-      "released": "2026-11-09T15:17:17"
+      "version": "0.27.0",
+      "released": "2026-11-23T09:41:13"
     },
     "3.12": {
-      "version": "0.26.1",
-      "released": "2026-11-09T15:17:17"
+      "version": "0.27.0",
+      "released": "2026-11-23T09:41:13"
     },
     "3.13": {
-      "version": "0.26.1",
-      "released": "2026-11-09T15:17:17"
+      "version": "0.27.0",
+      "released": "2026-11-23T09:41:13"
     },
     "3.14": {
-      "version": "0.26.1",
-      "released": "2026-11-09T15:17:17"
+      "version": "0.27.0",
+      "released": "2026-11-23T09:41:13"
     }
   }
 }

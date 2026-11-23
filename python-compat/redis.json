@@ -1,6 +1,6 @@
 {
   "package": "redis",
-  "last_updated": "8.1.0",
+  "last_updated": "8.2.0",
   "python_compatibility": {
     "3.7": {
       "version": "5.0.8",
@@ -19,20 +19,20 @@
       "released": "2026-07-30T08:50:58"
     },
     "3.11": {
-      "version": "8.1.0",
-      "released": "2026-07-30T08:50:58"
+      "version": "8.2.0",
+      "released": "2026-11-23T08:31:55"
     },
     "3.12": {
-      "version": "8.1.0",
-      "released": "2026-07-30T08:50:58"
+      "version": "8.2.0",
+      "released": "2026-11-23T08:31:55"
     },
     "3.13": {
-      "version": "8.1.0",
-      "released": "2026-07-30T08:50:58"
+      "version": "8.2.0",
+      "released": "2026-11-23T08:31:55"
     },
     "3.14": {
-      "version": "8.1.0",
-      "released": "2026-07-30T08:50:58"
+      "version": "8.2.0",
+      "released": "2026-11-23T08:31:55"
     }
   }
 }
