@@ -1,6 +1,6 @@
 {
   "package": "httpx",
-  "last_updated": "0.28.1",
+  "last_updated": "0.29.0",
   "python_compatibility": {
     "3.7": {
       "version": "0.24.1",
@@ -15,24 +15,24 @@
       "released": "2024-12-06T15:37:21"
     },
     "3.10": {
-      "version": "0.28.1",
-      "released": "2024-12-06T15:37:21"
+      "version": "0.29.0",
+      "released": "2026-11-26T15:58:35"
     },
     "3.11": {
-      "version": "0.28.1",
-      "released": "2024-12-06T15:37:21"
+      "version": "0.29.0",
+      "released": "2026-11-26T15:58:35"
     },
     "3.12": {
-      "version": "0.28.1",
-      "released": "2024-12-06T15:37:21"
+      "version": "0.29.0",
+      "released": "2026-11-26T15:58:35"
     },
     "3.13": {
-      "version": "0.28.1",
-      "released": "2024-12-06T15:37:21"
+      "version": "0.29.0",
+      "released": "2026-11-26T15:58:35"
     },
     "3.14": {
-      "version": "0.28.1",
-      "released": "2024-12-06T15:37:21"
+      "version": "0.29.0",
+      "released": "2026-11-26T15:58:35"
     }
   }
 }
